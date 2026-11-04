@@ -87,13 +87,23 @@ Erster Lauf am 04.11.2026, alle erfassten Ligen, 1.494 Spiele:
 
 | Modell | Accuracy | 95 %-KI | Brier ↓ | Log Loss ↓ | MAE Differenz |
 |---|---|---|---|---|---|
-| Statistisches Ratingmodell | 67,6 % | 65,2–69,9 % | 0,207 | 0,600 | 23,8 |
-| Elo | 62,4 % | 59,9–64,8 % | 0,223 | 0,635 | 24,8 |
+| Statistisches Ratingmodell | 66,9 % | 64,5–69,3 % | 0,209 | 0,604 | 24,1 |
+| Elo | 62,4 % | 59,9–64,8 % | 0,224 | 0,637 | 24,6 |
 | Baseline | 62,6 % | 60,1–65,0 % | 0,223 | 0,636 | 25,3 |
 
-Das Ratingmodell ist signifikant besser als die Baseline (Brier-Differenz −0,016, Bootstrap-95 %-KI −0,022 bis −0,010). Elo ist bisher nicht besser als die Baseline. Bei 4–8 Saisonspielen pro Team lernt ein inkrementelles Rating zu langsam, die gemeinsame Regression über alle Spiele nutzt die wenigen Daten besser. Für die Post-SV-Spiele allein (n=69) sind die Unterschiede noch nicht belastbar.
+Das Ratingmodell ist signifikant besser als die Baseline (Brier-Differenz −0,014, Bootstrap-95 %-KI −0,019 bis −0,009). Elo ist bisher nicht besser als die Baseline. Bei 4–8 Saisonspielen pro Team lernt ein inkrementelles Rating zu langsam, die gemeinsame Regression über alle Spiele nutzt die wenigen Daten besser. Für die Post-SV-Spiele allein (n=69) sind die Unterschiede noch nicht belastbar.
 
-**Ehrlicher Hinweis:** Die Elo-Startwerte (K=64, Heimvorteil 30) habe ich nach einem Blick auf die ganze Saison gewählt. Echt außerhalb der Stichprobe sind nur die Tuning-Ergebnisse (`npm run tune`): Optimierung auf der ersten Saisonhälfte, Übernahme nur, wenn die zweite Hälfte nicht schlechter wird. Belastbar wird der Vergleich durch die Live-Prognosen ab jetzt.
+**Ehrlicher Hinweis:** Die Elo-Startwerte (K=64, Heimvorteil 30) habe ich nach einem Blick auf die ganze Saison gewählt. Belastbar wird der Vergleich erst durch die Live-Prognosen ab jetzt.
+
+### Parameter-Tuning (`npm run tune`)
+
+Grid-Search je Altersklasse auf der ersten zeitlichen Saisonhälfte, Prüfung auf der zweiten. Gegen Zufallstreffer in kleinen Stichproben greifen drei Sicherungen (`adoptDecision` in `src/engine/backtest.js`). Ein getunter Satz wird nur übernommen, wenn
+
+1. er auf der Testhälfte den Brier Score um **mindestens 0,002** senkt,
+2. **kein Parameter am Rand des Suchbereichs** liegt (sonst ist das Optimum nicht eingegrenzt) und
+3. alle Werte in **plausiblen Grenzen** bleiben (z. B. Elo-K-Faktor 16–100).
+
+Stand 04.11.2026: Kein Satz erfüllt alle drei Bedingungen, es gelten überall die Startwerte. Elo wählt auf der ersten Saisonhälfte in jeder Altersklasse das Maximum K=100. Auf der zweiten Hälfte bringt das aber nichts. Ein früherer Lauf ohne diese Sicherungen hatte für die U16 K=160 übernommen.
 
 ## GitHub einrichten
 

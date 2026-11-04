@@ -13,8 +13,9 @@ const log = logger('cli');
 const store = createStore();
 
 const TUNING_GRIDS = {
-  elo: { k: [48, 72, 96, 128, 160], hfa: [0, 30, 60], eloPerPoint: [6, 9, 12, 16, 20], shrinkN0: [0.5, 2] },
-  rating: { lambda: [1, 2, 4, 8], hfa0: [0, 3, 6], sigma0: [12, 16, 20] },
+  // Suchbereiche bewusst innerhalb plausibler Grenzen; Randwerte werden nicht übernommen (siehe adoptDecision)
+  elo: { k: [24, 32, 48, 64, 80, 100], hfa: [0, 15, 30, 45, 60, 80], eloPerPoint: [6, 9, 12, 16, 20, 25], shrinkN0: [0, 0.5, 1, 2, 4] },
+  rating: { lambda: [0.5, 1, 2, 4, 8, 16], hfa0: [0, 1.5, 3, 4.5, 6, 8], sigma0: [10, 12, 15, 18, 21, 25] },
 };
 
 const commands = {
@@ -27,6 +28,9 @@ const commands = {
   tune: () => {
     const r = tune(store, TUNING_GRIDS);
     console.table(Object.fromEntries(Object.entries(r).map(([k, v]) => [k, v.skipped ? { skipped: v.skipped } : { testN: v.testN, default: v.testBrierDefault, tuned: v.testBrierTuned, adopted: v.adopted }])));
+    for (const [k, v] of Object.entries(r)) {
+      if (v.best) console.log(`${k}: ${JSON.stringify(v.best)}${v.reasons?.length ? ` → verworfen: ${v.reasons.join('; ')}` : ' → übernommen'}`);
+    }
   },
   build: () => buildSite(store),
   verify: () => {

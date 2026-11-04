@@ -142,19 +142,53 @@ export function tune(store, grids) {
       }
       const testDefault = metrics(walkForward(ld, model, {}, { filter: test }));
       const testTuned = metrics(walkForward(ld, model, { [model.id]: { [ag]: best.combo } }, { filter: test }));
+      const decision = adoptDecision({
+        combo: best.combo, grid, defaults: model.defaults, bounds: TUNING_RULES.bounds[model.id] || {},
+        testBrierDefault: testDefault.brier, testBrierTuned: testTuned.brier, minImprovement: TUNING_RULES.minImprovement,
+      });
       result[`${model.id}/${ag}`] = {
         split, best: best.combo, trainBrier: best.brier,
         testBrierDefault: testDefault.brier, testBrierTuned: testTuned.brier, testN: testTuned.n,
-        adopted: testTuned.brier <= testDefault.brier,
+        adopted: decision.adopt, reasons: decision.reasons,
       };
-      // Nur übernehmen, wenn es auch außerhalb der Trainingsdaten nicht schlechter ist
-      if (testTuned.brier <= testDefault.brier) next[model.id][ag] = best.combo;
+      if (decision.adopt) next[model.id][ag] = best.combo;
       else delete next[model.id][ag];
     }
   }
   store.writeJson('model-params.json', next);
   store.writeJson('backtest/tuning.json', { createdAt: nowIso(), result });
   return result;
+}
+
+/**
+ * Sicherungen gegen Zufallstreffer beim Tuning (kleine Stichproben):
+ * - Mindestverbesserung: Der getunte Satz muss auf der Testhälfte den Brier Score
+ *   um mindestens `minImprovement` senken, sonst bleiben die Startwerte.
+ * - Randwerte: Liegt ein Parameter am Rand des Suchbereichs (und weicht vom
+ *   Startwert ab), ist das Optimum nicht eingegrenzt, das spricht für Rauschen.
+ * - Plausibilitätsgrenzen je Parameter (z. B. K-Faktor).
+ */
+export const TUNING_RULES = {
+  minImprovement: 0.002,
+  bounds: {
+    elo: { k: [16, 100], hfa: [0, 100], eloPerPoint: [4, 30], shrinkN0: [0, 5] },
+    rating: { lambda: [0.5, 16], hfa0: [0, 8], sigma0: [8, 25] },
+  },
+};
+
+export function adoptDecision({ combo, grid, defaults = {}, bounds = {}, testBrierDefault, testBrierTuned, minImprovement = TUNING_RULES.minImprovement }) {
+  const reasons = [];
+  for (const [k, v] of Object.entries(combo)) {
+    const vals = (grid[k] || []).filter((x) => typeof x === 'number');
+    if (vals.length >= 3 && v !== defaults[k] && (v === Math.min(...vals) || v === Math.max(...vals))) {
+      reasons.push(`${k}=${v} liegt am Rand des Suchbereichs`);
+    }
+    const b = bounds[k];
+    if (b && (v < b[0] || v > b[1])) reasons.push(`${k}=${v} außerhalb plausibler Grenzen [${b[0]}, ${b[1]}]`);
+  }
+  const gain = testBrierDefault - testBrierTuned;
+  if (!(gain >= minImprovement)) reasons.push(`Verbesserung auf Testhälfte ${gain.toFixed(4)} < ${minImprovement}`);
+  return { adopt: reasons.length === 0, reasons };
 }
 
 function cartesian(grid) {
