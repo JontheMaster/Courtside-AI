@@ -1,0 +1,3714 @@
+{
+ "league": {
+  "ligaId": 52532,
+  "name": "Bayernliga Herren Süd (ByLHS)",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Bayernliga",
+  "levelScope": "Verband",
+  "verbandId": 2,
+  "bezirk": null,
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2840866,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T16:00:00.000Z",
+   "home": {
+    "id": 165634,
+    "name": "Uniqform Baskets Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154136,
+    "name": "DJK Traunstein",
+    "clubId": 1301,
+    "forfeit": false
+   },
+   "homeScore": 87,
+   "guestScore": 72,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840867,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T17:30:00.000Z",
+   "home": {
+    "id": 156998,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152032,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": 89,
+   "guestScore": 72,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840868,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T15:00:00.000Z",
+   "home": {
+    "id": 156988,
+    "name": "TSV OH Deisenhofen 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151023,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": 70,
+   "guestScore": 97,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840869,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T17:00:00.000Z",
+   "home": {
+    "id": 154175,
+    "name": "SV Wacker Burghausen",
+    "clubId": 345,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154153,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": 84,
+   "guestScore": 95,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840870,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T18:00:00.000Z",
+   "home": {
+    "id": 151025,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163553,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": 78,
+   "guestScore": 60,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840871,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "19:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T18:15:00.000Z",
+   "home": {
+    "id": 154131,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154134,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": 47,
+   "guestScore": 93,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840872,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T17:00:00.000Z",
+   "home": {
+    "id": 163553,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154175,
+    "name": "SV Wacker Burghausen",
+    "clubId": 345,
+    "forfeit": false
+   },
+   "homeScore": 94,
+   "guestScore": 91,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840873,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T15:00:00.000Z",
+   "home": {
+    "id": 154153,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156988,
+    "name": "TSV OH Deisenhofen 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": 86,
+   "guestScore": 67,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840874,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T14:30:00.000Z",
+   "home": {
+    "id": 151023,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156998,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 69,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840875,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T17:30:00.000Z",
+   "home": {
+    "id": 152032,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154134,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": 71,
+   "guestScore": 77,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840876,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "19:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T17:15:00.000Z",
+   "home": {
+    "id": 154131,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165634,
+    "name": "Uniqform Baskets Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "homeScore": 66,
+   "guestScore": 72,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840877,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T14:00:00.000Z",
+   "home": {
+    "id": 154136,
+    "name": "DJK Traunstein",
+    "clubId": 1301,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151025,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 82,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840878,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T16:00:00.000Z",
+   "home": {
+    "id": 165634,
+    "name": "Uniqform Baskets Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151025,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": 66,
+   "guestScore": 62,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840879,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T15:00:00.000Z",
+   "home": {
+    "id": 156998,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154153,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": 86,
+   "guestScore": 73,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840880,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-06T14:00:00.000Z",
+   "home": {
+    "id": 156988,
+    "name": "TSV OH Deisenhofen 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163553,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840881,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T17:00:00.000Z",
+   "home": {
+    "id": 154175,
+    "name": "SV Wacker Burghausen",
+    "clubId": 345,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154136,
+    "name": "DJK Traunstein",
+    "clubId": 1301,
+    "forfeit": false
+   },
+   "homeScore": 88,
+   "guestScore": 59,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840882,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "19:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T17:15:00.000Z",
+   "home": {
+    "id": 154131,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152032,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": 73,
+   "guestScore": 64,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840883,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T18:00:00.000Z",
+   "home": {
+    "id": 154134,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151023,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": 60,
+   "guestScore": 85,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840884,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T17:00:00.000Z",
+   "home": {
+    "id": 163553,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156998,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": 79,
+   "guestScore": 87,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840885,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T15:00:00.000Z",
+   "home": {
+    "id": 154153,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154134,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": 51,
+   "guestScore": 60,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840886,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T14:30:00.000Z",
+   "home": {
+    "id": 151023,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154131,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": 107,
+   "guestScore": 51,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840887,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T17:30:00.000Z",
+   "home": {
+    "id": 152032,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165634,
+    "name": "Uniqform Baskets Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "homeScore": 76,
+   "guestScore": 56,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840888,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T18:00:00.000Z",
+   "home": {
+    "id": 151025,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154175,
+    "name": "SV Wacker Burghausen",
+    "clubId": 345,
+    "forfeit": false
+   },
+   "homeScore": 64,
+   "guestScore": 79,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840889,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T15:00:00.000Z",
+   "home": {
+    "id": 154136,
+    "name": "DJK Traunstein",
+    "clubId": 1301,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156988,
+    "name": "TSV OH Deisenhofen 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": 77,
+   "guestScore": 87,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840890,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T16:00:00.000Z",
+   "home": {
+    "id": 165634,
+    "name": "Uniqform Baskets Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154175,
+    "name": "SV Wacker Burghausen",
+    "clubId": 345,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840891,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T18:30:00.000Z",
+   "home": {
+    "id": 156998,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154136,
+    "name": "DJK Traunstein",
+    "clubId": 1301,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840892,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T16:00:00.000Z",
+   "home": {
+    "id": 156988,
+    "name": "TSV OH Deisenhofen 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151025,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840893,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T18:30:00.000Z",
+   "home": {
+    "id": 152032,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151023,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840894,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T16:00:00.000Z",
+   "home": {
+    "id": 154153,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154131,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840895,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-06",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-06T18:30:00.000Z",
+   "home": {
+    "id": 154134,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163553,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840896,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T18:00:00.000Z",
+   "home": {
+    "id": 163553,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154131,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840897,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T16:00:00.000Z",
+   "home": {
+    "id": 154153,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152032,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840898,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T15:30:00.000Z",
+   "home": {
+    "id": 151023,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165634,
+    "name": "Uniqform Baskets Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840899,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T16:00:00.000Z",
+   "home": {
+    "id": 154175,
+    "name": "SV Wacker Burghausen",
+    "clubId": 345,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156988,
+    "name": "TSV OH Deisenhofen 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840900,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T19:00:00.000Z",
+   "home": {
+    "id": 151025,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156998,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840901,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T15:00:00.000Z",
+   "home": {
+    "id": 154136,
+    "name": "DJK Traunstein",
+    "clubId": 1301,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154134,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840902,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T17:00:00.000Z",
+   "home": {
+    "id": 165634,
+    "name": "Uniqform Baskets Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156988,
+    "name": "TSV OH Deisenhofen 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840903,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T16:00:00.000Z",
+   "home": {
+    "id": 156998,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154175,
+    "name": "SV Wacker Burghausen",
+    "clubId": 345,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840904,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T15:30:00.000Z",
+   "home": {
+    "id": 151023,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154153,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840905,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T18:30:00.000Z",
+   "home": {
+    "id": 152032,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163553,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840906,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "19:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T18:15:00.000Z",
+   "home": {
+    "id": 154131,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154136,
+    "name": "DJK Traunstein",
+    "clubId": 1301,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840907,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-20",
+   "kickoffTime": "20:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-20T19:30:00.000Z",
+   "home": {
+    "id": 154134,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151025,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840908,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T18:00:00.000Z",
+   "home": {
+    "id": 163553,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151023,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840909,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T16:00:00.000Z",
+   "home": {
+    "id": 154153,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165634,
+    "name": "Uniqform Baskets Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840910,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T16:00:00.000Z",
+   "home": {
+    "id": 156988,
+    "name": "TSV OH Deisenhofen 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156998,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840911,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-27",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-27T18:30:00.000Z",
+   "home": {
+    "id": 154134,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154175,
+    "name": "SV Wacker Burghausen",
+    "clubId": 345,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840912,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T19:00:00.000Z",
+   "home": {
+    "id": 151025,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154131,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840913,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T15:00:00.000Z",
+   "home": {
+    "id": 154136,
+    "name": "DJK Traunstein",
+    "clubId": 1301,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152032,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840914,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T17:00:00.000Z",
+   "home": {
+    "id": 165634,
+    "name": "Uniqform Baskets Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156998,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840915,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T16:00:00.000Z",
+   "home": {
+    "id": 154153,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163553,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840916,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T15:30:00.000Z",
+   "home": {
+    "id": 151023,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154136,
+    "name": "DJK Traunstein",
+    "clubId": 1301,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840917,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T16:00:00.000Z",
+   "home": {
+    "id": 152032,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151025,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840918,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "19:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T18:15:00.000Z",
+   "home": {
+    "id": 154131,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154175,
+    "name": "SV Wacker Burghausen",
+    "clubId": 345,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840919,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-04",
+   "kickoffTime": "20:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-04T19:30:00.000Z",
+   "home": {
+    "id": 154134,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156988,
+    "name": "TSV OH Deisenhofen 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840920,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T17:00:00.000Z",
+   "home": {
+    "id": 165634,
+    "name": "Uniqform Baskets Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163553,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840921,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T16:00:00.000Z",
+   "home": {
+    "id": 156998,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154134,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840922,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T16:00:00.000Z",
+   "home": {
+    "id": 156988,
+    "name": "TSV OH Deisenhofen 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154131,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840923,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T18:00:00.000Z",
+   "home": {
+    "id": 154175,
+    "name": "SV Wacker Burghausen",
+    "clubId": 345,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152032,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840924,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T19:00:00.000Z",
+   "home": {
+    "id": 151025,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151023,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840925,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T16:00:00.000Z",
+   "home": {
+    "id": 154153,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154136,
+    "name": "DJK Traunstein",
+    "clubId": 1301,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840926,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T18:00:00.000Z",
+   "home": {
+    "id": 163553,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154136,
+    "name": "DJK Traunstein",
+    "clubId": 1301,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840927,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T16:00:00.000Z",
+   "home": {
+    "id": 154153,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151025,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840928,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T15:30:00.000Z",
+   "home": {
+    "id": 151023,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154175,
+    "name": "SV Wacker Burghausen",
+    "clubId": 345,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840929,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T16:00:00.000Z",
+   "home": {
+    "id": 152032,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156988,
+    "name": "TSV OH Deisenhofen 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840930,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "19:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T18:15:00.000Z",
+   "home": {
+    "id": 154131,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156998,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840931,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-08",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-08T18:30:00.000Z",
+   "home": {
+    "id": 154134,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165634,
+    "name": "Uniqform Baskets Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840932,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T15:00:00.000Z",
+   "home": {
+    "id": 154136,
+    "name": "DJK Traunstein",
+    "clubId": 1301,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165634,
+    "name": "Uniqform Baskets Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840933,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T18:30:00.000Z",
+   "home": {
+    "id": 152032,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156998,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840934,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T15:30:00.000Z",
+   "home": {
+    "id": 151023,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156988,
+    "name": "TSV OH Deisenhofen 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840935,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T16:00:00.000Z",
+   "home": {
+    "id": 154153,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154175,
+    "name": "SV Wacker Burghausen",
+    "clubId": 345,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840936,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T18:00:00.000Z",
+   "home": {
+    "id": 163553,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151025,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840937,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T17:30:00.000Z",
+   "home": {
+    "id": 154134,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154131,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": 90,
+   "guestScore": 63,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840938,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T18:00:00.000Z",
+   "home": {
+    "id": 154175,
+    "name": "SV Wacker Burghausen",
+    "clubId": 345,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163553,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840939,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:00:00.000Z",
+   "home": {
+    "id": 156988,
+    "name": "TSV OH Deisenhofen 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154153,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840940,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T18:30:00.000Z",
+   "home": {
+    "id": 156998,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151023,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840941,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-22",
+   "kickoffTime": "20:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-22T19:30:00.000Z",
+   "home": {
+    "id": 154134,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152032,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840942,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T17:00:00.000Z",
+   "home": {
+    "id": 165634,
+    "name": "Uniqform Baskets Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154131,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840943,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T19:00:00.000Z",
+   "home": {
+    "id": 151025,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154136,
+    "name": "DJK Traunstein",
+    "clubId": 1301,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840944,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T19:00:00.000Z",
+   "home": {
+    "id": 151025,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165634,
+    "name": "Uniqform Baskets Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840945,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T16:00:00.000Z",
+   "home": {
+    "id": 154153,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156998,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840946,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T18:00:00.000Z",
+   "home": {
+    "id": 163553,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156988,
+    "name": "TSV OH Deisenhofen 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840947,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T15:00:00.000Z",
+   "home": {
+    "id": 154136,
+    "name": "DJK Traunstein",
+    "clubId": 1301,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154175,
+    "name": "SV Wacker Burghausen",
+    "clubId": 345,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840948,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T18:30:00.000Z",
+   "home": {
+    "id": 152032,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154131,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840949,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T18:00:00.000Z",
+   "home": {
+    "id": 151023,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154134,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840950,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T13:30:00.000Z",
+   "home": {
+    "id": 156998,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163553,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840951,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-12",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-12T18:30:00.000Z",
+   "home": {
+    "id": 154134,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154153,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840952,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "19:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T18:15:00.000Z",
+   "home": {
+    "id": 154131,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151023,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840953,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T17:00:00.000Z",
+   "home": {
+    "id": 165634,
+    "name": "Uniqform Baskets Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152032,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840954,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T18:00:00.000Z",
+   "home": {
+    "id": 154175,
+    "name": "SV Wacker Burghausen",
+    "clubId": 345,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151025,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840955,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T16:00:00.000Z",
+   "home": {
+    "id": 156988,
+    "name": "TSV OH Deisenhofen 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154136,
+    "name": "DJK Traunstein",
+    "clubId": 1301,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840956,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T18:00:00.000Z",
+   "home": {
+    "id": 154175,
+    "name": "SV Wacker Burghausen",
+    "clubId": 345,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165634,
+    "name": "Uniqform Baskets Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840957,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T15:00:00.000Z",
+   "home": {
+    "id": 154136,
+    "name": "DJK Traunstein",
+    "clubId": 1301,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156998,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840958,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T19:00:00.000Z",
+   "home": {
+    "id": 151025,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156988,
+    "name": "TSV OH Deisenhofen 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840959,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T15:30:00.000Z",
+   "home": {
+    "id": 151023,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152032,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840960,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "19:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T18:15:00.000Z",
+   "home": {
+    "id": 154131,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154153,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840961,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T18:00:00.000Z",
+   "home": {
+    "id": 163553,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154134,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840962,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "19:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T18:15:00.000Z",
+   "home": {
+    "id": 154131,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163553,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840963,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T18:30:00.000Z",
+   "home": {
+    "id": 152032,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154153,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840964,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T17:00:00.000Z",
+   "home": {
+    "id": 165634,
+    "name": "Uniqform Baskets Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151023,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840965,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T16:00:00.000Z",
+   "home": {
+    "id": 156988,
+    "name": "TSV OH Deisenhofen 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154175,
+    "name": "SV Wacker Burghausen",
+    "clubId": 345,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840966,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "15:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T14:45:00.000Z",
+   "home": {
+    "id": 156998,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151025,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840967,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T19:00:00.000Z",
+   "home": {
+    "id": 154134,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154136,
+    "name": "DJK Traunstein",
+    "clubId": 1301,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840968,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T16:00:00.000Z",
+   "home": {
+    "id": 156988,
+    "name": "TSV OH Deisenhofen 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165634,
+    "name": "Uniqform Baskets Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840969,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T18:00:00.000Z",
+   "home": {
+    "id": 154175,
+    "name": "SV Wacker Burghausen",
+    "clubId": 345,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156998,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840970,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T16:00:00.000Z",
+   "home": {
+    "id": 154153,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151023,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840971,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T15:00:00.000Z",
+   "home": {
+    "id": 163553,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152032,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840972,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T15:00:00.000Z",
+   "home": {
+    "id": 154136,
+    "name": "DJK Traunstein",
+    "clubId": 1301,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154131,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840973,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T19:00:00.000Z",
+   "home": {
+    "id": 151025,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154134,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840974,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 19,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T15:30:00.000Z",
+   "home": {
+    "id": 151023,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163553,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840975,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 19,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T17:00:00.000Z",
+   "home": {
+    "id": 165634,
+    "name": "Uniqform Baskets Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154153,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840976,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 19,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T16:00:00.000Z",
+   "home": {
+    "id": 156998,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156988,
+    "name": "TSV OH Deisenhofen 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840977,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 19,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T16:00:00.000Z",
+   "home": {
+    "id": 154175,
+    "name": "SV Wacker Burghausen",
+    "clubId": 345,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154134,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840978,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 19,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "19:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T18:15:00.000Z",
+   "home": {
+    "id": 154131,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151025,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840979,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 19,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T16:00:00.000Z",
+   "home": {
+    "id": 152032,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154136,
+    "name": "DJK Traunstein",
+    "clubId": 1301,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840980,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 20,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T18:30:00.000Z",
+   "home": {
+    "id": 156998,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165634,
+    "name": "Uniqform Baskets Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840981,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 20,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T18:00:00.000Z",
+   "home": {
+    "id": 163553,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154153,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840982,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 20,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T15:00:00.000Z",
+   "home": {
+    "id": 154136,
+    "name": "DJK Traunstein",
+    "clubId": 1301,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151023,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840983,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 20,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T19:00:00.000Z",
+   "home": {
+    "id": 151025,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152032,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840984,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 20,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T18:00:00.000Z",
+   "home": {
+    "id": 154175,
+    "name": "SV Wacker Burghausen",
+    "clubId": 345,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154131,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840985,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 20,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T16:00:00.000Z",
+   "home": {
+    "id": 156988,
+    "name": "TSV OH Deisenhofen 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154134,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840986,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 21,
+   "kickoffDate": "2027-04-03",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-03T17:00:00.000Z",
+   "home": {
+    "id": 163553,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165634,
+    "name": "Uniqform Baskets Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840987,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 21,
+   "kickoffDate": "2027-04-02",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-02T17:30:00.000Z",
+   "home": {
+    "id": 154134,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156998,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840988,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 21,
+   "kickoffDate": "2027-04-03",
+   "kickoffTime": "19:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-03T17:15:00.000Z",
+   "home": {
+    "id": 154131,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156988,
+    "name": "TSV OH Deisenhofen 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840989,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 21,
+   "kickoffDate": "2027-04-03",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-03T15:00:00.000Z",
+   "home": {
+    "id": 152032,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154175,
+    "name": "SV Wacker Burghausen",
+    "clubId": 345,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840990,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 21,
+   "kickoffDate": "2027-04-03",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-03T14:30:00.000Z",
+   "home": {
+    "id": 151023,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151025,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840991,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 21,
+   "kickoffDate": "2027-04-04",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-04T14:00:00.000Z",
+   "home": {
+    "id": 154136,
+    "name": "DJK Traunstein",
+    "clubId": 1301,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154153,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840992,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 22,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T14:00:00.000Z",
+   "home": {
+    "id": 154136,
+    "name": "DJK Traunstein",
+    "clubId": 1301,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163553,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840993,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 22,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T18:00:00.000Z",
+   "home": {
+    "id": 151025,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154153,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840994,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 22,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T18:00:00.000Z",
+   "home": {
+    "id": 154175,
+    "name": "SV Wacker Burghausen",
+    "clubId": 345,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151023,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840995,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 22,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T15:00:00.000Z",
+   "home": {
+    "id": 156988,
+    "name": "TSV OH Deisenhofen 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152032,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840996,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 22,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T17:30:00.000Z",
+   "home": {
+    "id": 156998,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154131,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840997,
+   "ligaId": 52532,
+   "seasonId": 2026,
+   "matchDay": 22,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T16:00:00.000Z",
+   "home": {
+    "id": 165634,
+    "name": "Uniqform Baskets Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154134,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

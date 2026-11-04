@@ -1,0 +1,1586 @@
+{
+ "league": {
+  "ligaId": 55570,
+  "name": "UFR Bezirksklasse Herren Ost",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Bezirksklasse",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Unterfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2933576,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T16:00:00.000Z",
+   "home": {
+    "id": 285782,
+    "name": "SB Uffenheim",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157568,
+    "name": "SV Kürnach BasketWalls",
+    "clubId": 1877,
+    "forfeit": false
+   },
+   "homeScore": 57,
+   "guestScore": 49,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933577,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "13:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T11:15:00.000Z",
+   "home": {
+    "id": 276830,
+    "name": "TG Kitzingen",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157554,
+    "name": "TSV Brendlorenzen",
+    "clubId": 1622,
+    "forfeit": false
+   },
+   "homeScore": 42,
+   "guestScore": 51,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933578,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T14:00:00.000Z",
+   "home": {
+    "id": 157552,
+    "name": "TB Arnstein Akademie",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157464,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": 53,
+   "guestScore": 68,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933579,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-09",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-09T17:45:00.000Z",
+   "home": {
+    "id": 157563,
+    "name": "SF Waschküch Würzburg",
+    "clubId": 895,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168399,
+    "name": "SG Oerlenbach/Ebenhausen 2",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "homeScore": 52,
+   "guestScore": 39,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933580,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T15:30:00.000Z",
+   "home": {
+    "id": 157464,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 276830,
+    "name": "TG Kitzingen",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": 66,
+   "guestScore": 57,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933581,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T13:30:00.000Z",
+   "home": {
+    "id": 157554,
+    "name": "TSV Brendlorenzen",
+    "clubId": 1622,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157563,
+    "name": "SF Waschküch Würzburg",
+    "clubId": 895,
+    "forfeit": false
+   },
+   "homeScore": 68,
+   "guestScore": 39,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933582,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T17:00:00.000Z",
+   "home": {
+    "id": 168399,
+    "name": "SG Oerlenbach/Ebenhausen 2",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 285782,
+    "name": "SB Uffenheim",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "homeScore": 49,
+   "guestScore": 55,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933583,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T13:30:00.000Z",
+   "home": {
+    "id": 157568,
+    "name": "SV Kürnach BasketWalls",
+    "clubId": 1877,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157552,
+    "name": "TB Arnstein Akademie",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933584,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T17:00:00.000Z",
+   "home": {
+    "id": 285782,
+    "name": "SB Uffenheim",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157552,
+    "name": "TB Arnstein Akademie",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": 103,
+   "guestScore": 57,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933585,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T18:00:00.000Z",
+   "home": {
+    "id": 276830,
+    "name": "TG Kitzingen",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157568,
+    "name": "SV Kürnach BasketWalls",
+    "clubId": 1877,
+    "forfeit": false
+   },
+   "homeScore": 55,
+   "guestScore": 48,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933586,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:30:00.000Z",
+   "home": {
+    "id": 168399,
+    "name": "SG Oerlenbach/Ebenhausen 2",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157554,
+    "name": "TSV Brendlorenzen",
+    "clubId": 1622,
+    "forfeit": false
+   },
+   "homeScore": 49,
+   "guestScore": 65,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933587,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-23",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-23T17:45:00.000Z",
+   "home": {
+    "id": 157563,
+    "name": "SF Waschküch Würzburg",
+    "clubId": 895,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157464,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": 51,
+   "guestScore": 73,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933588,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T16:30:00.000Z",
+   "home": {
+    "id": 157464,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168399,
+    "name": "SG Oerlenbach/Ebenhausen 2",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933589,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T14:30:00.000Z",
+   "home": {
+    "id": 157554,
+    "name": "TSV Brendlorenzen",
+    "clubId": 1622,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 285782,
+    "name": "SB Uffenheim",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933590,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T15:00:00.000Z",
+   "home": {
+    "id": 157552,
+    "name": "TB Arnstein Akademie",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 276830,
+    "name": "TG Kitzingen",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933591,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T13:30:00.000Z",
+   "home": {
+    "id": 157568,
+    "name": "SV Kürnach BasketWalls",
+    "clubId": 1877,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157563,
+    "name": "SF Waschküch Würzburg",
+    "clubId": 895,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933592,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T17:00:00.000Z",
+   "home": {
+    "id": 285782,
+    "name": "SB Uffenheim",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 276830,
+    "name": "TG Kitzingen",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933593,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T14:30:00.000Z",
+   "home": {
+    "id": 157554,
+    "name": "TSV Brendlorenzen",
+    "clubId": 1622,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157464,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933594,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T16:30:00.000Z",
+   "home": {
+    "id": 168399,
+    "name": "SG Oerlenbach/Ebenhausen 2",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157568,
+    "name": "SV Kürnach BasketWalls",
+    "clubId": 1877,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933595,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-20",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-20T18:45:00.000Z",
+   "home": {
+    "id": 157563,
+    "name": "SF Waschküch Würzburg",
+    "clubId": 895,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157552,
+    "name": "TB Arnstein Akademie",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933596,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T17:00:00.000Z",
+   "home": {
+    "id": 285782,
+    "name": "SB Uffenheim",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157464,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933597,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T19:00:00.000Z",
+   "home": {
+    "id": 276830,
+    "name": "TG Kitzingen",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157563,
+    "name": "SF Waschküch Würzburg",
+    "clubId": 895,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933598,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T15:00:00.000Z",
+   "home": {
+    "id": 157552,
+    "name": "TB Arnstein Akademie",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168399,
+    "name": "SG Oerlenbach/Ebenhausen 2",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933599,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T13:30:00.000Z",
+   "home": {
+    "id": 157568,
+    "name": "SV Kürnach BasketWalls",
+    "clubId": 1877,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157554,
+    "name": "TSV Brendlorenzen",
+    "clubId": 1622,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933600,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T16:30:00.000Z",
+   "home": {
+    "id": 157464,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157568,
+    "name": "SV Kürnach BasketWalls",
+    "clubId": 1877,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933601,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T14:30:00.000Z",
+   "home": {
+    "id": 157554,
+    "name": "TSV Brendlorenzen",
+    "clubId": 1622,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157552,
+    "name": "TB Arnstein Akademie",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933602,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T16:30:00.000Z",
+   "home": {
+    "id": 168399,
+    "name": "SG Oerlenbach/Ebenhausen 2",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 276830,
+    "name": "TG Kitzingen",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933603,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-11",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-11T18:45:00.000Z",
+   "home": {
+    "id": 157563,
+    "name": "SF Waschküch Würzburg",
+    "clubId": 895,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 285782,
+    "name": "SB Uffenheim",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933604,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T13:30:00.000Z",
+   "home": {
+    "id": 157568,
+    "name": "SV Kürnach BasketWalls",
+    "clubId": 1877,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 285782,
+    "name": "SB Uffenheim",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933605,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T14:30:00.000Z",
+   "home": {
+    "id": 157554,
+    "name": "TSV Brendlorenzen",
+    "clubId": 1622,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 276830,
+    "name": "TG Kitzingen",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933606,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T16:30:00.000Z",
+   "home": {
+    "id": 157464,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157552,
+    "name": "TB Arnstein Akademie",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933607,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T16:30:00.000Z",
+   "home": {
+    "id": 168399,
+    "name": "SG Oerlenbach/Ebenhausen 2",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157563,
+    "name": "SF Waschküch Würzburg",
+    "clubId": 895,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933608,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T17:00:00.000Z",
+   "home": {
+    "id": 276830,
+    "name": "TG Kitzingen",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157464,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933609,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-15",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-15T18:45:00.000Z",
+   "home": {
+    "id": 157563,
+    "name": "SF Waschküch Würzburg",
+    "clubId": 895,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157554,
+    "name": "TSV Brendlorenzen",
+    "clubId": 1622,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933610,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T17:00:00.000Z",
+   "home": {
+    "id": 285782,
+    "name": "SB Uffenheim",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168399,
+    "name": "SG Oerlenbach/Ebenhausen 2",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933611,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T15:00:00.000Z",
+   "home": {
+    "id": 157552,
+    "name": "TB Arnstein Akademie",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157568,
+    "name": "SV Kürnach BasketWalls",
+    "clubId": 1877,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933612,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T15:00:00.000Z",
+   "home": {
+    "id": 157552,
+    "name": "TB Arnstein Akademie",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 285782,
+    "name": "SB Uffenheim",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933613,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T13:30:00.000Z",
+   "home": {
+    "id": 157568,
+    "name": "SV Kürnach BasketWalls",
+    "clubId": 1877,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 276830,
+    "name": "TG Kitzingen",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933614,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T14:30:00.000Z",
+   "home": {
+    "id": 157554,
+    "name": "TSV Brendlorenzen",
+    "clubId": 1622,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168399,
+    "name": "SG Oerlenbach/Ebenhausen 2",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933615,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T16:30:00.000Z",
+   "home": {
+    "id": 157464,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157563,
+    "name": "SF Waschküch Würzburg",
+    "clubId": 895,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933616,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:30:00.000Z",
+   "home": {
+    "id": 168399,
+    "name": "SG Oerlenbach/Ebenhausen 2",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157464,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933617,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T17:00:00.000Z",
+   "home": {
+    "id": 285782,
+    "name": "SB Uffenheim",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157554,
+    "name": "TSV Brendlorenzen",
+    "clubId": 1622,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933618,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T19:00:00.000Z",
+   "home": {
+    "id": 276830,
+    "name": "TG Kitzingen",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157552,
+    "name": "TB Arnstein Akademie",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933619,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-12",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-12T18:45:00.000Z",
+   "home": {
+    "id": 157563,
+    "name": "SF Waschküch Würzburg",
+    "clubId": 895,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157568,
+    "name": "SV Kürnach BasketWalls",
+    "clubId": 1877,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933620,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T19:00:00.000Z",
+   "home": {
+    "id": 276830,
+    "name": "TG Kitzingen",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 285782,
+    "name": "SB Uffenheim",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933621,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T16:30:00.000Z",
+   "home": {
+    "id": 157464,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157554,
+    "name": "TSV Brendlorenzen",
+    "clubId": 1622,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933622,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T13:30:00.000Z",
+   "home": {
+    "id": 157568,
+    "name": "SV Kürnach BasketWalls",
+    "clubId": 1877,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168399,
+    "name": "SG Oerlenbach/Ebenhausen 2",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933623,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T15:00:00.000Z",
+   "home": {
+    "id": 157552,
+    "name": "TB Arnstein Akademie",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157563,
+    "name": "SF Waschküch Würzburg",
+    "clubId": 895,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933624,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T16:30:00.000Z",
+   "home": {
+    "id": 157464,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 285782,
+    "name": "SB Uffenheim",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933625,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-03-05",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-05T18:45:00.000Z",
+   "home": {
+    "id": 157563,
+    "name": "SF Waschküch Würzburg",
+    "clubId": 895,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 276830,
+    "name": "TG Kitzingen",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933626,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T16:30:00.000Z",
+   "home": {
+    "id": 168399,
+    "name": "SG Oerlenbach/Ebenhausen 2",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157552,
+    "name": "TB Arnstein Akademie",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933627,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T14:30:00.000Z",
+   "home": {
+    "id": 157554,
+    "name": "TSV Brendlorenzen",
+    "clubId": 1622,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157568,
+    "name": "SV Kürnach BasketWalls",
+    "clubId": 1877,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933628,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T13:30:00.000Z",
+   "home": {
+    "id": 157568,
+    "name": "SV Kürnach BasketWalls",
+    "clubId": 1877,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157464,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933629,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T15:00:00.000Z",
+   "home": {
+    "id": 157552,
+    "name": "TB Arnstein Akademie",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157554,
+    "name": "TSV Brendlorenzen",
+    "clubId": 1622,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933630,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "17:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T16:45:00.000Z",
+   "home": {
+    "id": 276830,
+    "name": "TG Kitzingen",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168399,
+    "name": "SG Oerlenbach/Ebenhausen 2",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933631,
+   "ligaId": 55570,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T17:00:00.000Z",
+   "home": {
+    "id": 285782,
+    "name": "SB Uffenheim",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157563,
+    "name": "SF Waschküch Würzburg",
+    "clubId": 895,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

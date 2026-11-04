@@ -1,0 +1,2538 @@
+{
+ "league": {
+  "ligaId": 53751,
+  "name": "West - Bezirksklasse U18m-A (WE-BK18M-A) 2026/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U18",
+  "gender": "männlich",
+  "level": "Bezirksklasse",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2908669,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T11:30:00.000Z",
+   "home": {
+    "id": 287765,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": 65,
+   "guestScore": 58,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908670,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T14:45:00.000Z",
+   "home": {
+    "id": 165529,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 322905,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908671,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T18:00:00.000Z",
+   "home": {
+    "id": 281531,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 162981,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908672,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T14:45:00.000Z",
+   "home": {
+    "id": 162980,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162951,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 44,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908673,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T12:30:00.000Z",
+   "home": {
+    "id": 234240,
+    "name": "Westside Warriors",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165463,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908674,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T11:00:00.000Z",
+   "home": {
+    "id": 162951,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 281531,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908675,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T12:30:00.000Z",
+   "home": {
+    "id": 162981,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165529,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908676,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T13:00:00.000Z",
+   "home": {
+    "id": 322905,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 234240,
+    "name": "Westside Warriors",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": 97,
+   "guestScore": 53,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908677,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-09",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-08T22:00:00.000Z",
+   "home": {
+    "id": 165463,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 287765,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908678,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T12:00:00.000Z",
+   "home": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162980,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": 51,
+   "guestScore": 70,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908679,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T11:30:00.000Z",
+   "home": {
+    "id": 287765,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162980,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": 53,
+   "guestScore": 76,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908680,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T14:45:00.000Z",
+   "home": {
+    "id": 165529,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 162951,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908681,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T15:30:00.000Z",
+   "home": {
+    "id": 281531,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908682,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-16",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-15T22:00:00.000Z",
+   "home": {
+    "id": 165463,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 322905,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908683,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T10:00:00.000Z",
+   "home": {
+    "id": 234240,
+    "name": "Westside Warriors",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162981,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": 52,
+   "guestScore": 109,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908684,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T15:00:00.000Z",
+   "home": {
+    "id": 162951,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 234240,
+    "name": "Westside Warriors",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": 112,
+   "guestScore": 69,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908685,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T12:30:00.000Z",
+   "home": {
+    "id": 162981,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165463,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908686,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T14:00:00.000Z",
+   "home": {
+    "id": 322905,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 287765,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "homeScore": 69,
+   "guestScore": 62,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908687,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T14:45:00.000Z",
+   "home": {
+    "id": 162980,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 281531,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908688,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T12:00:00.000Z",
+   "home": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165529,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908689,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T11:30:00.000Z",
+   "home": {
+    "id": 287765,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 281531,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908690,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T15:45:00.000Z",
+   "home": {
+    "id": 165529,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 162980,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908691,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T14:00:00.000Z",
+   "home": {
+    "id": 322905,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162981,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908692,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-13",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-12T23:00:00.000Z",
+   "home": {
+    "id": 165463,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 162951,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908693,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T16:00:00.000Z",
+   "home": {
+    "id": 234240,
+    "name": "Westside Warriors",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908694,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T17:00:00.000Z",
+   "home": {
+    "id": 162951,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322905,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908695,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T13:30:00.000Z",
+   "home": {
+    "id": 162981,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 287765,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908696,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T14:00:00.000Z",
+   "home": {
+    "id": 281531,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 165529,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908697,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T15:45:00.000Z",
+   "home": {
+    "id": 162980,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 234240,
+    "name": "Westside Warriors",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908698,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T12:00:00.000Z",
+   "home": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165463,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908699,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T12:30:00.000Z",
+   "home": {
+    "id": 287765,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165529,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908700,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T15:45:00.000Z",
+   "home": {
+    "id": 162981,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162951,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908701,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T14:00:00.000Z",
+   "home": {
+    "id": 322905,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908702,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-27",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-26T23:00:00.000Z",
+   "home": {
+    "id": 165463,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 162980,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908703,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T11:00:00.000Z",
+   "home": {
+    "id": 234240,
+    "name": "Westside Warriors",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 281531,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908704,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T12:00:00.000Z",
+   "home": {
+    "id": 287765,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162951,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908705,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T15:45:00.000Z",
+   "home": {
+    "id": 165529,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 234240,
+    "name": "Westside Warriors",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908706,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-04",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-12-03T23:00:00.000Z",
+   "home": {
+    "id": 281531,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 165463,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908707,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T15:45:00.000Z",
+   "home": {
+    "id": 162980,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322905,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908708,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T13:00:00.000Z",
+   "home": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162981,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908709,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "15:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T14:15:00.000Z",
+   "home": {
+    "id": 162951,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908710,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T13:30:00.000Z",
+   "home": {
+    "id": 162981,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162980,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908711,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T14:00:00.000Z",
+   "home": {
+    "id": 322905,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 281531,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908712,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-11",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-12-10T23:00:00.000Z",
+   "home": {
+    "id": 165463,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 165529,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908713,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-10",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-10T17:00:00.000Z",
+   "home": {
+    "id": 234240,
+    "name": "Westside Warriors",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 287765,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908714,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T13:00:00.000Z",
+   "home": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 287765,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908715,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T14:00:00.000Z",
+   "home": {
+    "id": 322905,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165529,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908716,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T13:30:00.000Z",
+   "home": {
+    "id": 162981,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 281531,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908717,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T14:30:00.000Z",
+   "home": {
+    "id": 162951,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162980,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908718,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-15",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-14T23:00:00.000Z",
+   "home": {
+    "id": 165463,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 234240,
+    "name": "Westside Warriors",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908719,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T14:00:00.000Z",
+   "home": {
+    "id": 281531,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 162951,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908720,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T12:30:00.000Z",
+   "home": {
+    "id": 165529,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 162981,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908721,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:00:00.000Z",
+   "home": {
+    "id": 234240,
+    "name": "Westside Warriors",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322905,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908722,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-22",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-21T23:00:00.000Z",
+   "home": {
+    "id": 287765,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165463,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908723,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T15:45:00.000Z",
+   "home": {
+    "id": 162980,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908724,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T15:45:00.000Z",
+   "home": {
+    "id": 162980,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 287765,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908725,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T16:15:00.000Z",
+   "home": {
+    "id": 162951,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165529,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908726,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T13:00:00.000Z",
+   "home": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 281531,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908727,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T14:00:00.000Z",
+   "home": {
+    "id": 322905,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165463,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908728,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T11:15:00.000Z",
+   "home": {
+    "id": 162981,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 234240,
+    "name": "Westside Warriors",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908729,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T13:30:00.000Z",
+   "home": {
+    "id": 234240,
+    "name": "Westside Warriors",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162951,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908730,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-19",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-02-18T23:00:00.000Z",
+   "home": {
+    "id": 165463,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 162981,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908731,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T15:00:00.000Z",
+   "home": {
+    "id": 287765,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322905,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908732,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T14:00:00.000Z",
+   "home": {
+    "id": 281531,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 162980,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908733,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "17:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T16:45:00.000Z",
+   "home": {
+    "id": 165529,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908734,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T16:30:00.000Z",
+   "home": {
+    "id": 281531,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 287765,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908735,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T15:45:00.000Z",
+   "home": {
+    "id": 162980,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165529,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908736,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T13:30:00.000Z",
+   "home": {
+    "id": 162981,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322905,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908737,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T16:15:00.000Z",
+   "home": {
+    "id": 162951,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165463,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908738,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T13:00:00.000Z",
+   "home": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 234240,
+    "name": "Westside Warriors",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908739,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T14:00:00.000Z",
+   "home": {
+    "id": 322905,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162951,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908740,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T12:30:00.000Z",
+   "home": {
+    "id": 287765,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162981,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908741,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-05",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-03-04T23:00:00.000Z",
+   "home": {
+    "id": 165529,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 281531,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908742,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T13:30:00.000Z",
+   "home": {
+    "id": 234240,
+    "name": "Westside Warriors",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162980,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908743,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-05",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-03-04T23:00:00.000Z",
+   "home": {
+    "id": 165463,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908744,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T15:45:00.000Z",
+   "home": {
+    "id": 165529,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 287765,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908745,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T16:15:00.000Z",
+   "home": {
+    "id": 162951,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162981,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908746,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T13:00:00.000Z",
+   "home": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322905,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908747,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T15:45:00.000Z",
+   "home": {
+    "id": 162980,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165463,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908748,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T14:00:00.000Z",
+   "home": {
+    "id": 281531,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 234240,
+    "name": "Westside Warriors",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908749,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T15:15:00.000Z",
+   "home": {
+    "id": 162951,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 287765,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908750,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T12:30:00.000Z",
+   "home": {
+    "id": 234240,
+    "name": "Westside Warriors",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165529,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908751,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-09",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-04-08T22:00:00.000Z",
+   "home": {
+    "id": 165463,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 281531,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908752,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T13:00:00.000Z",
+   "home": {
+    "id": 322905,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162980,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908753,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T12:30:00.000Z",
+   "home": {
+    "id": 162981,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908754,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T15:00:00.000Z",
+   "home": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162951,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908755,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T12:30:00.000Z",
+   "home": {
+    "id": 162980,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162981,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908756,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T13:00:00.000Z",
+   "home": {
+    "id": 281531,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 322905,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908757,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T14:45:00.000Z",
+   "home": {
+    "id": 165529,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 165463,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908758,
+   "ligaId": 53751,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T11:30:00.000Z",
+   "home": {
+    "id": 287765,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 234240,
+    "name": "Westside Warriors",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

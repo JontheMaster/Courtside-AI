@@ -1,0 +1,2538 @@
+{
+ "league": {
+  "ligaId": 53746,
+  "name": "Bezirksliga U18 ml (BZL18M)  2026/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U18",
+  "gender": "männlich",
+  "level": "Bezirksliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2904440,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T15:00:00.000Z",
+   "home": {
+    "id": 168877,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322898,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "homeScore": 79,
+   "guestScore": 103,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904442,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T09:30:00.000Z",
+   "home": {
+    "id": 322899,
+    "name": "Biberkor Basketball & Funsport",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166706,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": 68,
+   "guestScore": 61,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904444,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T12:30:00.000Z",
+   "home": {
+    "id": 165542,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162983,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904446,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T10:30:00.000Z",
+   "home": {
+    "id": 220904,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162954,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904448,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T12:30:00.000Z",
+   "home": {
+    "id": 166688,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 223272,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": 90,
+   "guestScore": 101,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904450,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T12:30:00.000Z",
+   "home": {
+    "id": 162954,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165542,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": 60,
+   "guestScore": 110,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904452,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:00:00.000Z",
+   "home": {
+    "id": 162983,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322899,
+    "name": "Biberkor Basketball & Funsport",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "homeScore": 90,
+   "guestScore": 93,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904454,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T13:00:00.000Z",
+   "home": {
+    "id": 166706,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166688,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904456,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:30:00.000Z",
+   "home": {
+    "id": 223272,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168877,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": 84,
+   "guestScore": 92,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904458,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-09",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-09T17:30:00.000Z",
+   "home": {
+    "id": 322898,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 220904,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": 147,
+   "guestScore": 44,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904460,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T15:00:00.000Z",
+   "home": {
+    "id": 168877,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 220904,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904462,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T16:30:00.000Z",
+   "home": {
+    "id": 322899,
+    "name": "Biberkor Basketball & Funsport",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162954,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": 74,
+   "guestScore": 73,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904464,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T12:30:00.000Z",
+   "home": {
+    "id": 165542,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322898,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "homeScore": 90,
+   "guestScore": 98,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904466,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T15:30:00.000Z",
+   "home": {
+    "id": 223272,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166706,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": 85,
+   "guestScore": 74,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904468,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T10:15:00.000Z",
+   "home": {
+    "id": 166688,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162983,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": 80,
+   "guestScore": 69,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904470,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T12:30:00.000Z",
+   "home": {
+    "id": 162954,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166688,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": 66,
+   "guestScore": 62,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904472,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T13:45:00.000Z",
+   "home": {
+    "id": 162983,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 223272,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": 88,
+   "guestScore": 89,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904474,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T14:00:00.000Z",
+   "home": {
+    "id": 166706,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168877,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904476,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T15:30:00.000Z",
+   "home": {
+    "id": 220904,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165542,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": 67,
+   "guestScore": 101,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904478,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-23",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-23T17:30:00.000Z",
+   "home": {
+    "id": 322898,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322899,
+    "name": "Biberkor Basketball & Funsport",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "homeScore": 143,
+   "guestScore": 76,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904480,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T16:00:00.000Z",
+   "home": {
+    "id": 168877,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165542,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904482,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T17:30:00.000Z",
+   "home": {
+    "id": 322899,
+    "name": "Biberkor Basketball & Funsport",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 220904,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904484,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T12:30:00.000Z",
+   "home": {
+    "id": 166706,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162983,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904486,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T16:30:00.000Z",
+   "home": {
+    "id": 223272,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162954,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904488,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T13:30:00.000Z",
+   "home": {
+    "id": 166688,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322898,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904490,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T15:45:00.000Z",
+   "home": {
+    "id": 162954,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166706,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904492,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T13:45:00.000Z",
+   "home": {
+    "id": 162983,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168877,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904494,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T15:45:00.000Z",
+   "home": {
+    "id": 165542,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322899,
+    "name": "Biberkor Basketball & Funsport",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904496,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T11:30:00.000Z",
+   "home": {
+    "id": 220904,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166688,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904498,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-20",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-20T17:00:00.000Z",
+   "home": {
+    "id": 322898,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 223272,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904500,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T13:30:00.000Z",
+   "home": {
+    "id": 168877,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322899,
+    "name": "Biberkor Basketball & Funsport",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904501,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T17:00:00.000Z",
+   "home": {
+    "id": 162983,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162954,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": 107,
+   "guestScore": 79,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904502,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "13:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T12:15:00.000Z",
+   "home": {
+    "id": 166706,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322898,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904503,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T16:30:00.000Z",
+   "home": {
+    "id": 223272,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 220904,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904504,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T13:30:00.000Z",
+   "home": {
+    "id": 166688,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165542,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904505,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T16:00:00.000Z",
+   "home": {
+    "id": 168877,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162954,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904506,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T17:00:00.000Z",
+   "home": {
+    "id": 322899,
+    "name": "Biberkor Basketball & Funsport",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166688,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904507,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T11:15:00.000Z",
+   "home": {
+    "id": 165542,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 223272,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904508,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T14:00:00.000Z",
+   "home": {
+    "id": 220904,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166706,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904509,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T11:30:00.000Z",
+   "home": {
+    "id": 322898,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162983,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904510,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T13:30:00.000Z",
+   "home": {
+    "id": 162954,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322898,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904511,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T13:45:00.000Z",
+   "home": {
+    "id": 162983,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 220904,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904512,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T11:30:00.000Z",
+   "home": {
+    "id": 166706,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165542,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904513,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T16:00:00.000Z",
+   "home": {
+    "id": 223272,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322899,
+    "name": "Biberkor Basketball & Funsport",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904514,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T13:30:00.000Z",
+   "home": {
+    "id": 166688,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168877,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904515,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-15",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-15T18:30:00.000Z",
+   "home": {
+    "id": 322898,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168877,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904516,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T16:30:00.000Z",
+   "home": {
+    "id": 166706,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322899,
+    "name": "Biberkor Basketball & Funsport",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904517,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T13:45:00.000Z",
+   "home": {
+    "id": 162983,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165542,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904518,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T13:30:00.000Z",
+   "home": {
+    "id": 162954,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 220904,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904519,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:30:00.000Z",
+   "home": {
+    "id": 223272,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166688,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904520,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T13:30:00.000Z",
+   "home": {
+    "id": 165542,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162954,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904521,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T11:00:00.000Z",
+   "home": {
+    "id": 322899,
+    "name": "Biberkor Basketball & Funsport",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162983,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904522,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T13:30:00.000Z",
+   "home": {
+    "id": 166688,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166706,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904523,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T16:00:00.000Z",
+   "home": {
+    "id": 168877,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 223272,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904524,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T16:30:00.000Z",
+   "home": {
+    "id": 220904,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322898,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904525,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T11:30:00.000Z",
+   "home": {
+    "id": 220904,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168877,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904526,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T13:30:00.000Z",
+   "home": {
+    "id": 162954,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322899,
+    "name": "Biberkor Basketball & Funsport",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904527,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-29",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-29T18:30:00.000Z",
+   "home": {
+    "id": 322898,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165542,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904528,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T11:30:00.000Z",
+   "home": {
+    "id": 166706,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 223272,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904529,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T13:45:00.000Z",
+   "home": {
+    "id": 162983,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166688,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904530,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T13:30:00.000Z",
+   "home": {
+    "id": 166688,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162954,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904531,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T16:30:00.000Z",
+   "home": {
+    "id": 223272,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162983,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904532,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T16:00:00.000Z",
+   "home": {
+    "id": 168877,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166706,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904533,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T13:30:00.000Z",
+   "home": {
+    "id": 165542,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 220904,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904534,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T17:30:00.000Z",
+   "home": {
+    "id": 322899,
+    "name": "Biberkor Basketball & Funsport",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322898,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904535,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T11:15:00.000Z",
+   "home": {
+    "id": 165542,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168877,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904536,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T11:30:00.000Z",
+   "home": {
+    "id": 220904,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322899,
+    "name": "Biberkor Basketball & Funsport",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904537,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T16:00:00.000Z",
+   "home": {
+    "id": 162983,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166706,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904538,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T11:15:00.000Z",
+   "home": {
+    "id": 162954,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 223272,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904539,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-26",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-26T17:00:00.000Z",
+   "home": {
+    "id": 322898,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166688,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904540,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T11:00:00.000Z",
+   "home": {
+    "id": 166706,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162954,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904541,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T16:00:00.000Z",
+   "home": {
+    "id": 168877,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162983,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904542,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "13:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T12:15:00.000Z",
+   "home": {
+    "id": 322899,
+    "name": "Biberkor Basketball & Funsport",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165542,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904543,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T09:00:00.000Z",
+   "home": {
+    "id": 166688,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 220904,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904544,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T16:30:00.000Z",
+   "home": {
+    "id": 223272,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322898,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904545,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T12:00:00.000Z",
+   "home": {
+    "id": 322899,
+    "name": "Biberkor Basketball & Funsport",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168877,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904546,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T11:15:00.000Z",
+   "home": {
+    "id": 162954,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162983,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904547,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-12",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-12T17:00:00.000Z",
+   "home": {
+    "id": 322898,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166706,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904548,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T09:00:00.000Z",
+   "home": {
+    "id": 220904,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 223272,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904549,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T13:00:00.000Z",
+   "home": {
+    "id": 165542,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166688,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904550,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T12:30:00.000Z",
+   "home": {
+    "id": 162954,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168877,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904551,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T12:30:00.000Z",
+   "home": {
+    "id": 166688,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322899,
+    "name": "Biberkor Basketball & Funsport",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904552,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T15:30:00.000Z",
+   "home": {
+    "id": 223272,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165542,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904553,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "12:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T10:45:00.000Z",
+   "home": {
+    "id": 166706,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 220904,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904554,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T12:45:00.000Z",
+   "home": {
+    "id": 162983,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322898,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904556,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T10:30:00.000Z",
+   "home": {
+    "id": 322898,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162954,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904558,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T13:00:00.000Z",
+   "home": {
+    "id": 220904,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162983,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904560,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T14:45:00.000Z",
+   "home": {
+    "id": 165542,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166706,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904562,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T11:00:00.000Z",
+   "home": {
+    "id": 322899,
+    "name": "Biberkor Basketball & Funsport",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 223272,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904564,
+   "ligaId": 53746,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T12:30:00.000Z",
+   "home": {
+    "id": 168877,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166688,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

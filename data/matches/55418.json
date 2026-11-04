@@ -1,0 +1,1954 @@
+{
+ "league": {
+  "ligaId": 55418,
+  "name": "West - Bezirksklasse U16w (we-bku16w) 2026/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U16",
+  "gender": "weiblich",
+  "level": "Bezirksklasse",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2909059,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T13:30:00.000Z",
+   "home": {
+    "id": 235405,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313008,
+    "name": "TG Landshut 2",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909060,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T12:45:00.000Z",
+   "home": {
+    "id": 317503,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 196390,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": 69,
+   "guestScore": 34,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909061,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T14:45:00.000Z",
+   "home": {
+    "id": 238631,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 241185,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": 86,
+   "guestScore": 43,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909063,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-02",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-01T22:00:00.000Z",
+   "home": {
+    "id": 310981,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909065,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T08:00:00.000Z",
+   "home": {
+    "id": 241185,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317503,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": 100,
+   "guestScore": 58,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909066,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "09:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T07:30:00.000Z",
+   "home": {
+    "id": 196390,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310981,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": 69,
+   "guestScore": 63,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909067,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-09",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-08T22:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 235405,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909068,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T10:30:00.000Z",
+   "home": {
+    "id": 313008,
+    "name": "TG Landshut 2",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319500,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909069,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T12:30:00.000Z",
+   "home": {
+    "id": 235405,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319500,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": 57,
+   "guestScore": 48,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909071,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T08:00:00.000Z",
+   "home": {
+    "id": 238631,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313008,
+    "name": "TG Landshut 2",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": 0,
+   "guestScore": 20,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909072,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-16",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-15T22:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 196390,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909073,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "09:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T07:45:00.000Z",
+   "home": {
+    "id": 310981,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 241185,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": 41,
+   "guestScore": 55,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909075,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T13:00:00.000Z",
+   "home": {
+    "id": 241185,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909076,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T08:00:00.000Z",
+   "home": {
+    "id": 196390,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235405,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": 69,
+   "guestScore": 42,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909077,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T13:00:00.000Z",
+   "home": {
+    "id": 319500,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238631,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": 26,
+   "guestScore": 76,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909078,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "17:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T16:45:00.000Z",
+   "home": {
+    "id": 313008,
+    "name": "TG Landshut 2",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317503,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909079,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T09:00:00.000Z",
+   "home": {
+    "id": 235405,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238631,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909080,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T13:45:00.000Z",
+   "home": {
+    "id": 317503,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319500,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909081,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "13:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T12:15:00.000Z",
+   "home": {
+    "id": 196390,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 241185,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909083,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T14:00:00.000Z",
+   "home": {
+    "id": 310981,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313008,
+    "name": "TG Landshut 2",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909085,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T11:15:00.000Z",
+   "home": {
+    "id": 241185,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235405,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909086,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T11:15:00.000Z",
+   "home": {
+    "id": 238631,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317503,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909087,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T11:30:00.000Z",
+   "home": {
+    "id": 319500,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310981,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909088,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T16:30:00.000Z",
+   "home": {
+    "id": 313008,
+    "name": "TG Landshut 2",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909089,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T13:30:00.000Z",
+   "home": {
+    "id": 235405,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317503,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909091,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T09:00:00.000Z",
+   "home": {
+    "id": 196390,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313008,
+    "name": "TG Landshut 2",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909092,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-27",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-26T23:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 319500,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909093,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T13:30:00.000Z",
+   "home": {
+    "id": 310981,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238631,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909095,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T13:45:00.000Z",
+   "home": {
+    "id": 317503,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310981,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909096,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-04",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-12-03T23:00:00.000Z",
+   "home": {
+    "id": 238631,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909097,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T11:15:00.000Z",
+   "home": {
+    "id": 319500,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 196390,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909098,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T16:30:00.000Z",
+   "home": {
+    "id": 313008,
+    "name": "TG Landshut 2",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 241185,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909100,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T11:15:00.000Z",
+   "home": {
+    "id": 241185,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319500,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909101,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T09:00:00.000Z",
+   "home": {
+    "id": 196390,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238631,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909102,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-11",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-12-10T23:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 317503,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909103,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T13:30:00.000Z",
+   "home": {
+    "id": 310981,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235405,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909104,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T16:30:00.000Z",
+   "home": {
+    "id": 313008,
+    "name": "TG Landshut 2",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235405,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909105,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T11:30:00.000Z",
+   "home": {
+    "id": 196390,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317503,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909106,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T11:15:00.000Z",
+   "home": {
+    "id": 241185,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238631,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909108,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-15",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-14T23:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 310981,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909110,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T13:45:00.000Z",
+   "home": {
+    "id": 317503,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 241185,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909111,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T13:30:00.000Z",
+   "home": {
+    "id": 310981,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 196390,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909112,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T13:30:00.000Z",
+   "home": {
+    "id": 235405,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909113,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T11:30:00.000Z",
+   "home": {
+    "id": 319500,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313008,
+    "name": "TG Landshut 2",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909114,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T08:00:00.000Z",
+   "home": {
+    "id": 319500,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235405,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": 35,
+   "guestScore": 39,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909116,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T11:15:00.000Z",
+   "home": {
+    "id": 313008,
+    "name": "TG Landshut 2",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238631,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909117,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-29",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-28T23:00:00.000Z",
+   "home": {
+    "id": 196390,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909118,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T11:15:00.000Z",
+   "home": {
+    "id": 241185,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310981,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909120,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-19",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-02-18T23:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 241185,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909121,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T13:30:00.000Z",
+   "home": {
+    "id": 235405,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 196390,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909122,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T11:15:00.000Z",
+   "home": {
+    "id": 238631,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319500,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909123,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T13:45:00.000Z",
+   "home": {
+    "id": 317503,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313008,
+    "name": "TG Landshut 2",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909124,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T13:30:00.000Z",
+   "home": {
+    "id": 238631,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235405,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909125,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T11:30:00.000Z",
+   "home": {
+    "id": 319500,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317503,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909126,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T11:15:00.000Z",
+   "home": {
+    "id": 241185,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 196390,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909128,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T14:00:00.000Z",
+   "home": {
+    "id": 313008,
+    "name": "TG Landshut 2",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310981,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909130,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T13:30:00.000Z",
+   "home": {
+    "id": 235405,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 241185,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909131,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T13:45:00.000Z",
+   "home": {
+    "id": 317503,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238631,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909132,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T14:00:00.000Z",
+   "home": {
+    "id": 310981,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319500,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909133,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-05",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-03-04T23:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 313008,
+    "name": "TG Landshut 2",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909134,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T13:45:00.000Z",
+   "home": {
+    "id": 317503,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235405,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909136,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T11:30:00.000Z",
+   "home": {
+    "id": 313008,
+    "name": "TG Landshut 2",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 196390,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909137,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T11:30:00.000Z",
+   "home": {
+    "id": 319500,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909138,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T09:00:00.000Z",
+   "home": {
+    "id": 238631,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310981,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909140,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T10:15:00.000Z",
+   "home": {
+    "id": 310981,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317503,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909141,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-09",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-04-08T22:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 238631,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909142,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "10:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T08:15:00.000Z",
+   "home": {
+    "id": 196390,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319500,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909143,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T08:00:00.000Z",
+   "home": {
+    "id": 241185,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313008,
+    "name": "TG Landshut 2",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909145,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T10:30:00.000Z",
+   "home": {
+    "id": 319500,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 241185,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909146,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-16",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-04-15T22:00:00.000Z",
+   "home": {
+    "id": 238631,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 196390,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909147,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T12:45:00.000Z",
+   "home": {
+    "id": 317503,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909148,
+   "ligaId": 55418,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T10:15:00.000Z",
+   "home": {
+    "id": 235405,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310981,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

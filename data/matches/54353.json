@@ -1,0 +1,2538 @@
+{
+ "league": {
+  "ligaId": 54353,
+  "name": "Landesliga U14 männlich Süd",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U14",
+  "gender": "männlich",
+  "level": "Landesliga",
+  "levelScope": "Verband",
+  "verbandId": 2,
+  "bezirk": null,
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2911298,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T15:15:00.000Z",
+   "home": {
+    "id": 163007,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 242865,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": 66,
+   "guestScore": 46,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911299,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T12:45:00.000Z",
+   "home": {
+    "id": 310627,
+    "name": "baramundi basketball akademie Augsburg 2",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163010,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": 47,
+   "guestScore": 87,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911300,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T11:30:00.000Z",
+   "home": {
+    "id": 162244,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165836,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911301,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T09:00:00.000Z",
+   "home": {
+    "id": 165709,
+    "name": "FC Bayern Basketball 2",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166708,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911302,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T10:30:00.000Z",
+   "home": {
+    "id": 165710,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165543,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": 65,
+   "guestScore": 109,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911303,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T09:00:00.000Z",
+   "home": {
+    "id": 166708,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162244,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": 62,
+   "guestScore": 70,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911304,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T10:15:00.000Z",
+   "home": {
+    "id": 165836,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310627,
+    "name": "baramundi basketball akademie Augsburg 2",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": 0,
+   "guestScore": 20,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911305,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T12:30:00.000Z",
+   "home": {
+    "id": 163010,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165710,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": 105,
+   "guestScore": 58,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911306,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T08:00:00.000Z",
+   "home": {
+    "id": 165543,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163007,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": 61,
+   "guestScore": 77,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911307,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T10:30:00.000Z",
+   "home": {
+    "id": 242865,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165709,
+    "name": "FC Bayern Basketball 2",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 40,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911308,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T12:30:00.000Z",
+   "home": {
+    "id": 163007,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165709,
+    "name": "FC Bayern Basketball 2",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": 76,
+   "guestScore": 57,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911309,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T10:00:00.000Z",
+   "home": {
+    "id": 310627,
+    "name": "baramundi basketball akademie Augsburg 2",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166708,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": 63,
+   "guestScore": 76,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911310,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "11:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T09:15:00.000Z",
+   "home": {
+    "id": 162244,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 242865,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": 68,
+   "guestScore": 54,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911311,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T09:00:00.000Z",
+   "home": {
+    "id": 165543,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163010,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": 65,
+   "guestScore": 43,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911312,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T09:00:00.000Z",
+   "home": {
+    "id": 165710,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165836,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": 64,
+   "guestScore": 86,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911313,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T09:00:00.000Z",
+   "home": {
+    "id": 166708,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165710,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": 93,
+   "guestScore": 75,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911314,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T10:15:00.000Z",
+   "home": {
+    "id": 165836,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165543,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": 71,
+   "guestScore": 65,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911315,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T10:15:00.000Z",
+   "home": {
+    "id": 163010,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163007,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 123,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911316,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T12:00:00.000Z",
+   "home": {
+    "id": 165709,
+    "name": "FC Bayern Basketball 2",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162244,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": 66,
+   "guestScore": 55,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911317,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T13:00:00.000Z",
+   "home": {
+    "id": 242865,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310627,
+    "name": "baramundi basketball akademie Augsburg 2",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": 78,
+   "guestScore": 32,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911318,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T12:30:00.000Z",
+   "home": {
+    "id": 163007,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162244,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": 81,
+   "guestScore": 75,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911319,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T11:00:00.000Z",
+   "home": {
+    "id": 310627,
+    "name": "baramundi basketball akademie Augsburg 2",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165709,
+    "name": "FC Bayern Basketball 2",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": 29,
+   "guestScore": 79,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911320,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T12:30:00.000Z",
+   "home": {
+    "id": 163010,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165836,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": 71,
+   "guestScore": 73,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911321,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T10:00:00.000Z",
+   "home": {
+    "id": 165543,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166708,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 67,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911322,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T13:00:00.000Z",
+   "home": {
+    "id": 165710,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 242865,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": 39,
+   "guestScore": 107,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911323,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T10:00:00.000Z",
+   "home": {
+    "id": 166708,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163010,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911324,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T13:30:00.000Z",
+   "home": {
+    "id": 165836,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163007,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911325,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T16:00:00.000Z",
+   "home": {
+    "id": 162244,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310627,
+    "name": "baramundi basketball akademie Augsburg 2",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911326,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T13:00:00.000Z",
+   "home": {
+    "id": 165709,
+    "name": "FC Bayern Basketball 2",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165710,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911327,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T09:00:00.000Z",
+   "home": {
+    "id": 242865,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165543,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911328,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T15:45:00.000Z",
+   "home": {
+    "id": 163007,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310627,
+    "name": "baramundi basketball akademie Augsburg 2",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911329,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T13:30:00.000Z",
+   "home": {
+    "id": 165836,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166708,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911330,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T13:30:00.000Z",
+   "home": {
+    "id": 163010,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 242865,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911331,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T11:15:00.000Z",
+   "home": {
+    "id": 165543,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165709,
+    "name": "FC Bayern Basketball 2",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911332,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T11:30:00.000Z",
+   "home": {
+    "id": 165710,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162244,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911333,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T11:15:00.000Z",
+   "home": {
+    "id": 163007,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166708,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911334,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T09:00:00.000Z",
+   "home": {
+    "id": 310627,
+    "name": "baramundi basketball akademie Augsburg 2",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165710,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911335,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T12:30:00.000Z",
+   "home": {
+    "id": 162244,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165543,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911336,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T12:30:00.000Z",
+   "home": {
+    "id": 165709,
+    "name": "FC Bayern Basketball 2",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163010,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911337,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T09:00:00.000Z",
+   "home": {
+    "id": 242865,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165836,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911338,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T10:00:00.000Z",
+   "home": {
+    "id": 166708,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 242865,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911339,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T11:15:00.000Z",
+   "home": {
+    "id": 165836,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165709,
+    "name": "FC Bayern Basketball 2",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911340,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T13:30:00.000Z",
+   "home": {
+    "id": 163010,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162244,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911341,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T11:15:00.000Z",
+   "home": {
+    "id": 165543,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310627,
+    "name": "baramundi basketball akademie Augsburg 2",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911342,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T11:30:00.000Z",
+   "home": {
+    "id": 165710,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163007,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911343,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T09:00:00.000Z",
+   "home": {
+    "id": 242865,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163007,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911344,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T11:15:00.000Z",
+   "home": {
+    "id": 163010,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310627,
+    "name": "baramundi basketball akademie Augsburg 2",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911345,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T11:15:00.000Z",
+   "home": {
+    "id": 165836,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162244,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911346,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T10:00:00.000Z",
+   "home": {
+    "id": 166708,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165709,
+    "name": "FC Bayern Basketball 2",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911347,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T13:30:00.000Z",
+   "home": {
+    "id": 165543,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165710,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911348,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T10:30:00.000Z",
+   "home": {
+    "id": 162244,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166708,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911349,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T09:00:00.000Z",
+   "home": {
+    "id": 310627,
+    "name": "baramundi basketball akademie Augsburg 2",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165836,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911350,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T11:30:00.000Z",
+   "home": {
+    "id": 165710,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163010,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911351,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T13:30:00.000Z",
+   "home": {
+    "id": 163007,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165543,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911352,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T10:00:00.000Z",
+   "home": {
+    "id": 165709,
+    "name": "FC Bayern Basketball 2",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 242865,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911353,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "13:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T12:45:00.000Z",
+   "home": {
+    "id": 165709,
+    "name": "FC Bayern Basketball 2",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163007,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911354,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T10:00:00.000Z",
+   "home": {
+    "id": 166708,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310627,
+    "name": "baramundi basketball akademie Augsburg 2",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911355,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T09:00:00.000Z",
+   "home": {
+    "id": 242865,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162244,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911356,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T11:00:00.000Z",
+   "home": {
+    "id": 163010,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165543,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911357,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-07",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-07T11:15:00.000Z",
+   "home": {
+    "id": 165836,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165710,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911358,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T11:30:00.000Z",
+   "home": {
+    "id": 165710,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166708,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911359,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T13:30:00.000Z",
+   "home": {
+    "id": 165543,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165836,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911360,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T10:30:00.000Z",
+   "home": {
+    "id": 163007,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163010,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911361,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T13:30:00.000Z",
+   "home": {
+    "id": 162244,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165709,
+    "name": "FC Bayern Basketball 2",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911362,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T11:15:00.000Z",
+   "home": {
+    "id": 310627,
+    "name": "baramundi basketball akademie Augsburg 2",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 242865,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911363,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T13:30:00.000Z",
+   "home": {
+    "id": 162244,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163007,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911364,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-02-26T23:00:00.000Z",
+   "home": {
+    "id": 165709,
+    "name": "FC Bayern Basketball 2",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310627,
+    "name": "baramundi basketball akademie Augsburg 2",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911365,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T13:30:00.000Z",
+   "home": {
+    "id": 165836,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163010,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911366,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T10:00:00.000Z",
+   "home": {
+    "id": 166708,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165543,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911367,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T09:00:00.000Z",
+   "home": {
+    "id": 242865,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165710,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911368,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T13:30:00.000Z",
+   "home": {
+    "id": 163010,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166708,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911369,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T11:15:00.000Z",
+   "home": {
+    "id": 163007,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165836,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911370,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T13:30:00.000Z",
+   "home": {
+    "id": 310627,
+    "name": "baramundi basketball akademie Augsburg 2",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162244,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911371,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T14:00:00.000Z",
+   "home": {
+    "id": 165710,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165709,
+    "name": "FC Bayern Basketball 2",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911372,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "10:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T09:45:00.000Z",
+   "home": {
+    "id": 165543,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 242865,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911373,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T08:00:00.000Z",
+   "home": {
+    "id": 310627,
+    "name": "baramundi basketball akademie Augsburg 2",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163007,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911374,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T10:00:00.000Z",
+   "home": {
+    "id": 166708,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165836,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911375,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T09:00:00.000Z",
+   "home": {
+    "id": 242865,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163010,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911376,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-03-12T23:00:00.000Z",
+   "home": {
+    "id": 165709,
+    "name": "FC Bayern Basketball 2",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165543,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911377,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T13:30:00.000Z",
+   "home": {
+    "id": 162244,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165710,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911378,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T10:00:00.000Z",
+   "home": {
+    "id": 166708,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163007,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911379,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T11:30:00.000Z",
+   "home": {
+    "id": 165710,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310627,
+    "name": "baramundi basketball akademie Augsburg 2",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911380,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T12:00:00.000Z",
+   "home": {
+    "id": 165543,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162244,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911381,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T13:30:00.000Z",
+   "home": {
+    "id": 163010,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165709,
+    "name": "FC Bayern Basketball 2",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911382,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T11:15:00.000Z",
+   "home": {
+    "id": 165836,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 242865,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911383,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T13:00:00.000Z",
+   "home": {
+    "id": 242865,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166708,
+    "name": "München Basket",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911384,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-04-09T22:00:00.000Z",
+   "home": {
+    "id": 165709,
+    "name": "FC Bayern Basketball 2",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165836,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911385,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T12:30:00.000Z",
+   "home": {
+    "id": 162244,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163010,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911386,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T12:45:00.000Z",
+   "home": {
+    "id": 310627,
+    "name": "baramundi basketball akademie Augsburg 2",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165543,
+    "name": "Baskets Vilsbiburg",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911387,
+   "ligaId": 54353,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T10:15:00.000Z",
+   "home": {
+    "id": 163007,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165710,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

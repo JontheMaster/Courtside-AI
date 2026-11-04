@@ -1,0 +1,1586 @@
+{
+ "league": {
+  "ligaId": 56180,
+  "name": "MFR U18m Kreisliga Süd",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U18",
+  "gender": "männlich",
+  "level": "Kreisliga",
+  "levelScope": "Kreis",
+  "verbandId": 2,
+  "bezirk": "Mittelfranken",
+  "competitionType": "regular",
+  "role": "core"
+ },
+ "matches": [
+  {
+   "matchId": 2929555,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T16:15:00.000Z",
+   "home": {
+    "id": 316563,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323223,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929556,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T11:00:00.000Z",
+   "home": {
+    "id": 166609,
+    "name": "SpVgg Roth 1",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166578,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "homeScore": 52,
+   "guestScore": 108,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929557,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T16:00:00.000Z",
+   "home": {
+    "id": 312947,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319538,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929558,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T13:00:00.000Z",
+   "home": {
+    "id": 166569,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 176748,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929559,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-05-08",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-05-08T16:00:00.000Z",
+   "home": {
+    "id": 319538,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166609,
+    "name": "SpVgg Roth 1",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929560,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T09:00:00.000Z",
+   "home": {
+    "id": 166578,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166569,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929561,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T12:00:00.000Z",
+   "home": {
+    "id": 176748,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316563,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929562,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T10:00:00.000Z",
+   "home": {
+    "id": 323223,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312947,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929563,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T15:15:00.000Z",
+   "home": {
+    "id": 316563,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312947,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": 73,
+   "guestScore": 53,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929564,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T15:00:00.000Z",
+   "home": {
+    "id": 166609,
+    "name": "SpVgg Roth 1",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323223,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929565,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T08:30:00.000Z",
+   "home": {
+    "id": 176748,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166578,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929566,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T14:00:00.000Z",
+   "home": {
+    "id": 166569,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319538,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929567,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T19:00:00.000Z",
+   "home": {
+    "id": 319538,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 176748,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929568,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T09:30:00.000Z",
+   "home": {
+    "id": 166578,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316563,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929569,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T16:00:00.000Z",
+   "home": {
+    "id": 312947,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166609,
+    "name": "SpVgg Roth 1",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929570,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T16:00:00.000Z",
+   "home": {
+    "id": 323223,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166569,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": 58,
+   "guestScore": 65,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929571,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T14:00:00.000Z",
+   "home": {
+    "id": 316563,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166609,
+    "name": "SpVgg Roth 1",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929573,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T11:30:00.000Z",
+   "home": {
+    "id": 166578,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319538,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929574,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T12:15:00.000Z",
+   "home": {
+    "id": 176748,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323223,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929575,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-06T14:00:00.000Z",
+   "home": {
+    "id": 166569,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312947,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929576,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T14:00:00.000Z",
+   "home": {
+    "id": 316563,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319538,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929577,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T15:00:00.000Z",
+   "home": {
+    "id": 166609,
+    "name": "SpVgg Roth 1",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166569,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929578,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T17:30:00.000Z",
+   "home": {
+    "id": 312947,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 176748,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": 80,
+   "guestScore": 79,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929579,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T10:00:00.000Z",
+   "home": {
+    "id": 323223,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166578,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "homeScore": 80,
+   "guestScore": 87,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929580,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-05-02",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-05-02T14:00:00.000Z",
+   "home": {
+    "id": 319538,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323223,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929581,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T14:00:00.000Z",
+   "home": {
+    "id": 166578,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312947,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929582,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T12:00:00.000Z",
+   "home": {
+    "id": 176748,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166609,
+    "name": "SpVgg Roth 1",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929583,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T14:00:00.000Z",
+   "home": {
+    "id": 166569,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316563,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": 108,
+   "guestScore": 49,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929584,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T17:30:00.000Z",
+   "home": {
+    "id": 323223,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316563,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929585,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-05-02",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-05-02T13:00:00.000Z",
+   "home": {
+    "id": 166578,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166609,
+    "name": "SpVgg Roth 1",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929586,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T16:30:00.000Z",
+   "home": {
+    "id": 319538,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312947,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929587,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "13:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T12:15:00.000Z",
+   "home": {
+    "id": 176748,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166569,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929588,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T14:00:00.000Z",
+   "home": {
+    "id": 166609,
+    "name": "SpVgg Roth 1",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319538,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929589,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T09:00:00.000Z",
+   "home": {
+    "id": 166569,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166578,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929590,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T12:30:00.000Z",
+   "home": {
+    "id": 316563,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 176748,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 69,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929591,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T15:00:00.000Z",
+   "home": {
+    "id": 312947,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323223,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": 66,
+   "guestScore": 80,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929592,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T18:30:00.000Z",
+   "home": {
+    "id": 312947,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316563,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929593,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T12:00:00.000Z",
+   "home": {
+    "id": 323223,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166609,
+    "name": "SpVgg Roth 1",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929594,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T13:00:00.000Z",
+   "home": {
+    "id": 166578,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 176748,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": 86,
+   "guestScore": 73,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929595,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T16:00:00.000Z",
+   "home": {
+    "id": 319538,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166569,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 64,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929596,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T12:00:00.000Z",
+   "home": {
+    "id": 176748,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319538,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929597,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T14:00:00.000Z",
+   "home": {
+    "id": 316563,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166578,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929598,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T14:00:00.000Z",
+   "home": {
+    "id": 166609,
+    "name": "SpVgg Roth 1",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312947,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929599,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T17:00:00.000Z",
+   "home": {
+    "id": 166569,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323223,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929600,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T12:00:00.000Z",
+   "home": {
+    "id": 166609,
+    "name": "SpVgg Roth 1",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316563,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": 60,
+   "guestScore": 70,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929601,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T16:00:00.000Z",
+   "home": {
+    "id": 319538,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166578,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929602,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T15:00:00.000Z",
+   "home": {
+    "id": 323223,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 176748,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929603,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "16:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T15:15:00.000Z",
+   "home": {
+    "id": 312947,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166569,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929604,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T16:00:00.000Z",
+   "home": {
+    "id": 319538,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316563,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929605,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T13:00:00.000Z",
+   "home": {
+    "id": 166569,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166609,
+    "name": "SpVgg Roth 1",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929606,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T12:00:00.000Z",
+   "home": {
+    "id": 176748,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312947,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929607,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T10:00:00.000Z",
+   "home": {
+    "id": 166578,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323223,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929608,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T13:00:00.000Z",
+   "home": {
+    "id": 323223,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319538,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929609,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T10:30:00.000Z",
+   "home": {
+    "id": 312947,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166578,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929610,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T14:00:00.000Z",
+   "home": {
+    "id": 166609,
+    "name": "SpVgg Roth 1",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 176748,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929611,
+   "ligaId": 56180,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T14:00:00.000Z",
+   "home": {
+    "id": 316563,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166569,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

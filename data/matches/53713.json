@@ -1,0 +1,1586 @@
+{
+ "league": {
+  "ligaId": 53713,
+  "name": "MFR Bezirksklasse Damen",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "weiblich",
+  "level": "Bezirksklasse",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Mittelfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2870260,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T12:30:00.000Z",
+   "home": {
+    "id": 312950,
+    "name": "TUSPO Nürnberg 1",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320733,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": 58,
+   "guestScore": 51,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870261,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T11:00:00.000Z",
+   "home": {
+    "id": 199027,
+    "name": "SpVgg Roth 2",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158907,
+    "name": "TV 48 Schwabach 3",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870262,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T13:00:00.000Z",
+   "home": {
+    "id": 319105,
+    "name": "TB 1888 Erlangen e. V. 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316325,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "homeScore": 12,
+   "guestScore": 88,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870263,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:30:00.000Z",
+   "home": {
+    "id": 151036,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319106,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": 36,
+   "guestScore": 39,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870264,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T16:00:00.000Z",
+   "home": {
+    "id": 316325,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 199027,
+    "name": "SpVgg Roth 2",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": 68,
+   "guestScore": 31,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870265,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T12:00:00.000Z",
+   "home": {
+    "id": 158907,
+    "name": "TV 48 Schwabach 3",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151036,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": 22,
+   "guestScore": 73,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870266,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T13:00:00.000Z",
+   "home": {
+    "id": 319106,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312950,
+    "name": "TUSPO Nürnberg 1",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": 39,
+   "guestScore": 48,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870267,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T14:30:00.000Z",
+   "home": {
+    "id": 320733,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319105,
+    "name": "TB 1888 Erlangen e. V. 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": 52,
+   "guestScore": 30,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870268,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T16:00:00.000Z",
+   "home": {
+    "id": 312950,
+    "name": "TUSPO Nürnberg 1",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319105,
+    "name": "TB 1888 Erlangen e. V. 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870269,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T11:00:00.000Z",
+   "home": {
+    "id": 199027,
+    "name": "SpVgg Roth 2",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320733,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870270,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T14:00:00.000Z",
+   "home": {
+    "id": 319106,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158907,
+    "name": "TV 48 Schwabach 3",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870271,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T16:30:00.000Z",
+   "home": {
+    "id": 151036,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316325,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870272,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T17:00:00.000Z",
+   "home": {
+    "id": 316325,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319106,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870273,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T12:00:00.000Z",
+   "home": {
+    "id": 158907,
+    "name": "TV 48 Schwabach 3",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312950,
+    "name": "TUSPO Nürnberg 1",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870274,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T13:00:00.000Z",
+   "home": {
+    "id": 319105,
+    "name": "TB 1888 Erlangen e. V. 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 199027,
+    "name": "SpVgg Roth 2",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870275,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T13:00:00.000Z",
+   "home": {
+    "id": 320733,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151036,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870276,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T10:30:00.000Z",
+   "home": {
+    "id": 312950,
+    "name": "TUSPO Nürnberg 1",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 199027,
+    "name": "SpVgg Roth 2",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870277,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T13:00:00.000Z",
+   "home": {
+    "id": 158907,
+    "name": "TV 48 Schwabach 3",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316325,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870278,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T14:00:00.000Z",
+   "home": {
+    "id": 319106,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320733,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870279,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T16:30:00.000Z",
+   "home": {
+    "id": 151036,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319105,
+    "name": "TB 1888 Erlangen e. V. 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870280,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T18:30:00.000Z",
+   "home": {
+    "id": 312950,
+    "name": "TUSPO Nürnberg 1",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316325,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870281,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T15:00:00.000Z",
+   "home": {
+    "id": 199027,
+    "name": "SpVgg Roth 2",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151036,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870282,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T10:00:00.000Z",
+   "home": {
+    "id": 319105,
+    "name": "TB 1888 Erlangen e. V. 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319106,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870283,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T11:00:00.000Z",
+   "home": {
+    "id": 320733,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158907,
+    "name": "TV 48 Schwabach 3",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870284,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T17:00:00.000Z",
+   "home": {
+    "id": 316325,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320733,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870285,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T17:30:00.000Z",
+   "home": {
+    "id": 158907,
+    "name": "TV 48 Schwabach 3",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319105,
+    "name": "TB 1888 Erlangen e. V. 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870286,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T14:00:00.000Z",
+   "home": {
+    "id": 319106,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 199027,
+    "name": "SpVgg Roth 2",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870287,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:30:00.000Z",
+   "home": {
+    "id": 151036,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312950,
+    "name": "TUSPO Nürnberg 1",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870288,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T13:00:00.000Z",
+   "home": {
+    "id": 320733,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312950,
+    "name": "TUSPO Nürnberg 1",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870289,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T13:00:00.000Z",
+   "home": {
+    "id": 158907,
+    "name": "TV 48 Schwabach 3",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 199027,
+    "name": "SpVgg Roth 2",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870290,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T17:00:00.000Z",
+   "home": {
+    "id": 316325,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319105,
+    "name": "TB 1888 Erlangen e. V. 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870291,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T14:00:00.000Z",
+   "home": {
+    "id": 319106,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151036,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870292,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T14:30:00.000Z",
+   "home": {
+    "id": 199027,
+    "name": "SpVgg Roth 2",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316325,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870293,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-07",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-07T16:30:00.000Z",
+   "home": {
+    "id": 151036,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158907,
+    "name": "TV 48 Schwabach 3",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870294,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T16:00:00.000Z",
+   "home": {
+    "id": 312950,
+    "name": "TUSPO Nürnberg 1",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319106,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870295,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T15:00:00.000Z",
+   "home": {
+    "id": 319105,
+    "name": "TB 1888 Erlangen e. V. 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320733,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870296,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T10:00:00.000Z",
+   "home": {
+    "id": 319105,
+    "name": "TB 1888 Erlangen e. V. 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312950,
+    "name": "TUSPO Nürnberg 1",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870297,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T11:00:00.000Z",
+   "home": {
+    "id": 320733,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 199027,
+    "name": "SpVgg Roth 2",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870298,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T12:00:00.000Z",
+   "home": {
+    "id": 158907,
+    "name": "TV 48 Schwabach 3",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319106,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870299,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T17:00:00.000Z",
+   "home": {
+    "id": 316325,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151036,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870300,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T14:00:00.000Z",
+   "home": {
+    "id": 319106,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316325,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870301,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T16:00:00.000Z",
+   "home": {
+    "id": 312950,
+    "name": "TUSPO Nürnberg 1",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158907,
+    "name": "TV 48 Schwabach 3",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870302,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T14:30:00.000Z",
+   "home": {
+    "id": 199027,
+    "name": "SpVgg Roth 2",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319105,
+    "name": "TB 1888 Erlangen e. V. 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870303,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T16:30:00.000Z",
+   "home": {
+    "id": 151036,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320733,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870304,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T14:30:00.000Z",
+   "home": {
+    "id": 199027,
+    "name": "SpVgg Roth 2",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312950,
+    "name": "TUSPO Nürnberg 1",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870305,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T17:00:00.000Z",
+   "home": {
+    "id": 316325,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158907,
+    "name": "TV 48 Schwabach 3",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870306,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T13:00:00.000Z",
+   "home": {
+    "id": 320733,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319106,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870307,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T10:00:00.000Z",
+   "home": {
+    "id": 319105,
+    "name": "TB 1888 Erlangen e. V. 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151036,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870308,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T16:00:00.000Z",
+   "home": {
+    "id": 316325,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312950,
+    "name": "TUSPO Nürnberg 1",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870309,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T15:30:00.000Z",
+   "home": {
+    "id": 151036,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 199027,
+    "name": "SpVgg Roth 2",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870310,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T13:00:00.000Z",
+   "home": {
+    "id": 319106,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319105,
+    "name": "TB 1888 Erlangen e. V. 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870311,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T11:00:00.000Z",
+   "home": {
+    "id": 158907,
+    "name": "TV 48 Schwabach 3",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320733,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870312,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T14:45:00.000Z",
+   "home": {
+    "id": 320733,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316325,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870313,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T13:00:00.000Z",
+   "home": {
+    "id": 319105,
+    "name": "TB 1888 Erlangen e. V. 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158907,
+    "name": "TV 48 Schwabach 3",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870314,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T14:00:00.000Z",
+   "home": {
+    "id": 199027,
+    "name": "SpVgg Roth 2",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319106,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870315,
+   "ligaId": 53713,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T15:00:00.000Z",
+   "home": {
+    "id": 312950,
+    "name": "TUSPO Nürnberg 1",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151036,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

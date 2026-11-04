@@ -1,0 +1,1614 @@
+{
+ "league": {
+  "ligaId": 54485,
+  "name": "Bezirksliga Herren Nord 26/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Bezirksliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Schwaben",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2924361,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:00:00.000Z",
+   "home": {
+    "id": 163587,
+    "name": "TSV Nördlingen 2",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163583,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": 68,
+   "guestScore": 64,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924363,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T14:00:00.000Z",
+   "home": {
+    "id": 163554,
+    "name": "ESV Ingolstadt-Ringsee",
+    "clubId": 590,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163556,
+    "name": "TSV Diedorf",
+    "clubId": 388,
+    "forfeit": false
+   },
+   "homeScore": 68,
+   "guestScore": 73,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924365,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T15:00:00.000Z",
+   "home": {
+    "id": 163598,
+    "name": "VSC Baskets Donauwörth 2",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163560,
+    "name": "TSV Meitingen",
+    "clubId": 1452,
+    "forfeit": false
+   },
+   "homeScore": 48,
+   "guestScore": 89,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924367,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-12",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-12T18:00:00.000Z",
+   "home": {
+    "id": 163596,
+    "name": "TSV 1862 Neuburg",
+    "clubId": 1188,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 165621,
+    "name": "DJK Augsburg Nord",
+    "clubId": 860,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924369,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T15:00:00.000Z",
+   "home": {
+    "id": 163560,
+    "name": "TSV Meitingen",
+    "clubId": 1452,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163554,
+    "name": "ESV Ingolstadt-Ringsee",
+    "clubId": 590,
+    "forfeit": false
+   },
+   "homeScore": 74,
+   "guestScore": 58,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924371,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T16:00:00.000Z",
+   "home": {
+    "id": 163556,
+    "name": "TSV Diedorf",
+    "clubId": 388,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163596,
+    "name": "TSV 1862 Neuburg",
+    "clubId": 1188,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924373,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T13:30:00.000Z",
+   "home": {
+    "id": 165621,
+    "name": "DJK Augsburg Nord",
+    "clubId": 860,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163587,
+    "name": "TSV Nördlingen 2",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": 54,
+   "guestScore": 71,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924375,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T15:00:00.000Z",
+   "home": {
+    "id": 163583,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163598,
+    "name": "VSC Baskets Donauwörth 2",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "homeScore": 20,
+   "guestScore": 0,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924377,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T17:00:00.000Z",
+   "home": {
+    "id": 163587,
+    "name": "TSV Nördlingen 2",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163598,
+    "name": "VSC Baskets Donauwörth 2",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "homeScore": 121,
+   "guestScore": 44,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924379,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T14:00:00.000Z",
+   "home": {
+    "id": 163554,
+    "name": "ESV Ingolstadt-Ringsee",
+    "clubId": 590,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163583,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": 41,
+   "guestScore": 69,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924381,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T14:30:00.000Z",
+   "home": {
+    "id": 165621,
+    "name": "DJK Augsburg Nord",
+    "clubId": 860,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163556,
+    "name": "TSV Diedorf",
+    "clubId": 388,
+    "forfeit": false
+   },
+   "homeScore": 9,
+   "guestScore": 21,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924383,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T19:00:00.000Z",
+   "home": {
+    "id": 163596,
+    "name": "TSV 1862 Neuburg",
+    "clubId": 1188,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 163560,
+    "name": "TSV Meitingen",
+    "clubId": 1452,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924385,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T18:00:00.000Z",
+   "home": {
+    "id": 163560,
+    "name": "TSV Meitingen",
+    "clubId": 1452,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165621,
+    "name": "DJK Augsburg Nord",
+    "clubId": 860,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924387,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T17:00:00.000Z",
+   "home": {
+    "id": 163556,
+    "name": "TSV Diedorf",
+    "clubId": 388,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163587,
+    "name": "TSV Nördlingen 2",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924389,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T14:00:00.000Z",
+   "home": {
+    "id": 163598,
+    "name": "VSC Baskets Donauwörth 2",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163554,
+    "name": "ESV Ingolstadt-Ringsee",
+    "clubId": 590,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924391,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T16:00:00.000Z",
+   "home": {
+    "id": 163583,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163596,
+    "name": "TSV 1862 Neuburg",
+    "clubId": 1188,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924393,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T15:45:00.000Z",
+   "home": {
+    "id": 163587,
+    "name": "TSV Nördlingen 2",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163554,
+    "name": "ESV Ingolstadt-Ringsee",
+    "clubId": 590,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924395,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T16:00:00.000Z",
+   "home": {
+    "id": 163556,
+    "name": "TSV Diedorf",
+    "clubId": 388,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163560,
+    "name": "TSV Meitingen",
+    "clubId": 1452,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 60,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924397,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T14:30:00.000Z",
+   "home": {
+    "id": 165621,
+    "name": "DJK Augsburg Nord",
+    "clubId": 860,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163583,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924399,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T19:00:00.000Z",
+   "home": {
+    "id": 163596,
+    "name": "TSV 1862 Neuburg",
+    "clubId": 1188,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 163598,
+    "name": "VSC Baskets Donauwörth 2",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924402,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T16:00:00.000Z",
+   "home": {
+    "id": 163587,
+    "name": "TSV Nördlingen 2",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163560,
+    "name": "TSV Meitingen",
+    "clubId": 1452,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924404,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T16:00:00.000Z",
+   "home": {
+    "id": 163554,
+    "name": "ESV Ingolstadt-Ringsee",
+    "clubId": 590,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163596,
+    "name": "TSV 1862 Neuburg",
+    "clubId": 1188,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924406,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T16:00:00.000Z",
+   "home": {
+    "id": 163598,
+    "name": "VSC Baskets Donauwörth 2",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165621,
+    "name": "DJK Augsburg Nord",
+    "clubId": 860,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924408,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T16:00:00.000Z",
+   "home": {
+    "id": 163583,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163556,
+    "name": "TSV Diedorf",
+    "clubId": 388,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924410,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T19:00:00.000Z",
+   "home": {
+    "id": 163560,
+    "name": "TSV Meitingen",
+    "clubId": 1452,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163583,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924412,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T16:00:00.000Z",
+   "home": {
+    "id": 163556,
+    "name": "TSV Diedorf",
+    "clubId": 388,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163598,
+    "name": "VSC Baskets Donauwörth 2",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924414,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T14:30:00.000Z",
+   "home": {
+    "id": 165621,
+    "name": "DJK Augsburg Nord",
+    "clubId": 860,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163554,
+    "name": "ESV Ingolstadt-Ringsee",
+    "clubId": 590,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924416,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T19:00:00.000Z",
+   "home": {
+    "id": 163596,
+    "name": "TSV 1862 Neuburg",
+    "clubId": 1188,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 163587,
+    "name": "TSV Nördlingen 2",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924418,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T16:00:00.000Z",
+   "home": {
+    "id": 163583,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163587,
+    "name": "TSV Nördlingen 2",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924420,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T17:00:00.000Z",
+   "home": {
+    "id": 163556,
+    "name": "TSV Diedorf",
+    "clubId": 388,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163554,
+    "name": "ESV Ingolstadt-Ringsee",
+    "clubId": 590,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924422,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T19:00:00.000Z",
+   "home": {
+    "id": 163560,
+    "name": "TSV Meitingen",
+    "clubId": 1452,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163598,
+    "name": "VSC Baskets Donauwörth 2",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924424,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T14:30:00.000Z",
+   "home": {
+    "id": 165621,
+    "name": "DJK Augsburg Nord",
+    "clubId": 860,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163596,
+    "name": "TSV 1862 Neuburg",
+    "clubId": 1188,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924426,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T16:30:00.000Z",
+   "home": {
+    "id": 163554,
+    "name": "ESV Ingolstadt-Ringsee",
+    "clubId": 590,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163560,
+    "name": "TSV Meitingen",
+    "clubId": 1452,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924428,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T19:00:00.000Z",
+   "home": {
+    "id": 163596,
+    "name": "TSV 1862 Neuburg",
+    "clubId": 1188,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 163556,
+    "name": "TSV Diedorf",
+    "clubId": 388,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924430,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:00:00.000Z",
+   "home": {
+    "id": 163587,
+    "name": "TSV Nördlingen 2",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165621,
+    "name": "DJK Augsburg Nord",
+    "clubId": 860,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924432,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:00:00.000Z",
+   "home": {
+    "id": 163598,
+    "name": "VSC Baskets Donauwörth 2",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163583,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924434,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T14:00:00.000Z",
+   "home": {
+    "id": 163598,
+    "name": "VSC Baskets Donauwörth 2",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163587,
+    "name": "TSV Nördlingen 2",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924436,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:00:00.000Z",
+   "home": {
+    "id": 163583,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163554,
+    "name": "ESV Ingolstadt-Ringsee",
+    "clubId": 590,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924438,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T17:00:00.000Z",
+   "home": {
+    "id": 163556,
+    "name": "TSV Diedorf",
+    "clubId": 388,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165621,
+    "name": "DJK Augsburg Nord",
+    "clubId": 860,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924440,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T18:00:00.000Z",
+   "home": {
+    "id": 163560,
+    "name": "TSV Meitingen",
+    "clubId": 1452,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163596,
+    "name": "TSV 1862 Neuburg",
+    "clubId": 1188,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924443,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T14:30:00.000Z",
+   "home": {
+    "id": 165621,
+    "name": "DJK Augsburg Nord",
+    "clubId": 860,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163560,
+    "name": "TSV Meitingen",
+    "clubId": 1452,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924445,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T16:00:00.000Z",
+   "home": {
+    "id": 163587,
+    "name": "TSV Nördlingen 2",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163556,
+    "name": "TSV Diedorf",
+    "clubId": 388,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924447,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T16:30:00.000Z",
+   "home": {
+    "id": 163554,
+    "name": "ESV Ingolstadt-Ringsee",
+    "clubId": 590,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163598,
+    "name": "VSC Baskets Donauwörth 2",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924449,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T19:00:00.000Z",
+   "home": {
+    "id": 163596,
+    "name": "TSV 1862 Neuburg",
+    "clubId": 1188,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 163583,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924451,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T16:30:00.000Z",
+   "home": {
+    "id": 163554,
+    "name": "ESV Ingolstadt-Ringsee",
+    "clubId": 590,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163587,
+    "name": "TSV Nördlingen 2",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924453,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T15:00:00.000Z",
+   "home": {
+    "id": 163560,
+    "name": "TSV Meitingen",
+    "clubId": 1452,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163556,
+    "name": "TSV Diedorf",
+    "clubId": 388,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924455,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T16:00:00.000Z",
+   "home": {
+    "id": 163583,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165621,
+    "name": "DJK Augsburg Nord",
+    "clubId": 860,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924457,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T16:00:00.000Z",
+   "home": {
+    "id": 163598,
+    "name": "VSC Baskets Donauwörth 2",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163596,
+    "name": "TSV 1862 Neuburg",
+    "clubId": 1188,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924459,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T19:00:00.000Z",
+   "home": {
+    "id": 163560,
+    "name": "TSV Meitingen",
+    "clubId": 1452,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163587,
+    "name": "TSV Nördlingen 2",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924461,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T19:00:00.000Z",
+   "home": {
+    "id": 163596,
+    "name": "TSV 1862 Neuburg",
+    "clubId": 1188,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 163554,
+    "name": "ESV Ingolstadt-Ringsee",
+    "clubId": 590,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924463,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T14:30:00.000Z",
+   "home": {
+    "id": 165621,
+    "name": "DJK Augsburg Nord",
+    "clubId": 860,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163598,
+    "name": "VSC Baskets Donauwörth 2",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924465,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T17:00:00.000Z",
+   "home": {
+    "id": 163556,
+    "name": "TSV Diedorf",
+    "clubId": 388,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163583,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924467,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T16:00:00.000Z",
+   "home": {
+    "id": 163583,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163560,
+    "name": "TSV Meitingen",
+    "clubId": 1452,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924469,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T18:30:00.000Z",
+   "home": {
+    "id": 163598,
+    "name": "VSC Baskets Donauwörth 2",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163556,
+    "name": "TSV Diedorf",
+    "clubId": 388,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924471,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T16:30:00.000Z",
+   "home": {
+    "id": 163554,
+    "name": "ESV Ingolstadt-Ringsee",
+    "clubId": 590,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165621,
+    "name": "DJK Augsburg Nord",
+    "clubId": 860,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924473,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T14:30:00.000Z",
+   "home": {
+    "id": 163587,
+    "name": "TSV Nördlingen 2",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163596,
+    "name": "TSV 1862 Neuburg",
+    "clubId": 1188,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2989740,
+   "ligaId": 54485,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T14:30:00.000Z",
+   "home": {
+    "id": 165621,
+    "name": "DJK Augsburg Nord",
+    "clubId": 860,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163556,
+    "name": "TSV Diedorf",
+    "clubId": 388,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

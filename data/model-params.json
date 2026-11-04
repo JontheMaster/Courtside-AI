@@ -1,0 +1,22 @@
+{
+ "elo": {
+  "U16": {
+   "k": 160,
+   "hfa": 30,
+   "eloPerPoint": 9,
+   "shrinkN0": 0.5
+  }
+ },
+ "rating": {
+  "U14": {
+   "lambda": 1,
+   "hfa0": 0,
+   "sigma0": 20
+  },
+  "Senioren": {
+   "lambda": 1,
+   "hfa0": 3,
+   "sigma0": 20
+  }
+ }
+}

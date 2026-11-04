@@ -1,0 +1,438 @@
+{
+ "league": {
+  "ligaId": 56025,
+  "name": "UFR Einteilungsrunde 1 U14 männlich",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U14",
+  "gender": "männlich",
+  "level": "Bezirksklasse",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Unterfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2933040,
+   "ligaId": 56025,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T09:00:00.000Z",
+   "home": {
+    "id": 317650,
+    "name": "SG Veitshöchheim/Oberdürrbach",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163707,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "homeScore": 63,
+   "guestScore": 51,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933041,
+   "ligaId": 56025,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T09:00:00.000Z",
+   "home": {
+    "id": 319361,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 169101,
+    "name": "SV Waldbrunn 1946 e.V. AK",
+    "clubId": 300,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 62,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933042,
+   "ligaId": 56025,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T13:30:00.000Z",
+   "home": {
+    "id": 323120,
+    "name": "SB Uffenheim AK",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163723,
+    "name": "BG Elsenfeld / Großwallstadt",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": 52,
+   "guestScore": 95,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933043,
+   "ligaId": 56025,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T11:30:00.000Z",
+   "home": {
+    "id": 169101,
+    "name": "SV Waldbrunn 1946 e.V. AK",
+    "clubId": 300,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323120,
+    "name": "SB Uffenheim AK",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "homeScore": 75,
+   "guestScore": 77,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933044,
+   "ligaId": 56025,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T14:00:00.000Z",
+   "home": {
+    "id": 163723,
+    "name": "BG Elsenfeld / Großwallstadt",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317650,
+    "name": "SG Veitshöchheim/Oberdürrbach",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": 83,
+   "guestScore": 46,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933045,
+   "ligaId": 56025,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T11:00:00.000Z",
+   "home": {
+    "id": 163707,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319361,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 94,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933046,
+   "ligaId": 56025,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T11:30:00.000Z",
+   "home": {
+    "id": 317650,
+    "name": "SG Veitshöchheim/Oberdürrbach",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319361,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": 94,
+   "guestScore": 28,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933047,
+   "ligaId": 56025,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T15:30:00.000Z",
+   "home": {
+    "id": 163723,
+    "name": "BG Elsenfeld / Großwallstadt",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 169101,
+    "name": "SV Waldbrunn 1946 e.V. AK",
+    "clubId": 300,
+    "forfeit": false
+   },
+   "homeScore": 76,
+   "guestScore": 44,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933048,
+   "ligaId": 56025,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T13:30:00.000Z",
+   "home": {
+    "id": 323120,
+    "name": "SB Uffenheim AK",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163707,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "homeScore": 66,
+   "guestScore": 82,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933049,
+   "ligaId": 56025,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T14:00:00.000Z",
+   "home": {
+    "id": 317650,
+    "name": "SG Veitshöchheim/Oberdürrbach",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 169101,
+    "name": "SV Waldbrunn 1946 e.V. AK",
+    "clubId": 300,
+    "forfeit": false
+   },
+   "homeScore": 74,
+   "guestScore": 61,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933050,
+   "ligaId": 56025,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "15:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T13:15:00.000Z",
+   "home": {
+    "id": 319361,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323120,
+    "name": "SB Uffenheim AK",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "homeScore": 86,
+   "guestScore": 61,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933051,
+   "ligaId": 56025,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T14:00:00.000Z",
+   "home": {
+    "id": 163707,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163723,
+    "name": "BG Elsenfeld / Großwallstadt",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": 46,
+   "guestScore": 82,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933052,
+   "ligaId": 56025,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T09:00:00.000Z",
+   "home": {
+    "id": 169101,
+    "name": "SV Waldbrunn 1946 e.V. AK",
+    "clubId": 300,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163707,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "homeScore": 104,
+   "guestScore": 82,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933053,
+   "ligaId": 56025,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T15:30:00.000Z",
+   "home": {
+    "id": 163723,
+    "name": "BG Elsenfeld / Großwallstadt",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319361,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": 94,
+   "guestScore": 72,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933054,
+   "ligaId": 56025,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T14:30:00.000Z",
+   "home": {
+    "id": 323120,
+    "name": "SB Uffenheim AK",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317650,
+    "name": "SG Veitshöchheim/Oberdürrbach",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": 75,
+   "guestScore": 68,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

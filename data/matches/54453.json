@@ -1,0 +1,2538 @@
+{
+ "league": {
+  "ligaId": 54453,
+  "name": "Bezirksoberliga Herren 26/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Schwaben",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2924170,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T17:30:00.000Z",
+   "home": {
+    "id": 152239,
+    "name": "VSC Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163581,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": false
+   },
+   "homeScore": 88,
+   "guestScore": 43,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924171,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T18:00:00.000Z",
+   "home": {
+    "id": 163591,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163552,
+    "name": "BG powered by BBA Leitershofen/Stadtbergen 3",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": 74,
+   "guestScore": 79,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924172,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T17:30:00.000Z",
+   "home": {
+    "id": 151072,
+    "name": "Green Devils Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924173,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T16:00:00.000Z",
+   "home": {
+    "id": 151081,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163561,
+    "name": "TV Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": 66,
+   "guestScore": 56,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924174,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T18:30:00.000Z",
+   "home": {
+    "id": 151080,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163557,
+    "name": "TSV Gersthofen",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924175,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T13:00:00.000Z",
+   "home": {
+    "id": 163561,
+    "name": "TV Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151072,
+    "name": "Green Devils Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": 60,
+   "guestScore": 69,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924176,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-09-23",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-23T14:00:00.000Z",
+   "home": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 163591,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924177,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T17:30:00.000Z",
+   "home": {
+    "id": 163552,
+    "name": "BG powered by BBA Leitershofen/Stadtbergen 3",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151080,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": 115,
+   "guestScore": 38,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924178,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:00:00.000Z",
+   "home": {
+    "id": 163557,
+    "name": "TSV Gersthofen",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152239,
+    "name": "VSC Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "homeScore": 60,
+   "guestScore": 81,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924179,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:00:00.000Z",
+   "home": {
+    "id": 163581,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151081,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": 54,
+   "guestScore": 67,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924180,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T17:30:00.000Z",
+   "home": {
+    "id": 152239,
+    "name": "VSC Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151081,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": 67,
+   "guestScore": 57,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924181,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T15:00:00.000Z",
+   "home": {
+    "id": 163591,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163561,
+    "name": "TV Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 80,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924182,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T17:45:00.000Z",
+   "home": {
+    "id": 151072,
+    "name": "Green Devils Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163581,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": false
+   },
+   "homeScore": 74,
+   "guestScore": 68,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924183,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T12:30:00.000Z",
+   "home": {
+    "id": 163557,
+    "name": "TSV Gersthofen",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163552,
+    "name": "BG powered by BBA Leitershofen/Stadtbergen 3",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": 70,
+   "guestScore": 81,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924184,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T17:45:00.000Z",
+   "home": {
+    "id": 151080,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924185,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:30:00.000Z",
+   "home": {
+    "id": 163561,
+    "name": "TV Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151080,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": 82,
+   "guestScore": 39,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924186,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T17:00:00.000Z",
+   "home": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 163557,
+    "name": "TSV Gersthofen",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924187,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:00:00.000Z",
+   "home": {
+    "id": 163552,
+    "name": "BG powered by BBA Leitershofen/Stadtbergen 3",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152239,
+    "name": "VSC Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 96,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924188,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T17:30:00.000Z",
+   "home": {
+    "id": 151081,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151072,
+    "name": "Green Devils Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924189,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:00:00.000Z",
+   "home": {
+    "id": 163581,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163591,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "homeScore": 65,
+   "guestScore": 82,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924190,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T18:30:00.000Z",
+   "home": {
+    "id": 152239,
+    "name": "VSC Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151072,
+    "name": "Green Devils Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924191,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T16:00:00.000Z",
+   "home": {
+    "id": 163591,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151081,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924192,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "13:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T12:15:00.000Z",
+   "home": {
+    "id": 163552,
+    "name": "BG powered by BBA Leitershofen/Stadtbergen 3",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924193,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T16:00:00.000Z",
+   "home": {
+    "id": 163557,
+    "name": "TSV Gersthofen",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163561,
+    "name": "TV Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924194,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T18:45:00.000Z",
+   "home": {
+    "id": 151080,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163581,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924195,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T14:00:00.000Z",
+   "home": {
+    "id": 163561,
+    "name": "TV Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163552,
+    "name": "BG powered by BBA Leitershofen/Stadtbergen 3",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924196,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T18:00:00.000Z",
+   "home": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 152239,
+    "name": "VSC Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924197,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T18:45:00.000Z",
+   "home": {
+    "id": 151072,
+    "name": "Green Devils Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163591,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924198,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T19:00:00.000Z",
+   "home": {
+    "id": 151081,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151080,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924199,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T18:30:00.000Z",
+   "home": {
+    "id": 163581,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163557,
+    "name": "TSV Gersthofen",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924200,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T18:30:00.000Z",
+   "home": {
+    "id": 152239,
+    "name": "VSC Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163591,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924201,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T18:00:00.000Z",
+   "home": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 163561,
+    "name": "TV Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924202,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T16:00:00.000Z",
+   "home": {
+    "id": 163552,
+    "name": "BG powered by BBA Leitershofen/Stadtbergen 3",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163581,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924203,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T13:30:00.000Z",
+   "home": {
+    "id": 163557,
+    "name": "TSV Gersthofen",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151081,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924204,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T18:45:00.000Z",
+   "home": {
+    "id": 151080,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151072,
+    "name": "Green Devils Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924205,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T18:30:00.000Z",
+   "home": {
+    "id": 152239,
+    "name": "VSC Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163561,
+    "name": "TV Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924206,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T16:00:00.000Z",
+   "home": {
+    "id": 163591,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151080,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924207,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T18:45:00.000Z",
+   "home": {
+    "id": 151072,
+    "name": "Green Devils Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163557,
+    "name": "TSV Gersthofen",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924208,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T19:00:00.000Z",
+   "home": {
+    "id": 151081,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163552,
+    "name": "BG powered by BBA Leitershofen/Stadtbergen 3",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924209,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T16:00:00.000Z",
+   "home": {
+    "id": 163581,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924210,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T19:00:00.000Z",
+   "home": {
+    "id": 163561,
+    "name": "TV Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163581,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924211,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T18:00:00.000Z",
+   "home": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 151081,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924212,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T16:00:00.000Z",
+   "home": {
+    "id": 163552,
+    "name": "BG powered by BBA Leitershofen/Stadtbergen 3",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151072,
+    "name": "Green Devils Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924213,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T16:00:00.000Z",
+   "home": {
+    "id": 163557,
+    "name": "TSV Gersthofen",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163591,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924214,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T18:45:00.000Z",
+   "home": {
+    "id": 151080,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152239,
+    "name": "VSC Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924215,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T16:00:00.000Z",
+   "home": {
+    "id": 163581,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152239,
+    "name": "VSC Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924216,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T16:00:00.000Z",
+   "home": {
+    "id": 163552,
+    "name": "BG powered by BBA Leitershofen/Stadtbergen 3",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163591,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924217,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T18:00:00.000Z",
+   "home": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 151072,
+    "name": "Green Devils Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924218,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T19:00:00.000Z",
+   "home": {
+    "id": 163561,
+    "name": "TV Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151081,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924219,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T15:00:00.000Z",
+   "home": {
+    "id": 163557,
+    "name": "TSV Gersthofen",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151080,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": 88,
+   "guestScore": 69,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924220,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T18:45:00.000Z",
+   "home": {
+    "id": 151072,
+    "name": "Green Devils Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163561,
+    "name": "TV Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924221,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:00:00.000Z",
+   "home": {
+    "id": 163591,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924222,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T18:45:00.000Z",
+   "home": {
+    "id": 151080,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163552,
+    "name": "BG powered by BBA Leitershofen/Stadtbergen 3",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924223,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T18:30:00.000Z",
+   "home": {
+    "id": 152239,
+    "name": "VSC Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163557,
+    "name": "TSV Gersthofen",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924224,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T19:00:00.000Z",
+   "home": {
+    "id": 151081,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163581,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924225,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T19:00:00.000Z",
+   "home": {
+    "id": 151081,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152239,
+    "name": "VSC Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924226,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T16:30:00.000Z",
+   "home": {
+    "id": 163561,
+    "name": "TV Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163591,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924227,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:00:00.000Z",
+   "home": {
+    "id": 163581,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151072,
+    "name": "Green Devils Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924228,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:00:00.000Z",
+   "home": {
+    "id": 163552,
+    "name": "BG powered by BBA Leitershofen/Stadtbergen 3",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163557,
+    "name": "TSV Gersthofen",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924229,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T18:00:00.000Z",
+   "home": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 151080,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924230,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T18:45:00.000Z",
+   "home": {
+    "id": 151080,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163561,
+    "name": "TV Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924231,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T13:30:00.000Z",
+   "home": {
+    "id": 163557,
+    "name": "TSV Gersthofen",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924232,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-06T18:30:00.000Z",
+   "home": {
+    "id": 152239,
+    "name": "VSC Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163552,
+    "name": "BG powered by BBA Leitershofen/Stadtbergen 3",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924233,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T18:45:00.000Z",
+   "home": {
+    "id": 151072,
+    "name": "Green Devils Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151081,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924234,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T16:00:00.000Z",
+   "home": {
+    "id": 163591,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163581,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924235,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T18:45:00.000Z",
+   "home": {
+    "id": 151072,
+    "name": "Green Devils Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152239,
+    "name": "VSC Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924236,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T19:00:00.000Z",
+   "home": {
+    "id": 151081,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163591,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924237,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T18:00:00.000Z",
+   "home": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 163552,
+    "name": "BG powered by BBA Leitershofen/Stadtbergen 3",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924238,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T19:00:00.000Z",
+   "home": {
+    "id": 163561,
+    "name": "TV Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163557,
+    "name": "TSV Gersthofen",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "homeScore": 47,
+   "guestScore": 61,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924239,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T16:00:00.000Z",
+   "home": {
+    "id": 163581,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151080,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924240,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T15:00:00.000Z",
+   "home": {
+    "id": 163552,
+    "name": "BG powered by BBA Leitershofen/Stadtbergen 3",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163561,
+    "name": "TV Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924241,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T18:30:00.000Z",
+   "home": {
+    "id": 152239,
+    "name": "VSC Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924242,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T17:00:00.000Z",
+   "home": {
+    "id": 163591,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151072,
+    "name": "Green Devils Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924243,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T18:45:00.000Z",
+   "home": {
+    "id": 151080,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151081,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924244,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-07",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-07T16:00:00.000Z",
+   "home": {
+    "id": 163557,
+    "name": "TSV Gersthofen",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163581,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924245,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T16:00:00.000Z",
+   "home": {
+    "id": 163591,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152239,
+    "name": "VSC Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924246,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T11:30:00.000Z",
+   "home": {
+    "id": 163561,
+    "name": "TV Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924247,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T16:00:00.000Z",
+   "home": {
+    "id": 163581,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163552,
+    "name": "BG powered by BBA Leitershofen/Stadtbergen 3",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924248,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T19:00:00.000Z",
+   "home": {
+    "id": 151081,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163557,
+    "name": "TSV Gersthofen",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924249,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T18:45:00.000Z",
+   "home": {
+    "id": 151072,
+    "name": "Green Devils Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151080,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924250,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T14:00:00.000Z",
+   "home": {
+    "id": 163561,
+    "name": "TV Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152239,
+    "name": "VSC Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924251,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T18:45:00.000Z",
+   "home": {
+    "id": 151080,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163591,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924252,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T16:00:00.000Z",
+   "home": {
+    "id": 163557,
+    "name": "TSV Gersthofen",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151072,
+    "name": "Green Devils Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924253,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T15:15:00.000Z",
+   "home": {
+    "id": 163552,
+    "name": "BG powered by BBA Leitershofen/Stadtbergen 3",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151081,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": 57,
+   "guestScore": 66,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924254,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T18:00:00.000Z",
+   "home": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 163581,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924255,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T16:00:00.000Z",
+   "home": {
+    "id": 163581,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163561,
+    "name": "TV Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924256,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T19:00:00.000Z",
+   "home": {
+    "id": 151081,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924257,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T18:45:00.000Z",
+   "home": {
+    "id": 151072,
+    "name": "Green Devils Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163552,
+    "name": "BG powered by BBA Leitershofen/Stadtbergen 3",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924258,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T16:00:00.000Z",
+   "home": {
+    "id": 163591,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163557,
+    "name": "TSV Gersthofen",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924259,
+   "ligaId": 54453,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T16:00:00.000Z",
+   "home": {
+    "id": 152239,
+    "name": "VSC Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151080,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

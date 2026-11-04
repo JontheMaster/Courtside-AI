@@ -1,0 +1,634 @@
+{
+ "league": {
+  "ligaId": 56015,
+  "name": "UFR Kreisliga U16 männlich",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U16",
+  "gender": "männlich",
+  "level": "Kreisliga",
+  "levelScope": "Kreis",
+  "verbandId": 2,
+  "bezirk": "Unterfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2933186,
+   "ligaId": 56015,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T11:30:00.000Z",
+   "home": {
+    "id": 163719,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 285264,
+    "name": "BG Elsenfeld / Großwallstadt",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": 84,
+   "guestScore": 77,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933187,
+   "ligaId": 56015,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T14:30:00.000Z",
+   "home": {
+    "id": 323114,
+    "name": "TuS 1863 Aschaffenburg Damm",
+    "clubId": 605,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183523,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": 38,
+   "guestScore": 108,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933189,
+   "ligaId": 56015,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "13:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T12:45:00.000Z",
+   "home": {
+    "id": 183523,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 244184,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "homeScore": 62,
+   "guestScore": 71,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933191,
+   "ligaId": 56015,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T15:00:00.000Z",
+   "home": {
+    "id": 285264,
+    "name": "BG Elsenfeld / Großwallstadt",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323114,
+    "name": "TuS 1863 Aschaffenburg Damm",
+    "clubId": 605,
+    "forfeit": false
+   },
+   "homeScore": 107,
+   "guestScore": 35,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933192,
+   "ligaId": 56015,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T12:30:00.000Z",
+   "home": {
+    "id": 163719,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323114,
+    "name": "TuS 1863 Aschaffenburg Damm",
+    "clubId": 605,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933194,
+   "ligaId": 56015,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T14:30:00.000Z",
+   "home": {
+    "id": 244184,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 285264,
+    "name": "BG Elsenfeld / Großwallstadt",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933195,
+   "ligaId": 56015,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T17:00:00.000Z",
+   "home": {
+    "id": 163719,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183523,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933196,
+   "ligaId": 56015,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T12:30:00.000Z",
+   "home": {
+    "id": 323114,
+    "name": "TuS 1863 Aschaffenburg Damm",
+    "clubId": 605,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 244184,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933198,
+   "ligaId": 56015,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "13:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T12:45:00.000Z",
+   "home": {
+    "id": 183523,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 285264,
+    "name": "BG Elsenfeld / Großwallstadt",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933200,
+   "ligaId": 56015,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T14:30:00.000Z",
+   "home": {
+    "id": 244184,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163719,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933201,
+   "ligaId": 56015,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T12:30:00.000Z",
+   "home": {
+    "id": 285264,
+    "name": "BG Elsenfeld / Großwallstadt",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163719,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933202,
+   "ligaId": 56015,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "13:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T12:45:00.000Z",
+   "home": {
+    "id": 183523,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323114,
+    "name": "TuS 1863 Aschaffenburg Damm",
+    "clubId": 605,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933204,
+   "ligaId": 56015,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T14:30:00.000Z",
+   "home": {
+    "id": 244184,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183523,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933206,
+   "ligaId": 56015,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:00:00.000Z",
+   "home": {
+    "id": 323114,
+    "name": "TuS 1863 Aschaffenburg Damm",
+    "clubId": 605,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 285264,
+    "name": "BG Elsenfeld / Großwallstadt",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933207,
+   "ligaId": 56015,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T16:00:00.000Z",
+   "home": {
+    "id": 323114,
+    "name": "TuS 1863 Aschaffenburg Damm",
+    "clubId": 605,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163719,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933209,
+   "ligaId": 56015,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T12:30:00.000Z",
+   "home": {
+    "id": 285264,
+    "name": "BG Elsenfeld / Großwallstadt",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 244184,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933210,
+   "ligaId": 56015,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "13:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T12:45:00.000Z",
+   "home": {
+    "id": 183523,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163719,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933211,
+   "ligaId": 56015,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T14:30:00.000Z",
+   "home": {
+    "id": 244184,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323114,
+    "name": "TuS 1863 Aschaffenburg Damm",
+    "clubId": 605,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933213,
+   "ligaId": 56015,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T10:00:00.000Z",
+   "home": {
+    "id": 285264,
+    "name": "BG Elsenfeld / Großwallstadt",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183523,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933215,
+   "ligaId": 56015,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T10:00:00.000Z",
+   "home": {
+    "id": 163719,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 244184,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986488,
+   "ligaId": 56015,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T10:00:00.000Z",
+   "home": {
+    "id": 163719,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183523,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986489,
+   "ligaId": 56015,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "13:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T12:45:00.000Z",
+   "home": {
+    "id": 183523,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 244184,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

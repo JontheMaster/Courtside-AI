@@ -1,0 +1,2538 @@
+{
+ "league": {
+  "ligaId": 53738,
+  "name": "West - Kreisliga Herren (WE-KLH) 2026/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Kreisliga",
+  "levelScope": "Kreis",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2910893,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T14:30:00.000Z",
+   "home": {
+    "id": 163930,
+    "name": "TSV Utting",
+    "clubId": 1940,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163932,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": 69,
+   "guestScore": 58,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910894,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T14:45:00.000Z",
+   "home": {
+    "id": 163944,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163922,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": 54,
+   "guestScore": 69,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910895,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T14:30:00.000Z",
+   "home": {
+    "id": 163929,
+    "name": "TSV Peiting",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163918,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910896,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T15:00:00.000Z",
+   "home": {
+    "id": 163949,
+    "name": "Dachau Spurs 3",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316266,
+    "name": "ESV Staffelsee 3",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910897,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T15:15:00.000Z",
+   "home": {
+    "id": 314963,
+    "name": "TSV München-Solln 2",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163947,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": 45,
+   "guestScore": 76,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910898,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T12:30:00.000Z",
+   "home": {
+    "id": 316266,
+    "name": "ESV Staffelsee 3",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163929,
+    "name": "TSV Peiting",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "homeScore": 70,
+   "guestScore": 40,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910899,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T14:45:00.000Z",
+   "home": {
+    "id": 163918,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163944,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": 70,
+   "guestScore": 49,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910900,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T14:00:00.000Z",
+   "home": {
+    "id": 163922,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314963,
+    "name": "TSV München-Solln 2",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": 31,
+   "guestScore": 44,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910901,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:00:00.000Z",
+   "home": {
+    "id": 163947,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163930,
+    "name": "TSV Utting",
+    "clubId": 1940,
+    "forfeit": false
+   },
+   "homeScore": 82,
+   "guestScore": 48,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910902,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T17:00:00.000Z",
+   "home": {
+    "id": 163932,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163949,
+    "name": "Dachau Spurs 3",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": 55,
+   "guestScore": 51,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910903,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-04-03",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-03T14:30:00.000Z",
+   "home": {
+    "id": 163930,
+    "name": "TSV Utting",
+    "clubId": 1940,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163949,
+    "name": "Dachau Spurs 3",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910904,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T14:45:00.000Z",
+   "home": {
+    "id": 163944,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316266,
+    "name": "ESV Staffelsee 3",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": 65,
+   "guestScore": 62,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910905,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T16:00:00.000Z",
+   "home": {
+    "id": 163929,
+    "name": "TSV Peiting",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163932,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": 52,
+   "guestScore": 50,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910906,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T15:00:00.000Z",
+   "home": {
+    "id": 163947,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163922,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": 76,
+   "guestScore": 56,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910907,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T15:15:00.000Z",
+   "home": {
+    "id": 314963,
+    "name": "TSV München-Solln 2",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163918,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": 31,
+   "guestScore": 57,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910908,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T18:00:00.000Z",
+   "home": {
+    "id": 316266,
+    "name": "ESV Staffelsee 3",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314963,
+    "name": "TSV München-Solln 2",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": 68,
+   "guestScore": 53,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910909,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T14:45:00.000Z",
+   "home": {
+    "id": 163918,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163947,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": 52,
+   "guestScore": 81,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910910,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T15:00:00.000Z",
+   "home": {
+    "id": 163922,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163930,
+    "name": "TSV Utting",
+    "clubId": 1940,
+    "forfeit": false
+   },
+   "homeScore": 82,
+   "guestScore": 54,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910911,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T17:30:00.000Z",
+   "home": {
+    "id": 163949,
+    "name": "Dachau Spurs 3",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163929,
+    "name": "TSV Peiting",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "homeScore": 76,
+   "guestScore": 42,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910912,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T18:00:00.000Z",
+   "home": {
+    "id": 163932,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163944,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": 56,
+   "guestScore": 69,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910913,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T16:00:00.000Z",
+   "home": {
+    "id": 163930,
+    "name": "TSV Utting",
+    "clubId": 1940,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163929,
+    "name": "TSV Peiting",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910914,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T15:45:00.000Z",
+   "home": {
+    "id": 163944,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163949,
+    "name": "Dachau Spurs 3",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910915,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T15:00:00.000Z",
+   "home": {
+    "id": 163922,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163918,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910916,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-04-25",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-25T17:00:00.000Z",
+   "home": {
+    "id": 163947,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316266,
+    "name": "ESV Staffelsee 3",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910917,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T19:00:00.000Z",
+   "home": {
+    "id": 314963,
+    "name": "TSV München-Solln 2",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163932,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910918,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T15:45:00.000Z",
+   "home": {
+    "id": 316266,
+    "name": "ESV Staffelsee 3",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163922,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910919,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T15:45:00.000Z",
+   "home": {
+    "id": 163918,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163930,
+    "name": "TSV Utting",
+    "clubId": 1940,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910920,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T09:30:00.000Z",
+   "home": {
+    "id": 163929,
+    "name": "TSV Peiting",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163944,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910921,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T17:30:00.000Z",
+   "home": {
+    "id": 163949,
+    "name": "Dachau Spurs 3",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314963,
+    "name": "TSV München-Solln 2",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910922,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T18:00:00.000Z",
+   "home": {
+    "id": 163932,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163947,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910923,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T14:30:00.000Z",
+   "home": {
+    "id": 163930,
+    "name": "TSV Utting",
+    "clubId": 1940,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163944,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910924,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T15:45:00.000Z",
+   "home": {
+    "id": 163918,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316266,
+    "name": "ESV Staffelsee 3",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910925,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T15:00:00.000Z",
+   "home": {
+    "id": 163922,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163932,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910926,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T18:30:00.000Z",
+   "home": {
+    "id": 163947,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163949,
+    "name": "Dachau Spurs 3",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910927,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T16:15:00.000Z",
+   "home": {
+    "id": 314963,
+    "name": "TSV München-Solln 2",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163929,
+    "name": "TSV Peiting",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910928,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T15:30:00.000Z",
+   "home": {
+    "id": 163930,
+    "name": "TSV Utting",
+    "clubId": 1940,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316266,
+    "name": "ESV Staffelsee 3",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910929,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T15:45:00.000Z",
+   "home": {
+    "id": 163944,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314963,
+    "name": "TSV München-Solln 2",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910930,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T17:00:00.000Z",
+   "home": {
+    "id": 163929,
+    "name": "TSV Peiting",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163947,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910931,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T17:30:00.000Z",
+   "home": {
+    "id": 163949,
+    "name": "Dachau Spurs 3",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163922,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910932,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T18:00:00.000Z",
+   "home": {
+    "id": 163932,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163918,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910933,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T15:45:00.000Z",
+   "home": {
+    "id": 316266,
+    "name": "ESV Staffelsee 3",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163932,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910934,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T15:45:00.000Z",
+   "home": {
+    "id": 163918,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163949,
+    "name": "Dachau Spurs 3",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910935,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T15:00:00.000Z",
+   "home": {
+    "id": 163922,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163929,
+    "name": "TSV Peiting",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910936,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T18:30:00.000Z",
+   "home": {
+    "id": 163947,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163944,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910937,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T16:15:00.000Z",
+   "home": {
+    "id": 314963,
+    "name": "TSV München-Solln 2",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163930,
+    "name": "TSV Utting",
+    "clubId": 1940,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910938,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T18:00:00.000Z",
+   "home": {
+    "id": 163932,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163930,
+    "name": "TSV Utting",
+    "clubId": 1940,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910939,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T15:00:00.000Z",
+   "home": {
+    "id": 163922,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163944,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910940,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T14:45:00.000Z",
+   "home": {
+    "id": 163918,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163929,
+    "name": "TSV Peiting",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "homeScore": 62,
+   "guestScore": 50,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910941,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T18:00:00.000Z",
+   "home": {
+    "id": 316266,
+    "name": "ESV Staffelsee 3",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163949,
+    "name": "Dachau Spurs 3",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910942,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T17:00:00.000Z",
+   "home": {
+    "id": 163947,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314963,
+    "name": "TSV München-Solln 2",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910943,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T17:00:00.000Z",
+   "home": {
+    "id": 163929,
+    "name": "TSV Peiting",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316266,
+    "name": "ESV Staffelsee 3",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910944,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T14:45:00.000Z",
+   "home": {
+    "id": 163944,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163918,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": 65,
+   "guestScore": 53,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910945,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:15:00.000Z",
+   "home": {
+    "id": 314963,
+    "name": "TSV München-Solln 2",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163922,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910946,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T15:30:00.000Z",
+   "home": {
+    "id": 163930,
+    "name": "TSV Utting",
+    "clubId": 1940,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163947,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910947,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T17:30:00.000Z",
+   "home": {
+    "id": 163949,
+    "name": "Dachau Spurs 3",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163932,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910948,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T17:30:00.000Z",
+   "home": {
+    "id": 163949,
+    "name": "Dachau Spurs 3",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163930,
+    "name": "TSV Utting",
+    "clubId": 1940,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910949,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T18:00:00.000Z",
+   "home": {
+    "id": 316266,
+    "name": "ESV Staffelsee 3",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163944,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910950,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T18:00:00.000Z",
+   "home": {
+    "id": 163932,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163929,
+    "name": "TSV Peiting",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910951,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-06T15:00:00.000Z",
+   "home": {
+    "id": 163922,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163947,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910952,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T15:45:00.000Z",
+   "home": {
+    "id": 163918,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314963,
+    "name": "TSV München-Solln 2",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910953,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T16:15:00.000Z",
+   "home": {
+    "id": 314963,
+    "name": "TSV München-Solln 2",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316266,
+    "name": "ESV Staffelsee 3",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910954,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T18:30:00.000Z",
+   "home": {
+    "id": 163947,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163918,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910955,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T15:30:00.000Z",
+   "home": {
+    "id": 163930,
+    "name": "TSV Utting",
+    "clubId": 1940,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163922,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910956,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T17:00:00.000Z",
+   "home": {
+    "id": 163929,
+    "name": "TSV Peiting",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163949,
+    "name": "Dachau Spurs 3",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910957,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "17:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T16:45:00.000Z",
+   "home": {
+    "id": 163944,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163932,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910958,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T14:30:00.000Z",
+   "home": {
+    "id": 163929,
+    "name": "TSV Peiting",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163930,
+    "name": "TSV Utting",
+    "clubId": 1940,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910959,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T17:30:00.000Z",
+   "home": {
+    "id": 163949,
+    "name": "Dachau Spurs 3",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163944,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910960,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T15:45:00.000Z",
+   "home": {
+    "id": 163918,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163922,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910961,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-26",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-26T17:00:00.000Z",
+   "home": {
+    "id": 316266,
+    "name": "ESV Staffelsee 3",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163947,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910962,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T18:00:00.000Z",
+   "home": {
+    "id": 163932,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314963,
+    "name": "TSV München-Solln 2",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910963,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T15:00:00.000Z",
+   "home": {
+    "id": 163922,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316266,
+    "name": "ESV Staffelsee 3",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910964,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T15:30:00.000Z",
+   "home": {
+    "id": 163930,
+    "name": "TSV Utting",
+    "clubId": 1940,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163918,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910965,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T18:00:00.000Z",
+   "home": {
+    "id": 163944,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163929,
+    "name": "TSV Peiting",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910966,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T16:15:00.000Z",
+   "home": {
+    "id": 314963,
+    "name": "TSV München-Solln 2",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163949,
+    "name": "Dachau Spurs 3",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910967,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T16:00:00.000Z",
+   "home": {
+    "id": 163947,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163932,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910968,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T15:45:00.000Z",
+   "home": {
+    "id": 163944,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163930,
+    "name": "TSV Utting",
+    "clubId": 1940,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910969,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T16:00:00.000Z",
+   "home": {
+    "id": 316266,
+    "name": "ESV Staffelsee 3",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163918,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910970,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T18:00:00.000Z",
+   "home": {
+    "id": 163932,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163922,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910971,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T17:30:00.000Z",
+   "home": {
+    "id": 163949,
+    "name": "Dachau Spurs 3",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163947,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910972,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T17:00:00.000Z",
+   "home": {
+    "id": 163929,
+    "name": "TSV Peiting",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314963,
+    "name": "TSV München-Solln 2",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910973,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T14:45:00.000Z",
+   "home": {
+    "id": 316266,
+    "name": "ESV Staffelsee 3",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163930,
+    "name": "TSV Utting",
+    "clubId": 1940,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910974,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T15:15:00.000Z",
+   "home": {
+    "id": 314963,
+    "name": "TSV München-Solln 2",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163944,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910975,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T15:00:00.000Z",
+   "home": {
+    "id": 163947,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163929,
+    "name": "TSV Peiting",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910976,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T14:00:00.000Z",
+   "home": {
+    "id": 163922,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163949,
+    "name": "Dachau Spurs 3",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910977,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T14:45:00.000Z",
+   "home": {
+    "id": 163918,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163932,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910978,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T17:00:00.000Z",
+   "home": {
+    "id": 163932,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316266,
+    "name": "ESV Staffelsee 3",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910979,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T16:30:00.000Z",
+   "home": {
+    "id": 163949,
+    "name": "Dachau Spurs 3",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163918,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910980,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T16:00:00.000Z",
+   "home": {
+    "id": 163929,
+    "name": "TSV Peiting",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163922,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910981,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T15:15:00.000Z",
+   "home": {
+    "id": 163944,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163947,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910982,
+   "ligaId": 53738,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T14:30:00.000Z",
+   "home": {
+    "id": 163930,
+    "name": "TSV Utting",
+    "clubId": 1940,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314963,
+    "name": "TSV München-Solln 2",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

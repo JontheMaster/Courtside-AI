@@ -1,0 +1,1586 @@
+{
+ "league": {
+  "ligaId": 56210,
+  "name": "MFR U16m Bezirksliga",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U16",
+  "gender": "männlich",
+  "level": "Bezirksliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Mittelfranken",
+  "competitionType": "regular",
+  "role": "core"
+ },
+ "matches": [
+  {
+   "matchId": 2930808,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T12:00:00.000Z",
+   "home": {
+    "id": 321534,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 263802,
+    "name": "TV 1877 Lauf 1",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930809,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-05-01",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-05-01T09:00:00.000Z",
+   "home": {
+    "id": 166602,
+    "name": "TB 1888 Erlangen e. V.",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166643,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930810,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T11:00:00.000Z",
+   "home": {
+    "id": 268728,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166585,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930811,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T11:00:00.000Z",
+   "home": {
+    "id": 314866,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313740,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930812,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T14:00:00.000Z",
+   "home": {
+    "id": 166585,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166602,
+    "name": "TB 1888 Erlangen e. V.",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930813,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T09:00:00.000Z",
+   "home": {
+    "id": 166643,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314866,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930814,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T10:30:00.000Z",
+   "home": {
+    "id": 313740,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321534,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930815,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T16:00:00.000Z",
+   "home": {
+    "id": 263802,
+    "name": "TV 1877 Lauf 1",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 268728,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930816,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T10:00:00.000Z",
+   "home": {
+    "id": 321534,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 268728,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930817,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T11:00:00.000Z",
+   "home": {
+    "id": 166602,
+    "name": "TB 1888 Erlangen e. V.",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 263802,
+    "name": "TV 1877 Lauf 1",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930818,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T10:30:00.000Z",
+   "home": {
+    "id": 313740,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166643,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930819,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T12:00:00.000Z",
+   "home": {
+    "id": 314866,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166585,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930820,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T14:00:00.000Z",
+   "home": {
+    "id": 166585,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313740,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930821,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T11:00:00.000Z",
+   "home": {
+    "id": 166643,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321534,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930822,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T09:30:00.000Z",
+   "home": {
+    "id": 268728,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166602,
+    "name": "TB 1888 Erlangen e. V.",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": 57,
+   "guestScore": 64,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930823,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T13:30:00.000Z",
+   "home": {
+    "id": 263802,
+    "name": "TV 1877 Lauf 1",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314866,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930824,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T14:00:00.000Z",
+   "home": {
+    "id": 321534,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166602,
+    "name": "TB 1888 Erlangen e. V.",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930825,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T13:30:00.000Z",
+   "home": {
+    "id": 166643,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166585,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930826,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T13:00:00.000Z",
+   "home": {
+    "id": 313740,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 263802,
+    "name": "TV 1877 Lauf 1",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "homeScore": 54,
+   "guestScore": 94,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930827,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T15:00:00.000Z",
+   "home": {
+    "id": 314866,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 268728,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930828,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T13:00:00.000Z",
+   "home": {
+    "id": 321534,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166585,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930829,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T13:00:00.000Z",
+   "home": {
+    "id": 166602,
+    "name": "TB 1888 Erlangen e. V.",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314866,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "homeScore": 67,
+   "guestScore": 63,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930830,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T13:00:00.000Z",
+   "home": {
+    "id": 268728,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313740,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930831,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T16:00:00.000Z",
+   "home": {
+    "id": 263802,
+    "name": "TV 1877 Lauf 1",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166643,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930832,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-05-09",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-05-09T14:00:00.000Z",
+   "home": {
+    "id": 166585,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 263802,
+    "name": "TV 1877 Lauf 1",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930833,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T08:00:00.000Z",
+   "home": {
+    "id": 166643,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 268728,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "homeScore": 103,
+   "guestScore": 78,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930834,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T13:30:00.000Z",
+   "home": {
+    "id": 313740,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166602,
+    "name": "TB 1888 Erlangen e. V.",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930835,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-09-19",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-19T13:00:00.000Z",
+   "home": {
+    "id": 314866,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321534,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "homeScore": 20,
+   "guestScore": 0,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930836,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T10:00:00.000Z",
+   "home": {
+    "id": 263802,
+    "name": "TV 1877 Lauf 1",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321534,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930837,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T16:00:00.000Z",
+   "home": {
+    "id": 166643,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166602,
+    "name": "TB 1888 Erlangen e. V.",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930838,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-05-01",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-05-01T13:30:00.000Z",
+   "home": {
+    "id": 166585,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 268728,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930839,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T16:00:00.000Z",
+   "home": {
+    "id": 313740,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314866,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930840,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T14:00:00.000Z",
+   "home": {
+    "id": 166602,
+    "name": "TB 1888 Erlangen e. V.",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166585,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930841,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T12:00:00.000Z",
+   "home": {
+    "id": 314866,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166643,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930842,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-09-01",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-08-31T22:00:00.000Z",
+   "home": {
+    "id": 321534,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313740,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930843,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:00:00.000Z",
+   "home": {
+    "id": 268728,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 263802,
+    "name": "TV 1877 Lauf 1",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 80,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930844,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T12:00:00.000Z",
+   "home": {
+    "id": 268728,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321534,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930845,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T13:30:00.000Z",
+   "home": {
+    "id": 263802,
+    "name": "TV 1877 Lauf 1",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166602,
+    "name": "TB 1888 Erlangen e. V.",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930846,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T10:30:00.000Z",
+   "home": {
+    "id": 166643,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313740,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": 107,
+   "guestScore": 52,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930847,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T13:30:00.000Z",
+   "home": {
+    "id": 166585,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314866,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "homeScore": 92,
+   "guestScore": 40,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930848,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T12:30:00.000Z",
+   "home": {
+    "id": 313740,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166585,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": 39,
+   "guestScore": 110,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930849,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T10:00:00.000Z",
+   "home": {
+    "id": 321534,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166643,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930850,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T13:00:00.000Z",
+   "home": {
+    "id": 166602,
+    "name": "TB 1888 Erlangen e. V.",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 268728,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930851,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T15:00:00.000Z",
+   "home": {
+    "id": 314866,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 263802,
+    "name": "TV 1877 Lauf 1",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930852,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T13:00:00.000Z",
+   "home": {
+    "id": 166602,
+    "name": "TB 1888 Erlangen e. V.",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321534,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930853,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T10:00:00.000Z",
+   "home": {
+    "id": 166585,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166643,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930854,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-05-08",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-05-08T15:00:00.000Z",
+   "home": {
+    "id": 263802,
+    "name": "TV 1877 Lauf 1",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313740,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930855,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T13:00:00.000Z",
+   "home": {
+    "id": 268728,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314866,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930856,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T16:30:00.000Z",
+   "home": {
+    "id": 166585,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321534,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930857,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T11:00:00.000Z",
+   "home": {
+    "id": 314866,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166602,
+    "name": "TB 1888 Erlangen e. V.",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930858,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T13:30:00.000Z",
+   "home": {
+    "id": 313740,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 268728,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930859,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T10:30:00.000Z",
+   "home": {
+    "id": 166643,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 263802,
+    "name": "TV 1877 Lauf 1",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "homeScore": 70,
+   "guestScore": 60,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930860,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T13:30:00.000Z",
+   "home": {
+    "id": 263802,
+    "name": "TV 1877 Lauf 1",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166585,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930861,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T12:00:00.000Z",
+   "home": {
+    "id": 268728,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166643,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930862,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T12:00:00.000Z",
+   "home": {
+    "id": 166602,
+    "name": "TB 1888 Erlangen e. V.",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313740,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2930863,
+   "ligaId": 56210,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-07",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-07T18:00:00.000Z",
+   "home": {
+    "id": 321534,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314866,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

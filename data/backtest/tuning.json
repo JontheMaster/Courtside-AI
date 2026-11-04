@@ -1,0 +1,119 @@
+{
+ "createdAt": "2026-11-04T20:44:26.927Z",
+ "result": {
+  "elo/U14": {
+   "split": "2026-10-17T08:45:00.000Z",
+   "best": {
+    "k": 160,
+    "hfa": 60,
+    "eloPerPoint": 9,
+    "shrinkN0": 0.5
+   },
+   "trainBrier": 0.2299,
+   "testBrierDefault": 0.1979,
+   "testBrierTuned": 0.1983,
+   "testN": 190,
+   "adopted": false
+  },
+  "elo/U16": {
+   "split": "2026-10-17T09:30:00.000Z",
+   "best": {
+    "k": 160,
+    "hfa": 30,
+    "eloPerPoint": 9,
+    "shrinkN0": 0.5
+   },
+   "trainBrier": 0.2397,
+   "testBrierDefault": 0.2132,
+   "testBrierTuned": 0.2088,
+   "testN": 145,
+   "adopted": true
+  },
+  "elo/U18": {
+   "split": "2026-10-17T10:00:00.000Z",
+   "best": {
+    "k": 160,
+    "hfa": 60,
+    "eloPerPoint": 9,
+    "shrinkN0": 2
+   },
+   "trainBrier": 0.2332,
+   "testBrierDefault": 0.2136,
+   "testBrierTuned": 0.2255,
+   "testN": 93,
+   "adopted": false
+  },
+  "elo/U20": {
+   "skipped": "nur 11 Spiele"
+  },
+  "elo/Senioren": {
+   "split": "2026-10-17T13:00:00.000Z",
+   "best": {
+    "k": 128,
+    "hfa": 60,
+    "eloPerPoint": 20,
+    "shrinkN0": 0.5
+   },
+   "trainBrier": 0.2395,
+   "testBrierDefault": 0.2087,
+   "testBrierTuned": 0.2135,
+   "testN": 316,
+   "adopted": false
+  },
+  "rating/U14": {
+   "split": "2026-10-17T08:45:00.000Z",
+   "best": {
+    "lambda": 1,
+    "hfa0": 0,
+    "sigma0": 20
+   },
+   "trainBrier": 0.2096,
+   "testBrierDefault": 0.1703,
+   "testBrierTuned": 0.1696,
+   "testN": 190,
+   "adopted": true
+  },
+  "rating/U16": {
+   "split": "2026-10-17T09:30:00.000Z",
+   "best": {
+    "lambda": 1,
+    "hfa0": 0,
+    "sigma0": 20
+   },
+   "trainBrier": 0.2264,
+   "testBrierDefault": 0.1936,
+   "testBrierTuned": 0.1948,
+   "testN": 145,
+   "adopted": false
+  },
+  "rating/U18": {
+   "split": "2026-10-17T10:00:00.000Z",
+   "best": {
+    "lambda": 4,
+    "hfa0": 3,
+    "sigma0": 12
+   },
+   "trainBrier": 0.2232,
+   "testBrierDefault": 0.2011,
+   "testBrierTuned": 0.2158,
+   "testN": 93,
+   "adopted": false
+  },
+  "rating/U20": {
+   "skipped": "nur 11 Spiele"
+  },
+  "rating/Senioren": {
+   "split": "2026-10-17T13:00:00.000Z",
+   "best": {
+    "lambda": 1,
+    "hfa0": 3,
+    "sigma0": 20
+   },
+   "trainBrier": 0.2268,
+   "testBrierDefault": 0.2019,
+   "testBrierTuned": 0.2015,
+   "testN": 316,
+   "adopted": true
+  }
+ }
+}

@@ -1,0 +1,2538 @@
+{
+ "league": {
+  "ligaId": 55419,
+  "name": "Bezirksoberliga U20 ml (BOL20M) 2026/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U20",
+  "gender": "männlich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2903332,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T13:00:00.000Z",
+   "home": {
+    "id": 162732,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 322893,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": true,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903334,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-02",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-02T12:30:00.000Z",
+   "home": {
+    "id": 227350,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 322894,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903336,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T15:00:00.000Z",
+   "home": {
+    "id": 322892,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 321300,
+    "name": "Biberkor Basketball & Funsport e.V.",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903337,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T17:00:00.000Z",
+   "home": {
+    "id": 317458,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 242513,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": true,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903338,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-02",
+   "kickoffTime": "18:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-02T16:45:00.000Z",
+   "home": {
+    "id": 228706,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313005,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903339,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:45:00.000Z",
+   "home": {
+    "id": 242513,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322892,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903340,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T17:00:00.000Z",
+   "home": {
+    "id": 321300,
+    "name": "Biberkor Basketball & Funsport e.V.",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227350,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903341,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:30:00.000Z",
+   "home": {
+    "id": 322894,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228706,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903342,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T17:00:00.000Z",
+   "home": {
+    "id": 313005,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162732,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": true,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903343,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T12:30:00.000Z",
+   "home": {
+    "id": 322893,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317458,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": 83,
+   "guestScore": 33,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903344,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T15:30:00.000Z",
+   "home": {
+    "id": 162732,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 317458,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": true,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903345,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-16",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-16T12:30:00.000Z",
+   "home": {
+    "id": 227350,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 242513,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903346,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T15:00:00.000Z",
+   "home": {
+    "id": 322892,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 322893,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903347,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T18:00:00.000Z",
+   "home": {
+    "id": 313005,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322894,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": 73,
+   "guestScore": 72,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903348,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T15:30:00.000Z",
+   "home": {
+    "id": 228706,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321300,
+    "name": "Biberkor Basketball & Funsport e.V.",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "homeScore": 117,
+   "guestScore": 62,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903349,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:45:00.000Z",
+   "home": {
+    "id": 242513,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228706,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903350,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T17:00:00.000Z",
+   "home": {
+    "id": 321300,
+    "name": "Biberkor Basketball & Funsport e.V.",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313005,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": 0,
+   "guestScore": 0,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903351,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:30:00.000Z",
+   "home": {
+    "id": 322894,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162732,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903352,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T17:00:00.000Z",
+   "home": {
+    "id": 317458,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322892,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903353,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T13:30:00.000Z",
+   "home": {
+    "id": 322893,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227350,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903354,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T16:30:00.000Z",
+   "home": {
+    "id": 162732,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 322892,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903355,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-13",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-13T13:30:00.000Z",
+   "home": {
+    "id": 227350,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 317458,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903356,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T16:30:00.000Z",
+   "home": {
+    "id": 322894,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321300,
+    "name": "Biberkor Basketball & Funsport e.V.",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903357,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-13",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-12T23:00:00.000Z",
+   "home": {
+    "id": 313005,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 242513,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903358,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T13:00:00.000Z",
+   "home": {
+    "id": 228706,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322893,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903359,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T14:30:00.000Z",
+   "home": {
+    "id": 242513,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322894,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903360,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T11:00:00.000Z",
+   "home": {
+    "id": 321300,
+    "name": "Biberkor Basketball & Funsport e.V.",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162732,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903361,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T16:00:00.000Z",
+   "home": {
+    "id": 322892,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 227350,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903362,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T18:00:00.000Z",
+   "home": {
+    "id": 317458,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228706,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903363,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T13:30:00.000Z",
+   "home": {
+    "id": 322893,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313005,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903364,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-27",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-26T23:00:00.000Z",
+   "home": {
+    "id": 162732,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 227350,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903365,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T17:30:00.000Z",
+   "home": {
+    "id": 321300,
+    "name": "Biberkor Basketball & Funsport e.V.",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 242513,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903366,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T16:30:00.000Z",
+   "home": {
+    "id": 322894,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322893,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903367,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T16:30:00.000Z",
+   "home": {
+    "id": 313005,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317458,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903368,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T16:30:00.000Z",
+   "home": {
+    "id": 228706,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322892,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903369,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T16:30:00.000Z",
+   "home": {
+    "id": 162732,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 242513,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903370,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-04",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-04T13:30:00.000Z",
+   "home": {
+    "id": 227350,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 228706,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903371,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T16:00:00.000Z",
+   "home": {
+    "id": 322892,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 313005,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903372,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T18:00:00.000Z",
+   "home": {
+    "id": 317458,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322894,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903373,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T13:30:00.000Z",
+   "home": {
+    "id": 322893,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321300,
+    "name": "Biberkor Basketball & Funsport e.V.",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903374,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "17:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T16:45:00.000Z",
+   "home": {
+    "id": 242513,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322893,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903375,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T11:00:00.000Z",
+   "home": {
+    "id": 321300,
+    "name": "Biberkor Basketball & Funsport e.V.",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317458,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903376,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T16:30:00.000Z",
+   "home": {
+    "id": 322894,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322892,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903377,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-11",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-12-10T23:00:00.000Z",
+   "home": {
+    "id": 212136,
+    "name": "TSV 1860 Rosenheim",
+    "clubId": 805,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 227350,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903378,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T14:00:00.000Z",
+   "home": {
+    "id": 228706,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162732,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903379,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T13:30:00.000Z",
+   "home": {
+    "id": 322893,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162732,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903380,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:30:00.000Z",
+   "home": {
+    "id": 322894,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227350,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903381,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T11:15:00.000Z",
+   "home": {
+    "id": 321300,
+    "name": "Biberkor Basketball & Funsport e.V.",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322892,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903382,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:45:00.000Z",
+   "home": {
+    "id": 242513,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317458,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903383,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-15",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-14T23:00:00.000Z",
+   "home": {
+    "id": 313005,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228706,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903384,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T16:00:00.000Z",
+   "home": {
+    "id": 322892,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 242513,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903385,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-22",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-22T13:30:00.000Z",
+   "home": {
+    "id": 227350,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 321300,
+    "name": "Biberkor Basketball & Funsport e.V.",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903386,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T13:00:00.000Z",
+   "home": {
+    "id": 228706,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322894,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903387,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T17:30:00.000Z",
+   "home": {
+    "id": 162732,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 313005,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903388,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T18:00:00.000Z",
+   "home": {
+    "id": 317458,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322893,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903389,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T18:00:00.000Z",
+   "home": {
+    "id": 317458,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162732,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903390,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "17:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T16:45:00.000Z",
+   "home": {
+    "id": 242513,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227350,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903391,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T13:30:00.000Z",
+   "home": {
+    "id": 322893,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322892,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903392,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T16:30:00.000Z",
+   "home": {
+    "id": 322894,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313005,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903393,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T17:30:00.000Z",
+   "home": {
+    "id": 321300,
+    "name": "Biberkor Basketball & Funsport e.V.",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228706,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903394,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-19",
+   "kickoffTime": "18:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-19T17:45:00.000Z",
+   "home": {
+    "id": 228706,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 242513,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903395,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-19",
+   "kickoffTime": "20:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-19T19:15:00.000Z",
+   "home": {
+    "id": 313005,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321300,
+    "name": "Biberkor Basketball & Funsport e.V.",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903396,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T16:30:00.000Z",
+   "home": {
+    "id": 162732,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 322894,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903397,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T16:00:00.000Z",
+   "home": {
+    "id": 322892,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 317458,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903398,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-19",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-19T13:30:00.000Z",
+   "home": {
+    "id": 227350,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 322893,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903399,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T16:00:00.000Z",
+   "home": {
+    "id": 322892,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 162732,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903400,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T18:00:00.000Z",
+   "home": {
+    "id": 317458,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227350,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903401,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T17:30:00.000Z",
+   "home": {
+    "id": 321300,
+    "name": "Biberkor Basketball & Funsport e.V.",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322894,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903402,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T15:30:00.000Z",
+   "home": {
+    "id": 242513,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313005,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903404,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T13:30:00.000Z",
+   "home": {
+    "id": 322893,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228706,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903406,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T16:30:00.000Z",
+   "home": {
+    "id": 322894,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 242513,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903408,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T16:30:00.000Z",
+   "home": {
+    "id": 162732,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 321300,
+    "name": "Biberkor Basketball & Funsport e.V.",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903410,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-05",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-05T13:30:00.000Z",
+   "home": {
+    "id": 227350,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 322892,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903412,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-05",
+   "kickoffTime": "18:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-05T17:45:00.000Z",
+   "home": {
+    "id": 228706,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317458,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903414,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T16:30:00.000Z",
+   "home": {
+    "id": 313005,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322893,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903416,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-12",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-12T13:30:00.000Z",
+   "home": {
+    "id": 227350,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 162732,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903418,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "17:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T16:45:00.000Z",
+   "home": {
+    "id": 242513,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321300,
+    "name": "Biberkor Basketball & Funsport e.V.",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903420,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T13:30:00.000Z",
+   "home": {
+    "id": 322893,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322894,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903422,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T18:00:00.000Z",
+   "home": {
+    "id": 317458,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313005,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903424,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T16:00:00.000Z",
+   "home": {
+    "id": 322892,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 228706,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903426,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "17:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T15:45:00.000Z",
+   "home": {
+    "id": 242513,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162732,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903428,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-09",
+   "kickoffTime": "18:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-09T16:45:00.000Z",
+   "home": {
+    "id": 228706,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227350,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903430,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T10:00:00.000Z",
+   "home": {
+    "id": 313005,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322892,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903432,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T15:30:00.000Z",
+   "home": {
+    "id": 322894,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317458,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903434,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T10:00:00.000Z",
+   "home": {
+    "id": 321300,
+    "name": "Biberkor Basketball & Funsport e.V.",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322893,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903436,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T12:30:00.000Z",
+   "home": {
+    "id": 322893,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 242513,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903438,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T17:00:00.000Z",
+   "home": {
+    "id": 317458,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321300,
+    "name": "Biberkor Basketball & Funsport e.V.",
+    "clubId": 5247,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903440,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T11:00:00.000Z",
+   "home": {
+    "id": 322892,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 322894,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903442,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-16",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-16T12:30:00.000Z",
+   "home": {
+    "id": 227350,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 212136,
+    "name": "TSV 1860 Rosenheim",
+    "clubId": 805,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903443,
+   "ligaId": 55419,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T15:30:00.000Z",
+   "home": {
+    "id": 162732,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 228706,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  }
+ ]
+}

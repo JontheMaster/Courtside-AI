@@ -1,0 +1,19 @@
+{
+  "name": "courtside-ai",
+  "version": "0.1.0",
+  "private": true,
+  "description": "COURTSIDE AI – Basketball Prediction Engine für die Spiele des Post SV Nürnberg (TeamSL-Daten)",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "sync": "node scripts/cli.js sync",
+    "predict": "node scripts/cli.js predict",
+    "backtest": "node scripts/cli.js backtest",
+    "tune": "node scripts/cli.js tune",
+    "build": "node scripts/cli.js build",
+    "update": "node scripts/cli.js update",
+    "verify": "node scripts/cli.js verify",
+    "serve": "node scripts/serve.js",
+    "test": "node --test \"test/*.test.js\""
+  }
+}

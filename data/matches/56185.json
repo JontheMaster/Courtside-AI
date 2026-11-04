@@ -1,0 +1,1194 @@
+{
+ "league": {
+  "ligaId": 56185,
+  "name": "MFR U14m Kreisliga Mitte",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U14",
+  "gender": "männlich",
+  "level": "Kreisliga",
+  "levelScope": "Kreis",
+  "verbandId": 2,
+  "bezirk": "Mittelfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2929813,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T13:00:00.000Z",
+   "home": {
+    "id": 323226,
+    "name": "Nürnberg Falcons 4",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166663,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929814,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T12:00:00.000Z",
+   "home": {
+    "id": 166616,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313109,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929816,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T09:00:00.000Z",
+   "home": {
+    "id": 313109,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323226,
+    "name": "Nürnberg Falcons 4",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929818,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T13:00:00.000Z",
+   "home": {
+    "id": 166579,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 266881,
+    "name": "Flügelrad Nürnberg",
+    "clubId": 1727,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929820,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T15:30:00.000Z",
+   "home": {
+    "id": 266881,
+    "name": "Flügelrad Nürnberg",
+    "clubId": 1727,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 166616,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929822,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T11:00:00.000Z",
+   "home": {
+    "id": 166579,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166663,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929824,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T10:30:00.000Z",
+   "home": {
+    "id": 313109,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166579,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "homeScore": 84,
+   "guestScore": 46,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929825,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T12:00:00.000Z",
+   "home": {
+    "id": 166663,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 266881,
+    "name": "Flügelrad Nürnberg",
+    "clubId": 1727,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929826,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T13:00:00.000Z",
+   "home": {
+    "id": 166616,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323226,
+    "name": "Nürnberg Falcons 4",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929828,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T12:00:00.000Z",
+   "home": {
+    "id": 266881,
+    "name": "Flügelrad Nürnberg",
+    "clubId": 1727,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 323226,
+    "name": "Nürnberg Falcons 4",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929829,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T16:00:00.000Z",
+   "home": {
+    "id": 166663,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313109,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929832,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T14:00:00.000Z",
+   "home": {
+    "id": 266881,
+    "name": "Flügelrad Nürnberg",
+    "clubId": 1727,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 313109,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929834,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T12:00:00.000Z",
+   "home": {
+    "id": 166616,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166579,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "homeScore": 71,
+   "guestScore": 40,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929837,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T12:00:00.000Z",
+   "home": {
+    "id": 166663,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166616,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929838,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T15:30:00.000Z",
+   "home": {
+    "id": 166579,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323226,
+    "name": "Nürnberg Falcons 4",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929841,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T14:00:00.000Z",
+   "home": {
+    "id": 166663,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323226,
+    "name": "Nürnberg Falcons 4",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929842,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T10:30:00.000Z",
+   "home": {
+    "id": 313109,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166616,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "homeScore": 63,
+   "guestScore": 66,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929844,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T14:00:00.000Z",
+   "home": {
+    "id": 323226,
+    "name": "Nürnberg Falcons 4",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313109,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929846,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-11-01",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-01T16:30:00.000Z",
+   "home": {
+    "id": 266881,
+    "name": "Flügelrad Nürnberg",
+    "clubId": 1727,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 166579,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929848,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T15:30:00.000Z",
+   "home": {
+    "id": 166616,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 266881,
+    "name": "Flügelrad Nürnberg",
+    "clubId": 1727,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929850,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T11:00:00.000Z",
+   "home": {
+    "id": 166663,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166579,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929852,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T12:00:00.000Z",
+   "home": {
+    "id": 166579,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313109,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929853,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T12:30:00.000Z",
+   "home": {
+    "id": 266881,
+    "name": "Flügelrad Nürnberg",
+    "clubId": 1727,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 166663,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929854,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T14:00:00.000Z",
+   "home": {
+    "id": 323226,
+    "name": "Nürnberg Falcons 4",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166616,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "homeScore": 49,
+   "guestScore": 53,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929856,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T13:00:00.000Z",
+   "home": {
+    "id": 323226,
+    "name": "Nürnberg Falcons 4",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 266881,
+    "name": "Flügelrad Nürnberg",
+    "clubId": 1727,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929857,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T11:30:00.000Z",
+   "home": {
+    "id": 313109,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166663,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929860,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T16:30:00.000Z",
+   "home": {
+    "id": 313109,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 266881,
+    "name": "Flügelrad Nürnberg",
+    "clubId": 1727,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929862,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T09:00:00.000Z",
+   "home": {
+    "id": 166579,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166616,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929865,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T14:30:00.000Z",
+   "home": {
+    "id": 166616,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166663,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929866,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T13:00:00.000Z",
+   "home": {
+    "id": 323226,
+    "name": "Nürnberg Falcons 4",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166579,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986028,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T14:00:00.000Z",
+   "home": {
+    "id": 323226,
+    "name": "Nürnberg Falcons 4",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317832,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": 78,
+   "guestScore": 63,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986029,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T12:00:00.000Z",
+   "home": {
+    "id": 166616,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317832,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 46,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986030,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T09:00:00.000Z",
+   "home": {
+    "id": 313109,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317832,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986031,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T11:30:00.000Z",
+   "home": {
+    "id": 166579,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317832,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986032,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T11:00:00.000Z",
+   "home": {
+    "id": 317832,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 266881,
+    "name": "Flügelrad Nürnberg",
+    "clubId": 1727,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986033,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T10:30:00.000Z",
+   "home": {
+    "id": 317832,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166663,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986034,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "16:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T15:15:00.000Z",
+   "home": {
+    "id": 317832,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323226,
+    "name": "Nürnberg Falcons 4",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986035,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T13:30:00.000Z",
+   "home": {
+    "id": 317832,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313109,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986036,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T11:00:00.000Z",
+   "home": {
+    "id": 317832,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166616,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986037,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T12:00:00.000Z",
+   "home": {
+    "id": 317832,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166579,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986038,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T13:00:00.000Z",
+   "home": {
+    "id": 266881,
+    "name": "Flügelrad Nürnberg",
+    "clubId": 1727,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 317832,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986039,
+   "ligaId": 56185,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T11:00:00.000Z",
+   "home": {
+    "id": 166663,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317832,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

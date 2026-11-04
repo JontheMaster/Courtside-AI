@@ -1,0 +1,858 @@
+{
+ "league": {
+  "ligaId": 54487,
+  "name": "Bezirksliga U18 männlich Süd 26/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U18",
+  "gender": "männlich",
+  "level": "Bezirksliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Schwaben",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2925857,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T14:00:00.000Z",
+   "home": {
+    "id": 228808,
+    "name": "TSV Haunstetten 1892 a.K.",
+    "clubId": 1056,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 202726,
+    "name": "TSV Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925859,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T12:00:00.000Z",
+   "home": {
+    "id": 163578,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163568,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925861,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T14:00:00.000Z",
+   "home": {
+    "id": 314290,
+    "name": "BG Illertal 2",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198216,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925863,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T10:15:00.000Z",
+   "home": {
+    "id": 163568,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314290,
+    "name": "BG Illertal 2",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": 84,
+   "guestScore": 29,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925865,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T13:30:00.000Z",
+   "home": {
+    "id": 198216,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228808,
+    "name": "TSV Haunstetten 1892 a.K.",
+    "clubId": 1056,
+    "forfeit": false
+   },
+   "homeScore": 49,
+   "guestScore": 24,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925867,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T14:30:00.000Z",
+   "home": {
+    "id": 202726,
+    "name": "TSV Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163578,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925869,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-06T14:00:00.000Z",
+   "home": {
+    "id": 228808,
+    "name": "TSV Haunstetten 1892 a.K.",
+    "clubId": 1056,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163578,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925871,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T13:30:00.000Z",
+   "home": {
+    "id": 198216,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163568,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "homeScore": 67,
+   "guestScore": 73,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925873,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T10:15:00.000Z",
+   "home": {
+    "id": 314290,
+    "name": "BG Illertal 2",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 202726,
+    "name": "TSV Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925875,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T15:00:00.000Z",
+   "home": {
+    "id": 228808,
+    "name": "TSV Haunstetten 1892 a.K.",
+    "clubId": 1056,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163568,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925877,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T14:30:00.000Z",
+   "home": {
+    "id": 163578,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314290,
+    "name": "BG Illertal 2",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925879,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T14:30:00.000Z",
+   "home": {
+    "id": 202726,
+    "name": "TSV Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198216,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925881,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T15:45:00.000Z",
+   "home": {
+    "id": 163568,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 202726,
+    "name": "TSV Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925883,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T14:30:00.000Z",
+   "home": {
+    "id": 198216,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163578,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925885,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T11:15:00.000Z",
+   "home": {
+    "id": 314290,
+    "name": "BG Illertal 2",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228808,
+    "name": "TSV Haunstetten 1892 a.K.",
+    "clubId": 1056,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925887,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T14:30:00.000Z",
+   "home": {
+    "id": 202726,
+    "name": "TSV Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228808,
+    "name": "TSV Haunstetten 1892 a.K.",
+    "clubId": 1056,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925889,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T15:45:00.000Z",
+   "home": {
+    "id": 163568,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163578,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925891,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T14:30:00.000Z",
+   "home": {
+    "id": 198216,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314290,
+    "name": "BG Illertal 2",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925893,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T11:15:00.000Z",
+   "home": {
+    "id": 314290,
+    "name": "BG Illertal 2",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163568,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925895,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T16:00:00.000Z",
+   "home": {
+    "id": 228808,
+    "name": "TSV Haunstetten 1892 a.K.",
+    "clubId": 1056,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198216,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925897,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T17:00:00.000Z",
+   "home": {
+    "id": 163578,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 202726,
+    "name": "TSV Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925899,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T15:30:00.000Z",
+   "home": {
+    "id": 163578,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228808,
+    "name": "TSV Haunstetten 1892 a.K.",
+    "clubId": 1056,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925901,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T13:30:00.000Z",
+   "home": {
+    "id": 163568,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198216,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925903,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T14:30:00.000Z",
+   "home": {
+    "id": 202726,
+    "name": "TSV Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314290,
+    "name": "BG Illertal 2",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925905,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T13:30:00.000Z",
+   "home": {
+    "id": 163568,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228808,
+    "name": "TSV Haunstetten 1892 a.K.",
+    "clubId": 1056,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925907,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T13:30:00.000Z",
+   "home": {
+    "id": 314290,
+    "name": "BG Illertal 2",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163578,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925909,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T12:00:00.000Z",
+   "home": {
+    "id": 198216,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 202726,
+    "name": "TSV Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925911,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T14:30:00.000Z",
+   "home": {
+    "id": 202726,
+    "name": "TSV Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163568,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925913,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T15:30:00.000Z",
+   "home": {
+    "id": 163578,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198216,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925915,
+   "ligaId": 54487,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T15:00:00.000Z",
+   "home": {
+    "id": 228808,
+    "name": "TSV Haunstetten 1892 a.K.",
+    "clubId": 1056,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314290,
+    "name": "BG Illertal 2",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

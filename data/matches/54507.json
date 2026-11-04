@@ -1,0 +1,858 @@
+{
+ "league": {
+  "ligaId": 54507,
+  "name": "Bezirksklasse Herren Nord 26/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Bezirksklasse",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Schwaben",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2924628,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T18:00:00.000Z",
+   "home": {
+    "id": 163595,
+    "name": "TSV Etting-Ingolstadt 2",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163594,
+    "name": "SSV Schrobenhausen 3",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": 46,
+   "guestScore": 78,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924629,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T14:00:00.000Z",
+   "home": {
+    "id": 231444,
+    "name": "PSV Ingolstadt 2",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323057,
+    "name": "DJK Eichstätt 2",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "homeScore": 79,
+   "guestScore": 59,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924630,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T15:30:00.000Z",
+   "home": {
+    "id": 236818,
+    "name": "TSV 1862 Neuburg 2",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163592,
+    "name": "MTV Baskets Ingolstadt 2",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": 73,
+   "guestScore": 47,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924631,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T12:30:00.000Z",
+   "home": {
+    "id": 323057,
+    "name": "DJK Eichstätt 2",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 236818,
+    "name": "TSV 1862 Neuburg 2",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "homeScore": 51,
+   "guestScore": 69,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924632,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T15:30:00.000Z",
+   "home": {
+    "id": 163592,
+    "name": "MTV Baskets Ingolstadt 2",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163595,
+    "name": "TSV Etting-Ingolstadt 2",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": 71,
+   "guestScore": 42,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924633,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T15:00:00.000Z",
+   "home": {
+    "id": 163594,
+    "name": "SSV Schrobenhausen 3",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 231444,
+    "name": "PSV Ingolstadt 2",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": 73,
+   "guestScore": 45,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924634,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:00:00.000Z",
+   "home": {
+    "id": 163595,
+    "name": "TSV Etting-Ingolstadt 2",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 231444,
+    "name": "PSV Ingolstadt 2",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": 38,
+   "guestScore": 85,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924635,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T15:30:00.000Z",
+   "home": {
+    "id": 163592,
+    "name": "MTV Baskets Ingolstadt 2",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323057,
+    "name": "DJK Eichstätt 2",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "homeScore": 78,
+   "guestScore": 37,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924636,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T16:30:00.000Z",
+   "home": {
+    "id": 236818,
+    "name": "TSV 1862 Neuburg 2",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163594,
+    "name": "SSV Schrobenhausen 3",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924637,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T19:00:00.000Z",
+   "home": {
+    "id": 163595,
+    "name": "TSV Etting-Ingolstadt 2",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323057,
+    "name": "DJK Eichstätt 2",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924638,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T16:30:00.000Z",
+   "home": {
+    "id": 231444,
+    "name": "PSV Ingolstadt 2",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 236818,
+    "name": "TSV 1862 Neuburg 2",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924639,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T16:00:00.000Z",
+   "home": {
+    "id": 163594,
+    "name": "SSV Schrobenhausen 3",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163592,
+    "name": "MTV Baskets Ingolstadt 2",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924640,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T16:00:00.000Z",
+   "home": {
+    "id": 323057,
+    "name": "DJK Eichstätt 2",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163594,
+    "name": "SSV Schrobenhausen 3",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924641,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T16:30:00.000Z",
+   "home": {
+    "id": 163592,
+    "name": "MTV Baskets Ingolstadt 2",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 231444,
+    "name": "PSV Ingolstadt 2",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924642,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T19:00:00.000Z",
+   "home": {
+    "id": 236818,
+    "name": "TSV 1862 Neuburg 2",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163595,
+    "name": "TSV Etting-Ingolstadt 2",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924643,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T16:00:00.000Z",
+   "home": {
+    "id": 163594,
+    "name": "SSV Schrobenhausen 3",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163595,
+    "name": "TSV Etting-Ingolstadt 2",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924644,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T16:30:00.000Z",
+   "home": {
+    "id": 323057,
+    "name": "DJK Eichstätt 2",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 231444,
+    "name": "PSV Ingolstadt 2",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924645,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T16:30:00.000Z",
+   "home": {
+    "id": 163592,
+    "name": "MTV Baskets Ingolstadt 2",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 236818,
+    "name": "TSV 1862 Neuburg 2",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924646,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T16:30:00.000Z",
+   "home": {
+    "id": 236818,
+    "name": "TSV 1862 Neuburg 2",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323057,
+    "name": "DJK Eichstätt 2",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924647,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T19:00:00.000Z",
+   "home": {
+    "id": 163595,
+    "name": "TSV Etting-Ingolstadt 2",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163592,
+    "name": "MTV Baskets Ingolstadt 2",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924648,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T18:00:00.000Z",
+   "home": {
+    "id": 231444,
+    "name": "PSV Ingolstadt 2",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163594,
+    "name": "SSV Schrobenhausen 3",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924649,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T14:00:00.000Z",
+   "home": {
+    "id": 231444,
+    "name": "PSV Ingolstadt 2",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163595,
+    "name": "TSV Etting-Ingolstadt 2",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924650,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:00:00.000Z",
+   "home": {
+    "id": 323057,
+    "name": "DJK Eichstätt 2",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163592,
+    "name": "MTV Baskets Ingolstadt 2",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924651,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T18:45:00.000Z",
+   "home": {
+    "id": 163594,
+    "name": "SSV Schrobenhausen 3",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 236818,
+    "name": "TSV 1862 Neuburg 2",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924652,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T16:00:00.000Z",
+   "home": {
+    "id": 323057,
+    "name": "DJK Eichstätt 2",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163595,
+    "name": "TSV Etting-Ingolstadt 2",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924653,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T16:30:00.000Z",
+   "home": {
+    "id": 236818,
+    "name": "TSV 1862 Neuburg 2",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 231444,
+    "name": "PSV Ingolstadt 2",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924654,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T16:30:00.000Z",
+   "home": {
+    "id": 163592,
+    "name": "MTV Baskets Ingolstadt 2",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163594,
+    "name": "SSV Schrobenhausen 3",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924655,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T16:00:00.000Z",
+   "home": {
+    "id": 163594,
+    "name": "SSV Schrobenhausen 3",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323057,
+    "name": "DJK Eichstätt 2",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924656,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T15:00:00.000Z",
+   "home": {
+    "id": 231444,
+    "name": "PSV Ingolstadt 2",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163592,
+    "name": "MTV Baskets Ingolstadt 2",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924657,
+   "ligaId": 54507,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T19:00:00.000Z",
+   "home": {
+    "id": 163595,
+    "name": "TSV Etting-Ingolstadt 2",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 236818,
+    "name": "TSV 1862 Neuburg 2",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

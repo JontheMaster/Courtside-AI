@@ -1,0 +1,298 @@
+{
+ "league": {
+  "ligaId": 54350,
+  "name": "Landesliga U18 m Einteilungsrunde Ost",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U18",
+  "gender": "männlich",
+  "level": "Landesliga",
+  "levelScope": "Verband",
+  "verbandId": 2,
+  "bezirk": null,
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2911243,
+   "ligaId": 54350,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T08:00:00.000Z",
+   "home": {
+    "id": 166619,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320846,
+    "name": "Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "homeScore": 88,
+   "guestScore": 51,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911247,
+   "ligaId": 54350,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T09:30:00.000Z",
+   "home": {
+    "id": 320846,
+    "name": "Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166596,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911250,
+   "ligaId": 54350,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T16:00:00.000Z",
+   "home": {
+    "id": 266883,
+    "name": "ESV Flügelrad Baskets Nürnberg",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313105,
+    "name": "Frankonia Baskets Nürnberg",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": 78,
+   "guestScore": 73,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911255,
+   "ligaId": 54350,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T16:00:00.000Z",
+   "home": {
+    "id": 320846,
+    "name": "Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 266883,
+    "name": "ESV Flügelrad Baskets Nürnberg",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911256,
+   "ligaId": 54350,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T11:30:00.000Z",
+   "home": {
+    "id": 313105,
+    "name": "Frankonia Baskets Nürnberg",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166619,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": 55,
+   "guestScore": 99,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911258,
+   "ligaId": 54350,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T10:00:00.000Z",
+   "home": {
+    "id": 266883,
+    "name": "ESV Flügelrad Baskets Nürnberg",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166619,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": 0,
+   "guestScore": 20,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911261,
+   "ligaId": 54350,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T16:00:00.000Z",
+   "home": {
+    "id": 166596,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313105,
+    "name": "Frankonia Baskets Nürnberg",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911263,
+   "ligaId": 54350,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T16:30:00.000Z",
+   "home": {
+    "id": 166619,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166596,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911267,
+   "ligaId": 54350,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T09:00:00.000Z",
+   "home": {
+    "id": 320846,
+    "name": "Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313105,
+    "name": "Frankonia Baskets Nürnberg",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911269,
+   "ligaId": 54350,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T16:00:00.000Z",
+   "home": {
+    "id": 166596,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 266883,
+    "name": "ESV Flügelrad Baskets Nürnberg",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

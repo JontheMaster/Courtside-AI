@@ -1,0 +1,1194 @@
+{
+ "league": {
+  "ligaId": 53791,
+  "name": "Bezirksoberliga U14 wbl (bol14w) 2026/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U14",
+  "gender": "weiblich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2900156,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T12:30:00.000Z",
+   "home": {
+    "id": 215840,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310518,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": 73,
+   "guestScore": 6,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900158,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T12:30:00.000Z",
+   "home": {
+    "id": 238591,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310483,
+    "name": "FV Jahn München 2",
+    "clubId": 4482,
+    "forfeit": false
+   },
+   "homeScore": 40,
+   "guestScore": 67,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900162,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T08:00:00.000Z",
+   "home": {
+    "id": 310483,
+    "name": "FV Jahn München 2",
+    "clubId": 4482,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312189,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900165,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T15:00:00.000Z",
+   "home": {
+    "id": 310518,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317459,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": 16,
+   "guestScore": 59,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900166,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T10:15:00.000Z",
+   "home": {
+    "id": 215840,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317459,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": 62,
+   "guestScore": 42,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900168,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T12:30:00.000Z",
+   "home": {
+    "id": 238591,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310518,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 39,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900170,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T08:00:00.000Z",
+   "home": {
+    "id": 189429,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310483,
+    "name": "FV Jahn München 2",
+    "clubId": 4482,
+    "forfeit": false
+   },
+   "homeScore": 28,
+   "guestScore": 83,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900174,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T14:00:00.000Z",
+   "home": {
+    "id": 317459,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238591,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": 27,
+   "guestScore": 50,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900175,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T11:00:00.000Z",
+   "home": {
+    "id": 310518,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312189,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": 41,
+   "guestScore": 92,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900176,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T10:15:00.000Z",
+   "home": {
+    "id": 215840,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238591,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": 64,
+   "guestScore": 27,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900177,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T13:45:00.000Z",
+   "home": {
+    "id": 312189,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317459,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900180,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T11:30:00.000Z",
+   "home": {
+    "id": 189429,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310518,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900182,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T09:00:00.000Z",
+   "home": {
+    "id": 310483,
+    "name": "FV Jahn München 2",
+    "clubId": 4482,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 215840,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900183,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T15:00:00.000Z",
+   "home": {
+    "id": 238591,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312189,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900184,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T14:00:00.000Z",
+   "home": {
+    "id": 317459,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 189429,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900186,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T13:30:00.000Z",
+   "home": {
+    "id": 215840,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312189,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900190,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T11:15:00.000Z",
+   "home": {
+    "id": 189429,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238591,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900192,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T13:45:00.000Z",
+   "home": {
+    "id": 312189,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 189429,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900195,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T11:00:00.000Z",
+   "home": {
+    "id": 310518,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310483,
+    "name": "FV Jahn München 2",
+    "clubId": 4482,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900197,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "11:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T10:45:00.000Z",
+   "home": {
+    "id": 310483,
+    "name": "FV Jahn München 2",
+    "clubId": 4482,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317459,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900200,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T10:15:00.000Z",
+   "home": {
+    "id": 189429,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 215840,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": 33,
+   "guestScore": 82,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900201,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T13:30:00.000Z",
+   "home": {
+    "id": 310518,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 215840,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900203,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T10:00:00.000Z",
+   "home": {
+    "id": 310483,
+    "name": "FV Jahn München 2",
+    "clubId": 4482,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238591,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900207,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T13:45:00.000Z",
+   "home": {
+    "id": 312189,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310483,
+    "name": "FV Jahn München 2",
+    "clubId": 4482,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900210,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T09:00:00.000Z",
+   "home": {
+    "id": 317459,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310518,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900211,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T14:00:00.000Z",
+   "home": {
+    "id": 317459,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 215840,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900213,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T11:15:00.000Z",
+   "home": {
+    "id": 310518,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238591,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900215,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T10:00:00.000Z",
+   "home": {
+    "id": 310483,
+    "name": "FV Jahn München 2",
+    "clubId": 4482,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 189429,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900219,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T09:00:00.000Z",
+   "home": {
+    "id": 238591,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317459,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900220,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T13:45:00.000Z",
+   "home": {
+    "id": 312189,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310518,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900221,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T11:15:00.000Z",
+   "home": {
+    "id": 238591,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 215840,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900222,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T11:30:00.000Z",
+   "home": {
+    "id": 317459,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312189,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900225,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T11:15:00.000Z",
+   "home": {
+    "id": 310518,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 189429,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900227,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T11:15:00.000Z",
+   "home": {
+    "id": 215840,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310483,
+    "name": "FV Jahn München 2",
+    "clubId": 4482,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900228,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "09:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T08:45:00.000Z",
+   "home": {
+    "id": 312189,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238591,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900229,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T16:00:00.000Z",
+   "home": {
+    "id": 189429,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317459,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900231,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T13:45:00.000Z",
+   "home": {
+    "id": 312189,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 215840,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900235,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T09:00:00.000Z",
+   "home": {
+    "id": 238591,
+    "name": "TSV Wasserburg",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 189429,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900237,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T14:45:00.000Z",
+   "home": {
+    "id": 189429,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312189,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900240,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T08:00:00.000Z",
+   "home": {
+    "id": 310483,
+    "name": "FV Jahn München 2",
+    "clubId": 4482,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310518,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900242,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T13:00:00.000Z",
+   "home": {
+    "id": 317459,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310483,
+    "name": "FV Jahn München 2",
+    "clubId": 4482,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900245,
+   "ligaId": 53791,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T10:15:00.000Z",
+   "home": {
+    "id": 215840,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 189429,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

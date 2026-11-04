@@ -1,0 +1,2538 @@
+{
+ "league": {
+  "ligaId": 53802,
+  "name": "West - Kreisliga U14m (WE-KL14M) 2026/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U14",
+  "gender": "männlich",
+  "level": "Kreisliga",
+  "levelScope": "Kreis",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2910335,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T09:00:00.000Z",
+   "home": {
+    "id": 287753,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165500,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "homeScore": 60,
+   "guestScore": 26,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910336,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T11:15:00.000Z",
+   "home": {
+    "id": 165531,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213714,
+    "name": "TSV 1880 Starnberg",
+    "clubId": 833,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910337,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T09:00:00.000Z",
+   "home": {
+    "id": 165492,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309730,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910338,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T12:30:00.000Z",
+   "home": {
+    "id": 180834,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316276,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": 79,
+   "guestScore": 32,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910339,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T10:15:00.000Z",
+   "home": {
+    "id": 235394,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316274,
+    "name": "TSV Gräfelfing e. V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": 52,
+   "guestScore": 72,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910340,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "09:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T07:00:00.000Z",
+   "home": {
+    "id": 316276,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165492,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": 20,
+   "guestScore": 125,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910341,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T13:00:00.000Z",
+   "home": {
+    "id": 309730,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165531,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": 127,
+   "guestScore": 11,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910342,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T08:00:00.000Z",
+   "home": {
+    "id": 213714,
+    "name": "TSV 1880 Starnberg",
+    "clubId": 833,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235394,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": 117,
+   "guestScore": 28,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910343,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "09:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T07:00:00.000Z",
+   "home": {
+    "id": 316274,
+    "name": "TSV Gräfelfing e. V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 287753,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "homeScore": 20,
+   "guestScore": 0,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910344,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T10:15:00.000Z",
+   "home": {
+    "id": 165500,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180834,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": 35,
+   "guestScore": 85,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910345,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T09:00:00.000Z",
+   "home": {
+    "id": 287753,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180834,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": 64,
+   "guestScore": 70,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910346,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T10:15:00.000Z",
+   "home": {
+    "id": 165531,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316276,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": 56,
+   "guestScore": 46,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910347,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "09:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T07:45:00.000Z",
+   "home": {
+    "id": 165492,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165500,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "homeScore": 138,
+   "guestScore": 31,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910348,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "09:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T08:00:00.000Z",
+   "home": {
+    "id": 316274,
+    "name": "TSV Gräfelfing e. V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213714,
+    "name": "TSV 1880 Starnberg",
+    "clubId": 833,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910349,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T08:00:00.000Z",
+   "home": {
+    "id": 235394,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309730,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": false
+   },
+   "homeScore": 52,
+   "guestScore": 71,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910350,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T12:15:00.000Z",
+   "home": {
+    "id": 316276,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235394,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910351,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T10:30:00.000Z",
+   "home": {
+    "id": 309730,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316274,
+    "name": "TSV Gräfelfing e. V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": 65,
+   "guestScore": 44,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910352,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T09:30:00.000Z",
+   "home": {
+    "id": 213714,
+    "name": "TSV 1880 Starnberg",
+    "clubId": 833,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 287753,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "homeScore": 123,
+   "guestScore": 50,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910353,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T12:30:00.000Z",
+   "home": {
+    "id": 180834,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165492,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": 66,
+   "guestScore": 80,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910354,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T11:15:00.000Z",
+   "home": {
+    "id": 165500,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165531,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910355,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T12:30:00.000Z",
+   "home": {
+    "id": 287753,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165492,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910357,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T13:30:00.000Z",
+   "home": {
+    "id": 165531,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180834,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910358,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "09:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T08:30:00.000Z",
+   "home": {
+    "id": 213714,
+    "name": "TSV 1880 Starnberg",
+    "clubId": 833,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309730,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910359,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-04-25",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-25T10:30:00.000Z",
+   "home": {
+    "id": 316274,
+    "name": "TSV Gräfelfing e. V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316276,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910360,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T13:30:00.000Z",
+   "home": {
+    "id": 235394,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165500,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910361,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T16:00:00.000Z",
+   "home": {
+    "id": 316276,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213714,
+    "name": "TSV 1880 Starnberg",
+    "clubId": 833,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910362,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T11:30:00.000Z",
+   "home": {
+    "id": 309730,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 287753,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910363,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "09:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T08:45:00.000Z",
+   "home": {
+    "id": 165492,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165531,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910364,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T13:30:00.000Z",
+   "home": {
+    "id": 180834,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235394,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910365,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T11:15:00.000Z",
+   "home": {
+    "id": 165500,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316274,
+    "name": "TSV Gräfelfing e. V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910366,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T10:00:00.000Z",
+   "home": {
+    "id": 287753,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165531,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910367,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T14:00:00.000Z",
+   "home": {
+    "id": 309730,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316276,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910368,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "09:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T08:30:00.000Z",
+   "home": {
+    "id": 213714,
+    "name": "TSV 1880 Starnberg",
+    "clubId": 833,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165500,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910369,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T09:00:00.000Z",
+   "home": {
+    "id": 316274,
+    "name": "TSV Gräfelfing e. V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180834,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910370,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T09:00:00.000Z",
+   "home": {
+    "id": 235394,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165492,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910371,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T09:30:00.000Z",
+   "home": {
+    "id": 287753,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316276,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910372,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T13:30:00.000Z",
+   "home": {
+    "id": 165531,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235394,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910373,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T09:00:00.000Z",
+   "home": {
+    "id": 165492,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316274,
+    "name": "TSV Gräfelfing e. V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910374,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T13:30:00.000Z",
+   "home": {
+    "id": 180834,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213714,
+    "name": "TSV 1880 Starnberg",
+    "clubId": 833,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910375,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T11:15:00.000Z",
+   "home": {
+    "id": 165500,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309730,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910376,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T10:30:00.000Z",
+   "home": {
+    "id": 316276,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165500,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910377,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T14:00:00.000Z",
+   "home": {
+    "id": 309730,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180834,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910378,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "09:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T08:30:00.000Z",
+   "home": {
+    "id": 213714,
+    "name": "TSV 1880 Starnberg",
+    "clubId": 833,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165492,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910379,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T08:00:00.000Z",
+   "home": {
+    "id": 316274,
+    "name": "TSV Gräfelfing e. V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165531,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": 0,
+   "guestScore": 20,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910380,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T15:45:00.000Z",
+   "home": {
+    "id": 235394,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 287753,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910381,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T11:15:00.000Z",
+   "home": {
+    "id": 165500,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 287753,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910382,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "09:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T08:30:00.000Z",
+   "home": {
+    "id": 213714,
+    "name": "TSV 1880 Starnberg",
+    "clubId": 833,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165531,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910383,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T14:00:00.000Z",
+   "home": {
+    "id": 309730,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165492,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910384,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "09:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T08:00:00.000Z",
+   "home": {
+    "id": 316276,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180834,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910385,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T09:00:00.000Z",
+   "home": {
+    "id": 316274,
+    "name": "TSV Gräfelfing e. V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235394,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910386,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T09:00:00.000Z",
+   "home": {
+    "id": 165492,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316276,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910387,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-04-25",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-25T13:30:00.000Z",
+   "home": {
+    "id": 165531,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309730,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910388,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T11:15:00.000Z",
+   "home": {
+    "id": 235394,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213714,
+    "name": "TSV 1880 Starnberg",
+    "clubId": 833,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910389,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T13:30:00.000Z",
+   "home": {
+    "id": 287753,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316274,
+    "name": "TSV Gräfelfing e. V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910391,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T13:30:00.000Z",
+   "home": {
+    "id": 180834,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165500,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910392,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T13:30:00.000Z",
+   "home": {
+    "id": 180834,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 287753,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910393,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "09:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T08:00:00.000Z",
+   "home": {
+    "id": 316276,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165531,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910394,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T11:15:00.000Z",
+   "home": {
+    "id": 165500,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165492,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910395,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "09:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T08:30:00.000Z",
+   "home": {
+    "id": 213714,
+    "name": "TSV 1880 Starnberg",
+    "clubId": 833,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316274,
+    "name": "TSV Gräfelfing e. V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910396,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T11:30:00.000Z",
+   "home": {
+    "id": 309730,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235394,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910397,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T09:00:00.000Z",
+   "home": {
+    "id": 235394,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316276,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910398,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T09:00:00.000Z",
+   "home": {
+    "id": 316274,
+    "name": "TSV Gräfelfing e. V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309730,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910399,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T12:30:00.000Z",
+   "home": {
+    "id": 287753,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213714,
+    "name": "TSV 1880 Starnberg",
+    "clubId": 833,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910400,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T09:00:00.000Z",
+   "home": {
+    "id": 165492,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180834,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910401,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "13:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T12:15:00.000Z",
+   "home": {
+    "id": 165531,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165500,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910402,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "09:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T08:45:00.000Z",
+   "home": {
+    "id": 165492,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 287753,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910403,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T13:30:00.000Z",
+   "home": {
+    "id": 180834,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165531,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910404,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T14:00:00.000Z",
+   "home": {
+    "id": 309730,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213714,
+    "name": "TSV 1880 Starnberg",
+    "clubId": 833,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910405,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "09:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T08:00:00.000Z",
+   "home": {
+    "id": 316276,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316274,
+    "name": "TSV Gräfelfing e. V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910406,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T11:15:00.000Z",
+   "home": {
+    "id": 165500,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235394,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910407,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "09:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T08:30:00.000Z",
+   "home": {
+    "id": 213714,
+    "name": "TSV 1880 Starnberg",
+    "clubId": 833,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316276,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910408,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T10:00:00.000Z",
+   "home": {
+    "id": 287753,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309730,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910409,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T15:45:00.000Z",
+   "home": {
+    "id": 165531,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165492,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910410,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T14:00:00.000Z",
+   "home": {
+    "id": 235394,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180834,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910411,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T09:00:00.000Z",
+   "home": {
+    "id": 316274,
+    "name": "TSV Gräfelfing e. V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165500,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910412,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T09:00:00.000Z",
+   "home": {
+    "id": 165531,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 287753,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910413,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "09:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T08:00:00.000Z",
+   "home": {
+    "id": 316276,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309730,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910414,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T11:15:00.000Z",
+   "home": {
+    "id": 165500,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213714,
+    "name": "TSV 1880 Starnberg",
+    "clubId": 833,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910415,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T13:30:00.000Z",
+   "home": {
+    "id": 180834,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316274,
+    "name": "TSV Gräfelfing e. V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910416,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "09:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T08:45:00.000Z",
+   "home": {
+    "id": 165492,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235394,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910417,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-03",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-03T12:15:00.000Z",
+   "home": {
+    "id": 316276,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 287753,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910418,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T10:15:00.000Z",
+   "home": {
+    "id": 235394,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165531,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910419,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T08:00:00.000Z",
+   "home": {
+    "id": 316274,
+    "name": "TSV Gräfelfing e. V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165492,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910420,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "09:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T07:30:00.000Z",
+   "home": {
+    "id": 213714,
+    "name": "TSV 1880 Starnberg",
+    "clubId": 833,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180834,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910421,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T13:00:00.000Z",
+   "home": {
+    "id": 309730,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165500,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910422,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T10:15:00.000Z",
+   "home": {
+    "id": 165500,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316276,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910423,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T12:30:00.000Z",
+   "home": {
+    "id": 180834,
+    "name": "TuS Geretsried",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309730,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910424,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "09:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T07:45:00.000Z",
+   "home": {
+    "id": 165492,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213714,
+    "name": "TSV 1880 Starnberg",
+    "clubId": 833,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910425,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T08:00:00.000Z",
+   "home": {
+    "id": 165531,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316274,
+    "name": "TSV Gräfelfing e. V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910426,
+   "ligaId": 53802,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T11:30:00.000Z",
+   "home": {
+    "id": 287753,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235394,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

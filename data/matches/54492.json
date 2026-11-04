@@ -1,0 +1,1194 @@
+{
+ "league": {
+  "ligaId": 54492,
+  "name": "Bezirksliga U14 männlich Süd 26/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U14",
+  "gender": "männlich",
+  "level": "Bezirksliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Schwaben",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2926258,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T11:30:00.000Z",
+   "home": {
+    "id": 165843,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310631,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "homeScore": 67,
+   "guestScore": 41,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926260,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T13:30:00.000Z",
+   "home": {
+    "id": 165837,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165845,
+    "name": "TSV Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926264,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T12:30:00.000Z",
+   "home": {
+    "id": 258312,
+    "name": "TSV 1850 Lindau",
+    "clubId": 1498,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314295,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": 36,
+   "guestScore": 64,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926266,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T10:30:00.000Z",
+   "home": {
+    "id": 156630,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165837,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926268,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T08:30:00.000Z",
+   "home": {
+    "id": 165845,
+    "name": "TSV Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 258312,
+    "name": "TSV 1850 Lindau",
+    "clubId": 1498,
+    "forfeit": false
+   },
+   "homeScore": 151,
+   "guestScore": 27,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926270,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T10:15:00.000Z",
+   "home": {
+    "id": 314295,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165843,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "homeScore": 44,
+   "guestScore": 60,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926276,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T13:30:00.000Z",
+   "home": {
+    "id": 165837,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310631,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926278,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T11:15:00.000Z",
+   "home": {
+    "id": 314295,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165845,
+    "name": "TSV Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "homeScore": 45,
+   "guestScore": 117,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926280,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T13:30:00.000Z",
+   "home": {
+    "id": 258312,
+    "name": "TSV 1850 Lindau",
+    "clubId": 1498,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156630,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "homeScore": 23,
+   "guestScore": 88,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926282,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T09:30:00.000Z",
+   "home": {
+    "id": 156630,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314295,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926284,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T12:00:00.000Z",
+   "home": {
+    "id": 165845,
+    "name": "TSV Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165843,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926288,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T10:30:00.000Z",
+   "home": {
+    "id": 310631,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 258312,
+    "name": "TSV 1850 Lindau",
+    "clubId": 1498,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926290,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T12:30:00.000Z",
+   "home": {
+    "id": 165843,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165837,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926292,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T12:00:00.000Z",
+   "home": {
+    "id": 165845,
+    "name": "TSV Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156630,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926295,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T09:00:00.000Z",
+   "home": {
+    "id": 314295,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310631,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926299,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T12:30:00.000Z",
+   "home": {
+    "id": 165843,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156630,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926301,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T14:30:00.000Z",
+   "home": {
+    "id": 165837,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 258312,
+    "name": "TSV 1850 Lindau",
+    "clubId": 1498,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926305,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T13:00:00.000Z",
+   "home": {
+    "id": 310631,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165845,
+    "name": "TSV Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926307,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T15:00:00.000Z",
+   "home": {
+    "id": 156630,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310631,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926311,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T09:00:00.000Z",
+   "home": {
+    "id": 314295,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165837,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926313,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T13:30:00.000Z",
+   "home": {
+    "id": 258312,
+    "name": "TSV 1850 Lindau",
+    "clubId": 1498,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165843,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926314,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T09:00:00.000Z",
+   "home": {
+    "id": 310631,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165843,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926315,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T14:30:00.000Z",
+   "home": {
+    "id": 165845,
+    "name": "TSV Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165837,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926317,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T11:15:00.000Z",
+   "home": {
+    "id": 314295,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 258312,
+    "name": "TSV 1850 Lindau",
+    "clubId": 1498,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926318,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T14:30:00.000Z",
+   "home": {
+    "id": 165837,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156630,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926319,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T13:30:00.000Z",
+   "home": {
+    "id": 258312,
+    "name": "TSV 1850 Lindau",
+    "clubId": 1498,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165845,
+    "name": "TSV Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926320,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T11:30:00.000Z",
+   "home": {
+    "id": 165843,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314295,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926323,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T11:30:00.000Z",
+   "home": {
+    "id": 310631,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165837,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926324,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T12:00:00.000Z",
+   "home": {
+    "id": 165845,
+    "name": "TSV Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314295,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926325,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T13:00:00.000Z",
+   "home": {
+    "id": 156630,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 258312,
+    "name": "TSV 1850 Lindau",
+    "clubId": 1498,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926326,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T09:00:00.000Z",
+   "home": {
+    "id": 314295,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156630,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926327,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T10:30:00.000Z",
+   "home": {
+    "id": 165843,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165845,
+    "name": "TSV Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926329,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T13:30:00.000Z",
+   "home": {
+    "id": 258312,
+    "name": "TSV 1850 Lindau",
+    "clubId": 1498,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310631,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926330,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T11:00:00.000Z",
+   "home": {
+    "id": 165837,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165843,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926331,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T10:30:00.000Z",
+   "home": {
+    "id": 156630,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165845,
+    "name": "TSV Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926332,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T09:00:00.000Z",
+   "home": {
+    "id": 310631,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314295,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926334,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T12:00:00.000Z",
+   "home": {
+    "id": 156630,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165843,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926335,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T13:30:00.000Z",
+   "home": {
+    "id": 258312,
+    "name": "TSV 1850 Lindau",
+    "clubId": 1498,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165837,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926337,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T14:30:00.000Z",
+   "home": {
+    "id": 165845,
+    "name": "TSV Sonthofen",
+    "clubId": 664,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310631,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926338,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T11:30:00.000Z",
+   "home": {
+    "id": 310631,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156630,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926340,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T12:00:00.000Z",
+   "home": {
+    "id": 165837,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314295,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2926341,
+   "ligaId": 54492,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T14:30:00.000Z",
+   "home": {
+    "id": 165843,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 258312,
+    "name": "TSV 1850 Lindau",
+    "clubId": 1498,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

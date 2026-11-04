@@ -1,0 +1,2034 @@
+{
+ "league": {
+  "ligaId": 56162,
+  "name": "MFR U14m Bezirksoberliga",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U14",
+  "gender": "männlich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Mittelfranken",
+  "competitionType": "regular",
+  "role": "core"
+ },
+ "matches": [
+  {
+   "matchId": 2929271,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T11:30:00.000Z",
+   "home": {
+    "id": 312302,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 206058,
+    "name": "TSV Ansbach",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929272,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T14:00:00.000Z",
+   "home": {
+    "id": 162240,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166587,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929273,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T11:30:00.000Z",
+   "home": {
+    "id": 166662,
+    "name": "Post SV Nürnberg 4 (w)",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323221,
+    "name": "Nürnberg Falcons 3",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929274,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "12:31",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T11:31:00.000Z",
+   "home": {
+    "id": 166641,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166644,
+    "name": "TS Herzogenaurach",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929275,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T12:00:00.000Z",
+   "home": {
+    "id": 323221,
+    "name": "Nürnberg Falcons 3",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162240,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": 78,
+   "guestScore": 57,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929276,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T11:30:00.000Z",
+   "home": {
+    "id": 166587,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166641,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929277,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T09:00:00.000Z",
+   "home": {
+    "id": 166644,
+    "name": "TS Herzogenaurach",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312302,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929278,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-04-04",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-04T12:30:00.000Z",
+   "home": {
+    "id": 206058,
+    "name": "TSV Ansbach",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166662,
+    "name": "Post SV Nürnberg 4 (w)",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929279,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T10:30:00.000Z",
+   "home": {
+    "id": 312302,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166662,
+    "name": "Post SV Nürnberg 4 (w)",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929280,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T13:00:00.000Z",
+   "home": {
+    "id": 162240,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 206058,
+    "name": "TSV Ansbach",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "homeScore": 46,
+   "guestScore": 64,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929281,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T11:00:00.000Z",
+   "home": {
+    "id": 166644,
+    "name": "TS Herzogenaurach",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166587,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929282,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T11:30:00.000Z",
+   "home": {
+    "id": 166641,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323221,
+    "name": "Nürnberg Falcons 3",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929283,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T15:00:00.000Z",
+   "home": {
+    "id": 323221,
+    "name": "Nürnberg Falcons 3",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166644,
+    "name": "TS Herzogenaurach",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929284,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T10:30:00.000Z",
+   "home": {
+    "id": 166587,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312302,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": 80,
+   "guestScore": 75,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929285,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T15:00:00.000Z",
+   "home": {
+    "id": 166662,
+    "name": "Post SV Nürnberg 4 (w)",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162240,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929286,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T13:00:00.000Z",
+   "home": {
+    "id": 206058,
+    "name": "TSV Ansbach",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166641,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929287,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T11:30:00.000Z",
+   "home": {
+    "id": 312302,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162240,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929288,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T10:30:00.000Z",
+   "home": {
+    "id": 166587,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323221,
+    "name": "Nürnberg Falcons 3",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": 95,
+   "guestScore": 60,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929289,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T11:30:00.000Z",
+   "home": {
+    "id": 166644,
+    "name": "TS Herzogenaurach",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 206058,
+    "name": "TSV Ansbach",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929292,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T14:00:00.000Z",
+   "home": {
+    "id": 162240,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166641,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929293,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T14:30:00.000Z",
+   "home": {
+    "id": 166662,
+    "name": "Post SV Nürnberg 4 (w)",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166644,
+    "name": "TS Herzogenaurach",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929294,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T10:00:00.000Z",
+   "home": {
+    "id": 206058,
+    "name": "TSV Ansbach",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166587,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": 68,
+   "guestScore": 51,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929295,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T10:00:00.000Z",
+   "home": {
+    "id": 323221,
+    "name": "Nürnberg Falcons 3",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 206058,
+    "name": "TSV Ansbach",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "homeScore": 64,
+   "guestScore": 70,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929296,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T15:30:00.000Z",
+   "home": {
+    "id": 166587,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166662,
+    "name": "Post SV Nürnberg 4 (w)",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929297,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T10:30:00.000Z",
+   "home": {
+    "id": 166644,
+    "name": "TS Herzogenaurach",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162240,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": 105,
+   "guestScore": 63,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929298,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T11:30:00.000Z",
+   "home": {
+    "id": 166641,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312302,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929299,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T13:00:00.000Z",
+   "home": {
+    "id": 206058,
+    "name": "TSV Ansbach",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312302,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929300,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-06T11:30:00.000Z",
+   "home": {
+    "id": 166587,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162240,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929301,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T12:00:00.000Z",
+   "home": {
+    "id": 323221,
+    "name": "Nürnberg Falcons 3",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166662,
+    "name": "Post SV Nürnberg 4 (w)",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929302,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T09:00:00.000Z",
+   "home": {
+    "id": 166644,
+    "name": "TS Herzogenaurach",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166641,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": 121,
+   "guestScore": 76,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929303,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T14:00:00.000Z",
+   "home": {
+    "id": 162240,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323221,
+    "name": "Nürnberg Falcons 3",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929306,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-05-02",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-05-02T10:00:00.000Z",
+   "home": {
+    "id": 166662,
+    "name": "Post SV Nürnberg 4 (w)",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 206058,
+    "name": "TSV Ansbach",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929308,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T11:00:00.000Z",
+   "home": {
+    "id": 206058,
+    "name": "TSV Ansbach",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162240,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929309,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T11:30:00.000Z",
+   "home": {
+    "id": 166587,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166644,
+    "name": "TS Herzogenaurach",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929310,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T15:00:00.000Z",
+   "home": {
+    "id": 323221,
+    "name": "Nürnberg Falcons 3",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166641,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929311,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T11:00:00.000Z",
+   "home": {
+    "id": 166644,
+    "name": "TS Herzogenaurach",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323221,
+    "name": "Nürnberg Falcons 3",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929312,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T11:30:00.000Z",
+   "home": {
+    "id": 312302,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166587,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929313,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T14:00:00.000Z",
+   "home": {
+    "id": 162240,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166662,
+    "name": "Post SV Nürnberg 4 (w)",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929314,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T11:30:00.000Z",
+   "home": {
+    "id": 166641,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 206058,
+    "name": "TSV Ansbach",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929315,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T13:00:00.000Z",
+   "home": {
+    "id": 162240,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312302,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": 45,
+   "guestScore": 80,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929316,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T11:00:00.000Z",
+   "home": {
+    "id": 323221,
+    "name": "Nürnberg Falcons 3",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166587,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929317,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T10:00:00.000Z",
+   "home": {
+    "id": 206058,
+    "name": "TSV Ansbach",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166644,
+    "name": "TS Herzogenaurach",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929318,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T10:00:00.000Z",
+   "home": {
+    "id": 166662,
+    "name": "Post SV Nürnberg 4 (w)",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166641,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": 76,
+   "guestScore": 46,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929319,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T15:00:00.000Z",
+   "home": {
+    "id": 323221,
+    "name": "Nürnberg Falcons 3",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312302,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929321,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T11:00:00.000Z",
+   "home": {
+    "id": 166644,
+    "name": "TS Herzogenaurach",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166662,
+    "name": "Post SV Nürnberg 4 (w)",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929322,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-25",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-25T10:00:00.000Z",
+   "home": {
+    "id": 166587,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 206058,
+    "name": "TSV Ansbach",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929323,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T13:00:00.000Z",
+   "home": {
+    "id": 206058,
+    "name": "TSV Ansbach",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323221,
+    "name": "Nürnberg Falcons 3",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929324,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2026-11-01",
+   "kickoffTime": "09:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-01T08:30:00.000Z",
+   "home": {
+    "id": 166662,
+    "name": "Post SV Nürnberg 4 (w)",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166587,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": 82,
+   "guestScore": 66,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929325,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T14:00:00.000Z",
+   "home": {
+    "id": 162240,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166644,
+    "name": "TS Herzogenaurach",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929326,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T11:30:00.000Z",
+   "home": {
+    "id": 312302,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166641,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2956145,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T14:00:00.000Z",
+   "home": {
+    "id": 312302,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162242,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2956154,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T10:00:00.000Z",
+   "home": {
+    "id": 162242,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 206058,
+    "name": "TSV Ansbach",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2956157,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T11:30:00.000Z",
+   "home": {
+    "id": 166662,
+    "name": "Post SV Nürnberg 4 (w)",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162242,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2956164,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T09:00:00.000Z",
+   "home": {
+    "id": 162242,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162240,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2956174,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T08:00:00.000Z",
+   "home": {
+    "id": 162242,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166641,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2956177,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T09:00:00.000Z",
+   "home": {
+    "id": 166644,
+    "name": "TS Herzogenaurach",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162242,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2956180,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T11:30:00.000Z",
+   "home": {
+    "id": 312302,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323221,
+    "name": "Nürnberg Falcons 3",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2956184,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-05-02",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-05-02T10:15:00.000Z",
+   "home": {
+    "id": 162242,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166587,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2956185,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T15:00:00.000Z",
+   "home": {
+    "id": 323221,
+    "name": "Nürnberg Falcons 3",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162242,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2956188,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T13:00:00.000Z",
+   "home": {
+    "id": 166641,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162240,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": 88,
+   "guestScore": 36,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2956190,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T11:15:00.000Z",
+   "home": {
+    "id": 162242,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312302,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2956199,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T13:00:00.000Z",
+   "home": {
+    "id": 206058,
+    "name": "TSV Ansbach",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162242,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2956202,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T09:00:00.000Z",
+   "home": {
+    "id": 162242,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166662,
+    "name": "Post SV Nürnberg 4 (w)",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2956206,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T14:00:00.000Z",
+   "home": {
+    "id": 166641,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166587,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2956207,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T14:00:00.000Z",
+   "home": {
+    "id": 312302,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166644,
+    "name": "TS Herzogenaurach",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2956209,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T15:00:00.000Z",
+   "home": {
+    "id": 162240,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162242,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2956210,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T11:30:00.000Z",
+   "home": {
+    "id": 166662,
+    "name": "Post SV Nürnberg 4 (w)",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312302,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2956219,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T16:30:00.000Z",
+   "home": {
+    "id": 166641,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162242,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2956222,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T11:15:00.000Z",
+   "home": {
+    "id": 162242,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166644,
+    "name": "TS Herzogenaurach",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2956227,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T11:30:00.000Z",
+   "home": {
+    "id": 166641,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166662,
+    "name": "Post SV Nürnberg 4 (w)",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2956229,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T14:00:00.000Z",
+   "home": {
+    "id": 166587,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162242,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2956230,
+   "ligaId": 56162,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T11:15:00.000Z",
+   "home": {
+    "id": 162242,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323221,
+    "name": "Nürnberg Falcons 3",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

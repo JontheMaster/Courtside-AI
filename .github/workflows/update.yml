@@ -1,0 +1,69 @@
+name: Update & Deploy
+
+# Stündlich: TeamSL-Daten holen → Prognosen anhängen → Backtest → Seite bauen →
+# Integrität prüfen → Daten committen → GitHub Pages veröffentlichen.
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore: ['data/**']
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: courtside-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Tests
+        run: npm test
+
+      - name: Integrität des Pushes prüfen (keine geänderten Prognosen)
+        if: github.event_name == 'push' && github.event.before != '0000000000000000000000000000000000000000'
+        run: node scripts/cli.js verify ${{ github.event.before }}
+
+      - name: Sync, Prognosen, Backtest, Build, Verify
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          LLM_ENABLED: ${{ vars.LLM_ENABLED }}
+          LLM_MAX_CALLS_PER_RUN: ${{ vars.LLM_MAX_CALLS_PER_RUN }}
+        run: node scripts/cli.js update
+
+      - name: Daten committen
+        run: |
+          git add data
+          if git diff --cached --quiet; then
+            echo "Keine Datenänderungen."
+          else
+            git -c user.name="courtside-bot" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -m "data: Aktualisierung $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase --autostash origin main
+            git push origin HEAD:main
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - id: deploy
+        uses: actions/deploy-pages@v4

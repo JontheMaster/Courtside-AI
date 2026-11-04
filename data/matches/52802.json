@@ -1,0 +1,2538 @@
+{
+ "league": {
+  "ligaId": 52802,
+  "name": "Bezirksoberliga Herren",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2897053,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T14:30:00.000Z",
+   "home": {
+    "id": 142990,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152013,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "homeScore": 88,
+   "guestScore": 79,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897054,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T15:00:00.000Z",
+   "home": {
+    "id": 143022,
+    "name": "TTL Basketball Bamberg 3",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142995,
+    "name": "TS Kronach",
+    "clubId": 1148,
+    "forfeit": false
+   },
+   "homeScore": 54,
+   "guestScore": 73,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897055,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T13:00:00.000Z",
+   "home": {
+    "id": 152014,
+    "name": "TSV Breitengüßbach 3",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142993,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "homeScore": 68,
+   "guestScore": 66,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897056,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T15:00:00.000Z",
+   "home": {
+    "id": 143021,
+    "name": "SV Pettstadt",
+    "clubId": 259,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142979,
+    "name": "1. FC Baunach 2",
+    "clubId": 404,
+    "forfeit": false
+   },
+   "homeScore": 107,
+   "guestScore": 74,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897057,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "20:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T18:15:00.000Z",
+   "home": {
+    "id": 143020,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142983,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "homeScore": 68,
+   "guestScore": 105,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897058,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T14:30:00.000Z",
+   "home": {
+    "id": 142979,
+    "name": "1. FC Baunach 2",
+    "clubId": 404,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152014,
+    "name": "TSV Breitengüßbach 3",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": 62,
+   "guestScore": 80,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897059,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T16:00:00.000Z",
+   "home": {
+    "id": 142993,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143022,
+    "name": "TTL Basketball Bamberg 3",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": 82,
+   "guestScore": 66,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897060,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T14:00:00.000Z",
+   "home": {
+    "id": 142995,
+    "name": "TS Kronach",
+    "clubId": 1148,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143020,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": 82,
+   "guestScore": 67,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897061,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T16:00:00.000Z",
+   "home": {
+    "id": 142983,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142990,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "homeScore": 81,
+   "guestScore": 73,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897062,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:00:00.000Z",
+   "home": {
+    "id": 152013,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143021,
+    "name": "SV Pettstadt",
+    "clubId": 259,
+    "forfeit": false
+   },
+   "homeScore": 55,
+   "guestScore": 86,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897063,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T14:30:00.000Z",
+   "home": {
+    "id": 142990,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143021,
+    "name": "SV Pettstadt",
+    "clubId": 259,
+    "forfeit": false
+   },
+   "homeScore": 67,
+   "guestScore": 81,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897064,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T15:00:00.000Z",
+   "home": {
+    "id": 143022,
+    "name": "TTL Basketball Bamberg 3",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142979,
+    "name": "1. FC Baunach 2",
+    "clubId": 404,
+    "forfeit": false
+   },
+   "homeScore": 63,
+   "guestScore": 58,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897065,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T15:30:00.000Z",
+   "home": {
+    "id": 152014,
+    "name": "TSV Breitengüßbach 3",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152013,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "homeScore": 75,
+   "guestScore": 51,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897066,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T16:00:00.000Z",
+   "home": {
+    "id": 142983,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142995,
+    "name": "TS Kronach",
+    "clubId": 1148,
+    "forfeit": false
+   },
+   "homeScore": 84,
+   "guestScore": 70,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897067,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T16:00:00.000Z",
+   "home": {
+    "id": 143020,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142993,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "homeScore": 80,
+   "guestScore": 101,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897068,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T13:30:00.000Z",
+   "home": {
+    "id": 142979,
+    "name": "1. FC Baunach 2",
+    "clubId": 404,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143020,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": 75,
+   "guestScore": 82,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897069,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T17:00:00.000Z",
+   "home": {
+    "id": 142993,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142983,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "homeScore": 80,
+   "guestScore": 64,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897070,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T18:00:00.000Z",
+   "home": {
+    "id": 142995,
+    "name": "TS Kronach",
+    "clubId": 1148,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142990,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "homeScore": 64,
+   "guestScore": 85,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897071,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T15:00:00.000Z",
+   "home": {
+    "id": 143021,
+    "name": "SV Pettstadt",
+    "clubId": 259,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152014,
+    "name": "TSV Breitengüßbach 3",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": 83,
+   "guestScore": 79,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897072,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:00:00.000Z",
+   "home": {
+    "id": 152013,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143022,
+    "name": "TTL Basketball Bamberg 3",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": 73,
+   "guestScore": 84,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897073,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T15:30:00.000Z",
+   "home": {
+    "id": 142990,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152014,
+    "name": "TSV Breitengüßbach 3",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897074,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T13:00:00.000Z",
+   "home": {
+    "id": 143022,
+    "name": "TTL Basketball Bamberg 3",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143021,
+    "name": "SV Pettstadt",
+    "clubId": 259,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897075,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T15:00:00.000Z",
+   "home": {
+    "id": 142995,
+    "name": "TS Kronach",
+    "clubId": 1148,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142993,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897076,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T17:00:00.000Z",
+   "home": {
+    "id": 142983,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142979,
+    "name": "1. FC Baunach 2",
+    "clubId": 404,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897077,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T16:00:00.000Z",
+   "home": {
+    "id": 152013,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143020,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897078,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T16:00:00.000Z",
+   "home": {
+    "id": 142979,
+    "name": "1. FC Baunach 2",
+    "clubId": 404,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142995,
+    "name": "TS Kronach",
+    "clubId": 1148,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897079,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T17:00:00.000Z",
+   "home": {
+    "id": 142993,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142990,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897080,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T15:00:00.000Z",
+   "home": {
+    "id": 152014,
+    "name": "TSV Breitengüßbach 3",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143022,
+    "name": "TTL Basketball Bamberg 3",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897081,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T16:00:00.000Z",
+   "home": {
+    "id": 143021,
+    "name": "SV Pettstadt",
+    "clubId": 259,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143020,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897082,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T16:00:00.000Z",
+   "home": {
+    "id": 152013,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142983,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897083,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T15:30:00.000Z",
+   "home": {
+    "id": 142990,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143022,
+    "name": "TTL Basketball Bamberg 3",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897084,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T17:00:00.000Z",
+   "home": {
+    "id": 142993,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142979,
+    "name": "1. FC Baunach 2",
+    "clubId": 404,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897085,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T17:00:00.000Z",
+   "home": {
+    "id": 142995,
+    "name": "TS Kronach",
+    "clubId": 1148,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152013,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897086,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T17:00:00.000Z",
+   "home": {
+    "id": 142983,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143021,
+    "name": "SV Pettstadt",
+    "clubId": 259,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897087,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "19:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T18:15:00.000Z",
+   "home": {
+    "id": 143020,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152014,
+    "name": "TSV Breitengüßbach 3",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897088,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T15:00:00.000Z",
+   "home": {
+    "id": 142990,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142979,
+    "name": "1. FC Baunach 2",
+    "clubId": 404,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897089,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T11:00:00.000Z",
+   "home": {
+    "id": 143022,
+    "name": "TTL Basketball Bamberg 3",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143020,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897090,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T11:30:00.000Z",
+   "home": {
+    "id": 152014,
+    "name": "TSV Breitengüßbach 3",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142983,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897091,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T16:00:00.000Z",
+   "home": {
+    "id": 143021,
+    "name": "SV Pettstadt",
+    "clubId": 259,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142995,
+    "name": "TS Kronach",
+    "clubId": 1148,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897092,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T16:00:00.000Z",
+   "home": {
+    "id": 152013,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142993,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897093,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T13:30:00.000Z",
+   "home": {
+    "id": 142979,
+    "name": "1. FC Baunach 2",
+    "clubId": 404,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152013,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897094,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T17:00:00.000Z",
+   "home": {
+    "id": 142993,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143021,
+    "name": "SV Pettstadt",
+    "clubId": 259,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897095,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T17:00:00.000Z",
+   "home": {
+    "id": 142995,
+    "name": "TS Kronach",
+    "clubId": 1148,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152014,
+    "name": "TSV Breitengüßbach 3",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897096,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T17:00:00.000Z",
+   "home": {
+    "id": 142983,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143022,
+    "name": "TTL Basketball Bamberg 3",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897097,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T14:30:00.000Z",
+   "home": {
+    "id": 143020,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142990,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897098,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:00:00.000Z",
+   "home": {
+    "id": 152013,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142990,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897099,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T19:00:00.000Z",
+   "home": {
+    "id": 142995,
+    "name": "TS Kronach",
+    "clubId": 1148,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143022,
+    "name": "TTL Basketball Bamberg 3",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897100,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T17:00:00.000Z",
+   "home": {
+    "id": 142993,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152014,
+    "name": "TSV Breitengüßbach 3",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897101,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:00:00.000Z",
+   "home": {
+    "id": 142979,
+    "name": "1. FC Baunach 2",
+    "clubId": 404,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143021,
+    "name": "SV Pettstadt",
+    "clubId": 259,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897102,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T17:00:00.000Z",
+   "home": {
+    "id": 142983,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143020,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897103,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T14:00:00.000Z",
+   "home": {
+    "id": 152014,
+    "name": "TSV Breitengüßbach 3",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142979,
+    "name": "1. FC Baunach 2",
+    "clubId": 404,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897104,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T11:00:00.000Z",
+   "home": {
+    "id": 143022,
+    "name": "TTL Basketball Bamberg 3",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142993,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897105,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "19:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T18:15:00.000Z",
+   "home": {
+    "id": 143020,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142995,
+    "name": "TS Kronach",
+    "clubId": 1148,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897106,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T15:30:00.000Z",
+   "home": {
+    "id": 142990,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142983,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897107,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T16:00:00.000Z",
+   "home": {
+    "id": 143021,
+    "name": "SV Pettstadt",
+    "clubId": 259,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152013,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897108,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T16:00:00.000Z",
+   "home": {
+    "id": 143021,
+    "name": "SV Pettstadt",
+    "clubId": 259,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142990,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897109,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T16:00:00.000Z",
+   "home": {
+    "id": 142979,
+    "name": "1. FC Baunach 2",
+    "clubId": 404,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143022,
+    "name": "TTL Basketball Bamberg 3",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897110,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T16:00:00.000Z",
+   "home": {
+    "id": 152013,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152014,
+    "name": "TSV Breitengüßbach 3",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897111,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T17:00:00.000Z",
+   "home": {
+    "id": 142995,
+    "name": "TS Kronach",
+    "clubId": 1148,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142983,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897112,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T14:30:00.000Z",
+   "home": {
+    "id": 142993,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143020,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897113,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "19:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T18:15:00.000Z",
+   "home": {
+    "id": 143020,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142979,
+    "name": "1. FC Baunach 2",
+    "clubId": 404,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897114,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T17:00:00.000Z",
+   "home": {
+    "id": 142983,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142993,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897115,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T15:30:00.000Z",
+   "home": {
+    "id": 142990,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142995,
+    "name": "TS Kronach",
+    "clubId": 1148,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897116,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T16:30:00.000Z",
+   "home": {
+    "id": 152014,
+    "name": "TSV Breitengüßbach 3",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143021,
+    "name": "SV Pettstadt",
+    "clubId": 259,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897117,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T14:00:00.000Z",
+   "home": {
+    "id": 143022,
+    "name": "TTL Basketball Bamberg 3",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152013,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897118,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T14:00:00.000Z",
+   "home": {
+    "id": 152014,
+    "name": "TSV Breitengüßbach 3",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142990,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897119,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T16:00:00.000Z",
+   "home": {
+    "id": 143021,
+    "name": "SV Pettstadt",
+    "clubId": 259,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143022,
+    "name": "TTL Basketball Bamberg 3",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897120,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T17:00:00.000Z",
+   "home": {
+    "id": 142993,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142995,
+    "name": "TS Kronach",
+    "clubId": 1148,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897121,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T13:30:00.000Z",
+   "home": {
+    "id": 142979,
+    "name": "1. FC Baunach 2",
+    "clubId": 404,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142983,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897122,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T17:00:00.000Z",
+   "home": {
+    "id": 143020,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152013,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897123,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T17:00:00.000Z",
+   "home": {
+    "id": 142995,
+    "name": "TS Kronach",
+    "clubId": 1148,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142979,
+    "name": "1. FC Baunach 2",
+    "clubId": 404,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897124,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T15:30:00.000Z",
+   "home": {
+    "id": 142990,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142993,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897125,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T10:00:00.000Z",
+   "home": {
+    "id": 143022,
+    "name": "TTL Basketball Bamberg 3",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152014,
+    "name": "TSV Breitengüßbach 3",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897126,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T17:00:00.000Z",
+   "home": {
+    "id": 143020,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143021,
+    "name": "SV Pettstadt",
+    "clubId": 259,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897127,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T17:00:00.000Z",
+   "home": {
+    "id": 142983,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152013,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897128,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T14:00:00.000Z",
+   "home": {
+    "id": 143022,
+    "name": "TTL Basketball Bamberg 3",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142990,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897129,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T16:00:00.000Z",
+   "home": {
+    "id": 142979,
+    "name": "1. FC Baunach 2",
+    "clubId": 404,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142993,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897130,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T16:00:00.000Z",
+   "home": {
+    "id": 152013,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142995,
+    "name": "TS Kronach",
+    "clubId": 1148,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897131,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T16:00:00.000Z",
+   "home": {
+    "id": 143021,
+    "name": "SV Pettstadt",
+    "clubId": 259,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142983,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897132,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T14:00:00.000Z",
+   "home": {
+    "id": 152014,
+    "name": "TSV Breitengüßbach 3",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143020,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897133,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T13:30:00.000Z",
+   "home": {
+    "id": 142979,
+    "name": "1. FC Baunach 2",
+    "clubId": 404,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142990,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897134,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T17:00:00.000Z",
+   "home": {
+    "id": 143020,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143022,
+    "name": "TTL Basketball Bamberg 3",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897135,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T17:00:00.000Z",
+   "home": {
+    "id": 142983,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152014,
+    "name": "TSV Breitengüßbach 3",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897136,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T17:00:00.000Z",
+   "home": {
+    "id": 142995,
+    "name": "TS Kronach",
+    "clubId": 1148,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143021,
+    "name": "SV Pettstadt",
+    "clubId": 259,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897137,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T17:00:00.000Z",
+   "home": {
+    "id": 142993,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152013,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897138,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T16:00:00.000Z",
+   "home": {
+    "id": 152013,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142979,
+    "name": "1. FC Baunach 2",
+    "clubId": 404,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897139,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T16:00:00.000Z",
+   "home": {
+    "id": 143021,
+    "name": "SV Pettstadt",
+    "clubId": 259,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142993,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897140,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T14:00:00.000Z",
+   "home": {
+    "id": 152014,
+    "name": "TSV Breitengüßbach 3",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142995,
+    "name": "TS Kronach",
+    "clubId": 1148,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897141,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T16:00:00.000Z",
+   "home": {
+    "id": 143022,
+    "name": "TTL Basketball Bamberg 3",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142983,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897142,
+   "ligaId": 52802,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T15:30:00.000Z",
+   "home": {
+    "id": 142990,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143020,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

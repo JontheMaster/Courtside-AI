@@ -1,0 +1,2448 @@
+{
+ "league": {
+  "ligaId": 53773,
+  "name": "Bezirksklasse U16m Süd (MI-BK16M-S) 2026/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U16",
+  "gender": "männlich",
+  "level": "Bezirksklasse",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2902794,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T10:15:00.000Z",
+   "home": {
+    "id": 166717,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166684,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902795,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-02",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-01T22:00:00.000Z",
+   "home": {
+    "id": 321321,
+    "name": "MTV München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902796,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T08:00:00.000Z",
+   "home": {
+    "id": 168476,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 1",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902797,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T10:15:00.000Z",
+   "home": {
+    "id": 319490,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168435,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": 65,
+   "guestScore": 54,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902798,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-02",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-01T22:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 3",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902799,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T13:00:00.000Z",
+   "home": {
+    "id": 168435,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168476,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": 105,
+   "guestScore": 33,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902800,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-09",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-08T22:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 1",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321321,
+    "name": "MTV München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902801,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-09",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-08T22:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902802,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-09",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-08T22:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 3",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166717,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902803,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T09:00:00.000Z",
+   "home": {
+    "id": 166684,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319490,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": 0,
+   "guestScore": 20,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902804,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T08:00:00.000Z",
+   "home": {
+    "id": 166717,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319490,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": 83,
+   "guestScore": 85,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902805,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T13:00:00.000Z",
+   "home": {
+    "id": 321321,
+    "name": "MTV München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168435,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": 57,
+   "guestScore": 129,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902806,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "09:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T07:45:00.000Z",
+   "home": {
+    "id": 168476,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166684,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": 20,
+   "guestScore": 0,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902807,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-16",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-15T22:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 3",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902808,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-16",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-15T22:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 1",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902809,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T14:00:00.000Z",
+   "home": {
+    "id": 168435,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902810,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-23",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-22T22:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 1",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 3",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902811,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-23",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-22T22:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166717,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902812,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T11:00:00.000Z",
+   "home": {
+    "id": 319490,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168476,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902813,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T09:00:00.000Z",
+   "home": {
+    "id": 166684,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321321,
+    "name": "MTV München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": 56,
+   "guestScore": 95,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902814,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "15:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T14:45:00.000Z",
+   "home": {
+    "id": 166717,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168476,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": 102,
+   "guestScore": 56,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902815,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T14:00:00.000Z",
+   "home": {
+    "id": 321321,
+    "name": "MTV München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319490,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902816,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-13",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-12T23:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 1",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902817,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-13",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-12T23:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 3",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168435,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902818,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-13",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-12T23:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 166684,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902819,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T14:00:00.000Z",
+   "home": {
+    "id": 168435,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902820,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-20",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-19T23:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 1",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166717,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902821,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T11:15:00.000Z",
+   "home": {
+    "id": 168476,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321321,
+    "name": "MTV München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902822,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-20",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-19T23:00:00.000Z",
+   "home": {
+    "id": 319490,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902823,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T10:00:00.000Z",
+   "home": {
+    "id": 166684,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 3",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902824,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "15:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T14:45:00.000Z",
+   "home": {
+    "id": 166717,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321321,
+    "name": "MTV München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902825,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-27",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-26T23:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 1",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168435,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902826,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-27",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-26T23:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166684,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902827,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-27",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-26T23:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 3",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319490,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902828,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-27",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-26T23:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 168476,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902829,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T14:00:00.000Z",
+   "home": {
+    "id": 166717,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168435,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902830,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-04",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-12-03T23:00:00.000Z",
+   "home": {
+    "id": 321321,
+    "name": "MTV München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902831,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T09:00:00.000Z",
+   "home": {
+    "id": 168476,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 3",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902832,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-04",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-12-03T23:00:00.000Z",
+   "home": {
+    "id": 319490,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902833,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T10:00:00.000Z",
+   "home": {
+    "id": 166684,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 1",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902834,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T14:00:00.000Z",
+   "home": {
+    "id": 168435,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166684,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902835,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-11",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-12-10T23:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 1",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319490,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902836,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-11",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-12-10T23:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168476,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902837,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-11",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-12-10T23:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 3",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321321,
+    "name": "MTV München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902838,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-11",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-12-10T23:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 166717,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902839,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T10:00:00.000Z",
+   "home": {
+    "id": 166684,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166717,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902840,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-15",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-14T23:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321321,
+    "name": "MTV München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902841,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-15",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-14T23:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 1",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168476,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902842,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T14:00:00.000Z",
+   "home": {
+    "id": 168435,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319490,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902843,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-15",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-14T23:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 3",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902844,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "09:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T08:45:00.000Z",
+   "home": {
+    "id": 168476,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168435,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902845,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-22",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-21T23:00:00.000Z",
+   "home": {
+    "id": 321321,
+    "name": "MTV München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 1",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902846,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-22",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-21T23:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902847,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-22",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-21T23:00:00.000Z",
+   "home": {
+    "id": 166717,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 3",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902848,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T11:00:00.000Z",
+   "home": {
+    "id": 319490,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166684,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902849,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T14:00:00.000Z",
+   "home": {
+    "id": 319490,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166717,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902850,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T14:00:00.000Z",
+   "home": {
+    "id": 168435,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321321,
+    "name": "MTV München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902851,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T10:00:00.000Z",
+   "home": {
+    "id": 166684,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168476,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902852,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-29",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-28T23:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 3",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902853,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-29",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-28T23:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 1",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902854,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-19",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-02-18T23:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 168435,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902855,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-19",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-02-18T23:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 3",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 1",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902856,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-19",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-02-18T23:00:00.000Z",
+   "home": {
+    "id": 166717,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902857,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T09:00:00.000Z",
+   "home": {
+    "id": 168476,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319490,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902858,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T11:30:00.000Z",
+   "home": {
+    "id": 321321,
+    "name": "MTV München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166684,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902859,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "09:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T08:45:00.000Z",
+   "home": {
+    "id": 168476,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166717,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902860,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T11:15:00.000Z",
+   "home": {
+    "id": 319490,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321321,
+    "name": "MTV München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902861,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-26",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-02-25T23:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 1",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902862,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T14:00:00.000Z",
+   "home": {
+    "id": 168435,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 3",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902863,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T10:00:00.000Z",
+   "home": {
+    "id": 166684,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902864,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-05",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-03-04T23:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168435,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902865,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-05",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-03-04T23:00:00.000Z",
+   "home": {
+    "id": 166717,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 1",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902866,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T09:00:00.000Z",
+   "home": {
+    "id": 321321,
+    "name": "MTV München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168476,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902867,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-05",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-03-04T23:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 319490,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902868,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-05",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-03-04T23:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 3",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166684,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902869,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T14:00:00.000Z",
+   "home": {
+    "id": 321321,
+    "name": "MTV München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166717,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902870,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "09:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T08:30:00.000Z",
+   "home": {
+    "id": 168435,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 1",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902871,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T10:00:00.000Z",
+   "home": {
+    "id": 166684,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902872,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-12",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-03-11T23:00:00.000Z",
+   "home": {
+    "id": 319490,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 3",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902873,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T09:00:00.000Z",
+   "home": {
+    "id": 168476,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902874,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T13:00:00.000Z",
+   "home": {
+    "id": 168435,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166717,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902875,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-09",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-04-08T22:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 321321,
+    "name": "MTV München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902876,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-09",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-04-08T22:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 3",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168476,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902877,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-09",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-04-08T22:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319490,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902878,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-09",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-04-08T22:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 1",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166684,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902879,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T09:00:00.000Z",
+   "home": {
+    "id": 166684,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168435,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902880,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-16",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-04-15T22:00:00.000Z",
+   "home": {
+    "id": 319490,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 1",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902881,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T08:00:00.000Z",
+   "home": {
+    "id": 168476,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902882,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-16",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-04-15T22:00:00.000Z",
+   "home": {
+    "id": 321321,
+    "name": "MTV München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 3",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902883,
+   "ligaId": 53773,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-16",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-04-15T22:00:00.000Z",
+   "home": {
+    "id": 166717,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

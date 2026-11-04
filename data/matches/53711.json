@@ -1,0 +1,2538 @@
+{
+ "league": {
+  "ligaId": 53711,
+  "name": "MFR Bezirksliga Herren",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Bezirksliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Mittelfranken",
+  "competitionType": "regular",
+  "role": "core"
+ },
+ "matches": [
+  {
+   "matchId": 2870080,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T18:00:00.000Z",
+   "home": {
+    "id": 157624,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157625,
+    "name": "SC Großschwarzenlohe",
+    "clubId": 277,
+    "forfeit": false
+   },
+   "homeScore": 91,
+   "guestScore": 65,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870081,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T17:30:00.000Z",
+   "home": {
+    "id": 312007,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157668,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": 64,
+   "guestScore": 46,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870082,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T13:00:00.000Z",
+   "home": {
+    "id": 157640,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316331,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870083,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T17:00:00.000Z",
+   "home": {
+    "id": 157641,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 2",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157644,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": 52,
+   "guestScore": 60,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870084,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T15:00:00.000Z",
+   "home": {
+    "id": 158890,
+    "name": "TV Vach",
+    "clubId": 1464,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157665,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": 86,
+   "guestScore": 40,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870085,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T16:00:00.000Z",
+   "home": {
+    "id": 157644,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157640,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "homeScore": 36,
+   "guestScore": 53,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870086,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T10:30:00.000Z",
+   "home": {
+    "id": 316331,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 312007,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870087,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T18:00:00.000Z",
+   "home": {
+    "id": 157668,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158890,
+    "name": "TV Vach",
+    "clubId": 1464,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 78,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870088,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T13:30:00.000Z",
+   "home": {
+    "id": 157665,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157624,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": 67,
+   "guestScore": 98,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870089,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T16:00:00.000Z",
+   "home": {
+    "id": 157625,
+    "name": "SC Großschwarzenlohe",
+    "clubId": 277,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157641,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 2",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "homeScore": 79,
+   "guestScore": 57,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870090,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-01",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-01T16:30:00.000Z",
+   "home": {
+    "id": 157624,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157641,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 2",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "homeScore": 50,
+   "guestScore": 26,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870091,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T17:30:00.000Z",
+   "home": {
+    "id": 312007,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157644,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": 51,
+   "guestScore": 63,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870092,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T11:30:00.000Z",
+   "home": {
+    "id": 157640,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157625,
+    "name": "SC Großschwarzenlohe",
+    "clubId": 277,
+    "forfeit": false
+   },
+   "homeScore": 80,
+   "guestScore": 62,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870093,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T13:30:00.000Z",
+   "home": {
+    "id": 157665,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157668,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": 85,
+   "guestScore": 79,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870094,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T15:00:00.000Z",
+   "home": {
+    "id": 158890,
+    "name": "TV Vach",
+    "clubId": 1464,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316331,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870095,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T17:00:00.000Z",
+   "home": {
+    "id": 157644,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158890,
+    "name": "TV Vach",
+    "clubId": 1464,
+    "forfeit": false
+   },
+   "homeScore": 60,
+   "guestScore": 77,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870096,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T11:30:00.000Z",
+   "home": {
+    "id": 316331,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 157665,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870097,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T18:00:00.000Z",
+   "home": {
+    "id": 157668,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157624,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": 89,
+   "guestScore": 46,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870098,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T17:00:00.000Z",
+   "home": {
+    "id": 157641,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 2",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157640,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "homeScore": 47,
+   "guestScore": 69,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870099,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T17:00:00.000Z",
+   "home": {
+    "id": 157625,
+    "name": "SC Großschwarzenlohe",
+    "clubId": 277,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312007,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": 88,
+   "guestScore": 73,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870100,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T17:00:00.000Z",
+   "home": {
+    "id": 157624,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157640,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870101,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T18:30:00.000Z",
+   "home": {
+    "id": 312007,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157641,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 2",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870102,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T19:00:00.000Z",
+   "home": {
+    "id": 157668,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316331,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870103,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T14:30:00.000Z",
+   "home": {
+    "id": 157665,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157644,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870104,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T16:00:00.000Z",
+   "home": {
+    "id": 158890,
+    "name": "TV Vach",
+    "clubId": 1464,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157625,
+    "name": "SC Großschwarzenlohe",
+    "clubId": 277,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870105,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T17:00:00.000Z",
+   "home": {
+    "id": 157644,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157668,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870106,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T11:30:00.000Z",
+   "home": {
+    "id": 316331,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 157624,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870107,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T10:30:00.000Z",
+   "home": {
+    "id": 157640,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312007,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870108,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T15:30:00.000Z",
+   "home": {
+    "id": 157641,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 2",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158890,
+    "name": "TV Vach",
+    "clubId": 1464,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870109,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T17:00:00.000Z",
+   "home": {
+    "id": 157625,
+    "name": "SC Großschwarzenlohe",
+    "clubId": 277,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157665,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870110,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T17:00:00.000Z",
+   "home": {
+    "id": 157624,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312007,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870111,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T11:30:00.000Z",
+   "home": {
+    "id": 316331,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 157644,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870112,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T19:00:00.000Z",
+   "home": {
+    "id": 157668,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157625,
+    "name": "SC Großschwarzenlohe",
+    "clubId": 277,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870113,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T14:30:00.000Z",
+   "home": {
+    "id": 157665,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157641,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 2",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870114,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T16:00:00.000Z",
+   "home": {
+    "id": 158890,
+    "name": "TV Vach",
+    "clubId": 1464,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157640,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870115,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T17:00:00.000Z",
+   "home": {
+    "id": 157624,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157644,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870116,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T18:30:00.000Z",
+   "home": {
+    "id": 312007,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158890,
+    "name": "TV Vach",
+    "clubId": 1464,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870117,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T12:30:00.000Z",
+   "home": {
+    "id": 157640,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157665,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870118,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T13:00:00.000Z",
+   "home": {
+    "id": 157641,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 2",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157668,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870119,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T17:00:00.000Z",
+   "home": {
+    "id": 157625,
+    "name": "SC Großschwarzenlohe",
+    "clubId": 277,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316331,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870120,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T17:00:00.000Z",
+   "home": {
+    "id": 157644,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157625,
+    "name": "SC Großschwarzenlohe",
+    "clubId": 277,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870121,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T11:30:00.000Z",
+   "home": {
+    "id": 316331,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 157641,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 2",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870122,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T19:00:00.000Z",
+   "home": {
+    "id": 157668,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157640,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870123,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T14:30:00.000Z",
+   "home": {
+    "id": 157665,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312007,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870124,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T16:00:00.000Z",
+   "home": {
+    "id": 158890,
+    "name": "TV Vach",
+    "clubId": 1464,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157624,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870125,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T17:00:00.000Z",
+   "home": {
+    "id": 157625,
+    "name": "SC Großschwarzenlohe",
+    "clubId": 277,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157624,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870126,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T19:00:00.000Z",
+   "home": {
+    "id": 157668,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312007,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870127,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T11:30:00.000Z",
+   "home": {
+    "id": 316331,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 157640,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870128,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T17:00:00.000Z",
+   "home": {
+    "id": 157644,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157641,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 2",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870129,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T14:30:00.000Z",
+   "home": {
+    "id": 157665,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158890,
+    "name": "TV Vach",
+    "clubId": 1464,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870130,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T16:30:00.000Z",
+   "home": {
+    "id": 157640,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157644,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870131,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T18:30:00.000Z",
+   "home": {
+    "id": 312007,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316331,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870132,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:00:00.000Z",
+   "home": {
+    "id": 158890,
+    "name": "TV Vach",
+    "clubId": 1464,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157668,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870133,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T17:00:00.000Z",
+   "home": {
+    "id": 157624,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157665,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870134,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T13:00:00.000Z",
+   "home": {
+    "id": 157641,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 2",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157625,
+    "name": "SC Großschwarzenlohe",
+    "clubId": 277,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870135,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T18:00:00.000Z",
+   "home": {
+    "id": 157641,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 2",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157624,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870136,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T17:00:00.000Z",
+   "home": {
+    "id": 157644,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312007,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870137,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T17:00:00.000Z",
+   "home": {
+    "id": 157625,
+    "name": "SC Großschwarzenlohe",
+    "clubId": 277,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157640,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870138,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T19:00:00.000Z",
+   "home": {
+    "id": 157668,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157665,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870139,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T11:30:00.000Z",
+   "home": {
+    "id": 316331,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 158890,
+    "name": "TV Vach",
+    "clubId": 1464,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870140,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T16:00:00.000Z",
+   "home": {
+    "id": 158890,
+    "name": "TV Vach",
+    "clubId": 1464,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157644,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870141,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T14:30:00.000Z",
+   "home": {
+    "id": 157665,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316331,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870142,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T17:00:00.000Z",
+   "home": {
+    "id": 157624,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157668,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870143,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T11:30:00.000Z",
+   "home": {
+    "id": 157640,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157641,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 2",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870144,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T18:30:00.000Z",
+   "home": {
+    "id": 312007,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157625,
+    "name": "SC Großschwarzenlohe",
+    "clubId": 277,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870145,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T17:00:00.000Z",
+   "home": {
+    "id": 157640,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157624,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870146,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T13:00:00.000Z",
+   "home": {
+    "id": 157641,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 2",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312007,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870147,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T11:30:00.000Z",
+   "home": {
+    "id": 316331,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 157668,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870148,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T17:00:00.000Z",
+   "home": {
+    "id": 157644,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157665,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870149,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T17:00:00.000Z",
+   "home": {
+    "id": 157625,
+    "name": "SC Großschwarzenlohe",
+    "clubId": 277,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158890,
+    "name": "TV Vach",
+    "clubId": 1464,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870150,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T19:00:00.000Z",
+   "home": {
+    "id": 157668,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157644,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870151,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T17:00:00.000Z",
+   "home": {
+    "id": 157624,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316331,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870152,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T18:30:00.000Z",
+   "home": {
+    "id": 312007,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157640,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870153,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T16:00:00.000Z",
+   "home": {
+    "id": 158890,
+    "name": "TV Vach",
+    "clubId": 1464,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157641,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 2",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870154,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T14:30:00.000Z",
+   "home": {
+    "id": 157665,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157625,
+    "name": "SC Großschwarzenlohe",
+    "clubId": 277,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870155,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T18:30:00.000Z",
+   "home": {
+    "id": 312007,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157624,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870156,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T17:00:00.000Z",
+   "home": {
+    "id": 157644,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316331,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870157,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T17:00:00.000Z",
+   "home": {
+    "id": 157625,
+    "name": "SC Großschwarzenlohe",
+    "clubId": 277,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157668,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870158,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T13:00:00.000Z",
+   "home": {
+    "id": 157641,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 2",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157665,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870159,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T11:30:00.000Z",
+   "home": {
+    "id": 157640,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158890,
+    "name": "TV Vach",
+    "clubId": 1464,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870160,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T16:00:00.000Z",
+   "home": {
+    "id": 157644,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157624,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870161,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T15:00:00.000Z",
+   "home": {
+    "id": 158890,
+    "name": "TV Vach",
+    "clubId": 1464,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312007,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870162,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T13:30:00.000Z",
+   "home": {
+    "id": 157665,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157640,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870163,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T18:00:00.000Z",
+   "home": {
+    "id": 157668,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157641,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 2",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870164,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T10:30:00.000Z",
+   "home": {
+    "id": 316331,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 157625,
+    "name": "SC Großschwarzenlohe",
+    "clubId": 277,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870165,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T16:00:00.000Z",
+   "home": {
+    "id": 157625,
+    "name": "SC Großschwarzenlohe",
+    "clubId": 277,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157644,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870166,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T17:00:00.000Z",
+   "home": {
+    "id": 157641,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 2",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316331,
+    "name": "Frankonia Baskets Nürnberg 2",
+    "clubId": 4534,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870167,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T11:30:00.000Z",
+   "home": {
+    "id": 157640,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157668,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870168,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T17:30:00.000Z",
+   "home": {
+    "id": 312007,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157665,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870169,
+   "ligaId": 53711,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T16:00:00.000Z",
+   "home": {
+    "id": 157624,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158890,
+    "name": "TV Vach",
+    "clubId": 1464,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

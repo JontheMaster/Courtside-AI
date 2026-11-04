@@ -1,0 +1,1516 @@
+{
+ "league": {
+  "ligaId": 53717,
+  "name": "MFR Kreisliga Herren Süd",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Kreisliga",
+  "levelScope": "Kreis",
+  "verbandId": 2,
+  "bezirk": "Mittelfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2870428,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T13:30:00.000Z",
+   "home": {
+    "id": 157650,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157677,
+    "name": "VfL Treuchtlingen 3",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": 82,
+   "guestScore": 37,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870429,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T11:00:00.000Z",
+   "home": {
+    "id": 157662,
+    "name": "SpVgg Roth",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 176756,
+    "name": "79ers Hilpoltstein 2",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": 80,
+   "guestScore": 27,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870430,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-09T22:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 316332,
+    "name": "ESV Flügelrad Nürnberg 3",
+    "clubId": 1727,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870431,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "16:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T15:15:00.000Z",
+   "home": {
+    "id": 170709,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314934,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870432,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-16T22:00:00.000Z",
+   "home": {
+    "id": 316332,
+    "name": "ESV Flügelrad Nürnberg 3",
+    "clubId": 1727,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 157662,
+    "name": "SpVgg Roth",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870433,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "17:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T16:45:00.000Z",
+   "home": {
+    "id": 176756,
+    "name": "79ers Hilpoltstein 2",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 170709,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870434,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T16:00:00.000Z",
+   "home": {
+    "id": 314934,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157650,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": 63,
+   "guestScore": 65,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870435,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T10:00:00.000Z",
+   "home": {
+    "id": 157677,
+    "name": "VfL Treuchtlingen 3",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870436,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T15:00:00.000Z",
+   "home": {
+    "id": 157650,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870437,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T12:00:00.000Z",
+   "home": {
+    "id": 157662,
+    "name": "SpVgg Roth",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157677,
+    "name": "VfL Treuchtlingen 3",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870438,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T17:00:00.000Z",
+   "home": {
+    "id": 314934,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 176756,
+    "name": "79ers Hilpoltstein 2",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870439,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T13:30:00.000Z",
+   "home": {
+    "id": 170709,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316332,
+    "name": "ESV Flügelrad Nürnberg 3",
+    "clubId": 1727,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870440,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T19:00:00.000Z",
+   "home": {
+    "id": 316332,
+    "name": "ESV Flügelrad Nürnberg 3",
+    "clubId": 1727,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 314934,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870441,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T14:30:00.000Z",
+   "home": {
+    "id": 176756,
+    "name": "79ers Hilpoltstein 2",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157650,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870442,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-20T23:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 157662,
+    "name": "SpVgg Roth",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870443,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T11:00:00.000Z",
+   "home": {
+    "id": 157677,
+    "name": "VfL Treuchtlingen 3",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 170709,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870444,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T15:00:00.000Z",
+   "home": {
+    "id": 157650,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157662,
+    "name": "SpVgg Roth",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870445,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T12:00:00.000Z",
+   "home": {
+    "id": 176756,
+    "name": "79ers Hilpoltstein 2",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316332,
+    "name": "ESV Flügelrad Nürnberg 3",
+    "clubId": 1727,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870446,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T17:00:00.000Z",
+   "home": {
+    "id": 314934,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157677,
+    "name": "VfL Treuchtlingen 3",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870447,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T13:30:00.000Z",
+   "home": {
+    "id": 170709,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870448,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T15:00:00.000Z",
+   "home": {
+    "id": 157650,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316332,
+    "name": "ESV Flügelrad Nürnberg 3",
+    "clubId": 1727,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870449,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T18:00:00.000Z",
+   "home": {
+    "id": 157662,
+    "name": "SpVgg Roth",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 170709,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870450,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-12-11T23:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 314934,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870451,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T13:00:00.000Z",
+   "home": {
+    "id": 157677,
+    "name": "VfL Treuchtlingen 3",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 176756,
+    "name": "79ers Hilpoltstein 2",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870452,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T17:00:00.000Z",
+   "home": {
+    "id": 316332,
+    "name": "ESV Flügelrad Nürnberg 3",
+    "clubId": 1727,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 157677,
+    "name": "VfL Treuchtlingen 3",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870453,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T12:00:00.000Z",
+   "home": {
+    "id": 176756,
+    "name": "79ers Hilpoltstein 2",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870454,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T17:00:00.000Z",
+   "home": {
+    "id": 314934,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157662,
+    "name": "SpVgg Roth",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870455,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T13:30:00.000Z",
+   "home": {
+    "id": 170709,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157650,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870456,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T11:00:00.000Z",
+   "home": {
+    "id": 157677,
+    "name": "VfL Treuchtlingen 3",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157650,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870457,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T14:30:00.000Z",
+   "home": {
+    "id": 176756,
+    "name": "79ers Hilpoltstein 2",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157662,
+    "name": "SpVgg Roth",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870458,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-22T23:00:00.000Z",
+   "home": {
+    "id": 316332,
+    "name": "ESV Flügelrad Nürnberg 3",
+    "clubId": 1727,
+    "forfeit": true
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870459,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T17:00:00.000Z",
+   "home": {
+    "id": 314934,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 170709,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870460,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T14:00:00.000Z",
+   "home": {
+    "id": 157662,
+    "name": "SpVgg Roth",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316332,
+    "name": "ESV Flügelrad Nürnberg 3",
+    "clubId": 1727,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870461,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T13:30:00.000Z",
+   "home": {
+    "id": 170709,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 176756,
+    "name": "79ers Hilpoltstein 2",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870462,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T15:00:00.000Z",
+   "home": {
+    "id": 157650,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314934,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870463,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-02-19T23:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 157677,
+    "name": "VfL Treuchtlingen 3",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870464,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-02-26T23:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 157650,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870465,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T13:00:00.000Z",
+   "home": {
+    "id": 157677,
+    "name": "VfL Treuchtlingen 3",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157662,
+    "name": "SpVgg Roth",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870466,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T14:30:00.000Z",
+   "home": {
+    "id": 176756,
+    "name": "79ers Hilpoltstein 2",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314934,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870467,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T15:30:00.000Z",
+   "home": {
+    "id": 316332,
+    "name": "ESV Flügelrad Nürnberg 3",
+    "clubId": 1727,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 170709,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870468,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T17:00:00.000Z",
+   "home": {
+    "id": 314934,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316332,
+    "name": "ESV Flügelrad Nürnberg 3",
+    "clubId": 1727,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870469,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T17:30:00.000Z",
+   "home": {
+    "id": 157650,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 176756,
+    "name": "79ers Hilpoltstein 2",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870470,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-03-05T23:00:00.000Z",
+   "home": {
+    "id": 157662,
+    "name": "SpVgg Roth",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870471,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T13:30:00.000Z",
+   "home": {
+    "id": 170709,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157677,
+    "name": "VfL Treuchtlingen 3",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870472,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T12:00:00.000Z",
+   "home": {
+    "id": 157662,
+    "name": "SpVgg Roth",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157650,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870473,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T13:00:00.000Z",
+   "home": {
+    "id": 316332,
+    "name": "ESV Flügelrad Nürnberg 3",
+    "clubId": 1727,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 176756,
+    "name": "79ers Hilpoltstein 2",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870474,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T11:00:00.000Z",
+   "home": {
+    "id": 157677,
+    "name": "VfL Treuchtlingen 3",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314934,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870475,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-03-12T23:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 170709,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870476,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T18:00:00.000Z",
+   "home": {
+    "id": 316332,
+    "name": "ESV Flügelrad Nürnberg 3",
+    "clubId": 1727,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 157650,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870477,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T12:30:00.000Z",
+   "home": {
+    "id": 170709,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157662,
+    "name": "SpVgg Roth",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870478,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T16:00:00.000Z",
+   "home": {
+    "id": 314934,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870479,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T11:00:00.000Z",
+   "home": {
+    "id": 176756,
+    "name": "79ers Hilpoltstein 2",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157677,
+    "name": "VfL Treuchtlingen 3",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870480,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T12:00:00.000Z",
+   "home": {
+    "id": 157677,
+    "name": "VfL Treuchtlingen 3",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316332,
+    "name": "ESV Flügelrad Nürnberg 3",
+    "clubId": 1727,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870481,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-04-16T22:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 176756,
+    "name": "79ers Hilpoltstein 2",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870482,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T11:00:00.000Z",
+   "home": {
+    "id": 157662,
+    "name": "SpVgg Roth",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314934,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870483,
+   "ligaId": 53717,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T16:30:00.000Z",
+   "home": {
+    "id": 157650,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 170709,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

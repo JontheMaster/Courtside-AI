@@ -1,0 +1,438 @@
+{
+ "league": {
+  "ligaId": 56027,
+  "name": "UFR Einteilungsrunde 3 U14 männlich",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U14",
+  "gender": "männlich",
+  "level": "Kreisklasse",
+  "levelScope": "Kreis",
+  "verbandId": 2,
+  "bezirk": "Unterfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2933880,
+   "ligaId": 56027,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-25",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-25T15:00:00.000Z",
+   "home": {
+    "id": 246966,
+    "name": "KuSG Laufach",
+    "clubId": 1328,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163724,
+    "name": "TV Goldbach 1897",
+    "clubId": 504,
+    "forfeit": false
+   },
+   "homeScore": 66,
+   "guestScore": 50,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933881,
+   "ligaId": 56027,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T15:00:00.000Z",
+   "home": {
+    "id": 309518,
+    "name": "BG Elsenfeld / Großwallstadt 2",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319335,
+    "name": "TuS Aschaffenburg Damm",
+    "clubId": 605,
+    "forfeit": false
+   },
+   "homeScore": 41,
+   "guestScore": 101,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933882,
+   "ligaId": 56027,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T13:30:00.000Z",
+   "home": {
+    "id": 166034,
+    "name": "TG 48 Würzburg 3",
+    "clubId": 906,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 163722,
+    "name": "TSV Amorbach 1863",
+    "clubId": 368,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933883,
+   "ligaId": 56027,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T14:00:00.000Z",
+   "home": {
+    "id": 319335,
+    "name": "TuS Aschaffenburg Damm",
+    "clubId": 605,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166034,
+    "name": "TG 48 Würzburg 3",
+    "clubId": 906,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933884,
+   "ligaId": 56027,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T11:30:00.000Z",
+   "home": {
+    "id": 163722,
+    "name": "TSV Amorbach 1863",
+    "clubId": 368,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 246966,
+    "name": "KuSG Laufach",
+    "clubId": 1328,
+    "forfeit": false
+   },
+   "homeScore": 30,
+   "guestScore": 86,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933885,
+   "ligaId": 56027,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T15:00:00.000Z",
+   "home": {
+    "id": 163724,
+    "name": "TV Goldbach 1897",
+    "clubId": 504,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309518,
+    "name": "BG Elsenfeld / Großwallstadt 2",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": 83,
+   "guestScore": 29,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933886,
+   "ligaId": 56027,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-30",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-30T16:00:00.000Z",
+   "home": {
+    "id": 246966,
+    "name": "KuSG Laufach",
+    "clubId": 1328,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309518,
+    "name": "BG Elsenfeld / Großwallstadt 2",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": 70,
+   "guestScore": 41,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933887,
+   "ligaId": 56027,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T11:30:00.000Z",
+   "home": {
+    "id": 163722,
+    "name": "TSV Amorbach 1863",
+    "clubId": 368,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319335,
+    "name": "TuS Aschaffenburg Damm",
+    "clubId": 605,
+    "forfeit": false
+   },
+   "homeScore": 33,
+   "guestScore": 94,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933888,
+   "ligaId": 56027,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T13:30:00.000Z",
+   "home": {
+    "id": 166034,
+    "name": "TG 48 Würzburg 3",
+    "clubId": 906,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 163724,
+    "name": "TV Goldbach 1897",
+    "clubId": 504,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933889,
+   "ligaId": 56027,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T13:00:00.000Z",
+   "home": {
+    "id": 246966,
+    "name": "KuSG Laufach",
+    "clubId": 1328,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319335,
+    "name": "TuS Aschaffenburg Damm",
+    "clubId": 605,
+    "forfeit": false
+   },
+   "homeScore": 57,
+   "guestScore": 68,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933890,
+   "ligaId": 56027,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T15:00:00.000Z",
+   "home": {
+    "id": 309518,
+    "name": "BG Elsenfeld / Großwallstadt 2",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166034,
+    "name": "TG 48 Würzburg 3",
+    "clubId": 906,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933891,
+   "ligaId": 56027,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T12:15:00.000Z",
+   "home": {
+    "id": 163724,
+    "name": "TV Goldbach 1897",
+    "clubId": 504,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163722,
+    "name": "TSV Amorbach 1863",
+    "clubId": 368,
+    "forfeit": false
+   },
+   "homeScore": 88,
+   "guestScore": 26,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933892,
+   "ligaId": 56027,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T09:00:00.000Z",
+   "home": {
+    "id": 319335,
+    "name": "TuS Aschaffenburg Damm",
+    "clubId": 605,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163724,
+    "name": "TV Goldbach 1897",
+    "clubId": 504,
+    "forfeit": false
+   },
+   "homeScore": 83,
+   "guestScore": 75,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933893,
+   "ligaId": 56027,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T11:30:00.000Z",
+   "home": {
+    "id": 163722,
+    "name": "TSV Amorbach 1863",
+    "clubId": 368,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309518,
+    "name": "BG Elsenfeld / Großwallstadt 2",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": 50,
+   "guestScore": 34,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933894,
+   "ligaId": 56027,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T12:00:00.000Z",
+   "home": {
+    "id": 166034,
+    "name": "TG 48 Würzburg 3",
+    "clubId": 906,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 246966,
+    "name": "KuSG Laufach",
+    "clubId": 1328,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  }
+ ]
+}

@@ -1,0 +1,2034 @@
+{
+ "league": {
+  "ligaId": 56161,
+  "name": "MFR U16w Bezirksoberliga",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U16",
+  "gender": "weiblich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Mittelfranken",
+  "competitionType": "regular",
+  "role": "core"
+ },
+ "matches": [
+  {
+   "matchId": 2928944,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T14:00:00.000Z",
+   "home": {
+    "id": 323219,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310844,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928945,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T12:00:00.000Z",
+   "home": {
+    "id": 193904,
+    "name": "TB Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 257179,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928946,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T14:00:00.000Z",
+   "home": {
+    "id": 313110,
+    "name": "ATV Frankonia Nürnberg",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 195083,
+    "name": "TV Fürth 1860 (aK)",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928947,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "16:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T15:15:00.000Z",
+   "home": {
+    "id": 312888,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322567,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928949,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T13:15:00.000Z",
+   "home": {
+    "id": 322567,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313110,
+    "name": "ATV Frankonia Nürnberg",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": 97,
+   "guestScore": 44,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928950,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T09:00:00.000Z",
+   "home": {
+    "id": 195083,
+    "name": "TV Fürth 1860 (aK)",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 193904,
+    "name": "TB Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928952,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-05-08",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-05-08T10:00:00.000Z",
+   "home": {
+    "id": 263814,
+    "name": "TV Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323219,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928953,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T13:30:00.000Z",
+   "home": {
+    "id": 310844,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312888,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928954,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T13:00:00.000Z",
+   "home": {
+    "id": 323219,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312888,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928955,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T11:00:00.000Z",
+   "home": {
+    "id": 193904,
+    "name": "TB Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322567,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928956,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T14:00:00.000Z",
+   "home": {
+    "id": 313110,
+    "name": "ATV Frankonia Nürnberg",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310844,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928957,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-05-01",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-05-01T12:30:00.000Z",
+   "home": {
+    "id": 263814,
+    "name": "TV Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 257179,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928960,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T11:30:00.000Z",
+   "home": {
+    "id": 195083,
+    "name": "TV Fürth 1860 (aK)",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 263814,
+    "name": "TV Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928961,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T16:30:00.000Z",
+   "home": {
+    "id": 257179,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323219,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928962,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T16:00:00.000Z",
+   "home": {
+    "id": 312888,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313110,
+    "name": "ATV Frankonia Nürnberg",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928963,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T17:00:00.000Z",
+   "home": {
+    "id": 310844,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 193904,
+    "name": "TB Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928964,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T15:00:00.000Z",
+   "home": {
+    "id": 323219,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313110,
+    "name": "ATV Frankonia Nürnberg",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928965,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T09:00:00.000Z",
+   "home": {
+    "id": 193904,
+    "name": "TB Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312888,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": 39,
+   "guestScore": 56,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928966,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T13:00:00.000Z",
+   "home": {
+    "id": 257179,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 195083,
+    "name": "TV Fürth 1860 (aK)",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928967,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T13:30:00.000Z",
+   "home": {
+    "id": 263814,
+    "name": "TV Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322567,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928969,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T08:30:00.000Z",
+   "home": {
+    "id": 322567,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 257179,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928970,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T14:00:00.000Z",
+   "home": {
+    "id": 195083,
+    "name": "TV Fürth 1860 (aK)",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323219,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928971,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T11:30:00.000Z",
+   "home": {
+    "id": 313110,
+    "name": "ATV Frankonia Nürnberg",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 193904,
+    "name": "TB Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928973,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T11:00:00.000Z",
+   "home": {
+    "id": 310844,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 263814,
+    "name": "TV Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928974,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T12:00:00.000Z",
+   "home": {
+    "id": 323219,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 193904,
+    "name": "TB Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928975,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T14:00:00.000Z",
+   "home": {
+    "id": 195083,
+    "name": "TV Fürth 1860 (aK)",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322567,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928976,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T08:00:00.000Z",
+   "home": {
+    "id": 257179,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310844,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": 13,
+   "guestScore": 159,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928977,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T12:30:00.000Z",
+   "home": {
+    "id": 263814,
+    "name": "TV Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312888,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928979,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-05-02",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-05-02T14:00:00.000Z",
+   "home": {
+    "id": 323219,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322567,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928981,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T11:30:00.000Z",
+   "home": {
+    "id": 313110,
+    "name": "ATV Frankonia Nürnberg",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 263814,
+    "name": "TV Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928982,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T12:30:00.000Z",
+   "home": {
+    "id": 312888,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 257179,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928983,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T08:00:00.000Z",
+   "home": {
+    "id": 310844,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 195083,
+    "name": "TV Fürth 1860 (aK)",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928984,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T11:00:00.000Z",
+   "home": {
+    "id": 322567,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310844,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928985,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T13:00:00.000Z",
+   "home": {
+    "id": 195083,
+    "name": "TV Fürth 1860 (aK)",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312888,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": 47,
+   "guestScore": 64,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928986,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-05-08",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-05-08T14:00:00.000Z",
+   "home": {
+    "id": 257179,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313110,
+    "name": "ATV Frankonia Nürnberg",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928987,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T11:00:00.000Z",
+   "home": {
+    "id": 263814,
+    "name": "TV Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 193904,
+    "name": "TB Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928989,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T16:00:00.000Z",
+   "home": {
+    "id": 310844,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323219,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "homeScore": 47,
+   "guestScore": 49,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928990,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T14:00:00.000Z",
+   "home": {
+    "id": 257179,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 193904,
+    "name": "TB Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928991,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T10:30:00.000Z",
+   "home": {
+    "id": 195083,
+    "name": "TV Fürth 1860 (aK)",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313110,
+    "name": "ATV Frankonia Nürnberg",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": 110,
+   "guestScore": 24,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928992,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-05-08",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-05-08T12:15:00.000Z",
+   "home": {
+    "id": 322567,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312888,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928994,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T16:30:00.000Z",
+   "home": {
+    "id": 313110,
+    "name": "ATV Frankonia Nürnberg",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322567,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928995,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T11:00:00.000Z",
+   "home": {
+    "id": 193904,
+    "name": "TB Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 195083,
+    "name": "TV Fürth 1860 (aK)",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928997,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T15:00:00.000Z",
+   "home": {
+    "id": 323219,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 263814,
+    "name": "TV Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928998,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T13:30:00.000Z",
+   "home": {
+    "id": 312888,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310844,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928999,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T16:00:00.000Z",
+   "home": {
+    "id": 312888,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323219,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929000,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T08:00:00.000Z",
+   "home": {
+    "id": 322567,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 193904,
+    "name": "TB Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": 57,
+   "guestScore": 47,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929001,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T11:00:00.000Z",
+   "home": {
+    "id": 310844,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313110,
+    "name": "ATV Frankonia Nürnberg",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929002,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T14:00:00.000Z",
+   "home": {
+    "id": 257179,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 263814,
+    "name": "TV Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929005,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T11:30:00.000Z",
+   "home": {
+    "id": 263814,
+    "name": "TV Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 195083,
+    "name": "TV Fürth 1860 (aK)",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929006,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T13:00:00.000Z",
+   "home": {
+    "id": 323219,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 257179,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929007,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T10:30:00.000Z",
+   "home": {
+    "id": 313110,
+    "name": "ATV Frankonia Nürnberg",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312888,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": 36,
+   "guestScore": 91,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929008,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T12:00:00.000Z",
+   "home": {
+    "id": 193904,
+    "name": "TB Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310844,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929009,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T16:30:00.000Z",
+   "home": {
+    "id": 313110,
+    "name": "ATV Frankonia Nürnberg",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323219,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929010,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T13:00:00.000Z",
+   "home": {
+    "id": 312888,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 193904,
+    "name": "TB Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929011,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T15:30:00.000Z",
+   "home": {
+    "id": 195083,
+    "name": "TV Fürth 1860 (aK)",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 257179,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": 69,
+   "guestScore": 27,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929012,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T15:30:00.000Z",
+   "home": {
+    "id": 322567,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 263814,
+    "name": "TV Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929014,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-04-25",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-25T14:00:00.000Z",
+   "home": {
+    "id": 257179,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322567,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929015,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T15:00:00.000Z",
+   "home": {
+    "id": 323219,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 195083,
+    "name": "TV Fürth 1860 (aK)",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929016,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T12:00:00.000Z",
+   "home": {
+    "id": 193904,
+    "name": "TB Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313110,
+    "name": "ATV Frankonia Nürnberg",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": 70,
+   "guestScore": 41,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929018,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T14:00:00.000Z",
+   "home": {
+    "id": 263814,
+    "name": "TV Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310844,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929019,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T11:00:00.000Z",
+   "home": {
+    "id": 193904,
+    "name": "TB Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323219,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "homeScore": 43,
+   "guestScore": 94,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929020,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T15:30:00.000Z",
+   "home": {
+    "id": 322567,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 195083,
+    "name": "TV Fürth 1860 (aK)",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929021,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-04-04",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-04T12:00:00.000Z",
+   "home": {
+    "id": 310844,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 257179,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929022,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T10:00:00.000Z",
+   "home": {
+    "id": 312888,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 263814,
+    "name": "TV Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "homeScore": 74,
+   "guestScore": 41,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929024,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T12:15:00.000Z",
+   "home": {
+    "id": 322567,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323219,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "homeScore": 62,
+   "guestScore": 54,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929026,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T10:00:00.000Z",
+   "home": {
+    "id": 263814,
+    "name": "TV Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313110,
+    "name": "ATV Frankonia Nürnberg",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929027,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-06T16:30:00.000Z",
+   "home": {
+    "id": 257179,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312888,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929028,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-10-24",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-10-24T13:00:00.000Z",
+   "home": {
+    "id": 195083,
+    "name": "TV Fürth 1860 (aK)",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310844,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929029,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T11:00:00.000Z",
+   "home": {
+    "id": 310844,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322567,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929030,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T13:30:00.000Z",
+   "home": {
+    "id": 312888,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 195083,
+    "name": "TV Fürth 1860 (aK)",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929031,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T16:30:00.000Z",
+   "home": {
+    "id": 313110,
+    "name": "ATV Frankonia Nürnberg",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 257179,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929032,
+   "ligaId": 56161,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T12:00:00.000Z",
+   "home": {
+    "id": 193904,
+    "name": "TB Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 263814,
+    "name": "TV Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "homeScore": 71,
+   "guestScore": 36,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

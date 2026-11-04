@@ -1,0 +1,1586 @@
+{
+ "league": {
+  "ligaId": 54304,
+  "name": "Bayernliga U16 männlich Süd",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U16",
+  "gender": "männlich",
+  "level": "Bayernliga",
+  "levelScope": "Verband",
+  "verbandId": 2,
+  "bezirk": null,
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2898419,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T11:00:00.000Z",
+   "home": {
+    "id": 163032,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162987,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": 50,
+   "guestScore": 102,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898420,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T13:00:00.000Z",
+   "home": {
+    "id": 166178,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166180,
+    "name": "DJK Sportbund München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": 86,
+   "guestScore": 91,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898421,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T12:30:00.000Z",
+   "home": {
+    "id": 162988,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162997,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": 46,
+   "guestScore": 99,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898422,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T10:30:00.000Z",
+   "home": {
+    "id": 166181,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166182,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": 42,
+   "guestScore": 93,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898423,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T14:00:00.000Z",
+   "home": {
+    "id": 162997,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166178,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898424,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T10:30:00.000Z",
+   "home": {
+    "id": 166180,
+    "name": "DJK Sportbund München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166181,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898425,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T10:30:00.000Z",
+   "home": {
+    "id": 166182,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163032,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": 96,
+   "guestScore": 62,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898426,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T14:45:00.000Z",
+   "home": {
+    "id": 162987,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162988,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": 85,
+   "guestScore": 87,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898427,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T13:30:00.000Z",
+   "home": {
+    "id": 163032,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162988,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": 69,
+   "guestScore": 76,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898428,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T08:00:00.000Z",
+   "home": {
+    "id": 166178,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162987,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": 73,
+   "guestScore": 60,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898429,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T12:45:00.000Z",
+   "home": {
+    "id": 166182,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166180,
+    "name": "DJK Sportbund München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": 90,
+   "guestScore": 79,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898430,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T08:00:00.000Z",
+   "home": {
+    "id": 166181,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162997,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": 26,
+   "guestScore": 119,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898431,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T11:30:00.000Z",
+   "home": {
+    "id": 162997,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166182,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898432,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T11:30:00.000Z",
+   "home": {
+    "id": 166180,
+    "name": "DJK Sportbund München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163032,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898433,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T11:00:00.000Z",
+   "home": {
+    "id": 162988,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166178,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898434,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T11:15:00.000Z",
+   "home": {
+    "id": 162987,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166181,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898435,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T13:15:00.000Z",
+   "home": {
+    "id": 163032,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166178,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898436,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T14:00:00.000Z",
+   "home": {
+    "id": 166180,
+    "name": "DJK Sportbund München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162997,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898437,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T14:00:00.000Z",
+   "home": {
+    "id": 166182,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162987,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898438,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T09:00:00.000Z",
+   "home": {
+    "id": 166181,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162988,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898439,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T12:30:00.000Z",
+   "home": {
+    "id": 163032,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162997,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898440,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-02",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-02T17:00:00.000Z",
+   "home": {
+    "id": 166178,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166181,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898441,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T11:00:00.000Z",
+   "home": {
+    "id": 162988,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166182,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898442,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T15:45:00.000Z",
+   "home": {
+    "id": 162987,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166180,
+    "name": "DJK Sportbund München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898443,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T11:15:00.000Z",
+   "home": {
+    "id": 162997,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162987,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898444,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T11:15:00.000Z",
+   "home": {
+    "id": 166180,
+    "name": "DJK Sportbund München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162988,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898445,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T14:00:00.000Z",
+   "home": {
+    "id": 166182,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166178,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898446,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T11:30:00.000Z",
+   "home": {
+    "id": 166181,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163032,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898447,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T11:15:00.000Z",
+   "home": {
+    "id": 162987,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163032,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898448,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T11:30:00.000Z",
+   "home": {
+    "id": 166180,
+    "name": "DJK Sportbund München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166178,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898449,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T09:00:00.000Z",
+   "home": {
+    "id": 162997,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162988,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898450,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T14:00:00.000Z",
+   "home": {
+    "id": 166182,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166181,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898451,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-20",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-20T17:00:00.000Z",
+   "home": {
+    "id": 166178,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162997,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898452,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T09:00:00.000Z",
+   "home": {
+    "id": 166181,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166180,
+    "name": "DJK Sportbund München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898453,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T14:30:00.000Z",
+   "home": {
+    "id": 163032,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166182,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898454,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T16:00:00.000Z",
+   "home": {
+    "id": 162988,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162987,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898455,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T13:30:00.000Z",
+   "home": {
+    "id": 162988,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163032,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898456,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T13:30:00.000Z",
+   "home": {
+    "id": 162987,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166178,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898457,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T11:30:00.000Z",
+   "home": {
+    "id": 166180,
+    "name": "DJK Sportbund München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166182,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898458,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T11:30:00.000Z",
+   "home": {
+    "id": 162997,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166181,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898459,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T14:00:00.000Z",
+   "home": {
+    "id": 166182,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162997,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898460,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "15:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T14:45:00.000Z",
+   "home": {
+    "id": 163032,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166180,
+    "name": "DJK Sportbund München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898461,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-27",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-27T19:00:00.000Z",
+   "home": {
+    "id": 166178,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162988,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898462,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T14:00:00.000Z",
+   "home": {
+    "id": 166181,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162987,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898463,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T10:00:00.000Z",
+   "home": {
+    "id": 166178,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163032,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898464,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T09:00:00.000Z",
+   "home": {
+    "id": 162997,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166180,
+    "name": "DJK Sportbund München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898465,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T15:45:00.000Z",
+   "home": {
+    "id": 162987,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166182,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898466,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T13:30:00.000Z",
+   "home": {
+    "id": 162988,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166181,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898467,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T14:00:00.000Z",
+   "home": {
+    "id": 162997,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163032,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898468,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T14:00:00.000Z",
+   "home": {
+    "id": 166181,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166178,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898469,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T11:15:00.000Z",
+   "home": {
+    "id": 166182,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162988,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898470,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T14:00:00.000Z",
+   "home": {
+    "id": 166180,
+    "name": "DJK Sportbund München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162987,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898471,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T11:15:00.000Z",
+   "home": {
+    "id": 162987,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162997,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898472,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T13:30:00.000Z",
+   "home": {
+    "id": 162988,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166180,
+    "name": "DJK Sportbund München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898473,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-10",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-10T19:00:00.000Z",
+   "home": {
+    "id": 166178,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166182,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898474,
+   "ligaId": 54304,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T11:15:00.000Z",
+   "home": {
+    "id": 163032,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166181,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

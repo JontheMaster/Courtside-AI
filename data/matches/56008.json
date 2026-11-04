@@ -1,0 +1,1194 @@
+{
+ "league": {
+  "ligaId": 56008,
+  "name": "UFR Bezirksliga U16 weiblich",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U16",
+  "gender": "weiblich",
+  "level": "Bezirksliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Unterfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2932657,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T11:00:00.000Z",
+   "home": {
+    "id": 213193,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228428,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": 35,
+   "guestScore": 56,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932658,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T14:00:00.000Z",
+   "home": {
+    "id": 285272,
+    "name": "BG Elsenfeld / Großwallstadt 1",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323115,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": 31,
+   "guestScore": 60,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932659,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T14:00:00.000Z",
+   "home": {
+    "id": 273304,
+    "name": "DJK Münsterschwarzach 1 AK",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 219490,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932661,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "13:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T11:15:00.000Z",
+   "home": {
+    "id": 219490,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 285272,
+    "name": "BG Elsenfeld / Großwallstadt 1",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": 50,
+   "guestScore": 38,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932662,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T09:00:00.000Z",
+   "home": {
+    "id": 323115,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 193361,
+    "name": "SV Germania Erlenbach Young Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "homeScore": 60,
+   "guestScore": 64,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932664,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T11:00:00.000Z",
+   "home": {
+    "id": 228428,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273304,
+    "name": "DJK Münsterschwarzach 1 AK",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "homeScore": 65,
+   "guestScore": 55,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932665,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T12:00:00.000Z",
+   "home": {
+    "id": 213193,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273304,
+    "name": "DJK Münsterschwarzach 1 AK",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "homeScore": 23,
+   "guestScore": 91,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932666,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T13:00:00.000Z",
+   "home": {
+    "id": 285272,
+    "name": "BG Elsenfeld / Großwallstadt 1",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228428,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": 20,
+   "guestScore": 43,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932668,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T15:00:00.000Z",
+   "home": {
+    "id": 193361,
+    "name": "SV Germania Erlenbach Young Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 219490,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": 76,
+   "guestScore": 59,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932670,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T10:00:00.000Z",
+   "home": {
+    "id": 323115,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213193,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932671,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T15:30:00.000Z",
+   "home": {
+    "id": 273304,
+    "name": "DJK Münsterschwarzach 1 AK",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 285272,
+    "name": "BG Elsenfeld / Großwallstadt 1",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932672,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T17:00:00.000Z",
+   "home": {
+    "id": 228428,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 193361,
+    "name": "SV Germania Erlenbach Young Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932673,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T12:00:00.000Z",
+   "home": {
+    "id": 213193,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 285272,
+    "name": "BG Elsenfeld / Großwallstadt 1",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932674,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T10:00:00.000Z",
+   "home": {
+    "id": 323115,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 219490,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932676,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T13:00:00.000Z",
+   "home": {
+    "id": 193361,
+    "name": "SV Germania Erlenbach Young Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273304,
+    "name": "DJK Münsterschwarzach 1 AK",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932677,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T12:00:00.000Z",
+   "home": {
+    "id": 213193,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 219490,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932678,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T16:00:00.000Z",
+   "home": {
+    "id": 285272,
+    "name": "BG Elsenfeld / Großwallstadt 1",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 193361,
+    "name": "SV Germania Erlenbach Young Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932680,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T13:00:00.000Z",
+   "home": {
+    "id": 228428,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323115,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932681,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T12:00:00.000Z",
+   "home": {
+    "id": 219490,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228428,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932682,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T10:00:00.000Z",
+   "home": {
+    "id": 323115,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273304,
+    "name": "DJK Münsterschwarzach 1 AK",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932684,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T15:00:00.000Z",
+   "home": {
+    "id": 193361,
+    "name": "SV Germania Erlenbach Young Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213193,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932685,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T15:00:00.000Z",
+   "home": {
+    "id": 228428,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213193,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932686,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T10:00:00.000Z",
+   "home": {
+    "id": 323115,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 285272,
+    "name": "BG Elsenfeld / Großwallstadt 1",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932687,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T12:00:00.000Z",
+   "home": {
+    "id": 219490,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273304,
+    "name": "DJK Münsterschwarzach 1 AK",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932689,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T16:00:00.000Z",
+   "home": {
+    "id": 285272,
+    "name": "BG Elsenfeld / Großwallstadt 1",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 219490,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932690,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T15:00:00.000Z",
+   "home": {
+    "id": 193361,
+    "name": "SV Germania Erlenbach Young Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323115,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932692,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T14:00:00.000Z",
+   "home": {
+    "id": 273304,
+    "name": "DJK Münsterschwarzach 1 AK",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228428,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932693,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T16:00:00.000Z",
+   "home": {
+    "id": 273304,
+    "name": "DJK Münsterschwarzach 1 AK",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213193,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932694,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T15:00:00.000Z",
+   "home": {
+    "id": 228428,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 285272,
+    "name": "BG Elsenfeld / Großwallstadt 1",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932696,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T12:00:00.000Z",
+   "home": {
+    "id": 219490,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 193361,
+    "name": "SV Germania Erlenbach Young Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932698,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T12:00:00.000Z",
+   "home": {
+    "id": 213193,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323115,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932699,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T16:00:00.000Z",
+   "home": {
+    "id": 285272,
+    "name": "BG Elsenfeld / Großwallstadt 1",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273304,
+    "name": "DJK Münsterschwarzach 1 AK",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932700,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T15:00:00.000Z",
+   "home": {
+    "id": 193361,
+    "name": "SV Germania Erlenbach Young Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228428,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932701,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T10:00:00.000Z",
+   "home": {
+    "id": 285272,
+    "name": "BG Elsenfeld / Großwallstadt 1",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213193,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932702,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "10:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T09:45:00.000Z",
+   "home": {
+    "id": 219490,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323115,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932704,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T15:00:00.000Z",
+   "home": {
+    "id": 273304,
+    "name": "DJK Münsterschwarzach 1 AK",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 193361,
+    "name": "SV Germania Erlenbach Young Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932705,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T15:00:00.000Z",
+   "home": {
+    "id": 219490,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213193,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932706,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T15:00:00.000Z",
+   "home": {
+    "id": 193361,
+    "name": "SV Germania Erlenbach Young Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 285272,
+    "name": "BG Elsenfeld / Großwallstadt 1",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932708,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T10:00:00.000Z",
+   "home": {
+    "id": 323115,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228428,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932709,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T15:00:00.000Z",
+   "home": {
+    "id": 228428,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 219490,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932710,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T14:00:00.000Z",
+   "home": {
+    "id": 273304,
+    "name": "DJK Münsterschwarzach 1 AK",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323115,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932712,
+   "ligaId": 56008,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T12:00:00.000Z",
+   "home": {
+    "id": 213193,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 193361,
+    "name": "SV Germania Erlenbach Young Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

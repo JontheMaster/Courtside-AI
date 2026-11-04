@@ -1,0 +1,858 @@
+{
+ "league": {
+  "ligaId": 53794,
+  "name": "Bezirksklasse u14m Südgruppe (MI-BK14M-S) 2026/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U14",
+  "gender": "männlich",
+  "level": "Bezirksklasse",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2902164,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T08:00:00.000Z",
+   "home": {
+    "id": 166718,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166685,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": 100,
+   "guestScore": 22,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902168,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T08:00:00.000Z",
+   "home": {
+    "id": 166694,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166692,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "homeScore": 70,
+   "guestScore": 41,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902171,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T13:30:00.000Z",
+   "home": {
+    "id": 162969,
+    "name": "TSV Haar",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166694,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "homeScore": 52,
+   "guestScore": 79,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902172,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T08:00:00.000Z",
+   "home": {
+    "id": 166692,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166718,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": 65,
+   "guestScore": 101,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902177,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T12:00:00.000Z",
+   "home": {
+    "id": 166692,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162969,
+    "name": "TSV Haar",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 57,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902179,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T09:00:00.000Z",
+   "home": {
+    "id": 317400,
+    "name": "TSV Trudering 2",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166694,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "homeScore": 38,
+   "guestScore": 85,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902181,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T14:30:00.000Z",
+   "home": {
+    "id": 162969,
+    "name": "TSV Haar",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166718,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902187,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T09:00:00.000Z",
+   "home": {
+    "id": 166692,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317400,
+    "name": "TSV Trudering 2",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902188,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T09:00:00.000Z",
+   "home": {
+    "id": 166694,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166685,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902189,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T09:00:00.000Z",
+   "home": {
+    "id": 317400,
+    "name": "TSV Trudering 2",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162969,
+    "name": "TSV Haar",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902193,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T12:30:00.000Z",
+   "home": {
+    "id": 166685,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166692,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902196,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T14:30:00.000Z",
+   "home": {
+    "id": 162969,
+    "name": "TSV Haar",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166685,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902199,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "12:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T11:45:00.000Z",
+   "home": {
+    "id": 166718,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317400,
+    "name": "TSV Trudering 2",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902204,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T09:00:00.000Z",
+   "home": {
+    "id": 317400,
+    "name": "TSV Trudering 2",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166685,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902208,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T09:00:00.000Z",
+   "home": {
+    "id": 166694,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166718,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902209,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T12:30:00.000Z",
+   "home": {
+    "id": 166685,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166718,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902213,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T09:00:00.000Z",
+   "home": {
+    "id": 166692,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166694,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902216,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T09:00:00.000Z",
+   "home": {
+    "id": 166694,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162969,
+    "name": "TSV Haar",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902217,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "12:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T11:45:00.000Z",
+   "home": {
+    "id": 166718,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166692,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902222,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T14:30:00.000Z",
+   "home": {
+    "id": 162969,
+    "name": "TSV Haar",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166692,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902224,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T09:00:00.000Z",
+   "home": {
+    "id": 166694,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317400,
+    "name": "TSV Trudering 2",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902226,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "15:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T14:45:00.000Z",
+   "home": {
+    "id": 166718,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162969,
+    "name": "TSV Haar",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902232,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T09:00:00.000Z",
+   "home": {
+    "id": 317400,
+    "name": "TSV Trudering 2",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166692,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902233,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T12:30:00.000Z",
+   "home": {
+    "id": 166685,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166694,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902234,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T14:30:00.000Z",
+   "home": {
+    "id": 162969,
+    "name": "TSV Haar",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317400,
+    "name": "TSV Trudering 2",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902238,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T09:00:00.000Z",
+   "home": {
+    "id": 166692,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166685,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902241,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T12:30:00.000Z",
+   "home": {
+    "id": 166685,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162969,
+    "name": "TSV Haar",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902244,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T08:00:00.000Z",
+   "home": {
+    "id": 317400,
+    "name": "TSV Trudering 2",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166718,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902249,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T11:30:00.000Z",
+   "home": {
+    "id": 166685,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317400,
+    "name": "TSV Trudering 2",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902253,
+   "ligaId": 53794,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "15:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T13:45:00.000Z",
+   "home": {
+    "id": 166718,
+    "name": "Haching Baskets 2",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166694,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

@@ -1,0 +1,1194 @@
+{
+ "league": {
+  "ligaId": 54792,
+  "name": "OPF Bezirksliga Herren 2026/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Bezirksliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberpfalz",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2927545,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T15:30:00.000Z",
+   "home": {
+    "id": 159004,
+    "name": "SV Schwarzhofen",
+    "clubId": 3724,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183954,
+    "name": "DJK Neustadt a. d. Waldnaab 3",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 41,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927546,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T15:30:00.000Z",
+   "home": {
+    "id": 159014,
+    "name": "SPVGG Bruck",
+    "clubId": 1060,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158997,
+    "name": "FC Tegernheim 2",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 52,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927547,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T15:00:00.000Z",
+   "home": {
+    "id": 161563,
+    "name": "Sportgruppe Hohenschambach",
+    "clubId": 1939,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314767,
+    "name": "TV Amberg-Sulzbach BSG 2",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "homeScore": 62,
+   "guestScore": 59,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927549,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T12:30:00.000Z",
+   "home": {
+    "id": 314767,
+    "name": "TV Amberg-Sulzbach BSG 2",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159014,
+    "name": "SPVGG Bruck",
+    "clubId": 1060,
+    "forfeit": false
+   },
+   "homeScore": 57,
+   "guestScore": 71,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927551,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T17:30:00.000Z",
+   "home": {
+    "id": 186241,
+    "name": "FC Tegernheim 3",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159004,
+    "name": "SV Schwarzhofen",
+    "clubId": 3724,
+    "forfeit": false
+   },
+   "homeScore": 67,
+   "guestScore": 55,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927552,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T16:00:00.000Z",
+   "home": {
+    "id": 183954,
+    "name": "DJK Neustadt a. d. Waldnaab 3",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 161563,
+    "name": "Sportgruppe Hohenschambach",
+    "clubId": 1939,
+    "forfeit": false
+   },
+   "homeScore": 61,
+   "guestScore": 53,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927553,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:30:00.000Z",
+   "home": {
+    "id": 159004,
+    "name": "SV Schwarzhofen",
+    "clubId": 3724,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 161563,
+    "name": "Sportgruppe Hohenschambach",
+    "clubId": 1939,
+    "forfeit": false
+   },
+   "homeScore": 58,
+   "guestScore": 39,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927555,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T18:30:00.000Z",
+   "home": {
+    "id": 186241,
+    "name": "FC Tegernheim 3",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158997,
+    "name": "FC Tegernheim 2",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": 90,
+   "guestScore": 66,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927557,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T13:30:00.000Z",
+   "home": {
+    "id": 314767,
+    "name": "TV Amberg-Sulzbach BSG 2",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 186241,
+    "name": "FC Tegernheim 3",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927558,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T16:00:00.000Z",
+   "home": {
+    "id": 158997,
+    "name": "FC Tegernheim 2",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159004,
+    "name": "SV Schwarzhofen",
+    "clubId": 3724,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927559,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T15:30:00.000Z",
+   "home": {
+    "id": 161563,
+    "name": "Sportgruppe Hohenschambach",
+    "clubId": 1939,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159014,
+    "name": "SPVGG Bruck",
+    "clubId": 1060,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927561,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T16:30:00.000Z",
+   "home": {
+    "id": 159004,
+    "name": "SV Schwarzhofen",
+    "clubId": 3724,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159014,
+    "name": "SPVGG Bruck",
+    "clubId": 1060,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927562,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T18:30:00.000Z",
+   "home": {
+    "id": 158997,
+    "name": "FC Tegernheim 2",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314767,
+    "name": "TV Amberg-Sulzbach BSG 2",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927563,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T13:30:00.000Z",
+   "home": {
+    "id": 186241,
+    "name": "FC Tegernheim 3",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183954,
+    "name": "DJK Neustadt a. d. Waldnaab 3",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927565,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T16:30:00.000Z",
+   "home": {
+    "id": 159004,
+    "name": "SV Schwarzhofen",
+    "clubId": 3724,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314767,
+    "name": "TV Amberg-Sulzbach BSG 2",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927567,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T15:00:00.000Z",
+   "home": {
+    "id": 161563,
+    "name": "Sportgruppe Hohenschambach",
+    "clubId": 1939,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 186241,
+    "name": "FC Tegernheim 3",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927568,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T15:00:00.000Z",
+   "home": {
+    "id": 183954,
+    "name": "DJK Neustadt a. d. Waldnaab 3",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158997,
+    "name": "FC Tegernheim 2",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927569,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T13:30:00.000Z",
+   "home": {
+    "id": 314767,
+    "name": "TV Amberg-Sulzbach BSG 2",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183954,
+    "name": "DJK Neustadt a. d. Waldnaab 3",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927570,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T16:00:00.000Z",
+   "home": {
+    "id": 158997,
+    "name": "FC Tegernheim 2",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 161563,
+    "name": "Sportgruppe Hohenschambach",
+    "clubId": 1939,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927571,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T11:00:00.000Z",
+   "home": {
+    "id": 186241,
+    "name": "FC Tegernheim 3",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159014,
+    "name": "SPVGG Bruck",
+    "clubId": 1060,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927573,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T12:30:00.000Z",
+   "home": {
+    "id": 183954,
+    "name": "DJK Neustadt a. d. Waldnaab 3",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159004,
+    "name": "SV Schwarzhofen",
+    "clubId": 3724,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927574,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T13:30:00.000Z",
+   "home": {
+    "id": 158997,
+    "name": "FC Tegernheim 2",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159014,
+    "name": "SPVGG Bruck",
+    "clubId": 1060,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927575,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T13:30:00.000Z",
+   "home": {
+    "id": 314767,
+    "name": "TV Amberg-Sulzbach BSG 2",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 161563,
+    "name": "Sportgruppe Hohenschambach",
+    "clubId": 1939,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927577,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:30:00.000Z",
+   "home": {
+    "id": 159014,
+    "name": "SPVGG Bruck",
+    "clubId": 1060,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314767,
+    "name": "TV Amberg-Sulzbach BSG 2",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927579,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T16:30:00.000Z",
+   "home": {
+    "id": 159004,
+    "name": "SV Schwarzhofen",
+    "clubId": 3724,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 186241,
+    "name": "FC Tegernheim 3",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927580,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T15:00:00.000Z",
+   "home": {
+    "id": 161563,
+    "name": "Sportgruppe Hohenschambach",
+    "clubId": 1939,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183954,
+    "name": "DJK Neustadt a. d. Waldnaab 3",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927581,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-28",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-28T14:00:00.000Z",
+   "home": {
+    "id": 161563,
+    "name": "Sportgruppe Hohenschambach",
+    "clubId": 1939,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159004,
+    "name": "SV Schwarzhofen",
+    "clubId": 3724,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927582,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-06T18:00:00.000Z",
+   "home": {
+    "id": 183954,
+    "name": "DJK Neustadt a. d. Waldnaab 3",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159014,
+    "name": "SPVGG Bruck",
+    "clubId": 1060,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927583,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-06T16:00:00.000Z",
+   "home": {
+    "id": 158997,
+    "name": "FC Tegernheim 2",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 186241,
+    "name": "FC Tegernheim 3",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927585,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T16:00:00.000Z",
+   "home": {
+    "id": 186241,
+    "name": "FC Tegernheim 3",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314767,
+    "name": "TV Amberg-Sulzbach BSG 2",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927586,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T16:30:00.000Z",
+   "home": {
+    "id": 159004,
+    "name": "SV Schwarzhofen",
+    "clubId": 3724,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158997,
+    "name": "FC Tegernheim 2",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927587,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T16:30:00.000Z",
+   "home": {
+    "id": 159014,
+    "name": "SPVGG Bruck",
+    "clubId": 1060,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 161563,
+    "name": "Sportgruppe Hohenschambach",
+    "clubId": 1939,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927589,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T16:30:00.000Z",
+   "home": {
+    "id": 159014,
+    "name": "SPVGG Bruck",
+    "clubId": 1060,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159004,
+    "name": "SV Schwarzhofen",
+    "clubId": 3724,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927590,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T13:30:00.000Z",
+   "home": {
+    "id": 314767,
+    "name": "TV Amberg-Sulzbach BSG 2",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158997,
+    "name": "FC Tegernheim 2",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927591,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T12:30:00.000Z",
+   "home": {
+    "id": 183954,
+    "name": "DJK Neustadt a. d. Waldnaab 3",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 186241,
+    "name": "FC Tegernheim 3",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927593,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T13:30:00.000Z",
+   "home": {
+    "id": 314767,
+    "name": "TV Amberg-Sulzbach BSG 2",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159004,
+    "name": "SV Schwarzhofen",
+    "clubId": 3724,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927595,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T13:30:00.000Z",
+   "home": {
+    "id": 186241,
+    "name": "FC Tegernheim 3",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 161563,
+    "name": "Sportgruppe Hohenschambach",
+    "clubId": 1939,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927596,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T18:30:00.000Z",
+   "home": {
+    "id": 158997,
+    "name": "FC Tegernheim 2",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183954,
+    "name": "DJK Neustadt a. d. Waldnaab 3",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927597,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T19:00:00.000Z",
+   "home": {
+    "id": 183954,
+    "name": "DJK Neustadt a. d. Waldnaab 3",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314767,
+    "name": "TV Amberg-Sulzbach BSG 2",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927598,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-03",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-03T14:00:00.000Z",
+   "home": {
+    "id": 161563,
+    "name": "Sportgruppe Hohenschambach",
+    "clubId": 1939,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158997,
+    "name": "FC Tegernheim 2",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927599,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T16:30:00.000Z",
+   "home": {
+    "id": 159014,
+    "name": "SPVGG Bruck",
+    "clubId": 1060,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 186241,
+    "name": "FC Tegernheim 3",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2987956,
+   "ligaId": 54792,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T17:00:00.000Z",
+   "home": {
+    "id": 183954,
+    "name": "DJK Neustadt a. d. Waldnaab 3",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159014,
+    "name": "SPVGG Bruck",
+    "clubId": 1060,
+    "forfeit": false
+   },
+   "homeScore": 56,
+   "guestScore": 48,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

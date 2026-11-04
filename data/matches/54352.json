@@ -1,0 +1,2538 @@
+{
+ "league": {
+  "ligaId": 54352,
+  "name": "Landesliga U14 männlich Nord",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U14",
+  "gender": "männlich",
+  "level": "Landesliga",
+  "levelScope": "Verband",
+  "verbandId": 2,
+  "bezirk": null,
+  "competitionType": "regular",
+  "role": "core"
+ },
+ "matches": [
+  {
+   "matchId": 2904972,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T14:00:00.000Z",
+   "home": {
+    "id": 156621,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319186,
+    "name": "Freak City Bamberg 2",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "homeScore": 63,
+   "guestScore": 98,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904974,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T09:30:00.000Z",
+   "home": {
+    "id": 166621,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 261108,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904976,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T10:00:00.000Z",
+   "home": {
+    "id": 319544,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165793,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904978,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T13:30:00.000Z",
+   "home": {
+    "id": 167038,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166586,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": 82,
+   "guestScore": 92,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904980,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T12:30:00.000Z",
+   "home": {
+    "id": 322520,
+    "name": "VR-Bank Würzburg Baskets Akademie",
+    "clubId": 4135,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314827,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": 87,
+   "guestScore": 65,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904981,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T13:30:00.000Z",
+   "home": {
+    "id": 166586,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319544,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": 65,
+   "guestScore": 97,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904982,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T11:30:00.000Z",
+   "home": {
+    "id": 165793,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166621,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": 78,
+   "guestScore": 107,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904983,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T11:30:00.000Z",
+   "home": {
+    "id": 261108,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322520,
+    "name": "VR-Bank Würzburg Baskets Akademie",
+    "clubId": 4135,
+    "forfeit": false
+   },
+   "homeScore": 64,
+   "guestScore": 70,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904984,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T10:15:00.000Z",
+   "home": {
+    "id": 314827,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156621,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904985,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T12:00:00.000Z",
+   "home": {
+    "id": 319186,
+    "name": "Freak City Bamberg 2",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167038,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": 113,
+   "guestScore": 39,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904986,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T09:00:00.000Z",
+   "home": {
+    "id": 156621,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167038,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": 96,
+   "guestScore": 84,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904987,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T10:30:00.000Z",
+   "home": {
+    "id": 166621,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166586,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": 115,
+   "guestScore": 80,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904988,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T09:00:00.000Z",
+   "home": {
+    "id": 319544,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319186,
+    "name": "Freak City Bamberg 2",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "homeScore": 99,
+   "guestScore": 95,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904989,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "10:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T08:15:00.000Z",
+   "home": {
+    "id": 314827,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 261108,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 57,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904990,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T09:00:00.000Z",
+   "home": {
+    "id": 322520,
+    "name": "VR-Bank Würzburg Baskets Akademie",
+    "clubId": 4135,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165793,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": 102,
+   "guestScore": 53,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904991,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T15:00:00.000Z",
+   "home": {
+    "id": 166586,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322520,
+    "name": "VR-Bank Würzburg Baskets Akademie",
+    "clubId": 4135,
+    "forfeit": false
+   },
+   "homeScore": 64,
+   "guestScore": 74,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904992,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T14:00:00.000Z",
+   "home": {
+    "id": 165793,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314827,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904993,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T11:30:00.000Z",
+   "home": {
+    "id": 261108,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156621,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": 78,
+   "guestScore": 68,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904994,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T08:30:00.000Z",
+   "home": {
+    "id": 167038,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319544,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": 51,
+   "guestScore": 146,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904995,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T14:30:00.000Z",
+   "home": {
+    "id": 319186,
+    "name": "Freak City Bamberg 2",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166621,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": 97,
+   "guestScore": 92,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904996,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "15:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T13:15:00.000Z",
+   "home": {
+    "id": 156621,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319544,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": 85,
+   "guestScore": 89,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904997,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T13:00:00.000Z",
+   "home": {
+    "id": 166621,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167038,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": 111,
+   "guestScore": 61,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904998,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T12:00:00.000Z",
+   "home": {
+    "id": 261108,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165793,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": 56,
+   "guestScore": 62,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904999,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "13:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T12:45:00.000Z",
+   "home": {
+    "id": 314827,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166586,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": 100,
+   "guestScore": 69,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905000,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-09-26T22:00:00.000Z",
+   "home": {
+    "id": 322520,
+    "name": "VR-Bank Würzburg Baskets Akademie",
+    "clubId": 4135,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319186,
+    "name": "Freak City Bamberg 2",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "homeScore": 51,
+   "guestScore": 38,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905001,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T14:00:00.000Z",
+   "home": {
+    "id": 166586,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 261108,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905002,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T12:30:00.000Z",
+   "home": {
+    "id": 165793,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156621,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905003,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T10:00:00.000Z",
+   "home": {
+    "id": 319544,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166621,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905004,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T10:00:00.000Z",
+   "home": {
+    "id": 167038,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322520,
+    "name": "VR-Bank Würzburg Baskets Akademie",
+    "clubId": 4135,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905005,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T15:30:00.000Z",
+   "home": {
+    "id": 319186,
+    "name": "Freak City Bamberg 2",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314827,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905006,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T12:00:00.000Z",
+   "home": {
+    "id": 156621,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166621,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905007,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T12:30:00.000Z",
+   "home": {
+    "id": 165793,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166586,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905008,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T12:30:00.000Z",
+   "home": {
+    "id": 261108,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319186,
+    "name": "Freak City Bamberg 2",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905009,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T12:00:00.000Z",
+   "home": {
+    "id": 314827,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167038,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905010,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T15:30:00.000Z",
+   "home": {
+    "id": 322520,
+    "name": "VR-Bank Würzburg Baskets Akademie",
+    "clubId": 4135,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319544,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905011,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-09-26T22:00:00.000Z",
+   "home": {
+    "id": 156621,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166586,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": 55,
+   "guestScore": 46,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905012,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "12:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T11:45:00.000Z",
+   "home": {
+    "id": 166621,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322520,
+    "name": "VR-Bank Würzburg Baskets Akademie",
+    "clubId": 4135,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905013,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T10:00:00.000Z",
+   "home": {
+    "id": 319544,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314827,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905014,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T11:15:00.000Z",
+   "home": {
+    "id": 167038,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 261108,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905016,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T15:30:00.000Z",
+   "home": {
+    "id": 319186,
+    "name": "Freak City Bamberg 2",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165793,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905018,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T14:30:00.000Z",
+   "home": {
+    "id": 166586,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319186,
+    "name": "Freak City Bamberg 2",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905020,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T11:30:00.000Z",
+   "home": {
+    "id": 165793,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167038,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905022,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T10:00:00.000Z",
+   "home": {
+    "id": 261108,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319544,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905024,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T12:30:00.000Z",
+   "home": {
+    "id": 314827,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166621,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905026,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T10:00:00.000Z",
+   "home": {
+    "id": 322520,
+    "name": "VR-Bank Würzburg Baskets Akademie",
+    "clubId": 4135,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156621,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905028,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T10:00:00.000Z",
+   "home": {
+    "id": 319186,
+    "name": "Freak City Bamberg 2",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156621,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905030,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-09-26T22:00:00.000Z",
+   "home": {
+    "id": 261108,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166621,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": 60,
+   "guestScore": 62,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905031,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T12:30:00.000Z",
+   "home": {
+    "id": 165793,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319544,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905033,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T14:30:00.000Z",
+   "home": {
+    "id": 166586,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167038,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905035,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T12:30:00.000Z",
+   "home": {
+    "id": 314827,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322520,
+    "name": "VR-Bank Würzburg Baskets Akademie",
+    "clubId": 4135,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905037,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T10:00:00.000Z",
+   "home": {
+    "id": 319544,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166586,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905039,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T13:15:00.000Z",
+   "home": {
+    "id": 166621,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165793,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905041,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T10:00:00.000Z",
+   "home": {
+    "id": 322520,
+    "name": "VR-Bank Würzburg Baskets Akademie",
+    "clubId": 4135,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 261108,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905043,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T12:00:00.000Z",
+   "home": {
+    "id": 156621,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314827,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905045,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T10:00:00.000Z",
+   "home": {
+    "id": 167038,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319186,
+    "name": "Freak City Bamberg 2",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905047,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "11:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T10:45:00.000Z",
+   "home": {
+    "id": 167038,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156621,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905049,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T14:30:00.000Z",
+   "home": {
+    "id": 166586,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166621,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905051,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T10:00:00.000Z",
+   "home": {
+    "id": 319186,
+    "name": "Freak City Bamberg 2",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319544,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905053,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T10:00:00.000Z",
+   "home": {
+    "id": 261108,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314827,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905055,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T12:30:00.000Z",
+   "home": {
+    "id": 165793,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322520,
+    "name": "VR-Bank Würzburg Baskets Akademie",
+    "clubId": 4135,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905056,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T15:30:00.000Z",
+   "home": {
+    "id": 322520,
+    "name": "VR-Bank Würzburg Baskets Akademie",
+    "clubId": 4135,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166586,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905058,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T13:30:00.000Z",
+   "home": {
+    "id": 314827,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165793,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905060,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T12:00:00.000Z",
+   "home": {
+    "id": 156621,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 261108,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905062,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T10:00:00.000Z",
+   "home": {
+    "id": 319544,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167038,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905064,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "12:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T11:45:00.000Z",
+   "home": {
+    "id": 166621,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319186,
+    "name": "Freak City Bamberg 2",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905066,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T10:00:00.000Z",
+   "home": {
+    "id": 319544,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156621,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905068,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T09:00:00.000Z",
+   "home": {
+    "id": 167038,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166621,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905070,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T12:30:00.000Z",
+   "home": {
+    "id": 165793,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 261108,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905072,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T14:30:00.000Z",
+   "home": {
+    "id": 166586,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314827,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905074,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T10:00:00.000Z",
+   "home": {
+    "id": 319186,
+    "name": "Freak City Bamberg 2",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322520,
+    "name": "VR-Bank Würzburg Baskets Akademie",
+    "clubId": 4135,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905076,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T12:30:00.000Z",
+   "home": {
+    "id": 261108,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166586,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905078,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T12:00:00.000Z",
+   "home": {
+    "id": 156621,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165793,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905079,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "12:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T11:45:00.000Z",
+   "home": {
+    "id": 166621,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319544,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905081,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T15:30:00.000Z",
+   "home": {
+    "id": 322520,
+    "name": "VR-Bank Würzburg Baskets Akademie",
+    "clubId": 4135,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167038,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905083,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T15:00:00.000Z",
+   "home": {
+    "id": 314827,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319186,
+    "name": "Freak City Bamberg 2",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905085,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T14:00:00.000Z",
+   "home": {
+    "id": 166621,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156621,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905087,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T14:00:00.000Z",
+   "home": {
+    "id": 166586,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165793,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905089,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T10:00:00.000Z",
+   "home": {
+    "id": 319186,
+    "name": "Freak City Bamberg 2",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 261108,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905091,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T10:00:00.000Z",
+   "home": {
+    "id": 167038,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314827,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905093,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T10:00:00.000Z",
+   "home": {
+    "id": 319544,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322520,
+    "name": "VR-Bank Würzburg Baskets Akademie",
+    "clubId": 4135,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905095,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T14:30:00.000Z",
+   "home": {
+    "id": 166586,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156621,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905097,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T10:00:00.000Z",
+   "home": {
+    "id": 322520,
+    "name": "VR-Bank Würzburg Baskets Akademie",
+    "clubId": 4135,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166621,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905099,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T10:00:00.000Z",
+   "home": {
+    "id": 314827,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319544,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905101,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T12:30:00.000Z",
+   "home": {
+    "id": 261108,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167038,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905103,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T12:30:00.000Z",
+   "home": {
+    "id": 165793,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319186,
+    "name": "Freak City Bamberg 2",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905104,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T09:00:00.000Z",
+   "home": {
+    "id": 319186,
+    "name": "Freak City Bamberg 2",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166586,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905106,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T10:00:00.000Z",
+   "home": {
+    "id": 167038,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165793,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905108,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T09:00:00.000Z",
+   "home": {
+    "id": 319544,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 261108,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905110,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T13:00:00.000Z",
+   "home": {
+    "id": 166621,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314827,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2905112,
+   "ligaId": 54352,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "13:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T11:15:00.000Z",
+   "home": {
+    "id": 156621,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322520,
+    "name": "VR-Bank Würzburg Baskets Akademie",
+    "clubId": 4135,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

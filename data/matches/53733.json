@@ -1,0 +1,2538 @@
+{
+ "league": {
+  "ligaId": 53733,
+  "name": "West - Bezirksklasse Herren (WE-BKH) 2026/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Bezirksklasse",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2908489,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "19:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T17:15:00.000Z",
+   "home": {
+    "id": 235372,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 163941,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908490,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T17:00:00.000Z",
+   "home": {
+    "id": 227245,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318665,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": 73,
+   "guestScore": 72,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908491,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T17:30:00.000Z",
+   "home": {
+    "id": 310534,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163925,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "homeScore": 89,
+   "guestScore": 53,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908492,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T14:00:00.000Z",
+   "home": {
+    "id": 154159,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163920,
+    "name": "TSV Milbertshofen 3",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": 70,
+   "guestScore": 57,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908493,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T17:00:00.000Z",
+   "home": {
+    "id": 151026,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163945,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "homeScore": 0,
+   "guestScore": 20,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908494,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T17:30:00.000Z",
+   "home": {
+    "id": 163920,
+    "name": "TSV Milbertshofen 3",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310534,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": 46,
+   "guestScore": 74,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908495,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T17:00:00.000Z",
+   "home": {
+    "id": 163925,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227245,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": 76,
+   "guestScore": 54,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908496,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T18:00:00.000Z",
+   "home": {
+    "id": 318665,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151026,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": 86,
+   "guestScore": 60,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908497,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T15:30:00.000Z",
+   "home": {
+    "id": 163945,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235372,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908498,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T17:00:00.000Z",
+   "home": {
+    "id": 163941,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154159,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": 0,
+   "guestScore": 20,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908499,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T10:15:00.000Z",
+   "home": {
+    "id": 235372,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 154159,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908500,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T17:00:00.000Z",
+   "home": {
+    "id": 227245,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163920,
+    "name": "TSV Milbertshofen 3",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": 68,
+   "guestScore": 73,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908501,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T17:30:00.000Z",
+   "home": {
+    "id": 310534,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163941,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "homeScore": 63,
+   "guestScore": 61,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908502,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T15:30:00.000Z",
+   "home": {
+    "id": 163945,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318665,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": 45,
+   "guestScore": 97,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908503,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T17:00:00.000Z",
+   "home": {
+    "id": 151026,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163925,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "homeScore": 80,
+   "guestScore": 81,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908504,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T18:00:00.000Z",
+   "home": {
+    "id": 163920,
+    "name": "TSV Milbertshofen 3",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151026,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": 56,
+   "guestScore": 78,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908505,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T17:00:00.000Z",
+   "home": {
+    "id": 163925,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163945,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "homeScore": 114,
+   "guestScore": 47,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908506,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T18:00:00.000Z",
+   "home": {
+    "id": 318665,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235372,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908507,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T15:00:00.000Z",
+   "home": {
+    "id": 154159,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310534,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": 57,
+   "guestScore": 83,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908508,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T18:00:00.000Z",
+   "home": {
+    "id": 163941,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227245,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": 83,
+   "guestScore": 57,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908509,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T15:45:00.000Z",
+   "home": {
+    "id": 235372,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 310534,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908510,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T18:00:00.000Z",
+   "home": {
+    "id": 227245,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154159,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908511,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T19:00:00.000Z",
+   "home": {
+    "id": 318665,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163925,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908512,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T16:30:00.000Z",
+   "home": {
+    "id": 163945,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163920,
+    "name": "TSV Milbertshofen 3",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908513,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T18:00:00.000Z",
+   "home": {
+    "id": 151026,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163941,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908514,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T14:30:00.000Z",
+   "home": {
+    "id": 163920,
+    "name": "TSV Milbertshofen 3",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318665,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": 54,
+   "guestScore": 82,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908515,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T18:00:00.000Z",
+   "home": {
+    "id": 163925,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235372,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908516,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T18:30:00.000Z",
+   "home": {
+    "id": 310534,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227245,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908517,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T15:00:00.000Z",
+   "home": {
+    "id": 154159,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151026,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908518,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T18:00:00.000Z",
+   "home": {
+    "id": 163941,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163945,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908519,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T15:45:00.000Z",
+   "home": {
+    "id": 235372,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 227245,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908520,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T18:00:00.000Z",
+   "home": {
+    "id": 163925,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163920,
+    "name": "TSV Milbertshofen 3",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908521,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T19:00:00.000Z",
+   "home": {
+    "id": 318665,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163941,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908522,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T16:30:00.000Z",
+   "home": {
+    "id": 163945,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154159,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908523,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T18:00:00.000Z",
+   "home": {
+    "id": 151026,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310534,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908524,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T15:45:00.000Z",
+   "home": {
+    "id": 235372,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 163920,
+    "name": "TSV Milbertshofen 3",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908525,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T15:45:00.000Z",
+   "home": {
+    "id": 227245,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151026,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908526,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T15:15:00.000Z",
+   "home": {
+    "id": 310534,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163945,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "homeScore": 103,
+   "guestScore": 26,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908527,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T15:00:00.000Z",
+   "home": {
+    "id": 154159,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318665,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908528,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T18:00:00.000Z",
+   "home": {
+    "id": 163941,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163925,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908529,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T18:00:00.000Z",
+   "home": {
+    "id": 163920,
+    "name": "TSV Milbertshofen 3",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163941,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908530,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T18:00:00.000Z",
+   "home": {
+    "id": 163925,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154159,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908531,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T19:00:00.000Z",
+   "home": {
+    "id": 318665,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310534,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908532,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T16:30:00.000Z",
+   "home": {
+    "id": 163945,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227245,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908533,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T15:45:00.000Z",
+   "home": {
+    "id": 151026,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235372,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908534,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T18:00:00.000Z",
+   "home": {
+    "id": 163941,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235372,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908535,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T19:00:00.000Z",
+   "home": {
+    "id": 318665,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227245,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908536,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T18:00:00.000Z",
+   "home": {
+    "id": 163925,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310534,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908537,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T18:00:00.000Z",
+   "home": {
+    "id": 163920,
+    "name": "TSV Milbertshofen 3",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154159,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908538,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T16:30:00.000Z",
+   "home": {
+    "id": 163945,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151026,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908539,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T18:30:00.000Z",
+   "home": {
+    "id": 310534,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163920,
+    "name": "TSV Milbertshofen 3",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908540,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T15:45:00.000Z",
+   "home": {
+    "id": 227245,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163925,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908541,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T18:00:00.000Z",
+   "home": {
+    "id": 151026,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318665,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908542,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "19:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T18:15:00.000Z",
+   "home": {
+    "id": 235372,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 163945,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908543,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T15:00:00.000Z",
+   "home": {
+    "id": 154159,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163941,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908544,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T18:00:00.000Z",
+   "home": {
+    "id": 154159,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235372,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908545,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T18:00:00.000Z",
+   "home": {
+    "id": 163920,
+    "name": "TSV Milbertshofen 3",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227245,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908546,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T18:00:00.000Z",
+   "home": {
+    "id": 163941,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310534,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908547,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T14:00:00.000Z",
+   "home": {
+    "id": 318665,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163945,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908548,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T17:00:00.000Z",
+   "home": {
+    "id": 163925,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151026,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908549,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T18:00:00.000Z",
+   "home": {
+    "id": 151026,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163920,
+    "name": "TSV Milbertshofen 3",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908550,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T16:30:00.000Z",
+   "home": {
+    "id": 163945,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163925,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908551,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "19:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T18:15:00.000Z",
+   "home": {
+    "id": 235372,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 318665,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908552,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T18:30:00.000Z",
+   "home": {
+    "id": 310534,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154159,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908553,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T18:00:00.000Z",
+   "home": {
+    "id": 227245,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163941,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908554,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T17:30:00.000Z",
+   "home": {
+    "id": 310534,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235372,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908555,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T15:00:00.000Z",
+   "home": {
+    "id": 154159,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227245,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908556,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T18:00:00.000Z",
+   "home": {
+    "id": 163925,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318665,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908557,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T18:00:00.000Z",
+   "home": {
+    "id": 163920,
+    "name": "TSV Milbertshofen 3",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163945,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908558,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T18:00:00.000Z",
+   "home": {
+    "id": 163941,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151026,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908559,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T19:00:00.000Z",
+   "home": {
+    "id": 318665,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163920,
+    "name": "TSV Milbertshofen 3",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908560,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T15:45:00.000Z",
+   "home": {
+    "id": 235372,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 163925,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908561,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T15:45:00.000Z",
+   "home": {
+    "id": 227245,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310534,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908562,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T15:45:00.000Z",
+   "home": {
+    "id": 151026,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154159,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908563,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T16:30:00.000Z",
+   "home": {
+    "id": 163945,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163941,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908564,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T09:00:00.000Z",
+   "home": {
+    "id": 227245,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235372,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908565,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T18:00:00.000Z",
+   "home": {
+    "id": 163920,
+    "name": "TSV Milbertshofen 3",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163925,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908566,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T18:00:00.000Z",
+   "home": {
+    "id": 163941,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318665,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908567,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T15:30:00.000Z",
+   "home": {
+    "id": 154159,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163945,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908568,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T16:00:00.000Z",
+   "home": {
+    "id": 310534,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151026,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908569,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T17:00:00.000Z",
+   "home": {
+    "id": 163920,
+    "name": "TSV Milbertshofen 3",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235372,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908570,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-25",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-25T14:45:00.000Z",
+   "home": {
+    "id": 151026,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227245,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908571,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T15:30:00.000Z",
+   "home": {
+    "id": 163945,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310534,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908572,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T15:30:00.000Z",
+   "home": {
+    "id": 318665,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154159,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908573,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T17:00:00.000Z",
+   "home": {
+    "id": 163925,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163941,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908574,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T17:00:00.000Z",
+   "home": {
+    "id": 163941,
+    "name": "TSV Partenkirchen",
+    "clubId": 710,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163920,
+    "name": "TSV Milbertshofen 3",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908575,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T14:00:00.000Z",
+   "home": {
+    "id": 154159,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163925,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908576,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T15:15:00.000Z",
+   "home": {
+    "id": 310534,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318665,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908577,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T14:45:00.000Z",
+   "home": {
+    "id": 227245,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163945,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2908578,
+   "ligaId": 53733,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "19:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T17:15:00.000Z",
+   "home": {
+    "id": 235372,
+    "name": "TSV Weilheim 2",
+    "clubId": 1166,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 151026,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  }
+ ]
+}

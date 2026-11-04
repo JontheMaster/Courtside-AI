@@ -1,0 +1,1586 @@
+{
+ "league": {
+  "ligaId": 53718,
+  "name": "MFR Kreisliga Herren Mitte",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Kreisliga",
+  "levelScope": "Kreis",
+  "verbandId": 2,
+  "bezirk": "Mittelfranken",
+  "competitionType": "regular",
+  "role": "core"
+ },
+ "matches": [
+  {
+   "matchId": 2870316,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T16:30:00.000Z",
+   "home": {
+    "id": 312945,
+    "name": "TUSPO Nürnberg 3",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158896,
+    "name": "Post SV Nürnberg 5",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": 47,
+   "guestScore": 46,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870317,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T11:00:00.000Z",
+   "home": {
+    "id": 157685,
+    "name": "TB 1888 Erlangen e. V. 4",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322560,
+    "name": "ESC Höchstadt 2",
+    "clubId": 5055,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870318,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T15:00:00.000Z",
+   "home": {
+    "id": 168515,
+    "name": "Nürnberger Basketball Club e.V. 4",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322191,
+    "name": "DJK Nürnberg-Eibach",
+    "clubId": 5349,
+    "forfeit": false
+   },
+   "homeScore": 54,
+   "guestScore": 51,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870319,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T14:00:00.000Z",
+   "home": {
+    "id": 157654,
+    "name": "SV Burggrafenhof",
+    "clubId": 4337,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 266891,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870320,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T15:00:00.000Z",
+   "home": {
+    "id": 322191,
+    "name": "DJK Nürnberg-Eibach",
+    "clubId": 5349,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157685,
+    "name": "TB 1888 Erlangen e. V. 4",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 53,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870321,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-16T22:00:00.000Z",
+   "home": {
+    "id": 322560,
+    "name": "ESC Höchstadt 2",
+    "clubId": 5055,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 157654,
+    "name": "SV Burggrafenhof",
+    "clubId": 4337,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870322,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T17:30:00.000Z",
+   "home": {
+    "id": 266891,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312945,
+    "name": "TUSPO Nürnberg 3",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": 86,
+   "guestScore": 43,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870323,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T18:00:00.000Z",
+   "home": {
+    "id": 158896,
+    "name": "Post SV Nürnberg 5",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168515,
+    "name": "Nürnberger Basketball Club e.V. 4",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": 48,
+   "guestScore": 115,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870324,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T17:30:00.000Z",
+   "home": {
+    "id": 312945,
+    "name": "TUSPO Nürnberg 3",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168515,
+    "name": "Nürnberger Basketball Club e.V. 4",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870325,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T15:00:00.000Z",
+   "home": {
+    "id": 157685,
+    "name": "TB 1888 Erlangen e. V. 4",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158896,
+    "name": "Post SV Nürnberg 5",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870326,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-13T23:00:00.000Z",
+   "home": {
+    "id": 266891,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322560,
+    "name": "ESC Höchstadt 2",
+    "clubId": 5055,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870327,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T15:00:00.000Z",
+   "home": {
+    "id": 157654,
+    "name": "SV Burggrafenhof",
+    "clubId": 4337,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322191,
+    "name": "DJK Nürnberg-Eibach",
+    "clubId": 5349,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870328,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T16:00:00.000Z",
+   "home": {
+    "id": 322191,
+    "name": "DJK Nürnberg-Eibach",
+    "clubId": 5349,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 266891,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870329,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-20T23:00:00.000Z",
+   "home": {
+    "id": 322560,
+    "name": "ESC Höchstadt 2",
+    "clubId": 5055,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 312945,
+    "name": "TUSPO Nürnberg 3",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870330,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T16:00:00.000Z",
+   "home": {
+    "id": 168515,
+    "name": "Nürnberger Basketball Club e.V. 4",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157685,
+    "name": "TB 1888 Erlangen e. V. 4",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870331,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T19:00:00.000Z",
+   "home": {
+    "id": 158896,
+    "name": "Post SV Nürnberg 5",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157654,
+    "name": "SV Burggrafenhof",
+    "clubId": 4337,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870332,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T17:30:00.000Z",
+   "home": {
+    "id": 312945,
+    "name": "TUSPO Nürnberg 3",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157685,
+    "name": "TB 1888 Erlangen e. V. 4",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870333,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-12-04T23:00:00.000Z",
+   "home": {
+    "id": 322560,
+    "name": "ESC Höchstadt 2",
+    "clubId": 5055,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 322191,
+    "name": "DJK Nürnberg-Eibach",
+    "clubId": 5349,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870334,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T12:00:00.000Z",
+   "home": {
+    "id": 266891,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158896,
+    "name": "Post SV Nürnberg 5",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870335,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T15:00:00.000Z",
+   "home": {
+    "id": 157654,
+    "name": "SV Burggrafenhof",
+    "clubId": 4337,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168515,
+    "name": "Nürnberger Basketball Club e.V. 4",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870336,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T17:30:00.000Z",
+   "home": {
+    "id": 312945,
+    "name": "TUSPO Nürnberg 3",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322191,
+    "name": "DJK Nürnberg-Eibach",
+    "clubId": 5349,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870337,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T10:00:00.000Z",
+   "home": {
+    "id": 157685,
+    "name": "TB 1888 Erlangen e. V. 4",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157654,
+    "name": "SV Burggrafenhof",
+    "clubId": 4337,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870338,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T16:00:00.000Z",
+   "home": {
+    "id": 168515,
+    "name": "Nürnberger Basketball Club e.V. 4",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 266891,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870339,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T19:00:00.000Z",
+   "home": {
+    "id": 158896,
+    "name": "Post SV Nürnberg 5",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322560,
+    "name": "ESC Höchstadt 2",
+    "clubId": 5055,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870340,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:00:00.000Z",
+   "home": {
+    "id": 322191,
+    "name": "DJK Nürnberg-Eibach",
+    "clubId": 5349,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158896,
+    "name": "Post SV Nürnberg 5",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870341,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-15T23:00:00.000Z",
+   "home": {
+    "id": 322560,
+    "name": "ESC Höchstadt 2",
+    "clubId": 5055,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 168515,
+    "name": "Nürnberger Basketball Club e.V. 4",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870342,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T11:00:00.000Z",
+   "home": {
+    "id": 266891,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157685,
+    "name": "TB 1888 Erlangen e. V. 4",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870343,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T15:00:00.000Z",
+   "home": {
+    "id": 157654,
+    "name": "SV Burggrafenhof",
+    "clubId": 4337,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312945,
+    "name": "TUSPO Nürnberg 3",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870344,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T19:00:00.000Z",
+   "home": {
+    "id": 158896,
+    "name": "Post SV Nürnberg 5",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312945,
+    "name": "TUSPO Nürnberg 3",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870345,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-22T23:00:00.000Z",
+   "home": {
+    "id": 322560,
+    "name": "ESC Höchstadt 2",
+    "clubId": 5055,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 157685,
+    "name": "TB 1888 Erlangen e. V. 4",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870346,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:00:00.000Z",
+   "home": {
+    "id": 322191,
+    "name": "DJK Nürnberg-Eibach",
+    "clubId": 5349,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168515,
+    "name": "Nürnberger Basketball Club e.V. 4",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870347,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T14:30:00.000Z",
+   "home": {
+    "id": 266891,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157654,
+    "name": "SV Burggrafenhof",
+    "clubId": 4337,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870348,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T13:00:00.000Z",
+   "home": {
+    "id": 157685,
+    "name": "TB 1888 Erlangen e. V. 4",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322191,
+    "name": "DJK Nürnberg-Eibach",
+    "clubId": 5349,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870349,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T15:00:00.000Z",
+   "home": {
+    "id": 157654,
+    "name": "SV Burggrafenhof",
+    "clubId": 4337,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322560,
+    "name": "ESC Höchstadt 2",
+    "clubId": 5055,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870350,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T17:30:00.000Z",
+   "home": {
+    "id": 312945,
+    "name": "TUSPO Nürnberg 3",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 266891,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870351,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T16:00:00.000Z",
+   "home": {
+    "id": 168515,
+    "name": "Nürnberger Basketball Club e.V. 4",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158896,
+    "name": "Post SV Nürnberg 5",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870352,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T16:00:00.000Z",
+   "home": {
+    "id": 168515,
+    "name": "Nürnberger Basketball Club e.V. 4",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312945,
+    "name": "TUSPO Nürnberg 3",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870353,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T19:00:00.000Z",
+   "home": {
+    "id": 158896,
+    "name": "Post SV Nürnberg 5",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157685,
+    "name": "TB 1888 Erlangen e. V. 4",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870354,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-02-26T23:00:00.000Z",
+   "home": {
+    "id": 322560,
+    "name": "ESC Höchstadt 2",
+    "clubId": 5055,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 266891,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870355,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T16:00:00.000Z",
+   "home": {
+    "id": 322191,
+    "name": "DJK Nürnberg-Eibach",
+    "clubId": 5349,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157654,
+    "name": "SV Burggrafenhof",
+    "clubId": 4337,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870356,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T15:00:00.000Z",
+   "home": {
+    "id": 266891,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322191,
+    "name": "DJK Nürnberg-Eibach",
+    "clubId": 5349,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870357,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T17:00:00.000Z",
+   "home": {
+    "id": 312945,
+    "name": "TUSPO Nürnberg 3",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322560,
+    "name": "ESC Höchstadt 2",
+    "clubId": 5055,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870358,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T15:00:00.000Z",
+   "home": {
+    "id": 157685,
+    "name": "TB 1888 Erlangen e. V. 4",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168515,
+    "name": "Nürnberger Basketball Club e.V. 4",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870359,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T15:00:00.000Z",
+   "home": {
+    "id": 157654,
+    "name": "SV Burggrafenhof",
+    "clubId": 4337,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158896,
+    "name": "Post SV Nürnberg 5",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870360,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T10:00:00.000Z",
+   "home": {
+    "id": 157685,
+    "name": "TB 1888 Erlangen e. V. 4",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312945,
+    "name": "TUSPO Nürnberg 3",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870361,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T16:00:00.000Z",
+   "home": {
+    "id": 322191,
+    "name": "DJK Nürnberg-Eibach",
+    "clubId": 5349,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322560,
+    "name": "ESC Höchstadt 2",
+    "clubId": 5055,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870362,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T16:30:00.000Z",
+   "home": {
+    "id": 158896,
+    "name": "Post SV Nürnberg 5",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 266891,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870363,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T16:00:00.000Z",
+   "home": {
+    "id": 168515,
+    "name": "Nürnberger Basketball Club e.V. 4",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157654,
+    "name": "SV Burggrafenhof",
+    "clubId": 4337,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870364,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T15:00:00.000Z",
+   "home": {
+    "id": 322191,
+    "name": "DJK Nürnberg-Eibach",
+    "clubId": 5349,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312945,
+    "name": "TUSPO Nürnberg 3",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870365,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T14:00:00.000Z",
+   "home": {
+    "id": 157654,
+    "name": "SV Burggrafenhof",
+    "clubId": 4337,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157685,
+    "name": "TB 1888 Erlangen e. V. 4",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870366,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T15:30:00.000Z",
+   "home": {
+    "id": 266891,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168515,
+    "name": "Nürnberger Basketball Club e.V. 4",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870367,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-04-09T22:00:00.000Z",
+   "home": {
+    "id": 322560,
+    "name": "ESC Höchstadt 2",
+    "clubId": 5055,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 158896,
+    "name": "Post SV Nürnberg 5",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870368,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T18:00:00.000Z",
+   "home": {
+    "id": 158896,
+    "name": "Post SV Nürnberg 5",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322191,
+    "name": "DJK Nürnberg-Eibach",
+    "clubId": 5349,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870369,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T15:00:00.000Z",
+   "home": {
+    "id": 168515,
+    "name": "Nürnberger Basketball Club e.V. 4",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322560,
+    "name": "ESC Höchstadt 2",
+    "clubId": 5055,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870370,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T11:00:00.000Z",
+   "home": {
+    "id": 157685,
+    "name": "TB 1888 Erlangen e. V. 4",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 266891,
+    "name": "ESV Flügelrad Nürnberg 2",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870371,
+   "ligaId": 53718,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T16:30:00.000Z",
+   "home": {
+    "id": 312945,
+    "name": "TUSPO Nürnberg 3",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157654,
+    "name": "SV Burggrafenhof",
+    "clubId": 4337,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

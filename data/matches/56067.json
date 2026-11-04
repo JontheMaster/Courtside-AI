@@ -1,0 +1,494 @@
+{
+ "league": {
+  "ligaId": 56067,
+  "name": "MFR Bezirkspokal Herren",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Bezirkspokal",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Mittelfranken",
+  "competitionType": "cup",
+  "role": "core"
+ },
+ "matches": [
+  {
+   "matchId": 2982727,
+   "ligaId": 56067,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-20",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-20T16:00:00.000Z",
+   "home": {
+    "id": 157625,
+    "name": "SC Großschwarzenlohe",
+    "clubId": 277,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157665,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": 70,
+   "guestScore": 78,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2982728,
+   "ligaId": 56067,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-19",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-19T08:00:00.000Z",
+   "home": {
+    "id": 157669,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312007,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": 58,
+   "guestScore": 91,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2982729,
+   "ligaId": 56067,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T10:30:00.000Z",
+   "home": {
+    "id": 157645,
+    "name": "Post SV Nürnberg 4",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157641,
+    "name": "TTV Neustadt a.d. Aisch 2",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "homeScore": 32,
+   "guestScore": 68,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2982730,
+   "ligaId": 56067,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-19",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-09-18T22:00:00.000Z",
+   "home": {
+    "id": 316332,
+    "name": "ESV Flügelrad Nürnberg 3",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157668,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": true,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2982731,
+   "ligaId": 56067,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-20",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-20T10:00:00.000Z",
+   "home": {
+    "id": 322191,
+    "name": "DJK Nürnberg-Eibach",
+    "clubId": 5349,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157640,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "homeScore": 47,
+   "guestScore": 64,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2982732,
+   "ligaId": 56067,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T11:00:00.000Z",
+   "home": {
+    "id": 316309,
+    "name": "Nürnberg Falcons e.V. 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157624,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": 64,
+   "guestScore": 79,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2982733,
+   "ligaId": 56067,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T15:30:00.000Z",
+   "home": {
+    "id": 316912,
+    "name": "ESC Höchstadt",
+    "clubId": 5055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158895,
+    "name": "TSV 1946 Altenberg 2",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 27,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2982734,
+   "ligaId": 56067,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-20",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-20T17:00:00.000Z",
+   "home": {
+    "id": 157650,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159790,
+    "name": "TuS 1861 Feuchtwangen",
+    "clubId": 1594,
+    "forfeit": false
+   },
+   "homeScore": 0,
+   "guestScore": 20,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2982735,
+   "ligaId": 56067,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-19",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-19T16:00:00.000Z",
+   "home": {
+    "id": 157662,
+    "name": "SpVgg Roth",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159777,
+    "name": "SC Großschwarzenlohe 2",
+    "clubId": 277,
+    "forfeit": false
+   },
+   "homeScore": 71,
+   "guestScore": 55,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2988737,
+   "ligaId": 56067,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-27T23:00:00.000Z",
+   "home": {
+    "id": 157630,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157649,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2988738,
+   "ligaId": 56067,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-27T23:00:00.000Z",
+   "home": {
+    "id": 157640,
+    "name": "TSV 1946 Altenberg",
+    "clubId": 1565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151990,
+    "name": "Post SV Nürnberg 1",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2988740,
+   "ligaId": 56067,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-27T23:00:00.000Z",
+   "home": {
+    "id": 157665,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157674,
+    "name": "TV 1877 Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2988741,
+   "ligaId": 56067,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-27T23:00:00.000Z",
+   "home": {
+    "id": 159790,
+    "name": "TuS 1861 Feuchtwangen",
+    "clubId": 1594,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157644,
+    "name": "Post SV Nürnberg 3",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2988742,
+   "ligaId": 56067,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-27T23:00:00.000Z",
+   "home": {
+    "id": 316912,
+    "name": "ESC Höchstadt",
+    "clubId": 5055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157624,
+    "name": "Post SV Nürnberg 2",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2988743,
+   "ligaId": 56067,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-27T23:00:00.000Z",
+   "home": {
+    "id": 157662,
+    "name": "SpVgg Roth",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312007,
+    "name": "Frankonia Baskets Nürnberg 1",
+    "clubId": 4534,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2988744,
+   "ligaId": 56067,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-27T23:00:00.000Z",
+   "home": {
+    "id": 157668,
+    "name": "CVJM Erlangen 2",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151006,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2988746,
+   "ligaId": 56067,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-27T23:00:00.000Z",
+   "home": {
+    "id": 157641,
+    "name": "TTV Neustadt a.d. Aisch 2",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157627,
+    "name": "TSV Ansbach 2",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  }
+ ]
+}

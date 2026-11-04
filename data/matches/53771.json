@@ -1,0 +1,2538 @@
+{
+ "league": {
+  "ligaId": 53771,
+  "name": "Bezirksliga U16 ml (BZL16M) 2026/27 ",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U16",
+  "gender": "männlich",
+  "level": "Bezirksliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2904706,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T10:30:00.000Z",
+   "home": {
+    "id": 166702,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163001,
+    "name": "TV 1862 Passau",
+    "clubId": 1479,
+    "forfeit": false
+   },
+   "homeScore": 132,
+   "guestScore": 60,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904707,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T10:15:00.000Z",
+   "home": {
+    "id": 162994,
+    "name": "TSV 1880 Wasserburg",
+    "clubId": 1212,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 312158,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904708,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T10:15:00.000Z",
+   "home": {
+    "id": 313656,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322900,
+    "name": "Westside Warriors 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904709,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T14:45:00.000Z",
+   "home": {
+    "id": 163000,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162998,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": 85,
+   "guestScore": 71,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904710,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T11:30:00.000Z",
+   "home": {
+    "id": 166186,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 176854,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "homeScore": 56,
+   "guestScore": 61,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904711,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T15:30:00.000Z",
+   "home": {
+    "id": 162998,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313656,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": 103,
+   "guestScore": 53,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904712,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T14:45:00.000Z",
+   "home": {
+    "id": 322900,
+    "name": "Westside Warriors 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162994,
+    "name": "TSV 1880 Wasserburg",
+    "clubId": 1212,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904713,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T12:45:00.000Z",
+   "home": {
+    "id": 312158,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166186,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": 71,
+   "guestScore": 48,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904714,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T12:00:00.000Z",
+   "home": {
+    "id": 176854,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166702,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "homeScore": 77,
+   "guestScore": 125,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904715,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T14:45:00.000Z",
+   "home": {
+    "id": 163001,
+    "name": "TV 1862 Passau",
+    "clubId": 1479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163000,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": 48,
+   "guestScore": 76,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904716,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T10:30:00.000Z",
+   "home": {
+    "id": 166702,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163000,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": 111,
+   "guestScore": 79,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904717,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T10:15:00.000Z",
+   "home": {
+    "id": 162994,
+    "name": "TSV 1880 Wasserburg",
+    "clubId": 1212,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 162998,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904718,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T10:15:00.000Z",
+   "home": {
+    "id": 313656,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163001,
+    "name": "TV 1862 Passau",
+    "clubId": 1479,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 66,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904719,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T15:00:00.000Z",
+   "home": {
+    "id": 176854,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312158,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": 47,
+   "guestScore": 73,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904720,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T12:15:00.000Z",
+   "home": {
+    "id": 166186,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322900,
+    "name": "Westside Warriors 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": 55,
+   "guestScore": 59,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904721,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T13:00:00.000Z",
+   "home": {
+    "id": 162998,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166186,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": 89,
+   "guestScore": 46,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904722,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:00:00.000Z",
+   "home": {
+    "id": 322900,
+    "name": "Westside Warriors 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 176854,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "homeScore": 95,
+   "guestScore": 53,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904723,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T10:15:00.000Z",
+   "home": {
+    "id": 312158,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166702,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904724,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T13:30:00.000Z",
+   "home": {
+    "id": 163000,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313656,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": 127,
+   "guestScore": 51,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904725,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T14:45:00.000Z",
+   "home": {
+    "id": 163001,
+    "name": "TV 1862 Passau",
+    "clubId": 1479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162994,
+    "name": "TSV 1880 Wasserburg",
+    "clubId": 1212,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904726,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T13:45:00.000Z",
+   "home": {
+    "id": 166702,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313656,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904727,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T12:15:00.000Z",
+   "home": {
+    "id": 162994,
+    "name": "TSV 1880 Wasserburg",
+    "clubId": 1212,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 163000,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904728,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T11:15:00.000Z",
+   "home": {
+    "id": 312158,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322900,
+    "name": "Westside Warriors 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904729,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T13:00:00.000Z",
+   "home": {
+    "id": 176854,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162998,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904730,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T15:30:00.000Z",
+   "home": {
+    "id": 166186,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163001,
+    "name": "TV 1862 Passau",
+    "clubId": 1479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904731,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T09:00:00.000Z",
+   "home": {
+    "id": 162998,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312158,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904732,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T15:45:00.000Z",
+   "home": {
+    "id": 322900,
+    "name": "Westside Warriors 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166702,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904733,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T09:00:00.000Z",
+   "home": {
+    "id": 313656,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162994,
+    "name": "TSV 1880 Wasserburg",
+    "clubId": 1212,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904734,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T13:30:00.000Z",
+   "home": {
+    "id": 163000,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166186,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904735,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T14:00:00.000Z",
+   "home": {
+    "id": 163001,
+    "name": "TV 1862 Passau",
+    "clubId": 1479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 176854,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904736,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T13:45:00.000Z",
+   "home": {
+    "id": 166702,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162994,
+    "name": "TSV 1880 Wasserburg",
+    "clubId": 1212,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904737,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T13:30:00.000Z",
+   "home": {
+    "id": 322900,
+    "name": "Westside Warriors 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162998,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904738,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T13:45:00.000Z",
+   "home": {
+    "id": 312158,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163001,
+    "name": "TV 1862 Passau",
+    "clubId": 1479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904739,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T13:00:00.000Z",
+   "home": {
+    "id": 176854,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163000,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904740,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T15:00:00.000Z",
+   "home": {
+    "id": 166186,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313656,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904741,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T11:30:00.000Z",
+   "home": {
+    "id": 166702,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162998,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904742,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T09:00:00.000Z",
+   "home": {
+    "id": 162994,
+    "name": "TSV 1880 Wasserburg",
+    "clubId": 1212,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 166186,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904743,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T13:30:00.000Z",
+   "home": {
+    "id": 313656,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 176854,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904744,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T15:45:00.000Z",
+   "home": {
+    "id": 163000,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312158,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904745,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T13:30:00.000Z",
+   "home": {
+    "id": 163001,
+    "name": "TV 1862 Passau",
+    "clubId": 1479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322900,
+    "name": "Westside Warriors 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904746,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T11:30:00.000Z",
+   "home": {
+    "id": 162998,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163001,
+    "name": "TV 1862 Passau",
+    "clubId": 1479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904747,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T11:15:00.000Z",
+   "home": {
+    "id": 322900,
+    "name": "Westside Warriors 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163000,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904748,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T13:45:00.000Z",
+   "home": {
+    "id": 312158,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313656,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904749,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T13:00:00.000Z",
+   "home": {
+    "id": 176854,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162994,
+    "name": "TSV 1880 Wasserburg",
+    "clubId": 1212,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904750,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T13:15:00.000Z",
+   "home": {
+    "id": 166186,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166702,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904751,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T15:45:00.000Z",
+   "home": {
+    "id": 163001,
+    "name": "TV 1862 Passau",
+    "clubId": 1479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166702,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904752,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T13:45:00.000Z",
+   "home": {
+    "id": 312158,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162994,
+    "name": "TSV 1880 Wasserburg",
+    "clubId": 1212,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904753,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T11:15:00.000Z",
+   "home": {
+    "id": 322900,
+    "name": "Westside Warriors 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313656,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904754,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T09:00:00.000Z",
+   "home": {
+    "id": 162998,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163000,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904755,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T13:00:00.000Z",
+   "home": {
+    "id": 176854,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166186,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904756,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "15:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T14:15:00.000Z",
+   "home": {
+    "id": 313656,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162998,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904757,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T11:15:00.000Z",
+   "home": {
+    "id": 162994,
+    "name": "TSV 1880 Wasserburg",
+    "clubId": 1212,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 322900,
+    "name": "Westside Warriors 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904758,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T15:30:00.000Z",
+   "home": {
+    "id": 166186,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312158,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904759,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T11:30:00.000Z",
+   "home": {
+    "id": 166702,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 176854,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904760,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T13:30:00.000Z",
+   "home": {
+    "id": 163000,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163001,
+    "name": "TV 1862 Passau",
+    "clubId": 1479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904761,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T15:45:00.000Z",
+   "home": {
+    "id": 163000,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166702,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904762,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T11:30:00.000Z",
+   "home": {
+    "id": 162998,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162994,
+    "name": "TSV 1880 Wasserburg",
+    "clubId": 1212,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904763,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T15:45:00.000Z",
+   "home": {
+    "id": 163001,
+    "name": "TV 1862 Passau",
+    "clubId": 1479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313656,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904764,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T13:45:00.000Z",
+   "home": {
+    "id": 312158,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 176854,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904765,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T16:00:00.000Z",
+   "home": {
+    "id": 322900,
+    "name": "Westside Warriors 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166186,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904766,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T15:00:00.000Z",
+   "home": {
+    "id": 166186,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162998,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904767,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T13:00:00.000Z",
+   "home": {
+    "id": 176854,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322900,
+    "name": "Westside Warriors 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904768,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T13:45:00.000Z",
+   "home": {
+    "id": 166702,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312158,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904769,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T11:15:00.000Z",
+   "home": {
+    "id": 313656,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163000,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904770,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T09:00:00.000Z",
+   "home": {
+    "id": 162994,
+    "name": "TSV 1880 Wasserburg",
+    "clubId": 1212,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 163001,
+    "name": "TV 1862 Passau",
+    "clubId": 1479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904771,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T13:30:00.000Z",
+   "home": {
+    "id": 313656,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166702,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904772,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T13:30:00.000Z",
+   "home": {
+    "id": 163000,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162994,
+    "name": "TSV 1880 Wasserburg",
+    "clubId": 1212,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904773,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T13:30:00.000Z",
+   "home": {
+    "id": 322900,
+    "name": "Westside Warriors 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312158,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904774,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T14:00:00.000Z",
+   "home": {
+    "id": 162998,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 176854,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904775,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T13:15:00.000Z",
+   "home": {
+    "id": 163001,
+    "name": "TV 1862 Passau",
+    "clubId": 1479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166186,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904776,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T11:15:00.000Z",
+   "home": {
+    "id": 312158,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162998,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904777,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T13:45:00.000Z",
+   "home": {
+    "id": 166702,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322900,
+    "name": "Westside Warriors 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904778,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T13:00:00.000Z",
+   "home": {
+    "id": 162994,
+    "name": "TSV 1880 Wasserburg",
+    "clubId": 1212,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 313656,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904779,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T15:00:00.000Z",
+   "home": {
+    "id": 166186,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163000,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904780,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T13:00:00.000Z",
+   "home": {
+    "id": 176854,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163001,
+    "name": "TV 1862 Passau",
+    "clubId": 1479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904781,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T11:15:00.000Z",
+   "home": {
+    "id": 162994,
+    "name": "TSV 1880 Wasserburg",
+    "clubId": 1212,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 166702,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904782,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T09:00:00.000Z",
+   "home": {
+    "id": 162998,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322900,
+    "name": "Westside Warriors 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904783,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T16:15:00.000Z",
+   "home": {
+    "id": 163001,
+    "name": "TV 1862 Passau",
+    "clubId": 1479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312158,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904784,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T13:30:00.000Z",
+   "home": {
+    "id": 163000,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 176854,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904785,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T15:45:00.000Z",
+   "home": {
+    "id": 313656,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166186,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904786,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T10:30:00.000Z",
+   "home": {
+    "id": 162998,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166702,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904787,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "13:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T11:45:00.000Z",
+   "home": {
+    "id": 166186,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162994,
+    "name": "TSV 1880 Wasserburg",
+    "clubId": 1212,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904788,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T12:00:00.000Z",
+   "home": {
+    "id": 176854,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313656,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904789,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T12:45:00.000Z",
+   "home": {
+    "id": 312158,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163000,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904790,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T10:00:00.000Z",
+   "home": {
+    "id": 322900,
+    "name": "Westside Warriors 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163001,
+    "name": "TV 1862 Passau",
+    "clubId": 1479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904791,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T15:15:00.000Z",
+   "home": {
+    "id": 163001,
+    "name": "TV 1862 Passau",
+    "clubId": 1479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162998,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904792,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T15:00:00.000Z",
+   "home": {
+    "id": 163000,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322900,
+    "name": "Westside Warriors 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904793,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T12:30:00.000Z",
+   "home": {
+    "id": 313656,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312158,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904794,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T10:15:00.000Z",
+   "home": {
+    "id": 162994,
+    "name": "TSV 1880 Wasserburg",
+    "clubId": 1212,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 176854,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904795,
+   "ligaId": 53771,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T10:30:00.000Z",
+   "home": {
+    "id": 166702,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166186,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

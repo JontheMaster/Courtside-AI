@@ -1,0 +1,438 @@
+{
+ "league": {
+  "ligaId": 55330,
+  "name": "Bezirksliga U18 männlich Einteilungsrunde B",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U18",
+  "gender": "männlich",
+  "level": "Bezirksliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2880051,
+   "ligaId": 55330,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-02",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-02T18:00:00.000Z",
+   "home": {
+    "id": 143086,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166132,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": 116,
+   "guestScore": 46,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2880052,
+   "ligaId": 55330,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T18:00:00.000Z",
+   "home": {
+    "id": 143094,
+    "name": "Regnitztal Baskets 2",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 146673,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": 83,
+   "guestScore": 85,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2880053,
+   "ligaId": 55330,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T16:00:00.000Z",
+   "home": {
+    "id": 202067,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143091,
+    "name": "1. FC Baunach a. K.",
+    "clubId": 404,
+    "forfeit": false
+   },
+   "homeScore": 78,
+   "guestScore": 76,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2880054,
+   "ligaId": 55330,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T14:00:00.000Z",
+   "home": {
+    "id": 146673,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 202067,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": 101,
+   "guestScore": 58,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2880055,
+   "ligaId": 55330,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T12:30:00.000Z",
+   "home": {
+    "id": 143091,
+    "name": "1. FC Baunach a. K.",
+    "clubId": 404,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143086,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "homeScore": 66,
+   "guestScore": 100,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2880056,
+   "ligaId": 55330,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-20",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-20T19:00:00.000Z",
+   "home": {
+    "id": 166132,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143094,
+    "name": "Regnitztal Baskets 2",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2880057,
+   "ligaId": 55330,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T11:15:00.000Z",
+   "home": {
+    "id": 143086,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143094,
+    "name": "Regnitztal Baskets 2",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2880058,
+   "ligaId": 55330,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T16:00:00.000Z",
+   "home": {
+    "id": 143091,
+    "name": "1. FC Baunach a. K.",
+    "clubId": 404,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 146673,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2880059,
+   "ligaId": 55330,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T15:00:00.000Z",
+   "home": {
+    "id": 202067,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166132,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": 78,
+   "guestScore": 49,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2880060,
+   "ligaId": 55330,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T12:00:00.000Z",
+   "home": {
+    "id": 143086,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 146673,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2880061,
+   "ligaId": 55330,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T19:00:00.000Z",
+   "home": {
+    "id": 143094,
+    "name": "Regnitztal Baskets 2",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 202067,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2880062,
+   "ligaId": 55330,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T15:00:00.000Z",
+   "home": {
+    "id": 166132,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143091,
+    "name": "1. FC Baunach a. K.",
+    "clubId": 404,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2880063,
+   "ligaId": 55330,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T16:30:00.000Z",
+   "home": {
+    "id": 146673,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166132,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2880064,
+   "ligaId": 55330,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T16:00:00.000Z",
+   "home": {
+    "id": 143091,
+    "name": "1. FC Baunach a. K.",
+    "clubId": 404,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143094,
+    "name": "Regnitztal Baskets 2",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2880065,
+   "ligaId": 55330,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T17:00:00.000Z",
+   "home": {
+    "id": 202067,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143086,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

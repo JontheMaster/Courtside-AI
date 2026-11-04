@@ -1,0 +1,1194 @@
+{
+ "league": {
+  "ligaId": 54466,
+  "name": "Bezirksoberliga U14 männlich 26/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U14",
+  "gender": "männlich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Schwaben",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2925118,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T13:00:00.000Z",
+   "home": {
+    "id": 165804,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165801,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": 75,
+   "guestScore": 85,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925119,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T08:00:00.000Z",
+   "home": {
+    "id": 310399,
+    "name": "BBU'01 Sektion BY e.V.",
+    "clubId": 4508,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162243,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": 123,
+   "guestScore": 52,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925120,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T16:00:00.000Z",
+   "home": {
+    "id": 316511,
+    "name": "PSV Ingolstadt 2",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 279874,
+    "name": "Netz16 Baskets Königsbrunn",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "homeScore": 55,
+   "guestScore": 94,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925122,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T11:30:00.000Z",
+   "home": {
+    "id": 279874,
+    "name": "Netz16 Baskets Königsbrunn",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310399,
+    "name": "BBU'01 Sektion BY e.V.",
+    "clubId": 4508,
+    "forfeit": false
+   },
+   "homeScore": 68,
+   "guestScore": 114,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925123,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T10:15:00.000Z",
+   "home": {
+    "id": 162243,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165797,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "homeScore": 92,
+   "guestScore": 67,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925125,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T10:00:00.000Z",
+   "home": {
+    "id": 165801,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316511,
+    "name": "PSV Ingolstadt 2",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": 66,
+   "guestScore": 105,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925126,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-01",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-01T09:00:00.000Z",
+   "home": {
+    "id": 165804,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316511,
+    "name": "PSV Ingolstadt 2",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": 57,
+   "guestScore": 77,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925127,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T10:30:00.000Z",
+   "home": {
+    "id": 310399,
+    "name": "BBU'01 Sektion BY e.V.",
+    "clubId": 4508,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165801,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": 132,
+   "guestScore": 36,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925129,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T14:00:00.000Z",
+   "home": {
+    "id": 165797,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 279874,
+    "name": "Netz16 Baskets Königsbrunn",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925131,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T13:30:00.000Z",
+   "home": {
+    "id": 162243,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165804,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925132,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T11:30:00.000Z",
+   "home": {
+    "id": 316511,
+    "name": "PSV Ingolstadt 2",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310399,
+    "name": "BBU'01 Sektion BY e.V.",
+    "clubId": 4508,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925133,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T13:30:00.000Z",
+   "home": {
+    "id": 165801,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165797,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925134,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T16:30:00.000Z",
+   "home": {
+    "id": 165804,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310399,
+    "name": "BBU'01 Sektion BY e.V.",
+    "clubId": 4508,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925135,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T13:30:00.000Z",
+   "home": {
+    "id": 162243,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 279874,
+    "name": "Netz16 Baskets Königsbrunn",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925137,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T14:00:00.000Z",
+   "home": {
+    "id": 165797,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316511,
+    "name": "PSV Ingolstadt 2",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925138,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T09:00:00.000Z",
+   "home": {
+    "id": 165804,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 279874,
+    "name": "Netz16 Baskets Königsbrunn",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925139,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T11:30:00.000Z",
+   "home": {
+    "id": 310399,
+    "name": "BBU'01 Sektion BY e.V.",
+    "clubId": 4508,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165797,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925141,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T13:45:00.000Z",
+   "home": {
+    "id": 165801,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162243,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925142,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T13:00:00.000Z",
+   "home": {
+    "id": 279874,
+    "name": "Netz16 Baskets Königsbrunn",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165801,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925143,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T13:30:00.000Z",
+   "home": {
+    "id": 162243,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316511,
+    "name": "PSV Ingolstadt 2",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925145,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T16:30:00.000Z",
+   "home": {
+    "id": 165797,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165804,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925146,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T13:15:00.000Z",
+   "home": {
+    "id": 165801,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165804,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925147,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T11:15:00.000Z",
+   "home": {
+    "id": 162243,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310399,
+    "name": "BBU'01 Sektion BY e.V.",
+    "clubId": 4508,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925148,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T10:30:00.000Z",
+   "home": {
+    "id": 279874,
+    "name": "Netz16 Baskets Königsbrunn",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316511,
+    "name": "PSV Ingolstadt 2",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925150,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T09:00:00.000Z",
+   "home": {
+    "id": 310399,
+    "name": "BBU'01 Sektion BY e.V.",
+    "clubId": 4508,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 279874,
+    "name": "Netz16 Baskets Königsbrunn",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925151,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "12:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T11:45:00.000Z",
+   "home": {
+    "id": 165797,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162243,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925153,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T15:30:00.000Z",
+   "home": {
+    "id": 316511,
+    "name": "PSV Ingolstadt 2",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165801,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925154,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T11:30:00.000Z",
+   "home": {
+    "id": 316511,
+    "name": "PSV Ingolstadt 2",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165804,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925155,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T13:30:00.000Z",
+   "home": {
+    "id": 165801,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310399,
+    "name": "BBU'01 Sektion BY e.V.",
+    "clubId": 4508,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925157,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T10:30:00.000Z",
+   "home": {
+    "id": 279874,
+    "name": "Netz16 Baskets Königsbrunn",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165797,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925159,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T13:00:00.000Z",
+   "home": {
+    "id": 165804,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162243,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": 32,
+   "guestScore": 122,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925160,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T11:30:00.000Z",
+   "home": {
+    "id": 310399,
+    "name": "BBU'01 Sektion BY e.V.",
+    "clubId": 4508,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316511,
+    "name": "PSV Ingolstadt 2",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925161,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "12:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T11:45:00.000Z",
+   "home": {
+    "id": 165797,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165801,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925162,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T09:00:00.000Z",
+   "home": {
+    "id": 310399,
+    "name": "BBU'01 Sektion BY e.V.",
+    "clubId": 4508,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165804,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925163,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T15:00:00.000Z",
+   "home": {
+    "id": 279874,
+    "name": "Netz16 Baskets Königsbrunn",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162243,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": 68,
+   "guestScore": 119,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925165,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T11:30:00.000Z",
+   "home": {
+    "id": 316511,
+    "name": "PSV Ingolstadt 2",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165797,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925166,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T13:00:00.000Z",
+   "home": {
+    "id": 279874,
+    "name": "Netz16 Baskets Königsbrunn",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165804,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925167,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T14:00:00.000Z",
+   "home": {
+    "id": 165797,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310399,
+    "name": "BBU'01 Sektion BY e.V.",
+    "clubId": 4508,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925169,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T13:45:00.000Z",
+   "home": {
+    "id": 162243,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165801,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925170,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T11:15:00.000Z",
+   "home": {
+    "id": 165801,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 279874,
+    "name": "Netz16 Baskets Königsbrunn",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925171,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T14:00:00.000Z",
+   "home": {
+    "id": 316511,
+    "name": "PSV Ingolstadt 2",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162243,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925173,
+   "ligaId": 54466,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T14:00:00.000Z",
+   "home": {
+    "id": 165804,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165797,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

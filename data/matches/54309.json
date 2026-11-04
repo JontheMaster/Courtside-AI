@@ -1,0 +1,606 @@
+{
+ "league": {
+  "ligaId": 54309,
+  "name": "Bayernliga U14 männlich Einteilungsrunde Süd",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U14",
+  "gender": "männlich",
+  "level": "Bayernliga",
+  "levelScope": "Verband",
+  "verbandId": 2,
+  "bezirk": null,
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2898475,
+   "ligaId": 54309,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T13:00:00.000Z",
+   "home": {
+    "id": 156626,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165708,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": 102,
+   "guestScore": 27,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898477,
+   "ligaId": 54309,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T08:00:00.000Z",
+   "home": {
+    "id": 162303,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165813,
+    "name": "baramundi basketball akademie Augsburg",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": 95,
+   "guestScore": 19,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898478,
+   "ligaId": 54309,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T10:30:00.000Z",
+   "home": {
+    "id": 156624,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162967,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 90,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898479,
+   "ligaId": 54309,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T12:30:00.000Z",
+   "home": {
+    "id": 165813,
+    "name": "baramundi basketball akademie Augsburg",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156623,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": 41,
+   "guestScore": 128,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898481,
+   "ligaId": 54309,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T12:30:00.000Z",
+   "home": {
+    "id": 162967,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165708,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": 79,
+   "guestScore": 53,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898482,
+   "ligaId": 54309,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T13:30:00.000Z",
+   "home": {
+    "id": 156626,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162303,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": 61,
+   "guestScore": 75,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898483,
+   "ligaId": 54309,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T13:00:00.000Z",
+   "home": {
+    "id": 165708,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162303,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": 44,
+   "guestScore": 90,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898484,
+   "ligaId": 54309,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-16",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-16T16:30:00.000Z",
+   "home": {
+    "id": 156623,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156626,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": 88,
+   "guestScore": 56,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898486,
+   "ligaId": 54309,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T10:30:00.000Z",
+   "home": {
+    "id": 156624,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165813,
+    "name": "baramundi basketball akademie Augsburg",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": 84,
+   "guestScore": 58,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898487,
+   "ligaId": 54309,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T12:00:00.000Z",
+   "home": {
+    "id": 165813,
+    "name": "baramundi basketball akademie Augsburg",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162967,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": 74,
+   "guestScore": 92,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898489,
+   "ligaId": 54309,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-27",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-27T18:00:00.000Z",
+   "home": {
+    "id": 162303,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156623,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": 40,
+   "guestScore": 67,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898490,
+   "ligaId": 54309,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T15:00:00.000Z",
+   "home": {
+    "id": 156626,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156624,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": 96,
+   "guestScore": 39,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898491,
+   "ligaId": 54309,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T16:00:00.000Z",
+   "home": {
+    "id": 156623,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165708,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898493,
+   "ligaId": 54309,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T12:30:00.000Z",
+   "home": {
+    "id": 162967,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156626,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898494,
+   "ligaId": 54309,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T14:00:00.000Z",
+   "home": {
+    "id": 156624,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162303,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898495,
+   "ligaId": 54309,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T11:30:00.000Z",
+   "home": {
+    "id": 165708,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165813,
+    "name": "baramundi basketball akademie Augsburg",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898496,
+   "ligaId": 54309,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T16:00:00.000Z",
+   "home": {
+    "id": 156623,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156624,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898497,
+   "ligaId": 54309,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "09:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T08:45:00.000Z",
+   "home": {
+    "id": 162303,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162967,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898499,
+   "ligaId": 54309,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T11:15:00.000Z",
+   "home": {
+    "id": 165813,
+    "name": "baramundi basketball akademie Augsburg",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156626,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898501,
+   "ligaId": 54309,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "11:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T10:15:00.000Z",
+   "home": {
+    "id": 162967,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156623,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898502,
+   "ligaId": 54309,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T13:30:00.000Z",
+   "home": {
+    "id": 165708,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156624,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

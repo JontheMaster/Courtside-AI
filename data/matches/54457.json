@@ -1,0 +1,858 @@
+{
+ "league": {
+  "ligaId": 54457,
+  "name": "Bezirksoberliga U20 männlich 26/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U20",
+  "gender": "männlich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Schwaben",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2924826,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T14:30:00.000Z",
+   "home": {
+    "id": 323008,
+    "name": "FC Gerolfing 1930 e.V.",
+    "clubId": 5126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 229106,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": 70,
+   "guestScore": 60,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924829,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T13:30:00.000Z",
+   "home": {
+    "id": 217089,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319559,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": 70,
+   "guestScore": 93,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924830,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T11:15:00.000Z",
+   "home": {
+    "id": 272102,
+    "name": "SG Heising/Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323008,
+    "name": "FC Gerolfing 1930 e.V.",
+    "clubId": 5126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924833,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-02-07",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-07T15:45:00.000Z",
+   "home": {
+    "id": 272102,
+    "name": "SG Heising/Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 217089,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924835,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T14:30:00.000Z",
+   "home": {
+    "id": 323008,
+    "name": "FC Gerolfing 1930 e.V.",
+    "clubId": 5126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 217089,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924837,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T13:30:00.000Z",
+   "home": {
+    "id": 229106,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 272102,
+    "name": "SG Heising/Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924838,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T14:00:00.000Z",
+   "home": {
+    "id": 217089,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 229106,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924840,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T13:30:00.000Z",
+   "home": {
+    "id": 319559,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323008,
+    "name": "FC Gerolfing 1930 e.V.",
+    "clubId": 5126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924841,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T13:30:00.000Z",
+   "home": {
+    "id": 229106,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323008,
+    "name": "FC Gerolfing 1930 e.V.",
+    "clubId": 5126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924844,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T13:30:00.000Z",
+   "home": {
+    "id": 272102,
+    "name": "SG Heising/Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319559,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924845,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T13:30:00.000Z",
+   "home": {
+    "id": 319559,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 217089,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924846,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T14:30:00.000Z",
+   "home": {
+    "id": 323008,
+    "name": "FC Gerolfing 1930 e.V.",
+    "clubId": 5126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 272102,
+    "name": "SG Heising/Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924849,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T12:30:00.000Z",
+   "home": {
+    "id": 217089,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 272102,
+    "name": "SG Heising/Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924850,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T13:15:00.000Z",
+   "home": {
+    "id": 229106,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319559,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924851,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T12:30:00.000Z",
+   "home": {
+    "id": 217089,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323008,
+    "name": "FC Gerolfing 1930 e.V.",
+    "clubId": 5126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924853,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T15:30:00.000Z",
+   "home": {
+    "id": 272102,
+    "name": "SG Heising/Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 229106,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924854,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T16:15:00.000Z",
+   "home": {
+    "id": 229106,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 217089,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2943983,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T16:00:00.000Z",
+   "home": {
+    "id": 210403,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 217089,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2943984,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T13:30:00.000Z",
+   "home": {
+    "id": 319559,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 272102,
+    "name": "SG Heising/Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2943987,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T15:30:00.000Z",
+   "home": {
+    "id": 229106,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 210403,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2943988,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T14:00:00.000Z",
+   "home": {
+    "id": 323008,
+    "name": "FC Gerolfing 1930 e.V.",
+    "clubId": 5126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 210403,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2943990,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T15:45:00.000Z",
+   "home": {
+    "id": 319559,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 229106,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2943992,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T10:00:00.000Z",
+   "home": {
+    "id": 210403,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319559,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": 75,
+   "guestScore": 96,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2943995,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T11:15:00.000Z",
+   "home": {
+    "id": 272102,
+    "name": "SG Heising/Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 210403,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2943998,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T13:00:00.000Z",
+   "home": {
+    "id": 217089,
+    "name": "DJK Kaufbeuren",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 210403,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2944002,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T09:00:00.000Z",
+   "home": {
+    "id": 210403,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 229106,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2944003,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T15:45:00.000Z",
+   "home": {
+    "id": 210403,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323008,
+    "name": "FC Gerolfing 1930 e.V.",
+    "clubId": 5126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2944007,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T13:30:00.000Z",
+   "home": {
+    "id": 319559,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 210403,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2944010,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T13:45:00.000Z",
+   "home": {
+    "id": 210403,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 272102,
+    "name": "SG Heising/Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2944011,
+   "ligaId": 54457,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T14:30:00.000Z",
+   "home": {
+    "id": 323008,
+    "name": "FC Gerolfing 1930 e.V.",
+    "clubId": 5126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319559,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

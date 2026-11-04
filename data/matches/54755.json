@@ -1,0 +1,1194 @@
+{
+ "league": {
+  "ligaId": 54755,
+  "name": "OPF Bezirksoberliga Herren 2026/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberpfalz",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2928352,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T14:00:00.000Z",
+   "home": {
+    "id": 161221,
+    "name": "Regensburg Baskets 3",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151005,
+    "name": "FC Tegernheim 1",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": 55,
+   "guestScore": 70,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928354,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T16:00:00.000Z",
+   "home": {
+    "id": 159002,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314675,
+    "name": "TV Amberg-Sulzbach BSG 1",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "homeScore": 83,
+   "guestScore": 41,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928355,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-06T18:00:00.000Z",
+   "home": {
+    "id": 167890,
+    "name": "Fibalon Baskets Neumarkt 2",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318887,
+    "name": "KK Serbischer Club Donau Regensburg",
+    "clubId": 5135,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928356,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T16:00:00.000Z",
+   "home": {
+    "id": 314675,
+    "name": "TV Amberg-Sulzbach BSG 1",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159021,
+    "name": "DJK Pressath 2",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "homeScore": 45,
+   "guestScore": 79,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928358,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T16:00:00.000Z",
+   "home": {
+    "id": 318887,
+    "name": "KK Serbischer Club Donau Regensburg",
+    "clubId": 5135,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 161221,
+    "name": "Regensburg Baskets 3",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": 73,
+   "guestScore": 64,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928359,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T17:00:00.000Z",
+   "home": {
+    "id": 151005,
+    "name": "FC Tegernheim 1",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159002,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": 67,
+   "guestScore": 64,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928360,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T17:00:00.000Z",
+   "home": {
+    "id": 161221,
+    "name": "Regensburg Baskets 3",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159002,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": 43,
+   "guestScore": 69,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928361,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T15:00:00.000Z",
+   "home": {
+    "id": 159021,
+    "name": "DJK Pressath 2",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151005,
+    "name": "FC Tegernheim 1",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": 43,
+   "guestScore": 55,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928363,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T18:00:00.000Z",
+   "home": {
+    "id": 167890,
+    "name": "Fibalon Baskets Neumarkt 2",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314675,
+    "name": "TV Amberg-Sulzbach BSG 1",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "homeScore": 68,
+   "guestScore": 88,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928364,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T17:00:00.000Z",
+   "home": {
+    "id": 314675,
+    "name": "TV Amberg-Sulzbach BSG 1",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318887,
+    "name": "KK Serbischer Club Donau Regensburg",
+    "clubId": 5135,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928366,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T17:30:00.000Z",
+   "home": {
+    "id": 159002,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159021,
+    "name": "DJK Pressath 2",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928367,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T16:00:00.000Z",
+   "home": {
+    "id": 151005,
+    "name": "FC Tegernheim 1",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167890,
+    "name": "Fibalon Baskets Neumarkt 2",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928368,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T17:00:00.000Z",
+   "home": {
+    "id": 161221,
+    "name": "Regensburg Baskets 3",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159021,
+    "name": "DJK Pressath 2",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928370,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T17:00:00.000Z",
+   "home": {
+    "id": 318887,
+    "name": "KK Serbischer Club Donau Regensburg",
+    "clubId": 5135,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151005,
+    "name": "FC Tegernheim 1",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928371,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T11:30:00.000Z",
+   "home": {
+    "id": 167890,
+    "name": "Fibalon Baskets Neumarkt 2",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159002,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928372,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T16:00:00.000Z",
+   "home": {
+    "id": 161221,
+    "name": "Regensburg Baskets 3",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314675,
+    "name": "TV Amberg-Sulzbach BSG 1",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928373,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T16:00:00.000Z",
+   "home": {
+    "id": 159021,
+    "name": "DJK Pressath 2",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167890,
+    "name": "Fibalon Baskets Neumarkt 2",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928374,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T15:30:00.000Z",
+   "home": {
+    "id": 159002,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318887,
+    "name": "KK Serbischer Club Donau Regensburg",
+    "clubId": 5135,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928376,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T17:00:00.000Z",
+   "home": {
+    "id": 314675,
+    "name": "TV Amberg-Sulzbach BSG 1",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151005,
+    "name": "FC Tegernheim 1",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928378,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T17:00:00.000Z",
+   "home": {
+    "id": 318887,
+    "name": "KK Serbischer Club Donau Regensburg",
+    "clubId": 5135,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159021,
+    "name": "DJK Pressath 2",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928379,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T14:00:00.000Z",
+   "home": {
+    "id": 167890,
+    "name": "Fibalon Baskets Neumarkt 2",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 161221,
+    "name": "Regensburg Baskets 3",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928380,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T16:00:00.000Z",
+   "home": {
+    "id": 151005,
+    "name": "FC Tegernheim 1",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 161221,
+    "name": "Regensburg Baskets 3",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928382,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T15:00:00.000Z",
+   "home": {
+    "id": 314675,
+    "name": "TV Amberg-Sulzbach BSG 1",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159002,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928383,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T17:00:00.000Z",
+   "home": {
+    "id": 318887,
+    "name": "KK Serbischer Club Donau Regensburg",
+    "clubId": 5135,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167890,
+    "name": "Fibalon Baskets Neumarkt 2",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928384,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:00:00.000Z",
+   "home": {
+    "id": 159021,
+    "name": "DJK Pressath 2",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314675,
+    "name": "TV Amberg-Sulzbach BSG 1",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928386,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T13:00:00.000Z",
+   "home": {
+    "id": 161221,
+    "name": "Regensburg Baskets 3",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318887,
+    "name": "KK Serbischer Club Donau Regensburg",
+    "clubId": 5135,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928387,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "18:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T17:45:00.000Z",
+   "home": {
+    "id": 159002,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151005,
+    "name": "FC Tegernheim 1",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928388,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T17:30:00.000Z",
+   "home": {
+    "id": 159002,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 161221,
+    "name": "Regensburg Baskets 3",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928389,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T15:00:00.000Z",
+   "home": {
+    "id": 151005,
+    "name": "FC Tegernheim 1",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159021,
+    "name": "DJK Pressath 2",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928391,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T17:00:00.000Z",
+   "home": {
+    "id": 314675,
+    "name": "TV Amberg-Sulzbach BSG 1",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167890,
+    "name": "Fibalon Baskets Neumarkt 2",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928392,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T17:00:00.000Z",
+   "home": {
+    "id": 318887,
+    "name": "KK Serbischer Club Donau Regensburg",
+    "clubId": 5135,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314675,
+    "name": "TV Amberg-Sulzbach BSG 1",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928394,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T16:00:00.000Z",
+   "home": {
+    "id": 159021,
+    "name": "DJK Pressath 2",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159002,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928395,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T19:00:00.000Z",
+   "home": {
+    "id": 167890,
+    "name": "Fibalon Baskets Neumarkt 2",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151005,
+    "name": "FC Tegernheim 1",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928396,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T13:30:00.000Z",
+   "home": {
+    "id": 159021,
+    "name": "DJK Pressath 2",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 161221,
+    "name": "Regensburg Baskets 3",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928398,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T16:00:00.000Z",
+   "home": {
+    "id": 151005,
+    "name": "FC Tegernheim 1",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318887,
+    "name": "KK Serbischer Club Donau Regensburg",
+    "clubId": 5135,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928399,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "10:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T09:45:00.000Z",
+   "home": {
+    "id": 159002,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167890,
+    "name": "Fibalon Baskets Neumarkt 2",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928400,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T17:00:00.000Z",
+   "home": {
+    "id": 314675,
+    "name": "TV Amberg-Sulzbach BSG 1",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 161221,
+    "name": "Regensburg Baskets 3",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928401,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T11:30:00.000Z",
+   "home": {
+    "id": 167890,
+    "name": "Fibalon Baskets Neumarkt 2",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159021,
+    "name": "DJK Pressath 2",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928402,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T17:00:00.000Z",
+   "home": {
+    "id": 318887,
+    "name": "KK Serbischer Club Donau Regensburg",
+    "clubId": 5135,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159002,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928404,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T18:30:00.000Z",
+   "home": {
+    "id": 151005,
+    "name": "FC Tegernheim 1",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314675,
+    "name": "TV Amberg-Sulzbach BSG 1",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928406,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T16:00:00.000Z",
+   "home": {
+    "id": 159021,
+    "name": "DJK Pressath 2",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318887,
+    "name": "KK Serbischer Club Donau Regensburg",
+    "clubId": 5135,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928407,
+   "ligaId": 54755,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T11:00:00.000Z",
+   "home": {
+    "id": 161221,
+    "name": "Regensburg Baskets 3",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167890,
+    "name": "Fibalon Baskets Neumarkt 2",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

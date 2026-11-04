@@ -1,0 +1,2538 @@
+{
+ "league": {
+  "ligaId": 53807,
+  "name": "Kreisklasse u14m (MI-KK14M) 2026/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U14",
+  "gender": "männlich",
+  "level": "Kreisklasse",
+  "levelScope": "Kreis",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2901984,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T12:00:00.000Z",
+   "home": {
+    "id": 314806,
+    "name": "TV Feldkirchen",
+    "clubId": 1387,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322736,
+    "name": "PSV München",
+    "clubId": 5381,
+    "forfeit": false
+   },
+   "homeScore": 46,
+   "guestScore": 44,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2901985,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-07",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-07T15:30:00.000Z",
+   "home": {
+    "id": 318623,
+    "name": "Maccabi München",
+    "clubId": 2692,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165320,
+    "name": "TSV Haar 2",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "homeScore": 55,
+   "guestScore": 57,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2901986,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T10:15:00.000Z",
+   "home": {
+    "id": 209131,
+    "name": "TSV Oberhaching 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322735,
+    "name": "SV-DJK Taufkirchen",
+    "clubId": 5225,
+    "forfeit": false
+   },
+   "homeScore": 107,
+   "guestScore": 39,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2901987,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T09:00:00.000Z",
+   "home": {
+    "id": 317399,
+    "name": "VfR Garching",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316294,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": 40,
+   "guestScore": 70,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2901988,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T12:30:00.000Z",
+   "home": {
+    "id": 241253,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166711,
+    "name": "TSV Ottobrunn",
+    "clubId": 700,
+    "forfeit": false
+   },
+   "homeScore": 43,
+   "guestScore": 52,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2901989,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T08:00:00.000Z",
+   "home": {
+    "id": 316294,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 209131,
+    "name": "TSV Oberhaching 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": 71,
+   "guestScore": 68,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2901990,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:30:00.000Z",
+   "home": {
+    "id": 322735,
+    "name": "SV-DJK Taufkirchen",
+    "clubId": 5225,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318623,
+    "name": "Maccabi München",
+    "clubId": 2692,
+    "forfeit": false
+   },
+   "homeScore": 31,
+   "guestScore": 76,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2901991,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T11:00:00.000Z",
+   "home": {
+    "id": 165320,
+    "name": "TSV Haar 2",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 241253,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": 81,
+   "guestScore": 28,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2901992,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "11:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T09:15:00.000Z",
+   "home": {
+    "id": 166711,
+    "name": "TSV Ottobrunn",
+    "clubId": 700,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314806,
+    "name": "TV Feldkirchen",
+    "clubId": 1387,
+    "forfeit": false
+   },
+   "homeScore": 68,
+   "guestScore": 58,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2901993,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T09:00:00.000Z",
+   "home": {
+    "id": 322736,
+    "name": "PSV München",
+    "clubId": 5381,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317399,
+    "name": "VfR Garching",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2901994,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T12:00:00.000Z",
+   "home": {
+    "id": 314806,
+    "name": "TV Feldkirchen",
+    "clubId": 1387,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317399,
+    "name": "VfR Garching",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "homeScore": 47,
+   "guestScore": 52,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2901995,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T08:00:00.000Z",
+   "home": {
+    "id": 318623,
+    "name": "Maccabi München",
+    "clubId": 2692,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316294,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": 51,
+   "guestScore": 92,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2901996,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T10:15:00.000Z",
+   "home": {
+    "id": 209131,
+    "name": "TSV Oberhaching 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322736,
+    "name": "PSV München",
+    "clubId": 5381,
+    "forfeit": false
+   },
+   "homeScore": 76,
+   "guestScore": 50,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2901997,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "09:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T07:00:00.000Z",
+   "home": {
+    "id": 166711,
+    "name": "TSV Ottobrunn",
+    "clubId": 700,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165320,
+    "name": "TSV Haar 2",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 49,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2901998,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T10:15:00.000Z",
+   "home": {
+    "id": 241253,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322735,
+    "name": "SV-DJK Taufkirchen",
+    "clubId": 5225,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2901999,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T08:00:00.000Z",
+   "home": {
+    "id": 316294,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 241253,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": 102,
+   "guestScore": 34,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902000,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:00:00.000Z",
+   "home": {
+    "id": 322735,
+    "name": "SV-DJK Taufkirchen",
+    "clubId": 5225,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166711,
+    "name": "TSV Ottobrunn",
+    "clubId": 700,
+    "forfeit": false
+   },
+   "homeScore": 47,
+   "guestScore": 76,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902001,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T13:30:00.000Z",
+   "home": {
+    "id": 165320,
+    "name": "TSV Haar 2",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314806,
+    "name": "TV Feldkirchen",
+    "clubId": 1387,
+    "forfeit": false
+   },
+   "homeScore": 61,
+   "guestScore": 42,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902002,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T08:00:00.000Z",
+   "home": {
+    "id": 317399,
+    "name": "VfR Garching",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 209131,
+    "name": "TSV Oberhaching 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": 50,
+   "guestScore": 83,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902003,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T10:00:00.000Z",
+   "home": {
+    "id": 322736,
+    "name": "PSV München",
+    "clubId": 5381,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318623,
+    "name": "Maccabi München",
+    "clubId": 2692,
+    "forfeit": false
+   },
+   "homeScore": 60,
+   "guestScore": 63,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902004,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T13:00:00.000Z",
+   "home": {
+    "id": 314806,
+    "name": "TV Feldkirchen",
+    "clubId": 1387,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 209131,
+    "name": "TSV Oberhaching 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902005,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T09:00:00.000Z",
+   "home": {
+    "id": 318623,
+    "name": "Maccabi München",
+    "clubId": 2692,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317399,
+    "name": "VfR Garching",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902006,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T12:00:00.000Z",
+   "home": {
+    "id": 165320,
+    "name": "TSV Haar 2",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322735,
+    "name": "SV-DJK Taufkirchen",
+    "clubId": 5225,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902007,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "09:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T08:00:00.000Z",
+   "home": {
+    "id": 166711,
+    "name": "TSV Ottobrunn",
+    "clubId": 700,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316294,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902008,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T13:30:00.000Z",
+   "home": {
+    "id": 241253,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322736,
+    "name": "PSV München",
+    "clubId": 5381,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902009,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T11:15:00.000Z",
+   "home": {
+    "id": 316294,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165320,
+    "name": "TSV Haar 2",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902010,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T16:00:00.000Z",
+   "home": {
+    "id": 322735,
+    "name": "SV-DJK Taufkirchen",
+    "clubId": 5225,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314806,
+    "name": "TV Feldkirchen",
+    "clubId": 1387,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902011,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T09:00:00.000Z",
+   "home": {
+    "id": 209131,
+    "name": "TSV Oberhaching 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318623,
+    "name": "Maccabi München",
+    "clubId": 2692,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902012,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T09:00:00.000Z",
+   "home": {
+    "id": 317399,
+    "name": "VfR Garching",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 241253,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902013,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "09:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T08:30:00.000Z",
+   "home": {
+    "id": 322736,
+    "name": "PSV München",
+    "clubId": 5381,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166711,
+    "name": "TSV Ottobrunn",
+    "clubId": 700,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902014,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T13:00:00.000Z",
+   "home": {
+    "id": 314806,
+    "name": "TV Feldkirchen",
+    "clubId": 1387,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318623,
+    "name": "Maccabi München",
+    "clubId": 2692,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902015,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T16:00:00.000Z",
+   "home": {
+    "id": 322735,
+    "name": "SV-DJK Taufkirchen",
+    "clubId": 5225,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316294,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902016,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T12:00:00.000Z",
+   "home": {
+    "id": 165320,
+    "name": "TSV Haar 2",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322736,
+    "name": "PSV München",
+    "clubId": 5381,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902017,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "11:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T10:15:00.000Z",
+   "home": {
+    "id": 166711,
+    "name": "TSV Ottobrunn",
+    "clubId": 700,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317399,
+    "name": "VfR Garching",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902018,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T13:30:00.000Z",
+   "home": {
+    "id": 241253,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 209131,
+    "name": "TSV Oberhaching 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902019,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T13:00:00.000Z",
+   "home": {
+    "id": 314806,
+    "name": "TV Feldkirchen",
+    "clubId": 1387,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316294,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902020,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T09:00:00.000Z",
+   "home": {
+    "id": 318623,
+    "name": "Maccabi München",
+    "clubId": 2692,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 241253,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902021,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T11:15:00.000Z",
+   "home": {
+    "id": 209131,
+    "name": "TSV Oberhaching 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166711,
+    "name": "TSV Ottobrunn",
+    "clubId": 700,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902022,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T09:00:00.000Z",
+   "home": {
+    "id": 317399,
+    "name": "VfR Garching",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165320,
+    "name": "TSV Haar 2",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902023,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T10:00:00.000Z",
+   "home": {
+    "id": 322736,
+    "name": "PSV München",
+    "clubId": 5381,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322735,
+    "name": "SV-DJK Taufkirchen",
+    "clubId": 5225,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902024,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T09:00:00.000Z",
+   "home": {
+    "id": 316294,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322736,
+    "name": "PSV München",
+    "clubId": 5381,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902025,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T16:00:00.000Z",
+   "home": {
+    "id": 322735,
+    "name": "SV-DJK Taufkirchen",
+    "clubId": 5225,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317399,
+    "name": "VfR Garching",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902026,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T12:00:00.000Z",
+   "home": {
+    "id": 165320,
+    "name": "TSV Haar 2",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 209131,
+    "name": "TSV Oberhaching 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902027,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "09:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T08:00:00.000Z",
+   "home": {
+    "id": 166711,
+    "name": "TSV Ottobrunn",
+    "clubId": 700,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318623,
+    "name": "Maccabi München",
+    "clubId": 2692,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902028,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T13:30:00.000Z",
+   "home": {
+    "id": 241253,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314806,
+    "name": "TV Feldkirchen",
+    "clubId": 1387,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902029,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T10:00:00.000Z",
+   "home": {
+    "id": 322736,
+    "name": "PSV München",
+    "clubId": 5381,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314806,
+    "name": "TV Feldkirchen",
+    "clubId": 1387,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902030,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T09:30:00.000Z",
+   "home": {
+    "id": 165320,
+    "name": "TSV Haar 2",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318623,
+    "name": "Maccabi München",
+    "clubId": 2692,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902031,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:00:00.000Z",
+   "home": {
+    "id": 322735,
+    "name": "SV-DJK Taufkirchen",
+    "clubId": 5225,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 209131,
+    "name": "TSV Oberhaching 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902032,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "09:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T08:45:00.000Z",
+   "home": {
+    "id": 316294,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317399,
+    "name": "VfR Garching",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902033,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "11:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T10:15:00.000Z",
+   "home": {
+    "id": 166711,
+    "name": "TSV Ottobrunn",
+    "clubId": 700,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 241253,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902034,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T11:00:00.000Z",
+   "home": {
+    "id": 209131,
+    "name": "TSV Oberhaching 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316294,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902035,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T09:00:00.000Z",
+   "home": {
+    "id": 318623,
+    "name": "Maccabi München",
+    "clubId": 2692,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322735,
+    "name": "SV-DJK Taufkirchen",
+    "clubId": 5225,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902036,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T13:30:00.000Z",
+   "home": {
+    "id": 241253,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165320,
+    "name": "TSV Haar 2",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902037,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T13:00:00.000Z",
+   "home": {
+    "id": 314806,
+    "name": "TV Feldkirchen",
+    "clubId": 1387,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166711,
+    "name": "TSV Ottobrunn",
+    "clubId": 700,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902038,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T09:00:00.000Z",
+   "home": {
+    "id": 317399,
+    "name": "VfR Garching",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322736,
+    "name": "PSV München",
+    "clubId": 5381,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902039,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T09:00:00.000Z",
+   "home": {
+    "id": 317399,
+    "name": "VfR Garching",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314806,
+    "name": "TV Feldkirchen",
+    "clubId": 1387,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902040,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T11:15:00.000Z",
+   "home": {
+    "id": 316294,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318623,
+    "name": "Maccabi München",
+    "clubId": 2692,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902041,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T10:00:00.000Z",
+   "home": {
+    "id": 322736,
+    "name": "PSV München",
+    "clubId": 5381,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 209131,
+    "name": "TSV Oberhaching 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902042,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T12:00:00.000Z",
+   "home": {
+    "id": 165320,
+    "name": "TSV Haar 2",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166711,
+    "name": "TSV Ottobrunn",
+    "clubId": 700,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902043,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T16:00:00.000Z",
+   "home": {
+    "id": 322735,
+    "name": "SV-DJK Taufkirchen",
+    "clubId": 5225,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 241253,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902044,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T13:30:00.000Z",
+   "home": {
+    "id": 241253,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316294,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902045,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "11:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T10:15:00.000Z",
+   "home": {
+    "id": 166711,
+    "name": "TSV Ottobrunn",
+    "clubId": 700,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322735,
+    "name": "SV-DJK Taufkirchen",
+    "clubId": 5225,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902046,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T13:00:00.000Z",
+   "home": {
+    "id": 314806,
+    "name": "TV Feldkirchen",
+    "clubId": 1387,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165320,
+    "name": "TSV Haar 2",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902047,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T11:00:00.000Z",
+   "home": {
+    "id": 209131,
+    "name": "TSV Oberhaching 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317399,
+    "name": "VfR Garching",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902048,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T09:00:00.000Z",
+   "home": {
+    "id": 318623,
+    "name": "Maccabi München",
+    "clubId": 2692,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322736,
+    "name": "PSV München",
+    "clubId": 5381,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902049,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T11:00:00.000Z",
+   "home": {
+    "id": 209131,
+    "name": "TSV Oberhaching 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314806,
+    "name": "TV Feldkirchen",
+    "clubId": 1387,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902050,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-25",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-25T13:00:00.000Z",
+   "home": {
+    "id": 317399,
+    "name": "VfR Garching",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318623,
+    "name": "Maccabi München",
+    "clubId": 2692,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902051,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T16:00:00.000Z",
+   "home": {
+    "id": 322735,
+    "name": "SV-DJK Taufkirchen",
+    "clubId": 5225,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165320,
+    "name": "TSV Haar 2",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902052,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T11:30:00.000Z",
+   "home": {
+    "id": 316294,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166711,
+    "name": "TSV Ottobrunn",
+    "clubId": 700,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902053,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T10:00:00.000Z",
+   "home": {
+    "id": 322736,
+    "name": "PSV München",
+    "clubId": 5381,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 241253,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902054,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T12:00:00.000Z",
+   "home": {
+    "id": 165320,
+    "name": "TSV Haar 2",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316294,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902055,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T13:00:00.000Z",
+   "home": {
+    "id": 314806,
+    "name": "TV Feldkirchen",
+    "clubId": 1387,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322735,
+    "name": "SV-DJK Taufkirchen",
+    "clubId": 5225,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902056,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T09:00:00.000Z",
+   "home": {
+    "id": 318623,
+    "name": "Maccabi München",
+    "clubId": 2692,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 209131,
+    "name": "TSV Oberhaching 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902057,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T13:30:00.000Z",
+   "home": {
+    "id": 241253,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317399,
+    "name": "VfR Garching",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902058,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "11:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T10:15:00.000Z",
+   "home": {
+    "id": 166711,
+    "name": "TSV Ottobrunn",
+    "clubId": 700,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322736,
+    "name": "PSV München",
+    "clubId": 5381,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902059,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T09:00:00.000Z",
+   "home": {
+    "id": 318623,
+    "name": "Maccabi München",
+    "clubId": 2692,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314806,
+    "name": "TV Feldkirchen",
+    "clubId": 1387,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902060,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T11:30:00.000Z",
+   "home": {
+    "id": 316294,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322735,
+    "name": "SV-DJK Taufkirchen",
+    "clubId": 5225,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902061,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T10:00:00.000Z",
+   "home": {
+    "id": 322736,
+    "name": "PSV München",
+    "clubId": 5381,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165320,
+    "name": "TSV Haar 2",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902062,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T09:00:00.000Z",
+   "home": {
+    "id": 317399,
+    "name": "VfR Garching",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166711,
+    "name": "TSV Ottobrunn",
+    "clubId": 700,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902063,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T09:00:00.000Z",
+   "home": {
+    "id": 209131,
+    "name": "TSV Oberhaching 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 241253,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902064,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T08:00:00.000Z",
+   "home": {
+    "id": 316294,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314806,
+    "name": "TV Feldkirchen",
+    "clubId": 1387,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902065,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T12:30:00.000Z",
+   "home": {
+    "id": 241253,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318623,
+    "name": "Maccabi München",
+    "clubId": 2692,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902066,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "11:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T09:15:00.000Z",
+   "home": {
+    "id": 166711,
+    "name": "TSV Ottobrunn",
+    "clubId": 700,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 209131,
+    "name": "TSV Oberhaching 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902067,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T13:30:00.000Z",
+   "home": {
+    "id": 165320,
+    "name": "TSV Haar 2",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317399,
+    "name": "VfR Garching",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902068,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T15:00:00.000Z",
+   "home": {
+    "id": 322735,
+    "name": "SV-DJK Taufkirchen",
+    "clubId": 5225,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322736,
+    "name": "PSV München",
+    "clubId": 5381,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902069,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T09:00:00.000Z",
+   "home": {
+    "id": 322736,
+    "name": "PSV München",
+    "clubId": 5381,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316294,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902070,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T10:00:00.000Z",
+   "home": {
+    "id": 317399,
+    "name": "VfR Garching",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322735,
+    "name": "SV-DJK Taufkirchen",
+    "clubId": 5225,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902071,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T08:00:00.000Z",
+   "home": {
+    "id": 209131,
+    "name": "TSV Oberhaching 2",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165320,
+    "name": "TSV Haar 2",
+    "clubId": 1527,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902072,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T08:00:00.000Z",
+   "home": {
+    "id": 318623,
+    "name": "Maccabi München",
+    "clubId": 2692,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166711,
+    "name": "TSV Ottobrunn",
+    "clubId": 700,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2902073,
+   "ligaId": 53807,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T12:00:00.000Z",
+   "home": {
+    "id": 314806,
+    "name": "TV Feldkirchen",
+    "clubId": 1387,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 241253,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

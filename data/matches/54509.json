@@ -1,0 +1,1194 @@
+{
+ "league": {
+  "ligaId": 54509,
+  "name": "Bezirksklasse Herren Süd 26/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Bezirksklasse",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Schwaben",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2924658,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T14:30:00.000Z",
+   "home": {
+    "id": 198227,
+    "name": "TSV Ottobeuren 2",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165611,
+    "name": "VFL Buchloe 2",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924659,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T13:00:00.000Z",
+   "home": {
+    "id": 321260,
+    "name": "Lechfeld Lakers Untermeitingen",
+    "clubId": 5249,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165627,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "homeScore": 73,
+   "guestScore": 87,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924661,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:00:00.000Z",
+   "home": {
+    "id": 258298,
+    "name": "TSV Lindau",
+    "clubId": 1498,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316515,
+    "name": "BG Illertal 3",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": 43,
+   "guestScore": 77,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924662,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T16:00:00.000Z",
+   "home": {
+    "id": 165630,
+    "name": "DJK Kaufbeuren 2",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321260,
+    "name": "Lechfeld Lakers Untermeitingen",
+    "clubId": 5249,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 59,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924663,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T12:30:00.000Z",
+   "home": {
+    "id": 165627,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 258298,
+    "name": "TSV Lindau",
+    "clubId": 1498,
+    "forfeit": false
+   },
+   "homeScore": 64,
+   "guestScore": 55,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924664,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T12:30:00.000Z",
+   "home": {
+    "id": 316515,
+    "name": "BG Illertal 3",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198227,
+    "name": "TSV Ottobeuren 2",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "homeScore": 75,
+   "guestScore": 42,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924667,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T13:00:00.000Z",
+   "home": {
+    "id": 321260,
+    "name": "Lechfeld Lakers Untermeitingen",
+    "clubId": 5249,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165611,
+    "name": "VFL Buchloe 2",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "homeScore": 60,
+   "guestScore": 48,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924668,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T15:30:00.000Z",
+   "home": {
+    "id": 316515,
+    "name": "BG Illertal 3",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165627,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "homeScore": 83,
+   "guestScore": 62,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924669,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:00:00.000Z",
+   "home": {
+    "id": 258298,
+    "name": "TSV Lindau",
+    "clubId": 1498,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165630,
+    "name": "DJK Kaufbeuren 2",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": 69,
+   "guestScore": 76,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924670,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T15:00:00.000Z",
+   "home": {
+    "id": 165630,
+    "name": "DJK Kaufbeuren 2",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316515,
+    "name": "BG Illertal 3",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924671,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T13:45:00.000Z",
+   "home": {
+    "id": 165627,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198227,
+    "name": "TSV Ottobeuren 2",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924673,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T13:00:00.000Z",
+   "home": {
+    "id": 165611,
+    "name": "VFL Buchloe 2",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 258298,
+    "name": "TSV Lindau",
+    "clubId": 1498,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924674,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T15:30:00.000Z",
+   "home": {
+    "id": 198227,
+    "name": "TSV Ottobeuren 2",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321260,
+    "name": "Lechfeld Lakers Untermeitingen",
+    "clubId": 5249,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924675,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T18:00:00.000Z",
+   "home": {
+    "id": 165627,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165630,
+    "name": "DJK Kaufbeuren 2",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924676,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T15:45:00.000Z",
+   "home": {
+    "id": 316515,
+    "name": "BG Illertal 3",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165611,
+    "name": "VFL Buchloe 2",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924678,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T17:00:00.000Z",
+   "home": {
+    "id": 198227,
+    "name": "TSV Ottobeuren 2",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165630,
+    "name": "DJK Kaufbeuren 2",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924679,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T14:00:00.000Z",
+   "home": {
+    "id": 321260,
+    "name": "Lechfeld Lakers Untermeitingen",
+    "clubId": 5249,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 258298,
+    "name": "TSV Lindau",
+    "clubId": 1498,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924681,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T14:30:00.000Z",
+   "home": {
+    "id": 165611,
+    "name": "VFL Buchloe 2",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165627,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "homeScore": 35,
+   "guestScore": 109,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924682,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T15:30:00.000Z",
+   "home": {
+    "id": 165630,
+    "name": "DJK Kaufbeuren 2",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165611,
+    "name": "VFL Buchloe 2",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924684,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T11:15:00.000Z",
+   "home": {
+    "id": 316515,
+    "name": "BG Illertal 3",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321260,
+    "name": "Lechfeld Lakers Untermeitingen",
+    "clubId": 5249,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924685,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T16:00:00.000Z",
+   "home": {
+    "id": 258298,
+    "name": "TSV Lindau",
+    "clubId": 1498,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198227,
+    "name": "TSV Ottobeuren 2",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924686,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T16:30:00.000Z",
+   "home": {
+    "id": 165611,
+    "name": "VFL Buchloe 2",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198227,
+    "name": "TSV Ottobeuren 2",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924687,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T15:45:00.000Z",
+   "home": {
+    "id": 165627,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321260,
+    "name": "Lechfeld Lakers Untermeitingen",
+    "clubId": 5249,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924689,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T15:45:00.000Z",
+   "home": {
+    "id": 316515,
+    "name": "BG Illertal 3",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 258298,
+    "name": "TSV Lindau",
+    "clubId": 1498,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924690,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T14:00:00.000Z",
+   "home": {
+    "id": 321260,
+    "name": "Lechfeld Lakers Untermeitingen",
+    "clubId": 5249,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165630,
+    "name": "DJK Kaufbeuren 2",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924691,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:00:00.000Z",
+   "home": {
+    "id": 258298,
+    "name": "TSV Lindau",
+    "clubId": 1498,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165627,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924692,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T17:00:00.000Z",
+   "home": {
+    "id": 198227,
+    "name": "TSV Ottobeuren 2",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316515,
+    "name": "BG Illertal 3",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924695,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T16:30:00.000Z",
+   "home": {
+    "id": 165611,
+    "name": "VFL Buchloe 2",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321260,
+    "name": "Lechfeld Lakers Untermeitingen",
+    "clubId": 5249,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924696,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T18:00:00.000Z",
+   "home": {
+    "id": 165627,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316515,
+    "name": "BG Illertal 3",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924697,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T15:00:00.000Z",
+   "home": {
+    "id": 165630,
+    "name": "DJK Kaufbeuren 2",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 258298,
+    "name": "TSV Lindau",
+    "clubId": 1498,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924698,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T15:45:00.000Z",
+   "home": {
+    "id": 316515,
+    "name": "BG Illertal 3",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165630,
+    "name": "DJK Kaufbeuren 2",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924699,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T14:30:00.000Z",
+   "home": {
+    "id": 198227,
+    "name": "TSV Ottobeuren 2",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165627,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924701,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T16:00:00.000Z",
+   "home": {
+    "id": 258298,
+    "name": "TSV Lindau",
+    "clubId": 1498,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165611,
+    "name": "VFL Buchloe 2",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924702,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T14:00:00.000Z",
+   "home": {
+    "id": 321260,
+    "name": "Lechfeld Lakers Untermeitingen",
+    "clubId": 5249,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198227,
+    "name": "TSV Ottobeuren 2",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924703,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T15:00:00.000Z",
+   "home": {
+    "id": 165630,
+    "name": "DJK Kaufbeuren 2",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165627,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924704,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T14:00:00.000Z",
+   "home": {
+    "id": 165611,
+    "name": "VFL Buchloe 2",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316515,
+    "name": "BG Illertal 3",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924706,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T17:00:00.000Z",
+   "home": {
+    "id": 165630,
+    "name": "DJK Kaufbeuren 2",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198227,
+    "name": "TSV Ottobeuren 2",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924707,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T16:00:00.000Z",
+   "home": {
+    "id": 258298,
+    "name": "TSV Lindau",
+    "clubId": 1498,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321260,
+    "name": "Lechfeld Lakers Untermeitingen",
+    "clubId": 5249,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924709,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T15:45:00.000Z",
+   "home": {
+    "id": 165627,
+    "name": "TSV Wasserburg/Günzburg",
+    "clubId": 764,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165611,
+    "name": "VFL Buchloe 2",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924710,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T16:30:00.000Z",
+   "home": {
+    "id": 165611,
+    "name": "VFL Buchloe 2",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165630,
+    "name": "DJK Kaufbeuren 2",
+    "clubId": 876,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924712,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T14:00:00.000Z",
+   "home": {
+    "id": 321260,
+    "name": "Lechfeld Lakers Untermeitingen",
+    "clubId": 5249,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316515,
+    "name": "BG Illertal 3",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924713,
+   "ligaId": 54509,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T17:00:00.000Z",
+   "home": {
+    "id": 198227,
+    "name": "TSV Ottobeuren 2",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 258298,
+    "name": "TSV Lindau",
+    "clubId": 1498,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

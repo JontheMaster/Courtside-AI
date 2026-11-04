@@ -1,0 +1,2538 @@
+{
+ "league": {
+  "ligaId": 53769,
+  "name": "Bezirksoberliga U16 ml (BOL16M) 2026/27 ",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U16",
+  "gender": "männlich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2899886,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T12:30:00.000Z",
+   "home": {
+    "id": 168434,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165495,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": 44,
+   "guestScore": 86,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899887,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T13:00:00.000Z",
+   "home": {
+    "id": 166183,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321106,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": 75,
+   "guestScore": 89,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899888,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T13:00:00.000Z",
+   "home": {
+    "id": 162996,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165509,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": 116,
+   "guestScore": 65,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899889,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T08:00:00.000Z",
+   "home": {
+    "id": 162963,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166184,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": 67,
+   "guestScore": 57,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899890,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T16:00:00.000Z",
+   "home": {
+    "id": 162960,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166673,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899891,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:30:00.000Z",
+   "home": {
+    "id": 166184,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162996,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": 67,
+   "guestScore": 109,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899892,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T10:15:00.000Z",
+   "home": {
+    "id": 165509,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166183,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": 53,
+   "guestScore": 50,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899893,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T13:00:00.000Z",
+   "home": {
+    "id": 321106,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162960,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "homeScore": 112,
+   "guestScore": 39,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899894,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T08:00:00.000Z",
+   "home": {
+    "id": 166673,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168434,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": 139,
+   "guestScore": 31,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899895,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T12:15:00.000Z",
+   "home": {
+    "id": 165495,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162963,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": 90,
+   "guestScore": 51,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899896,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T10:15:00.000Z",
+   "home": {
+    "id": 168434,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162963,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": 75,
+   "guestScore": 86,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899897,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T14:30:00.000Z",
+   "home": {
+    "id": 166183,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166184,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899898,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T13:00:00.000Z",
+   "home": {
+    "id": 162996,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165495,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": 87,
+   "guestScore": 54,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899899,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "09:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T07:45:00.000Z",
+   "home": {
+    "id": 166673,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321106,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": 88,
+   "guestScore": 57,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899900,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T12:30:00.000Z",
+   "home": {
+    "id": 162960,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165509,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": 78,
+   "guestScore": 75,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899901,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:30:00.000Z",
+   "home": {
+    "id": 166184,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162960,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "homeScore": 48,
+   "guestScore": 84,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899902,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T15:45:00.000Z",
+   "home": {
+    "id": 165509,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166673,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899903,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T13:00:00.000Z",
+   "home": {
+    "id": 321106,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168434,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": 85,
+   "guestScore": 52,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899904,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T12:30:00.000Z",
+   "home": {
+    "id": 162963,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162996,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899905,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T15:00:00.000Z",
+   "home": {
+    "id": 165495,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166183,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": 90,
+   "guestScore": 68,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899906,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T13:30:00.000Z",
+   "home": {
+    "id": 168434,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162996,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899907,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T15:30:00.000Z",
+   "home": {
+    "id": 166183,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162963,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899908,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T16:30:00.000Z",
+   "home": {
+    "id": 321106,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165509,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899909,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-05-01",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-05-01T10:30:00.000Z",
+   "home": {
+    "id": 166673,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166184,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899910,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T16:15:00.000Z",
+   "home": {
+    "id": 162960,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165495,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899911,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "15:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T14:45:00.000Z",
+   "home": {
+    "id": 166184,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321106,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899912,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T11:15:00.000Z",
+   "home": {
+    "id": 165509,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168434,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899913,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T09:00:00.000Z",
+   "home": {
+    "id": 162996,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166183,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899914,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T13:30:00.000Z",
+   "home": {
+    "id": 162963,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162960,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899915,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T15:00:00.000Z",
+   "home": {
+    "id": 165495,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166673,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": 62,
+   "guestScore": 90,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899916,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T13:30:00.000Z",
+   "home": {
+    "id": 168434,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166183,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899917,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T11:15:00.000Z",
+   "home": {
+    "id": 165509,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166184,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899918,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T14:00:00.000Z",
+   "home": {
+    "id": 321106,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165495,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899919,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T11:15:00.000Z",
+   "home": {
+    "id": 166673,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162963,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899920,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T16:15:00.000Z",
+   "home": {
+    "id": 162960,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162996,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899921,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T11:15:00.000Z",
+   "home": {
+    "id": 168434,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166184,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899922,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T14:00:00.000Z",
+   "home": {
+    "id": 166183,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162960,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899923,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T13:30:00.000Z",
+   "home": {
+    "id": 162996,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166673,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899924,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T13:30:00.000Z",
+   "home": {
+    "id": 162963,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321106,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899925,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T13:15:00.000Z",
+   "home": {
+    "id": 165495,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165509,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899926,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T16:30:00.000Z",
+   "home": {
+    "id": 166184,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165495,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899927,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T13:30:00.000Z",
+   "home": {
+    "id": 165509,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162963,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899928,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T14:00:00.000Z",
+   "home": {
+    "id": 321106,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162996,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899929,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T09:00:00.000Z",
+   "home": {
+    "id": 166673,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166183,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899930,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T14:00:00.000Z",
+   "home": {
+    "id": 162960,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168434,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899931,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T13:15:00.000Z",
+   "home": {
+    "id": 165495,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168434,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899932,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T14:00:00.000Z",
+   "home": {
+    "id": 321106,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166183,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899933,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T13:30:00.000Z",
+   "home": {
+    "id": 165509,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162996,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899934,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "17:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T16:45:00.000Z",
+   "home": {
+    "id": 166184,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162963,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899935,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T16:30:00.000Z",
+   "home": {
+    "id": 166673,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162960,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899936,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T14:00:00.000Z",
+   "home": {
+    "id": 162996,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166184,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899937,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T14:00:00.000Z",
+   "home": {
+    "id": 166183,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165509,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899938,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T11:15:00.000Z",
+   "home": {
+    "id": 162960,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321106,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899939,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T13:30:00.000Z",
+   "home": {
+    "id": 168434,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166673,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899940,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T09:00:00.000Z",
+   "home": {
+    "id": 162963,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165495,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899941,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T13:30:00.000Z",
+   "home": {
+    "id": 162963,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168434,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899942,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T16:30:00.000Z",
+   "home": {
+    "id": 166184,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166183,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899943,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T16:00:00.000Z",
+   "home": {
+    "id": 165495,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162996,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899944,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T14:00:00.000Z",
+   "home": {
+    "id": 321106,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166673,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899945,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T13:30:00.000Z",
+   "home": {
+    "id": 165509,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162960,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899946,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T11:30:00.000Z",
+   "home": {
+    "id": 162960,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166184,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899947,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T16:00:00.000Z",
+   "home": {
+    "id": 166673,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165509,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899948,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T11:15:00.000Z",
+   "home": {
+    "id": 168434,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321106,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899949,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T14:00:00.000Z",
+   "home": {
+    "id": 162996,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162963,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899950,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T14:00:00.000Z",
+   "home": {
+    "id": 166183,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165495,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899951,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T14:00:00.000Z",
+   "home": {
+    "id": 162996,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168434,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899952,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T13:30:00.000Z",
+   "home": {
+    "id": 162963,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166183,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899953,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T15:45:00.000Z",
+   "home": {
+    "id": 165509,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321106,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899954,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T16:30:00.000Z",
+   "home": {
+    "id": 166184,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166673,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899955,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T13:15:00.000Z",
+   "home": {
+    "id": 165495,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162960,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899956,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T14:00:00.000Z",
+   "home": {
+    "id": 321106,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166184,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899957,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T13:30:00.000Z",
+   "home": {
+    "id": 168434,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165509,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899958,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T13:00:00.000Z",
+   "home": {
+    "id": 166183,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162996,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899959,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T11:15:00.000Z",
+   "home": {
+    "id": 162960,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162963,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899960,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T09:00:00.000Z",
+   "home": {
+    "id": 166673,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165495,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899961,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T09:00:00.000Z",
+   "home": {
+    "id": 166183,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168434,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899962,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T16:30:00.000Z",
+   "home": {
+    "id": 166184,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165509,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899963,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T13:15:00.000Z",
+   "home": {
+    "id": 165495,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321106,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899964,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T13:30:00.000Z",
+   "home": {
+    "id": 162963,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166673,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899965,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T14:00:00.000Z",
+   "home": {
+    "id": 162996,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162960,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899966,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T15:30:00.000Z",
+   "home": {
+    "id": 166184,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168434,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899967,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T14:45:00.000Z",
+   "home": {
+    "id": 162960,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166183,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899968,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2026-09-25",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-25T16:00:00.000Z",
+   "home": {
+    "id": 166673,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162996,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": 73,
+   "guestScore": 94,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899969,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T13:00:00.000Z",
+   "home": {
+    "id": 321106,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162963,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899970,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T14:45:00.000Z",
+   "home": {
+    "id": 165509,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165495,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899971,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T12:15:00.000Z",
+   "home": {
+    "id": 165495,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166184,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899972,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T12:30:00.000Z",
+   "home": {
+    "id": 162963,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165509,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899973,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T13:00:00.000Z",
+   "home": {
+    "id": 162996,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321106,
+    "name": "HWKT - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899974,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T13:00:00.000Z",
+   "home": {
+    "id": 166183,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166673,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899975,
+   "ligaId": 53769,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T15:00:00.000Z",
+   "home": {
+    "id": 168434,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162960,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

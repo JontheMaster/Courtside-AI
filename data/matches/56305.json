@@ -1,0 +1,410 @@
+{
+ "league": {
+  "ligaId": 56305,
+  "name": "BBV-Pokal U16 männlich",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U16",
+  "gender": "männlich",
+  "level": "Bayernliga",
+  "levelScope": "Verband",
+  "verbandId": 2,
+  "bezirk": null,
+  "competitionType": "cup",
+  "role": "core"
+ },
+ "matches": [
+  {
+   "matchId": 2941200,
+   "ligaId": 56305,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T10:00:00.000Z",
+   "home": {
+    "id": 162988,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162987,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": 50,
+   "guestScore": 74,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2941201,
+   "ligaId": 56305,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T10:30:00.000Z",
+   "home": {
+    "id": 166583,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165754,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": true,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2941202,
+   "ligaId": 56305,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T09:00:00.000Z",
+   "home": {
+    "id": 272075,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163032,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": 86,
+   "guestScore": 85,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2941203,
+   "ligaId": 56305,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T09:30:00.000Z",
+   "home": {
+    "id": 166182,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314291,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 78,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2941204,
+   "ligaId": 56305,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T13:00:00.000Z",
+   "home": {
+    "id": 314809,
+    "name": "TSV Gräfelfing",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165771,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": 147,
+   "guestScore": 35,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2941205,
+   "ligaId": 56305,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "13:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T11:15:00.000Z",
+   "home": {
+    "id": 165774,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165480,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": 54,
+   "guestScore": 81,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2987243,
+   "ligaId": 56305,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T12:00:00.000Z",
+   "home": {
+    "id": 314291,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166180,
+    "name": "DJK Sportbund München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2987244,
+   "ligaId": 56305,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-01",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-01T14:00:00.000Z",
+   "home": {
+    "id": 166583,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163717,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": 104,
+   "guestScore": 96,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2987245,
+   "ligaId": 56305,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T11:30:00.000Z",
+   "home": {
+    "id": 165755,
+    "name": "PSV Baskets Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 272075,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2987246,
+   "ligaId": 56305,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-29",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-29T17:30:00.000Z",
+   "home": {
+    "id": 165480,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166178,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": 75,
+   "guestScore": 73,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2987247,
+   "ligaId": 56305,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T14:00:00.000Z",
+   "home": {
+    "id": 314809,
+    "name": "TSV Gräfelfing",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 272618,
+    "name": "Freak City Bamberg U15",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2987248,
+   "ligaId": 56305,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T16:00:00.000Z",
+   "home": {
+    "id": 162997,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162987,
+    "name": "Oberland United",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2987249,
+   "ligaId": 56305,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T09:00:00.000Z",
+   "home": {
+    "id": 143110,
+    "name": "TTL Basketball Bamberg",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163643,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2987250,
+   "ligaId": 56305,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T15:00:00.000Z",
+   "home": {
+    "id": 165775,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314870,
+    "name": "Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  }
+ ]
+}

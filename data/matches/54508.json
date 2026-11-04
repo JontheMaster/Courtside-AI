@@ -1,0 +1,1194 @@
+{
+ "league": {
+  "ligaId": 54508,
+  "name": "Bezirksklasse Herren Mitte 26/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Bezirksklasse",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Schwaben",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2924572,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T14:30:00.000Z",
+   "home": {
+    "id": 180584,
+    "name": "TV 1847 Augsburg 3",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213421,
+    "name": "MTV Baskets Ingolstadt 3",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": 78,
+   "guestScore": 71,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924573,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T12:30:00.000Z",
+   "home": {
+    "id": 169106,
+    "name": "TSV Gersthofen 2",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163582,
+    "name": "SSV Schrobenhausen 2",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": 74,
+   "guestScore": 63,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924574,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T16:30:00.000Z",
+   "home": {
+    "id": 165609,
+    "name": "TG Viktoria Augsburg",
+    "clubId": 1512,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165631,
+    "name": "Netz16 Baskets Königsbrunn 2",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924576,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "16:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T14:15:00.000Z",
+   "home": {
+    "id": 165631,
+    "name": "Netz16 Baskets Königsbrunn 2",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 169106,
+    "name": "TSV Gersthofen 2",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "homeScore": 42,
+   "guestScore": 58,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924577,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T18:45:00.000Z",
+   "home": {
+    "id": 163582,
+    "name": "SSV Schrobenhausen 2",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163555,
+    "name": "TSV Aichach",
+    "clubId": 103,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924579,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T18:00:00.000Z",
+   "home": {
+    "id": 213421,
+    "name": "MTV Baskets Ingolstadt 3",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165609,
+    "name": "TG Viktoria Augsburg",
+    "clubId": 1512,
+    "forfeit": false
+   },
+   "homeScore": 73,
+   "guestScore": 47,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924580,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T15:30:00.000Z",
+   "home": {
+    "id": 180584,
+    "name": "TV 1847 Augsburg 3",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165609,
+    "name": "TG Viktoria Augsburg",
+    "clubId": 1512,
+    "forfeit": false
+   },
+   "homeScore": 67,
+   "guestScore": 59,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924581,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T13:30:00.000Z",
+   "home": {
+    "id": 169106,
+    "name": "TSV Gersthofen 2",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213421,
+    "name": "MTV Baskets Ingolstadt 3",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": 73,
+   "guestScore": 65,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924583,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T16:00:00.000Z",
+   "home": {
+    "id": 163555,
+    "name": "TSV Aichach",
+    "clubId": 103,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165631,
+    "name": "Netz16 Baskets Königsbrunn 2",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924585,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T17:30:00.000Z",
+   "home": {
+    "id": 163582,
+    "name": "SSV Schrobenhausen 2",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180584,
+    "name": "TV 1847 Augsburg 3",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": 55,
+   "guestScore": 71,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924586,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T16:30:00.000Z",
+   "home": {
+    "id": 165609,
+    "name": "TG Viktoria Augsburg",
+    "clubId": 1512,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 169106,
+    "name": "TSV Gersthofen 2",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924587,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T18:30:00.000Z",
+   "home": {
+    "id": 213421,
+    "name": "MTV Baskets Ingolstadt 3",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163555,
+    "name": "TSV Aichach",
+    "clubId": 103,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924588,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T19:00:00.000Z",
+   "home": {
+    "id": 180584,
+    "name": "TV 1847 Augsburg 3",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 169106,
+    "name": "TSV Gersthofen 2",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924589,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T16:00:00.000Z",
+   "home": {
+    "id": 163582,
+    "name": "SSV Schrobenhausen 2",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165631,
+    "name": "Netz16 Baskets Königsbrunn 2",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924591,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-02-07",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-07T16:00:00.000Z",
+   "home": {
+    "id": 163555,
+    "name": "TSV Aichach",
+    "clubId": 103,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165609,
+    "name": "TG Viktoria Augsburg",
+    "clubId": 1512,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924592,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T16:30:00.000Z",
+   "home": {
+    "id": 180584,
+    "name": "TV 1847 Augsburg 3",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165631,
+    "name": "Netz16 Baskets Königsbrunn 2",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924593,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T13:30:00.000Z",
+   "home": {
+    "id": 169106,
+    "name": "TSV Gersthofen 2",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163555,
+    "name": "TSV Aichach",
+    "clubId": 103,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924595,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T18:00:00.000Z",
+   "home": {
+    "id": 213421,
+    "name": "MTV Baskets Ingolstadt 3",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163582,
+    "name": "SSV Schrobenhausen 2",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924596,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T17:30:00.000Z",
+   "home": {
+    "id": 165631,
+    "name": "Netz16 Baskets Königsbrunn 2",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213421,
+    "name": "MTV Baskets Ingolstadt 3",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924597,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:00:00.000Z",
+   "home": {
+    "id": 163582,
+    "name": "SSV Schrobenhausen 2",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165609,
+    "name": "TG Viktoria Augsburg",
+    "clubId": 1512,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924599,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T16:00:00.000Z",
+   "home": {
+    "id": 163555,
+    "name": "TSV Aichach",
+    "clubId": 103,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180584,
+    "name": "TV 1847 Augsburg 3",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924600,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T19:00:00.000Z",
+   "home": {
+    "id": 213421,
+    "name": "MTV Baskets Ingolstadt 3",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180584,
+    "name": "TV 1847 Augsburg 3",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924601,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T13:45:00.000Z",
+   "home": {
+    "id": 163582,
+    "name": "SSV Schrobenhausen 2",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 169106,
+    "name": "TSV Gersthofen 2",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924602,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "16:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T15:15:00.000Z",
+   "home": {
+    "id": 165631,
+    "name": "Netz16 Baskets Königsbrunn 2",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165609,
+    "name": "TG Viktoria Augsburg",
+    "clubId": 1512,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924604,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-07",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-07T13:30:00.000Z",
+   "home": {
+    "id": 169106,
+    "name": "TSV Gersthofen 2",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165631,
+    "name": "Netz16 Baskets Königsbrunn 2",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924605,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:00:00.000Z",
+   "home": {
+    "id": 163555,
+    "name": "TSV Aichach",
+    "clubId": 103,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163582,
+    "name": "SSV Schrobenhausen 2",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924607,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T16:30:00.000Z",
+   "home": {
+    "id": 165609,
+    "name": "TG Viktoria Augsburg",
+    "clubId": 1512,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213421,
+    "name": "MTV Baskets Ingolstadt 3",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924608,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T14:30:00.000Z",
+   "home": {
+    "id": 165609,
+    "name": "TG Viktoria Augsburg",
+    "clubId": 1512,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180584,
+    "name": "TV 1847 Augsburg 3",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924609,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T16:30:00.000Z",
+   "home": {
+    "id": 213421,
+    "name": "MTV Baskets Ingolstadt 3",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 169106,
+    "name": "TSV Gersthofen 2",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924611,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T17:00:00.000Z",
+   "home": {
+    "id": 165631,
+    "name": "Netz16 Baskets Königsbrunn 2",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163555,
+    "name": "TSV Aichach",
+    "clubId": 103,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924613,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T14:00:00.000Z",
+   "home": {
+    "id": 180584,
+    "name": "TV 1847 Augsburg 3",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163582,
+    "name": "SSV Schrobenhausen 2",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924614,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T16:00:00.000Z",
+   "home": {
+    "id": 169106,
+    "name": "TSV Gersthofen 2",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165609,
+    "name": "TG Viktoria Augsburg",
+    "clubId": 1512,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924615,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T16:00:00.000Z",
+   "home": {
+    "id": 163555,
+    "name": "TSV Aichach",
+    "clubId": 103,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213421,
+    "name": "MTV Baskets Ingolstadt 3",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924616,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T13:30:00.000Z",
+   "home": {
+    "id": 169106,
+    "name": "TSV Gersthofen 2",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180584,
+    "name": "TV 1847 Augsburg 3",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924617,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "16:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T15:15:00.000Z",
+   "home": {
+    "id": 165631,
+    "name": "Netz16 Baskets Königsbrunn 2",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163582,
+    "name": "SSV Schrobenhausen 2",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924619,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T16:00:00.000Z",
+   "home": {
+    "id": 165609,
+    "name": "TG Viktoria Augsburg",
+    "clubId": 1512,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163555,
+    "name": "TSV Aichach",
+    "clubId": 103,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924620,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "16:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T15:15:00.000Z",
+   "home": {
+    "id": 165631,
+    "name": "Netz16 Baskets Königsbrunn 2",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180584,
+    "name": "TV 1847 Augsburg 3",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924621,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T16:00:00.000Z",
+   "home": {
+    "id": 163555,
+    "name": "TSV Aichach",
+    "clubId": 103,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 169106,
+    "name": "TSV Gersthofen 2",
+    "clubId": 946,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924623,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T18:45:00.000Z",
+   "home": {
+    "id": 163582,
+    "name": "SSV Schrobenhausen 2",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213421,
+    "name": "MTV Baskets Ingolstadt 3",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924624,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T16:30:00.000Z",
+   "home": {
+    "id": 213421,
+    "name": "MTV Baskets Ingolstadt 3",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165631,
+    "name": "Netz16 Baskets Königsbrunn 2",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924625,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T14:30:00.000Z",
+   "home": {
+    "id": 165609,
+    "name": "TG Viktoria Augsburg",
+    "clubId": 1512,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163582,
+    "name": "SSV Schrobenhausen 2",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": 70,
+   "guestScore": 76,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924627,
+   "ligaId": 54508,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T14:00:00.000Z",
+   "home": {
+    "id": 180584,
+    "name": "TV 1847 Augsburg 3",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163555,
+    "name": "TSV Aichach",
+    "clubId": 103,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

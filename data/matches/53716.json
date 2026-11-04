@@ -1,0 +1,1586 @@
+{
+ "league": {
+  "ligaId": 53716,
+  "name": "MFR Kreisliga Herren Nord",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Kreisliga",
+  "levelScope": "Kreis",
+  "verbandId": 2,
+  "bezirk": "Mittelfranken",
+  "competitionType": "regular",
+  "role": "core"
+ },
+ "matches": [
+  {
+   "matchId": 2870372,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T17:30:00.000Z",
+   "home": {
+    "id": 312944,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157676,
+    "name": "CVJM Erlangen 3",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": 54,
+   "guestScore": 64,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870373,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T17:30:00.000Z",
+   "home": {
+    "id": 157646,
+    "name": "TS Herzogenaurach 3",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322559,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 3",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "homeScore": 79,
+   "guestScore": 62,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870374,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T14:00:00.000Z",
+   "home": {
+    "id": 157684,
+    "name": "TB 1888 Erlangen 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316912,
+    "name": "ESC Höchstadt 1",
+    "clubId": 5055,
+    "forfeit": false
+   },
+   "homeScore": 49,
+   "guestScore": 46,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870375,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T19:00:00.000Z",
+   "home": {
+    "id": 157645,
+    "name": "Post SV Nürnberg 4",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157659,
+    "name": "TV 1877 Lauf 2",
+    "clubId": 1627,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870376,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T15:30:00.000Z",
+   "home": {
+    "id": 316912,
+    "name": "ESC Höchstadt 1",
+    "clubId": 5055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157646,
+    "name": "TS Herzogenaurach 3",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": 84,
+   "guestScore": 42,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870377,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T12:00:00.000Z",
+   "home": {
+    "id": 322559,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 3",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157645,
+    "name": "Post SV Nürnberg 4",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": 77,
+   "guestScore": 44,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870378,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T16:00:00.000Z",
+   "home": {
+    "id": 157659,
+    "name": "TV 1877 Lauf 2",
+    "clubId": 1627,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 312944,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870379,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T17:45:00.000Z",
+   "home": {
+    "id": 157676,
+    "name": "CVJM Erlangen 3",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157684,
+    "name": "TB 1888 Erlangen 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": 54,
+   "guestScore": 65,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870380,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T13:00:00.000Z",
+   "home": {
+    "id": 312944,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157684,
+    "name": "TB 1888 Erlangen 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870381,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T09:00:00.000Z",
+   "home": {
+    "id": 157646,
+    "name": "TS Herzogenaurach 3",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157676,
+    "name": "CVJM Erlangen 3",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870382,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T17:00:00.000Z",
+   "home": {
+    "id": 157659,
+    "name": "TV 1877 Lauf 2",
+    "clubId": 1627,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 322559,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 3",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870383,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "18:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T17:45:00.000Z",
+   "home": {
+    "id": 157645,
+    "name": "Post SV Nürnberg 4",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316912,
+    "name": "ESC Höchstadt 1",
+    "clubId": 5055,
+    "forfeit": false
+   },
+   "homeScore": 45,
+   "guestScore": 67,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870384,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T16:30:00.000Z",
+   "home": {
+    "id": 316912,
+    "name": "ESC Höchstadt 1",
+    "clubId": 5055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157659,
+    "name": "TV 1877 Lauf 2",
+    "clubId": 1627,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870385,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T13:00:00.000Z",
+   "home": {
+    "id": 322559,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 3",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312944,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870386,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T12:00:00.000Z",
+   "home": {
+    "id": 157684,
+    "name": "TB 1888 Erlangen 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157646,
+    "name": "TS Herzogenaurach 3",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870387,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T18:45:00.000Z",
+   "home": {
+    "id": 157676,
+    "name": "CVJM Erlangen 3",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157645,
+    "name": "Post SV Nürnberg 4",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870388,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T13:00:00.000Z",
+   "home": {
+    "id": 312944,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157646,
+    "name": "TS Herzogenaurach 3",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870389,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T15:30:00.000Z",
+   "home": {
+    "id": 322559,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 3",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316912,
+    "name": "ESC Höchstadt 1",
+    "clubId": 5055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870390,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T16:00:00.000Z",
+   "home": {
+    "id": 157659,
+    "name": "TV 1877 Lauf 2",
+    "clubId": 1627,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 157676,
+    "name": "CVJM Erlangen 3",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870391,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T19:00:00.000Z",
+   "home": {
+    "id": 157645,
+    "name": "Post SV Nürnberg 4",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157684,
+    "name": "TB 1888 Erlangen 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870392,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T13:00:00.000Z",
+   "home": {
+    "id": 312944,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316912,
+    "name": "ESC Höchstadt 1",
+    "clubId": 5055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870393,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T16:30:00.000Z",
+   "home": {
+    "id": 157646,
+    "name": "TS Herzogenaurach 3",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157645,
+    "name": "Post SV Nürnberg 4",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870394,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T12:00:00.000Z",
+   "home": {
+    "id": 157684,
+    "name": "TB 1888 Erlangen 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157659,
+    "name": "TV 1877 Lauf 2",
+    "clubId": 1627,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870395,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T18:45:00.000Z",
+   "home": {
+    "id": 157676,
+    "name": "CVJM Erlangen 3",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322559,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 3",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870396,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:30:00.000Z",
+   "home": {
+    "id": 316912,
+    "name": "ESC Höchstadt 1",
+    "clubId": 5055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157676,
+    "name": "CVJM Erlangen 3",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870397,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T18:00:00.000Z",
+   "home": {
+    "id": 322559,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 3",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157684,
+    "name": "TB 1888 Erlangen 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870398,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T16:00:00.000Z",
+   "home": {
+    "id": 157659,
+    "name": "TV 1877 Lauf 2",
+    "clubId": 1627,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 157646,
+    "name": "TS Herzogenaurach 3",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870399,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-02-07",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-07T17:00:00.000Z",
+   "home": {
+    "id": 157645,
+    "name": "Post SV Nürnberg 4",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312944,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870400,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T18:45:00.000Z",
+   "home": {
+    "id": 157676,
+    "name": "CVJM Erlangen 3",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312944,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870401,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T11:00:00.000Z",
+   "home": {
+    "id": 322559,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 3",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157646,
+    "name": "TS Herzogenaurach 3",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870402,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:30:00.000Z",
+   "home": {
+    "id": 316912,
+    "name": "ESC Höchstadt 1",
+    "clubId": 5055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157684,
+    "name": "TB 1888 Erlangen 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870403,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T17:00:00.000Z",
+   "home": {
+    "id": 157659,
+    "name": "TV 1877 Lauf 2",
+    "clubId": 1627,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 157645,
+    "name": "Post SV Nürnberg 4",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870404,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T14:00:00.000Z",
+   "home": {
+    "id": 157646,
+    "name": "TS Herzogenaurach 3",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316912,
+    "name": "ESC Höchstadt 1",
+    "clubId": 5055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870405,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T19:00:00.000Z",
+   "home": {
+    "id": 157645,
+    "name": "Post SV Nürnberg 4",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322559,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 3",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870406,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T13:00:00.000Z",
+   "home": {
+    "id": 312944,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157659,
+    "name": "TV 1877 Lauf 2",
+    "clubId": 1627,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870407,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T18:00:00.000Z",
+   "home": {
+    "id": 157684,
+    "name": "TB 1888 Erlangen 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157676,
+    "name": "CVJM Erlangen 3",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870408,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T12:00:00.000Z",
+   "home": {
+    "id": 157684,
+    "name": "TB 1888 Erlangen 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312944,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870409,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T18:45:00.000Z",
+   "home": {
+    "id": 157676,
+    "name": "CVJM Erlangen 3",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157646,
+    "name": "TS Herzogenaurach 3",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870410,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T11:00:00.000Z",
+   "home": {
+    "id": 322559,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 3",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157659,
+    "name": "TV 1877 Lauf 2",
+    "clubId": 1627,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870411,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T16:30:00.000Z",
+   "home": {
+    "id": 316912,
+    "name": "ESC Höchstadt 1",
+    "clubId": 5055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157645,
+    "name": "Post SV Nürnberg 4",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870412,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T17:00:00.000Z",
+   "home": {
+    "id": 157659,
+    "name": "TV 1877 Lauf 2",
+    "clubId": 1627,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 316912,
+    "name": "ESC Höchstadt 1",
+    "clubId": 5055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870413,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T13:00:00.000Z",
+   "home": {
+    "id": 312944,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322559,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 3",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870414,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T11:30:00.000Z",
+   "home": {
+    "id": 157646,
+    "name": "TS Herzogenaurach 3",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157684,
+    "name": "TB 1888 Erlangen 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870415,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T18:00:00.000Z",
+   "home": {
+    "id": 157645,
+    "name": "Post SV Nürnberg 4",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157676,
+    "name": "CVJM Erlangen 3",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": 53,
+   "guestScore": 68,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870416,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T16:00:00.000Z",
+   "home": {
+    "id": 157646,
+    "name": "TS Herzogenaurach 3",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312944,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870417,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T16:30:00.000Z",
+   "home": {
+    "id": 316912,
+    "name": "ESC Höchstadt 1",
+    "clubId": 5055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322559,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 3",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870418,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T18:45:00.000Z",
+   "home": {
+    "id": 157676,
+    "name": "CVJM Erlangen 3",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157659,
+    "name": "TV 1877 Lauf 2",
+    "clubId": 1627,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870419,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T12:00:00.000Z",
+   "home": {
+    "id": 157684,
+    "name": "TB 1888 Erlangen 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157645,
+    "name": "Post SV Nürnberg 4",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870420,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T15:30:00.000Z",
+   "home": {
+    "id": 316912,
+    "name": "ESC Höchstadt 1",
+    "clubId": 5055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312944,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870421,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-05-02",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-05-02T16:00:00.000Z",
+   "home": {
+    "id": 157645,
+    "name": "Post SV Nürnberg 4",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157646,
+    "name": "TS Herzogenaurach 3",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870422,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T15:00:00.000Z",
+   "home": {
+    "id": 157659,
+    "name": "TV 1877 Lauf 2",
+    "clubId": 1627,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 157684,
+    "name": "TB 1888 Erlangen 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870423,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T14:30:00.000Z",
+   "home": {
+    "id": 322559,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 3",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157676,
+    "name": "CVJM Erlangen 3",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870424,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T17:45:00.000Z",
+   "home": {
+    "id": 157676,
+    "name": "CVJM Erlangen 3",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316912,
+    "name": "ESC Höchstadt 1",
+    "clubId": 5055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870425,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T10:00:00.000Z",
+   "home": {
+    "id": 157684,
+    "name": "TB 1888 Erlangen 3",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322559,
+    "name": "ONLINEPRINTERS Neustadt a.d. Aisch 3",
+    "clubId": 367,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870426,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T15:00:00.000Z",
+   "home": {
+    "id": 157646,
+    "name": "TS Herzogenaurach 3",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157659,
+    "name": "TV 1877 Lauf 2",
+    "clubId": 1627,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870427,
+   "ligaId": 53716,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T12:00:00.000Z",
+   "home": {
+    "id": 312944,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157645,
+    "name": "Post SV Nürnberg 4",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

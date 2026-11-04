@@ -1,0 +1,2538 @@
+{
+ "league": {
+  "ligaId": 54461,
+  "name": "Bezirksoberliga U16 männlich 26/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U16",
+  "gender": "männlich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Schwaben",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2924944,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "12:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T10:45:00.000Z",
+   "home": {
+    "id": 165771,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 272075,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": 51,
+   "guestScore": 92,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924945,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T09:00:00.000Z",
+   "home": {
+    "id": 165753,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180580,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": 52,
+   "guestScore": 59,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924946,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T10:15:00.000Z",
+   "home": {
+    "id": 165762,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314291,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": 50,
+   "guestScore": 82,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924947,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T13:00:00.000Z",
+   "home": {
+    "id": 165754,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312243,
+    "name": "BG Leitershofen/Stadtbergen 2",
+    "clubId": 97,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924948,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "09:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T07:00:00.000Z",
+   "home": {
+    "id": 280072,
+    "name": "TSV 1847 Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165760,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "homeScore": 64,
+   "guestScore": 35,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924949,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T14:30:00.000Z",
+   "home": {
+    "id": 312243,
+    "name": "BG Leitershofen/Stadtbergen 2",
+    "clubId": 97,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 165762,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924950,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T10:30:00.000Z",
+   "home": {
+    "id": 314291,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165753,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "homeScore": 91,
+   "guestScore": 53,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924951,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T14:00:00.000Z",
+   "home": {
+    "id": 180580,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 280072,
+    "name": "TSV 1847 Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924952,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T13:00:00.000Z",
+   "home": {
+    "id": 165760,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165771,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": 67,
+   "guestScore": 63,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924953,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T10:15:00.000Z",
+   "home": {
+    "id": 272075,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165754,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": 86,
+   "guestScore": 33,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924954,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T14:45:00.000Z",
+   "home": {
+    "id": 165771,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165754,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": 51,
+   "guestScore": 70,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924955,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T14:00:00.000Z",
+   "home": {
+    "id": 165753,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312243,
+    "name": "BG Leitershofen/Stadtbergen 2",
+    "clubId": 97,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924956,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T10:15:00.000Z",
+   "home": {
+    "id": 165762,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 272075,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": 49,
+   "guestScore": 88,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924957,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T13:00:00.000Z",
+   "home": {
+    "id": 165760,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180580,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": 76,
+   "guestScore": 84,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924958,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T10:15:00.000Z",
+   "home": {
+    "id": 280072,
+    "name": "TSV 1847 Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314291,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": 62,
+   "guestScore": 80,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924959,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T14:30:00.000Z",
+   "home": {
+    "id": 312243,
+    "name": "BG Leitershofen/Stadtbergen 2",
+    "clubId": 97,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 280072,
+    "name": "TSV 1847 Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924960,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T13:45:00.000Z",
+   "home": {
+    "id": 314291,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165760,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "homeScore": 120,
+   "guestScore": 52,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924961,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-03-28",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-28T10:30:00.000Z",
+   "home": {
+    "id": 180580,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165771,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924962,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T10:30:00.000Z",
+   "home": {
+    "id": 165754,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165762,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": 67,
+   "guestScore": 65,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924963,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T11:15:00.000Z",
+   "home": {
+    "id": 272075,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165753,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "homeScore": 108,
+   "guestScore": 57,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924964,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T16:00:00.000Z",
+   "home": {
+    "id": 165771,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165762,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924965,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T11:00:00.000Z",
+   "home": {
+    "id": 165753,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165754,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924966,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T14:00:00.000Z",
+   "home": {
+    "id": 180580,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314291,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924967,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T14:00:00.000Z",
+   "home": {
+    "id": 165760,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312243,
+    "name": "BG Leitershofen/Stadtbergen 2",
+    "clubId": 97,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924968,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "11:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T10:15:00.000Z",
+   "home": {
+    "id": 280072,
+    "name": "TSV 1847 Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 272075,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924969,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T16:00:00.000Z",
+   "home": {
+    "id": 312243,
+    "name": "BG Leitershofen/Stadtbergen 2",
+    "clubId": 97,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 180580,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924970,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T11:15:00.000Z",
+   "home": {
+    "id": 314291,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165771,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924971,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T15:30:00.000Z",
+   "home": {
+    "id": 165762,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165753,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924972,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T11:30:00.000Z",
+   "home": {
+    "id": 165754,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 280072,
+    "name": "TSV 1847 Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924973,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T09:00:00.000Z",
+   "home": {
+    "id": 272075,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165760,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924974,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T16:00:00.000Z",
+   "home": {
+    "id": 165771,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165753,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924975,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T11:15:00.000Z",
+   "home": {
+    "id": 314291,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312243,
+    "name": "BG Leitershofen/Stadtbergen 2",
+    "clubId": 97,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924976,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T16:30:00.000Z",
+   "home": {
+    "id": 180580,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 272075,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924977,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T16:30:00.000Z",
+   "home": {
+    "id": 165760,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165754,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924978,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T11:00:00.000Z",
+   "home": {
+    "id": 280072,
+    "name": "TSV 1847 Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165762,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924979,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T11:15:00.000Z",
+   "home": {
+    "id": 165771,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312243,
+    "name": "BG Leitershofen/Stadtbergen 2",
+    "clubId": 97,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924980,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T11:30:00.000Z",
+   "home": {
+    "id": 165753,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 280072,
+    "name": "TSV 1847 Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924981,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T13:30:00.000Z",
+   "home": {
+    "id": 165762,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165760,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924982,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T11:30:00.000Z",
+   "home": {
+    "id": 165754,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180580,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924983,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T11:15:00.000Z",
+   "home": {
+    "id": 272075,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314291,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924984,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T11:00:00.000Z",
+   "home": {
+    "id": 312243,
+    "name": "BG Leitershofen/Stadtbergen 2",
+    "clubId": 97,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 272075,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924985,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T13:30:00.000Z",
+   "home": {
+    "id": 314291,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165754,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924986,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T11:30:00.000Z",
+   "home": {
+    "id": 180580,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165762,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924987,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "12:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T11:45:00.000Z",
+   "home": {
+    "id": 165760,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165753,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924988,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "11:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T10:15:00.000Z",
+   "home": {
+    "id": 280072,
+    "name": "TSV 1847 Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165771,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924989,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T13:30:00.000Z",
+   "home": {
+    "id": 272075,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165771,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924990,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T11:30:00.000Z",
+   "home": {
+    "id": 180580,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165753,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924991,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T13:30:00.000Z",
+   "home": {
+    "id": 314291,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165762,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924992,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T11:00:00.000Z",
+   "home": {
+    "id": 312243,
+    "name": "BG Leitershofen/Stadtbergen 2",
+    "clubId": 97,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 165754,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924993,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T16:30:00.000Z",
+   "home": {
+    "id": 165760,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 280072,
+    "name": "TSV 1847 Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924994,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T16:00:00.000Z",
+   "home": {
+    "id": 165762,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312243,
+    "name": "BG Leitershofen/Stadtbergen 2",
+    "clubId": 97,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924995,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T14:00:00.000Z",
+   "home": {
+    "id": 165753,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314291,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924996,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T15:00:00.000Z",
+   "home": {
+    "id": 280072,
+    "name": "TSV 1847 Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180580,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924997,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T11:15:00.000Z",
+   "home": {
+    "id": 165771,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165760,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924998,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T16:30:00.000Z",
+   "home": {
+    "id": 165754,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 272075,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924999,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T14:00:00.000Z",
+   "home": {
+    "id": 165754,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165771,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925000,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T11:00:00.000Z",
+   "home": {
+    "id": 312243,
+    "name": "BG Leitershofen/Stadtbergen 2",
+    "clubId": 97,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 165753,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925001,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T13:30:00.000Z",
+   "home": {
+    "id": 272075,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165762,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925002,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T11:30:00.000Z",
+   "home": {
+    "id": 180580,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165760,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925003,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T13:30:00.000Z",
+   "home": {
+    "id": 314291,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 280072,
+    "name": "TSV 1847 Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925004,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T15:00:00.000Z",
+   "home": {
+    "id": 280072,
+    "name": "TSV 1847 Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312243,
+    "name": "BG Leitershofen/Stadtbergen 2",
+    "clubId": 97,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925005,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-29T23:00:00.000Z",
+   "home": {
+    "id": 165760,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314291,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925006,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T13:30:00.000Z",
+   "home": {
+    "id": 165771,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180580,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925007,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T16:15:00.000Z",
+   "home": {
+    "id": 165762,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165754,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925008,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T13:30:00.000Z",
+   "home": {
+    "id": 165753,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 272075,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925009,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T15:30:00.000Z",
+   "home": {
+    "id": 165762,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165771,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925010,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T11:30:00.000Z",
+   "home": {
+    "id": 165754,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165753,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925011,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T15:45:00.000Z",
+   "home": {
+    "id": 314291,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180580,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925012,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T12:00:00.000Z",
+   "home": {
+    "id": 312243,
+    "name": "BG Leitershofen/Stadtbergen 2",
+    "clubId": 97,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 165760,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925013,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T13:15:00.000Z",
+   "home": {
+    "id": 272075,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 280072,
+    "name": "TSV 1847 Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925014,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-04-03",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-03T13:00:00.000Z",
+   "home": {
+    "id": 180580,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312243,
+    "name": "BG Leitershofen/Stadtbergen 2",
+    "clubId": 97,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925015,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T11:15:00.000Z",
+   "home": {
+    "id": 165771,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314291,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925016,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T14:00:00.000Z",
+   "home": {
+    "id": 165753,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165762,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925017,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T16:00:00.000Z",
+   "home": {
+    "id": 280072,
+    "name": "TSV 1847 Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165754,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925018,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T16:30:00.000Z",
+   "home": {
+    "id": 165760,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 272075,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925019,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T13:30:00.000Z",
+   "home": {
+    "id": 165753,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165771,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925020,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T13:45:00.000Z",
+   "home": {
+    "id": 312243,
+    "name": "BG Leitershofen/Stadtbergen 2",
+    "clubId": 97,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 314291,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925021,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T13:30:00.000Z",
+   "home": {
+    "id": 272075,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180580,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925022,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T14:00:00.000Z",
+   "home": {
+    "id": 165754,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165760,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925023,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T13:30:00.000Z",
+   "home": {
+    "id": 165762,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 280072,
+    "name": "TSV 1847 Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925024,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T14:00:00.000Z",
+   "home": {
+    "id": 312243,
+    "name": "BG Leitershofen/Stadtbergen 2",
+    "clubId": 97,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 165771,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925025,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T11:00:00.000Z",
+   "home": {
+    "id": 280072,
+    "name": "TSV 1847 Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165753,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925026,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T14:00:00.000Z",
+   "home": {
+    "id": 165760,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165762,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925027,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T16:30:00.000Z",
+   "home": {
+    "id": 180580,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165754,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925028,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T15:45:00.000Z",
+   "home": {
+    "id": 314291,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 272075,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925029,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T13:30:00.000Z",
+   "home": {
+    "id": 272075,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312243,
+    "name": "BG Leitershofen/Stadtbergen 2",
+    "clubId": 97,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925030,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T16:30:00.000Z",
+   "home": {
+    "id": 165754,
+    "name": "MTV Baskets Ingolstadt",
+    "clubId": 818,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314291,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925031,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T13:30:00.000Z",
+   "home": {
+    "id": 165762,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180580,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925032,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T13:30:00.000Z",
+   "home": {
+    "id": 165753,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165760,
+    "name": "TSV Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925033,
+   "ligaId": 54461,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T14:00:00.000Z",
+   "home": {
+    "id": 165771,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 280072,
+    "name": "TSV 1847 Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

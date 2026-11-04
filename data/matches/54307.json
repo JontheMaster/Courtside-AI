@@ -1,0 +1,1586 @@
+{
+ "league": {
+  "ligaId": 54307,
+  "name": "Bayernliga U16 weiblich Nord",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U16",
+  "gender": "weiblich",
+  "level": "Bayernliga",
+  "levelScope": "Verband",
+  "verbandId": 2,
+  "bezirk": null,
+  "competitionType": "regular",
+  "role": "core"
+ },
+ "matches": [
+  {
+   "matchId": 2911074,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T13:00:00.000Z",
+   "home": {
+    "id": 257025,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 240598,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": 87,
+   "guestScore": 46,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911075,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T11:30:00.000Z",
+   "home": {
+    "id": 310396,
+    "name": "Freak City Bamberg",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 280017,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": 58,
+   "guestScore": 73,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911076,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T15:00:00.000Z",
+   "home": {
+    "id": 183078,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 201162,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": 100,
+   "guestScore": 36,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911077,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T11:30:00.000Z",
+   "home": {
+    "id": 219335,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314967,
+    "name": "MissPompadour Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "homeScore": 85,
+   "guestScore": 63,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911078,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T13:00:00.000Z",
+   "home": {
+    "id": 201162,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310396,
+    "name": "Freak City Bamberg",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "homeScore": 49,
+   "guestScore": 145,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911079,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "13:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T11:45:00.000Z",
+   "home": {
+    "id": 280017,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 219335,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": 51,
+   "guestScore": 73,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911080,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T09:00:00.000Z",
+   "home": {
+    "id": 314967,
+    "name": "MissPompadour Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 257025,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": 80,
+   "guestScore": 103,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911081,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T10:15:00.000Z",
+   "home": {
+    "id": 240598,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183078,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": 20,
+   "guestScore": 96,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911082,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T13:00:00.000Z",
+   "home": {
+    "id": 257025,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183078,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": 62,
+   "guestScore": 80,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911083,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T12:00:00.000Z",
+   "home": {
+    "id": 310396,
+    "name": "Freak City Bamberg",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 240598,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911084,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T12:30:00.000Z",
+   "home": {
+    "id": 314967,
+    "name": "MissPompadour Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 280017,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": 47,
+   "guestScore": 69,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911085,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T10:30:00.000Z",
+   "home": {
+    "id": 219335,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 201162,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": 99,
+   "guestScore": 29,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911086,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "12:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T10:45:00.000Z",
+   "home": {
+    "id": 201162,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314967,
+    "name": "MissPompadour Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "homeScore": 47,
+   "guestScore": 83,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911087,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T12:30:00.000Z",
+   "home": {
+    "id": 280017,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 257025,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": 73,
+   "guestScore": 67,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911088,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T09:00:00.000Z",
+   "home": {
+    "id": 183078,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310396,
+    "name": "Freak City Bamberg",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "homeScore": 67,
+   "guestScore": 75,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911089,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T11:15:00.000Z",
+   "home": {
+    "id": 240598,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 219335,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": 45,
+   "guestScore": 62,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911090,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T09:00:00.000Z",
+   "home": {
+    "id": 257025,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310396,
+    "name": "Freak City Bamberg",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911091,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T15:00:00.000Z",
+   "home": {
+    "id": 280017,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 201162,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911092,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T10:00:00.000Z",
+   "home": {
+    "id": 314967,
+    "name": "MissPompadour Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 240598,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911093,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T11:30:00.000Z",
+   "home": {
+    "id": 219335,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183078,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911094,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T16:30:00.000Z",
+   "home": {
+    "id": 257025,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 201162,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911095,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T10:00:00.000Z",
+   "home": {
+    "id": 310396,
+    "name": "Freak City Bamberg",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 219335,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911096,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T10:00:00.000Z",
+   "home": {
+    "id": 183078,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314967,
+    "name": "MissPompadour Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911097,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T11:15:00.000Z",
+   "home": {
+    "id": 240598,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 280017,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911098,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T13:15:00.000Z",
+   "home": {
+    "id": 201162,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 240598,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911099,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T12:30:00.000Z",
+   "home": {
+    "id": 280017,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183078,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911100,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T12:30:00.000Z",
+   "home": {
+    "id": 314967,
+    "name": "MissPompadour Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310396,
+    "name": "Freak City Bamberg",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911101,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T11:30:00.000Z",
+   "home": {
+    "id": 219335,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 257025,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911102,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T13:30:00.000Z",
+   "home": {
+    "id": 240598,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 257025,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911103,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T12:30:00.000Z",
+   "home": {
+    "id": 280017,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310396,
+    "name": "Freak City Bamberg",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911104,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T14:00:00.000Z",
+   "home": {
+    "id": 201162,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183078,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911105,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T16:00:00.000Z",
+   "home": {
+    "id": 314967,
+    "name": "MissPompadour Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 219335,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911106,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T10:00:00.000Z",
+   "home": {
+    "id": 310396,
+    "name": "Freak City Bamberg",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 201162,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911107,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "12:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T11:45:00.000Z",
+   "home": {
+    "id": 219335,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 280017,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911108,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T14:00:00.000Z",
+   "home": {
+    "id": 257025,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314967,
+    "name": "MissPompadour Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911109,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T10:00:00.000Z",
+   "home": {
+    "id": 183078,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 240598,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911110,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T10:00:00.000Z",
+   "home": {
+    "id": 183078,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 257025,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911111,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T13:45:00.000Z",
+   "home": {
+    "id": 240598,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310396,
+    "name": "Freak City Bamberg",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911112,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T12:30:00.000Z",
+   "home": {
+    "id": 280017,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314967,
+    "name": "MissPompadour Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911113,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T14:00:00.000Z",
+   "home": {
+    "id": 201162,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 219335,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911114,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-07",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-07T13:30:00.000Z",
+   "home": {
+    "id": 314967,
+    "name": "MissPompadour Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 201162,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911115,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-06T14:00:00.000Z",
+   "home": {
+    "id": 257025,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 280017,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911116,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-06T13:00:00.000Z",
+   "home": {
+    "id": 310396,
+    "name": "Freak City Bamberg",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183078,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911117,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "12:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-06T11:45:00.000Z",
+   "home": {
+    "id": 219335,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 240598,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911118,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T12:30:00.000Z",
+   "home": {
+    "id": 310396,
+    "name": "Freak City Bamberg",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 257025,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911119,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T13:15:00.000Z",
+   "home": {
+    "id": 201162,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 280017,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911120,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T11:15:00.000Z",
+   "home": {
+    "id": 240598,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314967,
+    "name": "MissPompadour Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911121,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-02-19T23:00:00.000Z",
+   "home": {
+    "id": 183078,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 219335,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911122,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T13:15:00.000Z",
+   "home": {
+    "id": 201162,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 257025,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911123,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "12:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T11:45:00.000Z",
+   "home": {
+    "id": 219335,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310396,
+    "name": "Freak City Bamberg",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911124,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T16:00:00.000Z",
+   "home": {
+    "id": 314967,
+    "name": "MissPompadour Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183078,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911125,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T12:30:00.000Z",
+   "home": {
+    "id": 280017,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 240598,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911126,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "12:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T11:45:00.000Z",
+   "home": {
+    "id": 240598,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 201162,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911127,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T13:00:00.000Z",
+   "home": {
+    "id": 183078,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 280017,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911128,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T10:00:00.000Z",
+   "home": {
+    "id": 310396,
+    "name": "Freak City Bamberg",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314967,
+    "name": "MissPompadour Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911129,
+   "ligaId": 54307,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T14:00:00.000Z",
+   "home": {
+    "id": 257025,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 219335,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

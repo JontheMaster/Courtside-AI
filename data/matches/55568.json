@@ -1,0 +1,2538 @@
+{
+ "league": {
+  "ligaId": 55568,
+  "name": "UFR Bezirksoberliga Herren",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Unterfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2933276,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T15:30:00.000Z",
+   "home": {
+    "id": 157370,
+    "name": "TG 48 Würzburg 3",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150998,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "homeScore": 55,
+   "guestScore": 85,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933277,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T17:00:00.000Z",
+   "home": {
+    "id": 157374,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151002,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": 54,
+   "guestScore": 67,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933278,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T18:00:00.000Z",
+   "home": {
+    "id": 314207,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157562,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933279,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T17:00:00.000Z",
+   "home": {
+    "id": 157369,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157457,
+    "name": "TG Zell",
+    "clubId": 857,
+    "forfeit": false
+   },
+   "homeScore": 71,
+   "guestScore": 78,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933280,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T15:00:00.000Z",
+   "home": {
+    "id": 314826,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157365,
+    "name": "BG Elsenf./Großw.",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933281,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T16:00:00.000Z",
+   "home": {
+    "id": 157457,
+    "name": "TG Zell",
+    "clubId": 857,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314207,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": 80,
+   "guestScore": 48,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933282,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T18:00:00.000Z",
+   "home": {
+    "id": 157562,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 157374,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933283,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T16:00:00.000Z",
+   "home": {
+    "id": 151002,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314826,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": 105,
+   "guestScore": 66,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933284,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T14:30:00.000Z",
+   "home": {
+    "id": 157365,
+    "name": "BG Elsenf./Großw.",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157370,
+    "name": "TG 48 Würzburg 3",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933285,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T13:30:00.000Z",
+   "home": {
+    "id": 150998,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157369,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": 90,
+   "guestScore": 58,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933286,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T15:30:00.000Z",
+   "home": {
+    "id": 157370,
+    "name": "TG 48 Würzburg 3",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157369,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": 58,
+   "guestScore": 75,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933287,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T17:00:00.000Z",
+   "home": {
+    "id": 157374,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157457,
+    "name": "TG Zell",
+    "clubId": 857,
+    "forfeit": false
+   },
+   "homeScore": 46,
+   "guestScore": 74,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933288,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T18:00:00.000Z",
+   "home": {
+    "id": 314207,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150998,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "homeScore": 50,
+   "guestScore": 65,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933289,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T11:00:00.000Z",
+   "home": {
+    "id": 157365,
+    "name": "BG Elsenf./Großw.",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151002,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": 60,
+   "guestScore": 83,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933290,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T16:00:00.000Z",
+   "home": {
+    "id": 314826,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157562,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933291,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T16:00:00.000Z",
+   "home": {
+    "id": 157457,
+    "name": "TG Zell",
+    "clubId": 857,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314826,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": true,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933292,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T17:45:00.000Z",
+   "home": {
+    "id": 157562,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 157365,
+    "name": "BG Elsenf./Großw.",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933293,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T16:00:00.000Z",
+   "home": {
+    "id": 151002,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157370,
+    "name": "TG 48 Würzburg 3",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": 83,
+   "guestScore": 63,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933294,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T17:00:00.000Z",
+   "home": {
+    "id": 157369,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314207,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": 75,
+   "guestScore": 71,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933295,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T15:30:00.000Z",
+   "home": {
+    "id": 150998,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157374,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": 66,
+   "guestScore": 46,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933296,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T16:30:00.000Z",
+   "home": {
+    "id": 157370,
+    "name": "TG 48 Würzburg 3",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314207,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933297,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T17:00:00.000Z",
+   "home": {
+    "id": 157374,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157369,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933298,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T17:00:00.000Z",
+   "home": {
+    "id": 151002,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157562,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933299,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T18:30:00.000Z",
+   "home": {
+    "id": 157365,
+    "name": "BG Elsenf./Großw.",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157457,
+    "name": "TG Zell",
+    "clubId": 857,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933300,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T17:00:00.000Z",
+   "home": {
+    "id": 314826,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150998,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933301,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T17:00:00.000Z",
+   "home": {
+    "id": 157457,
+    "name": "TG Zell",
+    "clubId": 857,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151002,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933302,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T16:30:00.000Z",
+   "home": {
+    "id": 157562,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 157370,
+    "name": "TG 48 Würzburg 3",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933303,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T19:00:00.000Z",
+   "home": {
+    "id": 314207,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157374,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933304,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T18:00:00.000Z",
+   "home": {
+    "id": 157369,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314826,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933305,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T16:30:00.000Z",
+   "home": {
+    "id": 150998,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157365,
+    "name": "BG Elsenf./Großw.",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933306,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T16:30:00.000Z",
+   "home": {
+    "id": 157370,
+    "name": "TG 48 Würzburg 3",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157374,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933307,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T14:30:00.000Z",
+   "home": {
+    "id": 157562,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 157457,
+    "name": "TG Zell",
+    "clubId": 857,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933308,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T17:00:00.000Z",
+   "home": {
+    "id": 151002,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150998,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933309,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T18:30:00.000Z",
+   "home": {
+    "id": 157365,
+    "name": "BG Elsenf./Großw.",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157369,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933310,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T15:00:00.000Z",
+   "home": {
+    "id": 314826,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314207,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933311,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T16:30:00.000Z",
+   "home": {
+    "id": 157370,
+    "name": "TG 48 Würzburg 3",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157457,
+    "name": "TG Zell",
+    "clubId": 857,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933312,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T18:00:00.000Z",
+   "home": {
+    "id": 157374,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314826,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933313,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T19:00:00.000Z",
+   "home": {
+    "id": 314207,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157365,
+    "name": "BG Elsenf./Großw.",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933314,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T18:00:00.000Z",
+   "home": {
+    "id": 157369,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151002,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933315,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-04",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-04T19:00:00.000Z",
+   "home": {
+    "id": 150998,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157562,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933316,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T17:00:00.000Z",
+   "home": {
+    "id": 157457,
+    "name": "TG Zell",
+    "clubId": 857,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150998,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933317,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T17:00:00.000Z",
+   "home": {
+    "id": 157562,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 157369,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933318,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T17:00:00.000Z",
+   "home": {
+    "id": 151002,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314207,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933319,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T19:00:00.000Z",
+   "home": {
+    "id": 157365,
+    "name": "BG Elsenf./Großw.",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157374,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933320,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T15:30:00.000Z",
+   "home": {
+    "id": 314826,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157370,
+    "name": "TG 48 Würzburg 3",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933321,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T16:30:00.000Z",
+   "home": {
+    "id": 150998,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157370,
+    "name": "TG 48 Würzburg 3",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933322,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T17:00:00.000Z",
+   "home": {
+    "id": 151002,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157374,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933323,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T16:15:00.000Z",
+   "home": {
+    "id": 157562,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 314207,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933324,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T17:00:00.000Z",
+   "home": {
+    "id": 157457,
+    "name": "TG Zell",
+    "clubId": 857,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157369,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933325,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T17:30:00.000Z",
+   "home": {
+    "id": 157365,
+    "name": "BG Elsenf./Großw.",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314826,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": 51,
+   "guestScore": 83,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933326,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T16:30:00.000Z",
+   "home": {
+    "id": 314207,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157457,
+    "name": "TG Zell",
+    "clubId": 857,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933327,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:30:00.000Z",
+   "home": {
+    "id": 157374,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157562,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933329,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T15:00:00.000Z",
+   "home": {
+    "id": 314826,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151002,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933331,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:15:00.000Z",
+   "home": {
+    "id": 157370,
+    "name": "TG 48 Würzburg 3",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157365,
+    "name": "BG Elsenf./Großw.",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933333,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T18:00:00.000Z",
+   "home": {
+    "id": 157369,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150998,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933335,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T18:00:00.000Z",
+   "home": {
+    "id": 157369,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157370,
+    "name": "TG 48 Würzburg 3",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933337,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T14:30:00.000Z",
+   "home": {
+    "id": 157457,
+    "name": "TG Zell",
+    "clubId": 857,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157374,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933339,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T16:30:00.000Z",
+   "home": {
+    "id": 150998,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314207,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933342,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T17:00:00.000Z",
+   "home": {
+    "id": 151002,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157365,
+    "name": "BG Elsenf./Großw.",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933344,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:30:00.000Z",
+   "home": {
+    "id": 157562,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 314826,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933346,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T17:30:00.000Z",
+   "home": {
+    "id": 314826,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157457,
+    "name": "TG Zell",
+    "clubId": 857,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933348,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T14:30:00.000Z",
+   "home": {
+    "id": 157365,
+    "name": "BG Elsenf./Großw.",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157562,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933350,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "17:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T16:45:00.000Z",
+   "home": {
+    "id": 157370,
+    "name": "TG 48 Würzburg 3",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151002,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933352,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T19:00:00.000Z",
+   "home": {
+    "id": 314207,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157369,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933354,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T19:00:00.000Z",
+   "home": {
+    "id": 157374,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150998,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933356,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T16:30:00.000Z",
+   "home": {
+    "id": 314207,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157370,
+    "name": "TG 48 Würzburg 3",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933358,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T18:00:00.000Z",
+   "home": {
+    "id": 157369,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157374,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933360,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T16:15:00.000Z",
+   "home": {
+    "id": 157562,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 151002,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933362,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T17:00:00.000Z",
+   "home": {
+    "id": 157457,
+    "name": "TG Zell",
+    "clubId": 857,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157365,
+    "name": "BG Elsenf./Großw.",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933364,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T16:30:00.000Z",
+   "home": {
+    "id": 150998,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314826,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933367,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T17:00:00.000Z",
+   "home": {
+    "id": 151002,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157457,
+    "name": "TG Zell",
+    "clubId": 857,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933369,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T15:00:00.000Z",
+   "home": {
+    "id": 157370,
+    "name": "TG 48 Würzburg 3",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157562,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933371,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T16:30:00.000Z",
+   "home": {
+    "id": 157374,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314207,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933373,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T16:00:00.000Z",
+   "home": {
+    "id": 314826,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157369,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933375,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T18:30:00.000Z",
+   "home": {
+    "id": 157365,
+    "name": "BG Elsenf./Großw.",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150998,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933377,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T18:00:00.000Z",
+   "home": {
+    "id": 157374,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157370,
+    "name": "TG 48 Würzburg 3",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933379,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-23",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-23T18:30:00.000Z",
+   "home": {
+    "id": 157457,
+    "name": "TG Zell",
+    "clubId": 857,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157562,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933381,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T14:30:00.000Z",
+   "home": {
+    "id": 150998,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151002,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933383,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T18:00:00.000Z",
+   "home": {
+    "id": 157369,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157365,
+    "name": "BG Elsenf./Großw.",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933385,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T19:00:00.000Z",
+   "home": {
+    "id": 314207,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314826,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933386,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T17:00:00.000Z",
+   "home": {
+    "id": 157457,
+    "name": "TG Zell",
+    "clubId": 857,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157370,
+    "name": "TG 48 Würzburg 3",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933387,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T18:00:00.000Z",
+   "home": {
+    "id": 314826,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157374,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933388,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T14:00:00.000Z",
+   "home": {
+    "id": 157365,
+    "name": "BG Elsenf./Großw.",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314207,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933389,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T17:00:00.000Z",
+   "home": {
+    "id": 151002,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157369,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933390,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T16:30:00.000Z",
+   "home": {
+    "id": 157562,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 150998,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933391,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T14:30:00.000Z",
+   "home": {
+    "id": 150998,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157457,
+    "name": "TG Zell",
+    "clubId": 857,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933392,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T18:00:00.000Z",
+   "home": {
+    "id": 157369,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157562,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933393,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T19:00:00.000Z",
+   "home": {
+    "id": 314207,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151002,
+    "name": "TSV Grombühl",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933394,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T15:00:00.000Z",
+   "home": {
+    "id": 157374,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157365,
+    "name": "BG Elsenf./Großw.",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933395,
+   "ligaId": 55568,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T15:00:00.000Z",
+   "home": {
+    "id": 157370,
+    "name": "TG 48 Würzburg 3",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314826,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

@@ -1,0 +1,2538 @@
+{
+ "league": {
+  "ligaId": 53710,
+  "name": "MFR Bezirksoberliga Damen",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "weiblich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Mittelfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2869948,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T15:30:00.000Z",
+   "home": {
+    "id": 157702,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157715,
+    "name": "FC Tegernheim",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869950,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T16:00:00.000Z",
+   "home": {
+    "id": 157690,
+    "name": "MSG SpVgg Roth / TSV Altenberg",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 153537,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": 51,
+   "guestScore": 72,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869952,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T10:15:00.000Z",
+   "home": {
+    "id": 158762,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 155357,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": 54,
+   "guestScore": 72,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869954,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-04-03",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-03T12:00:00.000Z",
+   "home": {
+    "id": 157705,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159018,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869956,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T13:00:00.000Z",
+   "home": {
+    "id": 183943,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320735,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 31,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869958,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:30:00.000Z",
+   "home": {
+    "id": 159018,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158762,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": 67,
+   "guestScore": 61,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869960,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T17:00:00.000Z",
+   "home": {
+    "id": 155357,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157690,
+    "name": "MSG SpVgg Roth / TSV Altenberg",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869962,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T13:00:00.000Z",
+   "home": {
+    "id": 153537,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183943,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": 114,
+   "guestScore": 55,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869964,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T13:30:00.000Z",
+   "home": {
+    "id": 320735,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157702,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "homeScore": 33,
+   "guestScore": 43,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869966,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T14:00:00.000Z",
+   "home": {
+    "id": 157715,
+    "name": "FC Tegernheim",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157705,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": 57,
+   "guestScore": 48,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869968,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T14:30:00.000Z",
+   "home": {
+    "id": 157702,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157705,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": 43,
+   "guestScore": 62,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869970,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T14:00:00.000Z",
+   "home": {
+    "id": 157690,
+    "name": "MSG SpVgg Roth / TSV Altenberg",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159018,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": 50,
+   "guestScore": 52,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869972,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T15:30:00.000Z",
+   "home": {
+    "id": 158762,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157715,
+    "name": "FC Tegernheim",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": 65,
+   "guestScore": 61,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869974,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T13:30:00.000Z",
+   "home": {
+    "id": 320735,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 153537,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": 41,
+   "guestScore": 87,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869976,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T11:30:00.000Z",
+   "home": {
+    "id": 183943,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 155357,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": 52,
+   "guestScore": 54,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869978,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T11:00:00.000Z",
+   "home": {
+    "id": 159018,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183943,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": 69,
+   "guestScore": 54,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869980,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T14:30:00.000Z",
+   "home": {
+    "id": 155357,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320735,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "homeScore": 97,
+   "guestScore": 30,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869982,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T14:00:00.000Z",
+   "home": {
+    "id": 153537,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157702,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "homeScore": 51,
+   "guestScore": 50,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869984,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T14:00:00.000Z",
+   "home": {
+    "id": 157705,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158762,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": 47,
+   "guestScore": 54,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869986,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:00:00.000Z",
+   "home": {
+    "id": 157715,
+    "name": "FC Tegernheim",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157690,
+    "name": "MSG SpVgg Roth / TSV Altenberg",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": 57,
+   "guestScore": 44,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869988,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T15:30:00.000Z",
+   "home": {
+    "id": 157702,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158762,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869990,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T13:30:00.000Z",
+   "home": {
+    "id": 157690,
+    "name": "MSG SpVgg Roth / TSV Altenberg",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157705,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869992,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T11:00:00.000Z",
+   "home": {
+    "id": 153537,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 155357,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869994,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T14:30:00.000Z",
+   "home": {
+    "id": 320735,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159018,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869997,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T14:00:00.000Z",
+   "home": {
+    "id": 183943,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157715,
+    "name": "FC Tegernheim",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869999,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T15:00:00.000Z",
+   "home": {
+    "id": 159018,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 153537,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870001,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T14:30:00.000Z",
+   "home": {
+    "id": 155357,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157702,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870003,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T13:15:00.000Z",
+   "home": {
+    "id": 158762,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157690,
+    "name": "MSG SpVgg Roth / TSV Altenberg",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870005,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T14:00:00.000Z",
+   "home": {
+    "id": 157705,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183943,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870007,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T16:00:00.000Z",
+   "home": {
+    "id": 157715,
+    "name": "FC Tegernheim",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320735,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870009,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T15:30:00.000Z",
+   "home": {
+    "id": 157702,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157690,
+    "name": "MSG SpVgg Roth / TSV Altenberg",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870011,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T14:30:00.000Z",
+   "home": {
+    "id": 155357,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159018,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870013,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T14:00:00.000Z",
+   "home": {
+    "id": 153537,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157715,
+    "name": "FC Tegernheim",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870015,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T14:30:00.000Z",
+   "home": {
+    "id": 320735,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157705,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870017,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T12:30:00.000Z",
+   "home": {
+    "id": 183943,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158762,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870019,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T15:30:00.000Z",
+   "home": {
+    "id": 157702,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159018,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870021,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T17:00:00.000Z",
+   "home": {
+    "id": 157690,
+    "name": "MSG SpVgg Roth / TSV Altenberg",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183943,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870023,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T16:30:00.000Z",
+   "home": {
+    "id": 158762,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320735,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870025,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T12:00:00.000Z",
+   "home": {
+    "id": 157705,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 153537,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870027,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T13:30:00.000Z",
+   "home": {
+    "id": 157715,
+    "name": "FC Tegernheim",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 155357,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870029,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T12:30:00.000Z",
+   "home": {
+    "id": 159018,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157715,
+    "name": "FC Tegernheim",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870031,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T14:30:00.000Z",
+   "home": {
+    "id": 155357,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157705,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870032,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T14:00:00.000Z",
+   "home": {
+    "id": 153537,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158762,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870033,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T14:30:00.000Z",
+   "home": {
+    "id": 320735,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157690,
+    "name": "MSG SpVgg Roth / TSV Altenberg",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870034,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T14:00:00.000Z",
+   "home": {
+    "id": 183943,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157702,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870035,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T11:00:00.000Z",
+   "home": {
+    "id": 157715,
+    "name": "FC Tegernheim",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157702,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870036,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T14:00:00.000Z",
+   "home": {
+    "id": 153537,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157690,
+    "name": "MSG SpVgg Roth / TSV Altenberg",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870037,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T13:30:00.000Z",
+   "home": {
+    "id": 155357,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158762,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870038,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T15:30:00.000Z",
+   "home": {
+    "id": 159018,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157705,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870039,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T14:30:00.000Z",
+   "home": {
+    "id": 320735,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183943,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870040,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T16:30:00.000Z",
+   "home": {
+    "id": 158762,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159018,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870041,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T13:30:00.000Z",
+   "home": {
+    "id": 157690,
+    "name": "MSG SpVgg Roth / TSV Altenberg",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 155357,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": 66,
+   "guestScore": 64,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870042,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T14:00:00.000Z",
+   "home": {
+    "id": 183943,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 153537,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870043,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T15:30:00.000Z",
+   "home": {
+    "id": 157702,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320735,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870044,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T14:00:00.000Z",
+   "home": {
+    "id": 157705,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157715,
+    "name": "FC Tegernheim",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870045,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T14:00:00.000Z",
+   "home": {
+    "id": 157705,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157702,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870046,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "16:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T15:15:00.000Z",
+   "home": {
+    "id": 159018,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157690,
+    "name": "MSG SpVgg Roth / TSV Altenberg",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870047,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T17:30:00.000Z",
+   "home": {
+    "id": 157715,
+    "name": "FC Tegernheim",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158762,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870048,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T11:00:00.000Z",
+   "home": {
+    "id": 153537,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320735,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870049,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T14:30:00.000Z",
+   "home": {
+    "id": 155357,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183943,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870050,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T17:00:00.000Z",
+   "home": {
+    "id": 183943,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159018,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870051,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T14:30:00.000Z",
+   "home": {
+    "id": 320735,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 155357,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870052,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T15:30:00.000Z",
+   "home": {
+    "id": 157702,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 153537,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870053,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T19:00:00.000Z",
+   "home": {
+    "id": 158762,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157705,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870054,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T17:00:00.000Z",
+   "home": {
+    "id": 157690,
+    "name": "MSG SpVgg Roth / TSV Altenberg",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157715,
+    "name": "FC Tegernheim",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870055,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T16:30:00.000Z",
+   "home": {
+    "id": 158762,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157702,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870056,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T12:00:00.000Z",
+   "home": {
+    "id": 157705,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157690,
+    "name": "MSG SpVgg Roth / TSV Altenberg",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870057,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T14:30:00.000Z",
+   "home": {
+    "id": 155357,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 153537,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870058,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T15:30:00.000Z",
+   "home": {
+    "id": 159018,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320735,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870059,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T16:00:00.000Z",
+   "home": {
+    "id": 157715,
+    "name": "FC Tegernheim",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183943,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870060,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T14:00:00.000Z",
+   "home": {
+    "id": 153537,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159018,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870061,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T15:30:00.000Z",
+   "home": {
+    "id": 157702,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 155357,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870062,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T17:00:00.000Z",
+   "home": {
+    "id": 157690,
+    "name": "MSG SpVgg Roth / TSV Altenberg",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158762,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870063,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T14:00:00.000Z",
+   "home": {
+    "id": 183943,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157705,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870064,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T14:30:00.000Z",
+   "home": {
+    "id": 320735,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157715,
+    "name": "FC Tegernheim",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870065,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T17:00:00.000Z",
+   "home": {
+    "id": 157690,
+    "name": "MSG SpVgg Roth / TSV Altenberg",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157702,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870066,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T15:00:00.000Z",
+   "home": {
+    "id": 159018,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 155357,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870067,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T16:00:00.000Z",
+   "home": {
+    "id": 157715,
+    "name": "FC Tegernheim",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 153537,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870068,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T14:00:00.000Z",
+   "home": {
+    "id": 157705,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320735,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870069,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T16:30:00.000Z",
+   "home": {
+    "id": 158762,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183943,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870070,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T14:00:00.000Z",
+   "home": {
+    "id": 159018,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157702,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870071,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T13:00:00.000Z",
+   "home": {
+    "id": 183943,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157690,
+    "name": "MSG SpVgg Roth / TSV Altenberg",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870072,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T13:30:00.000Z",
+   "home": {
+    "id": 320735,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158762,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870073,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T13:00:00.000Z",
+   "home": {
+    "id": 153537,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157705,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870074,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T14:30:00.000Z",
+   "home": {
+    "id": 155357,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157715,
+    "name": "FC Tegernheim",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870075,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T15:00:00.000Z",
+   "home": {
+    "id": 157715,
+    "name": "FC Tegernheim",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159018,
+    "name": "Regensburg Baskets 2",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870076,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T12:00:00.000Z",
+   "home": {
+    "id": 157705,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 155357,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870077,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T15:30:00.000Z",
+   "home": {
+    "id": 158762,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 153537,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870078,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T16:00:00.000Z",
+   "home": {
+    "id": 157690,
+    "name": "MSG SpVgg Roth / TSV Altenberg",
+    "clubId": 611,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320735,
+    "name": "Wild Beast Feucht",
+    "clubId": 4565,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2870079,
+   "ligaId": 53710,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T14:30:00.000Z",
+   "home": {
+    "id": 157702,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183943,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

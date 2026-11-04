@@ -1,0 +1,1217 @@
+{
+ "league": {
+  "ligaId": 56462,
+  "name": "U14 männlich Bezirksliga",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U14",
+  "gender": "männlich",
+  "level": "Bezirksliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberpfalz",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2958500,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T10:00:00.000Z",
+   "home": {
+    "id": 156617,
+    "name": "DJK Neustadt a. d. Waldnaab",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 315901,
+    "name": "TV Amberg-Sulzbach BSG 2",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958501,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T13:00:00.000Z",
+   "home": {
+    "id": 323419,
+    "name": "Regensburg Baskets 3",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323418,
+    "name": "SWC Regensburg",
+    "clubId": 5334,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958503,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T12:00:00.000Z",
+   "home": {
+    "id": 271595,
+    "name": "1. FC Schwarzenfeld a.K.",
+    "clubId": 1887,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167045,
+    "name": "TSV 1880 Schwandorf",
+    "clubId": 1400,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958505,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T11:00:00.000Z",
+   "home": {
+    "id": 323418,
+    "name": "SWC Regensburg",
+    "clubId": 5334,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 271595,
+    "name": "1. FC Schwarzenfeld a.K.",
+    "clubId": 1887,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958506,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T11:30:00.000Z",
+   "home": {
+    "id": 167045,
+    "name": "TSV 1880 Schwandorf",
+    "clubId": 1400,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156617,
+    "name": "DJK Neustadt a. d. Waldnaab",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958507,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T14:00:00.000Z",
+   "home": {
+    "id": 315901,
+    "name": "TV Amberg-Sulzbach BSG 2",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167042,
+    "name": "TB Weiden Basketball",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958508,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T10:30:00.000Z",
+   "home": {
+    "id": 156617,
+    "name": "DJK Neustadt a. d. Waldnaab",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167042,
+    "name": "TB Weiden Basketball",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "homeScore": 45,
+   "guestScore": 41,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958509,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T11:00:00.000Z",
+   "home": {
+    "id": 323419,
+    "name": "Regensburg Baskets 3",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 315901,
+    "name": "TV Amberg-Sulzbach BSG 2",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958510,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T09:30:00.000Z",
+   "home": {
+    "id": 167045,
+    "name": "TSV 1880 Schwandorf",
+    "clubId": 1400,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323418,
+    "name": "SWC Regensburg",
+    "clubId": 5334,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958513,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T13:00:00.000Z",
+   "home": {
+    "id": 323418,
+    "name": "SWC Regensburg",
+    "clubId": 5334,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156617,
+    "name": "DJK Neustadt a. d. Waldnaab",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958514,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T09:00:00.000Z",
+   "home": {
+    "id": 167042,
+    "name": "TB Weiden Basketball",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323419,
+    "name": "Regensburg Baskets 3",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958515,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T14:00:00.000Z",
+   "home": {
+    "id": 315901,
+    "name": "TV Amberg-Sulzbach BSG 2",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 271595,
+    "name": "1. FC Schwarzenfeld a.K.",
+    "clubId": 1887,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958516,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T08:00:00.000Z",
+   "home": {
+    "id": 156617,
+    "name": "DJK Neustadt a. d. Waldnaab",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323419,
+    "name": "Regensburg Baskets 3",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958518,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T11:30:00.000Z",
+   "home": {
+    "id": 167045,
+    "name": "TSV 1880 Schwandorf",
+    "clubId": 1400,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 315901,
+    "name": "TV Amberg-Sulzbach BSG 2",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958519,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T13:30:00.000Z",
+   "home": {
+    "id": 271595,
+    "name": "1. FC Schwarzenfeld a.K.",
+    "clubId": 1887,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167042,
+    "name": "TB Weiden Basketball",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958520,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T11:00:00.000Z",
+   "home": {
+    "id": 156617,
+    "name": "DJK Neustadt a. d. Waldnaab",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958521,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T15:30:00.000Z",
+   "home": {
+    "id": 323419,
+    "name": "Regensburg Baskets 3",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 271595,
+    "name": "1. FC Schwarzenfeld a.K.",
+    "clubId": 1887,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958522,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T10:00:00.000Z",
+   "home": {
+    "id": 167042,
+    "name": "TB Weiden Basketball",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167045,
+    "name": "TSV 1880 Schwandorf",
+    "clubId": 1400,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958523,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T13:00:00.000Z",
+   "home": {
+    "id": 315901,
+    "name": "TV Amberg-Sulzbach BSG 2",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323418,
+    "name": "SWC Regensburg",
+    "clubId": 5334,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958525,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T10:00:00.000Z",
+   "home": {
+    "id": 323418,
+    "name": "SWC Regensburg",
+    "clubId": 5334,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167042,
+    "name": "TB Weiden Basketball",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958526,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T12:00:00.000Z",
+   "home": {
+    "id": 167045,
+    "name": "TSV 1880 Schwandorf",
+    "clubId": 1400,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323419,
+    "name": "Regensburg Baskets 3",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958527,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T12:00:00.000Z",
+   "home": {
+    "id": 271595,
+    "name": "1. FC Schwarzenfeld a.K.",
+    "clubId": 1887,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156617,
+    "name": "DJK Neustadt a. d. Waldnaab",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958528,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T13:00:00.000Z",
+   "home": {
+    "id": 315901,
+    "name": "TV Amberg-Sulzbach BSG 2",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156617,
+    "name": "DJK Neustadt a. d. Waldnaab",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958529,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T13:00:00.000Z",
+   "home": {
+    "id": 323418,
+    "name": "SWC Regensburg",
+    "clubId": 5334,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323419,
+    "name": "Regensburg Baskets 3",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958531,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T12:00:00.000Z",
+   "home": {
+    "id": 167045,
+    "name": "TSV 1880 Schwandorf",
+    "clubId": 1400,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 271595,
+    "name": "1. FC Schwarzenfeld a.K.",
+    "clubId": 1887,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958533,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T14:00:00.000Z",
+   "home": {
+    "id": 271595,
+    "name": "1. FC Schwarzenfeld a.K.",
+    "clubId": 1887,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323418,
+    "name": "SWC Regensburg",
+    "clubId": 5334,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958534,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T14:00:00.000Z",
+   "home": {
+    "id": 156617,
+    "name": "DJK Neustadt a. d. Waldnaab",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167045,
+    "name": "TSV 1880 Schwandorf",
+    "clubId": 1400,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958535,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T09:00:00.000Z",
+   "home": {
+    "id": 167042,
+    "name": "TB Weiden Basketball",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 315901,
+    "name": "TV Amberg-Sulzbach BSG 2",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958536,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T12:00:00.000Z",
+   "home": {
+    "id": 167042,
+    "name": "TB Weiden Basketball",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156617,
+    "name": "DJK Neustadt a. d. Waldnaab",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958537,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T14:00:00.000Z",
+   "home": {
+    "id": 315901,
+    "name": "TV Amberg-Sulzbach BSG 2",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323419,
+    "name": "Regensburg Baskets 3",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958538,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T11:00:00.000Z",
+   "home": {
+    "id": 323418,
+    "name": "SWC Regensburg",
+    "clubId": 5334,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167045,
+    "name": "TSV 1880 Schwandorf",
+    "clubId": 1400,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958541,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T13:00:00.000Z",
+   "home": {
+    "id": 156617,
+    "name": "DJK Neustadt a. d. Waldnaab",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323418,
+    "name": "SWC Regensburg",
+    "clubId": 5334,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958542,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T09:00:00.000Z",
+   "home": {
+    "id": 323419,
+    "name": "Regensburg Baskets 3",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167042,
+    "name": "TB Weiden Basketball",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958543,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T12:00:00.000Z",
+   "home": {
+    "id": 271595,
+    "name": "1. FC Schwarzenfeld a.K.",
+    "clubId": 1887,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 315901,
+    "name": "TV Amberg-Sulzbach BSG 2",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958544,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T12:30:00.000Z",
+   "home": {
+    "id": 323419,
+    "name": "Regensburg Baskets 3",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156617,
+    "name": "DJK Neustadt a. d. Waldnaab",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": 29,
+   "guestScore": 129,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958546,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T13:00:00.000Z",
+   "home": {
+    "id": 315901,
+    "name": "TV Amberg-Sulzbach BSG 2",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167045,
+    "name": "TSV 1880 Schwandorf",
+    "clubId": 1400,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958547,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T09:00:00.000Z",
+   "home": {
+    "id": 167042,
+    "name": "TB Weiden Basketball",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 271595,
+    "name": "1. FC Schwarzenfeld a.K.",
+    "clubId": 1887,
+    "forfeit": false
+   },
+   "homeScore": 48,
+   "guestScore": 51,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958549,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T14:00:00.000Z",
+   "home": {
+    "id": 271595,
+    "name": "1. FC Schwarzenfeld a.K.",
+    "clubId": 1887,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323419,
+    "name": "Regensburg Baskets 3",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 28,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958550,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T09:30:00.000Z",
+   "home": {
+    "id": 167045,
+    "name": "TSV 1880 Schwandorf",
+    "clubId": 1400,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167042,
+    "name": "TB Weiden Basketball",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958551,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T08:00:00.000Z",
+   "home": {
+    "id": 323418,
+    "name": "SWC Regensburg",
+    "clubId": 5334,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 315901,
+    "name": "TV Amberg-Sulzbach BSG 2",
+    "clubId": 4897,
+    "forfeit": false
+   },
+   "homeScore": 53,
+   "guestScore": 59,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958553,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T09:00:00.000Z",
+   "home": {
+    "id": 167042,
+    "name": "TB Weiden Basketball",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323418,
+    "name": "SWC Regensburg",
+    "clubId": 5334,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958554,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T13:00:00.000Z",
+   "home": {
+    "id": 323419,
+    "name": "Regensburg Baskets 3",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167045,
+    "name": "TSV 1880 Schwandorf",
+    "clubId": 1400,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958555,
+   "ligaId": 56462,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T09:30:00.000Z",
+   "home": {
+    "id": 156617,
+    "name": "DJK Neustadt a. d. Waldnaab",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 271595,
+    "name": "1. FC Schwarzenfeld a.K.",
+    "clubId": 1887,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

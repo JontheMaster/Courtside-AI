@@ -1,0 +1,186 @@
+{
+ "league": {
+  "ligaId": 56006,
+  "name": "UFR Bezirksliga U18 weiblich",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U18",
+  "gender": "weiblich",
+  "level": "Bezirksliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Unterfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2932556,
+   "ligaId": 56006,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T15:15:00.000Z",
+   "home": {
+    "id": 219378,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228457,
+    "name": "TV Marktheidenfeld AK",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": 20,
+   "guestScore": 52,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932558,
+   "ligaId": 56006,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T17:00:00.000Z",
+   "home": {
+    "id": 319355,
+    "name": "TG Kitzingen 1848 AK",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 219378,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932559,
+   "ligaId": 56006,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T11:00:00.000Z",
+   "home": {
+    "id": 228457,
+    "name": "TV Marktheidenfeld AK",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319355,
+    "name": "TG Kitzingen 1848 AK",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932562,
+   "ligaId": 56006,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T11:00:00.000Z",
+   "home": {
+    "id": 228457,
+    "name": "TV Marktheidenfeld AK",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 219378,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932564,
+   "ligaId": 56006,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T16:30:00.000Z",
+   "home": {
+    "id": 219378,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319355,
+    "name": "TG Kitzingen 1848 AK",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932565,
+   "ligaId": 56006,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T16:30:00.000Z",
+   "home": {
+    "id": 319355,
+    "name": "TG Kitzingen 1848 AK",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228457,
+    "name": "TV Marktheidenfeld AK",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

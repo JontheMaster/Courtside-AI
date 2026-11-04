@@ -1,0 +1,2034 @@
+{
+ "league": {
+  "ligaId": 53745,
+  "name": "Bezirksoberliga U18 wbl (bol18w) 2026/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U18",
+  "gender": "weiblich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2899796,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T09:00:00.000Z",
+   "home": {
+    "id": 198479,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 189500,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899797,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T15:30:00.000Z",
+   "home": {
+    "id": 317527,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163035,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899798,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T12:30:00.000Z",
+   "home": {
+    "id": 314793,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 227335,
+    "name": "TV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899799,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T10:15:00.000Z",
+   "home": {
+    "id": 232489,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310829,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": 66,
+   "guestScore": 44,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899801,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T13:00:00.000Z",
+   "home": {
+    "id": 310829,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314793,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899802,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T12:30:00.000Z",
+   "home": {
+    "id": 227335,
+    "name": "TV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317527,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": 80,
+   "guestScore": 29,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899803,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-09T22:00:00.000Z",
+   "home": {
+    "id": 163035,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 312960,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899805,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-09",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-09T17:00:00.000Z",
+   "home": {
+    "id": 189500,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 232489,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899806,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T08:00:00.000Z",
+   "home": {
+    "id": 198479,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 232489,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": 57,
+   "guestScore": 55,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899807,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T12:00:00.000Z",
+   "home": {
+    "id": 317527,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310829,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": 56,
+   "guestScore": 97,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899808,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T12:30:00.000Z",
+   "home": {
+    "id": 314793,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 189500,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899810,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T13:00:00.000Z",
+   "home": {
+    "id": 312960,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227335,
+    "name": "TV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": 41,
+   "guestScore": 39,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899811,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T15:30:00.000Z",
+   "home": {
+    "id": 310829,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312960,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899813,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-23T22:00:00.000Z",
+   "home": {
+    "id": 163035,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 198479,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899814,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T13:30:00.000Z",
+   "home": {
+    "id": 232489,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314793,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899815,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T18:30:00.000Z",
+   "home": {
+    "id": 189500,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317527,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899816,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T14:30:00.000Z",
+   "home": {
+    "id": 198479,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314793,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899817,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T16:30:00.000Z",
+   "home": {
+    "id": 317527,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 232489,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899818,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-14T23:00:00.000Z",
+   "home": {
+    "id": 163035,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 227335,
+    "name": "TV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899820,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T11:30:00.000Z",
+   "home": {
+    "id": 312960,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 189500,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899821,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T13:45:00.000Z",
+   "home": {
+    "id": 310829,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163035,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899822,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T13:30:00.000Z",
+   "home": {
+    "id": 227335,
+    "name": "TV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198479,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899823,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T16:00:00.000Z",
+   "home": {
+    "id": 314793,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 317527,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899824,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T13:30:00.000Z",
+   "home": {
+    "id": 232489,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312960,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899826,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T14:00:00.000Z",
+   "home": {
+    "id": 198479,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317527,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899827,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T15:45:00.000Z",
+   "home": {
+    "id": 227335,
+    "name": "TV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310829,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899828,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-27T23:00:00.000Z",
+   "home": {
+    "id": 163035,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 189500,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899830,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T14:00:00.000Z",
+   "home": {
+    "id": 312960,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314793,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899831,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T09:00:00.000Z",
+   "home": {
+    "id": 198479,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310829,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899832,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T16:30:00.000Z",
+   "home": {
+    "id": 317527,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312960,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899834,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T13:30:00.000Z",
+   "home": {
+    "id": 232489,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163035,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899835,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T09:00:00.000Z",
+   "home": {
+    "id": 189500,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227335,
+    "name": "TV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899836,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T11:30:00.000Z",
+   "home": {
+    "id": 310829,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 189500,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899837,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T15:45:00.000Z",
+   "home": {
+    "id": 227335,
+    "name": "TV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 232489,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899838,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-12-19T23:00:00.000Z",
+   "home": {
+    "id": 163035,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 314793,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899840,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-07",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-07T12:30:00.000Z",
+   "home": {
+    "id": 312960,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198479,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899841,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T12:30:00.000Z",
+   "home": {
+    "id": 189500,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198479,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": 102,
+   "guestScore": 54,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899842,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-15T23:00:00.000Z",
+   "home": {
+    "id": 163035,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 317527,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899843,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T15:45:00.000Z",
+   "home": {
+    "id": 227335,
+    "name": "TV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314793,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899844,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T11:00:00.000Z",
+   "home": {
+    "id": 310829,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 232489,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899846,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T11:00:00.000Z",
+   "home": {
+    "id": 314793,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 310829,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899847,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:30:00.000Z",
+   "home": {
+    "id": 317527,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227335,
+    "name": "TV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899848,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T11:30:00.000Z",
+   "home": {
+    "id": 312960,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163035,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899850,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T13:30:00.000Z",
+   "home": {
+    "id": 232489,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 189500,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899851,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T15:45:00.000Z",
+   "home": {
+    "id": 232489,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198479,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899852,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T11:30:00.000Z",
+   "home": {
+    "id": 310829,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317527,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899853,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-06T14:00:00.000Z",
+   "home": {
+    "id": 189500,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314793,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899855,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T15:45:00.000Z",
+   "home": {
+    "id": 227335,
+    "name": "TV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312960,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899856,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-19",
+   "kickoffTime": "20:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-19T19:15:00.000Z",
+   "home": {
+    "id": 312960,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310829,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899858,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T09:00:00.000Z",
+   "home": {
+    "id": 198479,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163035,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899859,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T13:30:00.000Z",
+   "home": {
+    "id": 314793,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 232489,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899860,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T09:00:00.000Z",
+   "home": {
+    "id": 317527,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 189500,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899861,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T16:00:00.000Z",
+   "home": {
+    "id": 314793,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 198479,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899862,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T13:30:00.000Z",
+   "home": {
+    "id": 232489,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317527,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899863,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T13:30:00.000Z",
+   "home": {
+    "id": 227335,
+    "name": "TV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163035,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899865,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T14:00:00.000Z",
+   "home": {
+    "id": 189500,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312960,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899866,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-03-05T23:00:00.000Z",
+   "home": {
+    "id": 163035,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 310829,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899867,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T09:00:00.000Z",
+   "home": {
+    "id": 198479,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227335,
+    "name": "TV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899868,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T16:30:00.000Z",
+   "home": {
+    "id": 317527,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314793,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899869,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T14:00:00.000Z",
+   "home": {
+    "id": 312960,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 232489,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899871,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T16:30:00.000Z",
+   "home": {
+    "id": 317527,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198479,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899872,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T16:30:00.000Z",
+   "home": {
+    "id": 310829,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227335,
+    "name": "TV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899873,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T10:15:00.000Z",
+   "home": {
+    "id": 189500,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163035,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899875,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T13:30:00.000Z",
+   "home": {
+    "id": 314793,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 312960,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899876,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2026-10-29",
+   "kickoffTime": "18:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-29T17:45:00.000Z",
+   "home": {
+    "id": 310829,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198479,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 61,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899877,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T09:00:00.000Z",
+   "home": {
+    "id": 312960,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317527,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899879,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-12-18T23:00:00.000Z",
+   "home": {
+    "id": 163035,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 232489,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899880,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T13:30:00.000Z",
+   "home": {
+    "id": 227335,
+    "name": "TV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 189500,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899881,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T09:00:00.000Z",
+   "home": {
+    "id": 189500,
+    "name": "SB DJK Rosenheim",
+    "clubId": 479,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310829,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": 87,
+   "guestScore": 71,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899882,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T12:30:00.000Z",
+   "home": {
+    "id": 232489,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227335,
+    "name": "TV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": 50,
+   "guestScore": 22,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899883,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T13:30:00.000Z",
+   "home": {
+    "id": 314793,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 163035,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899885,
+   "ligaId": 53745,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T15:30:00.000Z",
+   "home": {
+    "id": 198479,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312960,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": 60,
+   "guestScore": 58,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

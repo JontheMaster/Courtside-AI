@@ -1,0 +1,1586 @@
+{
+ "league": {
+  "ligaId": 54303,
+  "name": "Bayernliga U16 männlich Nord",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U16",
+  "gender": "männlich",
+  "level": "Bayernliga",
+  "levelScope": "Verband",
+  "verbandId": 2,
+  "bezirk": null,
+  "competitionType": "regular",
+  "role": "core"
+ },
+ "matches": [
+  {
+   "matchId": 2898332,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T09:00:00.000Z",
+   "home": {
+    "id": 163643,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166583,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": 79,
+   "guestScore": 93,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898333,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T09:00:00.000Z",
+   "home": {
+    "id": 163717,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143116,
+    "name": "Cybex Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": 50,
+   "guestScore": 68,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898334,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T08:00:00.000Z",
+   "home": {
+    "id": 272618,
+    "name": "Freak City Bamberg U15",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143110,
+    "name": "TTL Basketball Bamberg",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898335,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T09:00:00.000Z",
+   "home": {
+    "id": 314870,
+    "name": "Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317343,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": 60,
+   "guestScore": 132,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898336,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T09:00:00.000Z",
+   "home": {
+    "id": 143110,
+    "name": "TTL Basketball Bamberg",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163717,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": 64,
+   "guestScore": 89,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898337,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-06T10:00:00.000Z",
+   "home": {
+    "id": 143116,
+    "name": "Cybex Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314870,
+    "name": "Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898338,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T10:00:00.000Z",
+   "home": {
+    "id": 317343,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163643,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898339,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T10:30:00.000Z",
+   "home": {
+    "id": 166583,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 272618,
+    "name": "Freak City Bamberg U15",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "homeScore": 70,
+   "guestScore": 89,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898340,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T09:00:00.000Z",
+   "home": {
+    "id": 163643,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 272618,
+    "name": "Freak City Bamberg U15",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "homeScore": 90,
+   "guestScore": 80,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898341,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T09:00:00.000Z",
+   "home": {
+    "id": 163717,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166583,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": 61,
+   "guestScore": 48,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898342,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T12:00:00.000Z",
+   "home": {
+    "id": 317343,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143116,
+    "name": "Cybex Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": 74,
+   "guestScore": 70,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898343,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T09:00:00.000Z",
+   "home": {
+    "id": 314870,
+    "name": "Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143110,
+    "name": "TTL Basketball Bamberg",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": 71,
+   "guestScore": 82,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898344,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T14:00:00.000Z",
+   "home": {
+    "id": 143110,
+    "name": "TTL Basketball Bamberg",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317343,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898345,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T11:00:00.000Z",
+   "home": {
+    "id": 143116,
+    "name": "Cybex Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163643,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898346,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T13:00:00.000Z",
+   "home": {
+    "id": 272618,
+    "name": "Freak City Bamberg U15",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163717,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898347,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T11:30:00.000Z",
+   "home": {
+    "id": 166583,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314870,
+    "name": "Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898348,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T10:00:00.000Z",
+   "home": {
+    "id": 163643,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163717,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898349,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T12:30:00.000Z",
+   "home": {
+    "id": 143116,
+    "name": "Cybex Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143110,
+    "name": "TTL Basketball Bamberg",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898350,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T12:30:00.000Z",
+   "home": {
+    "id": 317343,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166583,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898351,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T10:00:00.000Z",
+   "home": {
+    "id": 314870,
+    "name": "Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 272618,
+    "name": "Freak City Bamberg U15",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898352,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T10:00:00.000Z",
+   "home": {
+    "id": 163643,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143110,
+    "name": "TTL Basketball Bamberg",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898353,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T09:00:00.000Z",
+   "home": {
+    "id": 163717,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314870,
+    "name": "Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "homeScore": 79,
+   "guestScore": 51,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898354,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T13:00:00.000Z",
+   "home": {
+    "id": 272618,
+    "name": "Freak City Bamberg U15",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317343,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898355,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T11:30:00.000Z",
+   "home": {
+    "id": 166583,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143116,
+    "name": "Cybex Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898356,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T13:00:00.000Z",
+   "home": {
+    "id": 143110,
+    "name": "TTL Basketball Bamberg",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166583,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898357,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T16:00:00.000Z",
+   "home": {
+    "id": 143116,
+    "name": "Cybex Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 272618,
+    "name": "Freak City Bamberg U15",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898358,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T12:00:00.000Z",
+   "home": {
+    "id": 317343,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163717,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898359,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T09:30:00.000Z",
+   "home": {
+    "id": 314870,
+    "name": "Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163643,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898360,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T11:30:00.000Z",
+   "home": {
+    "id": 166583,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163643,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898361,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T10:00:00.000Z",
+   "home": {
+    "id": 143116,
+    "name": "Cybex Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163717,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898362,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T13:00:00.000Z",
+   "home": {
+    "id": 143110,
+    "name": "TTL Basketball Bamberg",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 272618,
+    "name": "Freak City Bamberg U15",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898363,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T12:00:00.000Z",
+   "home": {
+    "id": 317343,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314870,
+    "name": "Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898364,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T10:00:00.000Z",
+   "home": {
+    "id": 163717,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143110,
+    "name": "TTL Basketball Bamberg",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898365,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T10:00:00.000Z",
+   "home": {
+    "id": 314870,
+    "name": "Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143116,
+    "name": "Cybex Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898366,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T10:00:00.000Z",
+   "home": {
+    "id": 163643,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317343,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898367,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T10:00:00.000Z",
+   "home": {
+    "id": 272618,
+    "name": "Freak City Bamberg U15",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166583,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898368,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T09:00:00.000Z",
+   "home": {
+    "id": 272618,
+    "name": "Freak City Bamberg U15",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163643,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898369,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T11:30:00.000Z",
+   "home": {
+    "id": 166583,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163717,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898370,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T11:00:00.000Z",
+   "home": {
+    "id": 143116,
+    "name": "Cybex Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317343,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898371,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T13:00:00.000Z",
+   "home": {
+    "id": 143110,
+    "name": "TTL Basketball Bamberg",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314870,
+    "name": "Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898372,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T12:00:00.000Z",
+   "home": {
+    "id": 317343,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143110,
+    "name": "TTL Basketball Bamberg",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898373,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T10:00:00.000Z",
+   "home": {
+    "id": 163643,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143116,
+    "name": "Cybex Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898374,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T10:00:00.000Z",
+   "home": {
+    "id": 163717,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 272618,
+    "name": "Freak City Bamberg U15",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898375,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T10:00:00.000Z",
+   "home": {
+    "id": 314870,
+    "name": "Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166583,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898376,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T10:00:00.000Z",
+   "home": {
+    "id": 163717,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163643,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898377,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T11:00:00.000Z",
+   "home": {
+    "id": 143110,
+    "name": "TTL Basketball Bamberg",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143116,
+    "name": "Cybex Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898378,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T16:30:00.000Z",
+   "home": {
+    "id": 166583,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317343,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898379,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T13:00:00.000Z",
+   "home": {
+    "id": 272618,
+    "name": "Freak City Bamberg U15",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314870,
+    "name": "Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898380,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T13:00:00.000Z",
+   "home": {
+    "id": 143110,
+    "name": "TTL Basketball Bamberg",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163643,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898381,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T10:00:00.000Z",
+   "home": {
+    "id": 314870,
+    "name": "Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163717,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898382,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T12:30:00.000Z",
+   "home": {
+    "id": 317343,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 272618,
+    "name": "Freak City Bamberg U15",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898383,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T11:00:00.000Z",
+   "home": {
+    "id": 143116,
+    "name": "Cybex Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166583,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898384,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T16:30:00.000Z",
+   "home": {
+    "id": 166583,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143110,
+    "name": "TTL Basketball Bamberg",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898385,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T12:30:00.000Z",
+   "home": {
+    "id": 272618,
+    "name": "Freak City Bamberg U15",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143116,
+    "name": "Cybex Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898386,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T10:00:00.000Z",
+   "home": {
+    "id": 163717,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317343,
+    "name": "Nürnberg Falcons e.V.",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2898387,
+   "ligaId": 54303,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T10:00:00.000Z",
+   "home": {
+    "id": 163643,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314870,
+    "name": "Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

@@ -1,0 +1,2538 @@
+{
+ "league": {
+  "ligaId": 53792,
+  "name": "Bezirksliga U14 ml (BZL14M) 2026/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U14",
+  "gender": "männlich",
+  "level": "Bezirksliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2904863,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T08:00:00.000Z",
+   "home": {
+    "id": 320307,
+    "name": "TuS Traunreut",
+    "clubId": 3150,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322901,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "homeScore": 105,
+   "guestScore": 35,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904865,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T08:00:00.000Z",
+   "home": {
+    "id": 166760,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163006,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": 95,
+   "guestScore": 46,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904867,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T08:00:00.000Z",
+   "home": {
+    "id": 166682,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310476,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": 20,
+   "guestScore": 0,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904869,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T08:00:00.000Z",
+   "home": {
+    "id": 163016,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162966,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": 35,
+   "guestScore": 84,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904871,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T11:00:00.000Z",
+   "home": {
+    "id": 166677,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165714,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904873,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T15:15:00.000Z",
+   "home": {
+    "id": 162966,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166682,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": 71,
+   "guestScore": 81,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904875,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T12:45:00.000Z",
+   "home": {
+    "id": 310476,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166760,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": 25,
+   "guestScore": 124,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904877,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T12:30:00.000Z",
+   "home": {
+    "id": 163006,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166677,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904879,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T10:30:00.000Z",
+   "home": {
+    "id": 165714,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320307,
+    "name": "TuS Traunreut",
+    "clubId": 3150,
+    "forfeit": false
+   },
+   "homeScore": 46,
+   "guestScore": 112,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904881,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-09",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-09T15:00:00.000Z",
+   "home": {
+    "id": 322901,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163016,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": 64,
+   "guestScore": 49,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904883,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T10:30:00.000Z",
+   "home": {
+    "id": 320307,
+    "name": "TuS Traunreut",
+    "clubId": 3150,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163016,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": 115,
+   "guestScore": 43,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904885,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T08:00:00.000Z",
+   "home": {
+    "id": 166760,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162966,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": 87,
+   "guestScore": 70,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904887,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T10:00:00.000Z",
+   "home": {
+    "id": 166682,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322901,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "homeScore": 96,
+   "guestScore": 56,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904889,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T08:00:00.000Z",
+   "home": {
+    "id": 165714,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163006,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904891,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T09:30:00.000Z",
+   "home": {
+    "id": 166677,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310476,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": 83,
+   "guestScore": 50,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904893,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T11:00:00.000Z",
+   "home": {
+    "id": 162966,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166677,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": 67,
+   "guestScore": 51,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904895,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T13:45:00.000Z",
+   "home": {
+    "id": 310476,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165714,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": 25,
+   "guestScore": 97,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904897,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T12:30:00.000Z",
+   "home": {
+    "id": 163006,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320307,
+    "name": "TuS Traunreut",
+    "clubId": 3150,
+    "forfeit": false
+   },
+   "homeScore": 37,
+   "guestScore": 98,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904899,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-29",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-29T17:00:00.000Z",
+   "home": {
+    "id": 163016,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166682,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": 54,
+   "guestScore": 80,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904901,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T10:00:00.000Z",
+   "home": {
+    "id": 322901,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166760,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904903,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T11:30:00.000Z",
+   "home": {
+    "id": 320307,
+    "name": "TuS Traunreut",
+    "clubId": 3150,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166682,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904905,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T11:30:00.000Z",
+   "home": {
+    "id": 166760,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163016,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904907,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T13:30:00.000Z",
+   "home": {
+    "id": 163006,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310476,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904909,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T11:30:00.000Z",
+   "home": {
+    "id": 165714,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162966,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904910,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T12:00:00.000Z",
+   "home": {
+    "id": 166677,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322901,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904911,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T12:30:00.000Z",
+   "home": {
+    "id": 162966,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163006,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904912,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T14:00:00.000Z",
+   "home": {
+    "id": 310476,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320307,
+    "name": "TuS Traunreut",
+    "clubId": 3150,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904913,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T13:30:00.000Z",
+   "home": {
+    "id": 166682,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166760,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904914,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T09:00:00.000Z",
+   "home": {
+    "id": 163016,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166677,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904915,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T16:00:00.000Z",
+   "home": {
+    "id": 322901,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165714,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904916,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T11:30:00.000Z",
+   "home": {
+    "id": 320307,
+    "name": "TuS Traunreut",
+    "clubId": 3150,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166760,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904917,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T13:45:00.000Z",
+   "home": {
+    "id": 310476,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162966,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904918,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T09:00:00.000Z",
+   "home": {
+    "id": 163006,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322901,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904919,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T11:30:00.000Z",
+   "home": {
+    "id": 165714,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163016,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904920,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T12:00:00.000Z",
+   "home": {
+    "id": 166677,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166682,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904921,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T11:30:00.000Z",
+   "home": {
+    "id": 320307,
+    "name": "TuS Traunreut",
+    "clubId": 3150,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162966,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904922,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "09:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T08:30:00.000Z",
+   "home": {
+    "id": 166760,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166677,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904923,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T11:15:00.000Z",
+   "home": {
+    "id": 166682,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165714,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904924,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T09:00:00.000Z",
+   "home": {
+    "id": 163016,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163006,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904925,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T16:30:00.000Z",
+   "home": {
+    "id": 322901,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310476,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904926,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "12:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T11:45:00.000Z",
+   "home": {
+    "id": 162966,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322901,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904927,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T13:45:00.000Z",
+   "home": {
+    "id": 310476,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163016,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904928,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T09:00:00.000Z",
+   "home": {
+    "id": 163006,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166682,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904929,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T11:30:00.000Z",
+   "home": {
+    "id": 165714,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166760,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904930,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T13:00:00.000Z",
+   "home": {
+    "id": 166677,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320307,
+    "name": "TuS Traunreut",
+    "clubId": 3150,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904931,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T13:30:00.000Z",
+   "home": {
+    "id": 322901,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320307,
+    "name": "TuS Traunreut",
+    "clubId": 3150,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904932,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T13:30:00.000Z",
+   "home": {
+    "id": 163006,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166760,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904933,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T10:15:00.000Z",
+   "home": {
+    "id": 310476,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166682,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904934,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "13:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T12:15:00.000Z",
+   "home": {
+    "id": 162966,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163016,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904935,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T11:30:00.000Z",
+   "home": {
+    "id": 165714,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166677,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904936,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T11:00:00.000Z",
+   "home": {
+    "id": 166682,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162966,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904937,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T09:00:00.000Z",
+   "home": {
+    "id": 166760,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310476,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904938,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T12:00:00.000Z",
+   "home": {
+    "id": 166677,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163006,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904939,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T11:30:00.000Z",
+   "home": {
+    "id": 320307,
+    "name": "TuS Traunreut",
+    "clubId": 3150,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165714,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904940,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-22",
+   "kickoffTime": "09:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-22T08:30:00.000Z",
+   "home": {
+    "id": 163016,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322901,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904941,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T15:00:00.000Z",
+   "home": {
+    "id": 163016,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320307,
+    "name": "TuS Traunreut",
+    "clubId": 3150,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904942,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T12:00:00.000Z",
+   "home": {
+    "id": 162966,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166760,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904943,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T13:30:00.000Z",
+   "home": {
+    "id": 322901,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166682,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904944,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T13:30:00.000Z",
+   "home": {
+    "id": 163006,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165714,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904945,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T13:45:00.000Z",
+   "home": {
+    "id": 310476,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166677,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904946,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T12:00:00.000Z",
+   "home": {
+    "id": 166677,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162966,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904947,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T11:30:00.000Z",
+   "home": {
+    "id": 165714,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310476,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904948,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T11:30:00.000Z",
+   "home": {
+    "id": 320307,
+    "name": "TuS Traunreut",
+    "clubId": 3150,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163006,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904949,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T11:15:00.000Z",
+   "home": {
+    "id": 166682,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163016,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904950,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T09:00:00.000Z",
+   "home": {
+    "id": 166760,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322901,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904951,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T11:00:00.000Z",
+   "home": {
+    "id": 166682,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320307,
+    "name": "TuS Traunreut",
+    "clubId": 3150,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904952,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "09:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T08:30:00.000Z",
+   "home": {
+    "id": 163016,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166760,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904953,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T13:45:00.000Z",
+   "home": {
+    "id": 310476,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163006,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904954,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T12:00:00.000Z",
+   "home": {
+    "id": 162966,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165714,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904955,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T16:00:00.000Z",
+   "home": {
+    "id": 322901,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166677,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904956,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T13:30:00.000Z",
+   "home": {
+    "id": 163006,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162966,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904957,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T11:30:00.000Z",
+   "home": {
+    "id": 320307,
+    "name": "TuS Traunreut",
+    "clubId": 3150,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310476,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904958,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T09:00:00.000Z",
+   "home": {
+    "id": 166760,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166682,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904959,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T10:30:00.000Z",
+   "home": {
+    "id": 166677,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163016,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904960,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T11:30:00.000Z",
+   "home": {
+    "id": 165714,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322901,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904961,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T10:00:00.000Z",
+   "home": {
+    "id": 166760,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320307,
+    "name": "TuS Traunreut",
+    "clubId": 3150,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904962,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T12:00:00.000Z",
+   "home": {
+    "id": 162966,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310476,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904963,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T11:15:00.000Z",
+   "home": {
+    "id": 322901,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163006,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904964,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "09:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T08:30:00.000Z",
+   "home": {
+    "id": 163016,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165714,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904965,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T11:15:00.000Z",
+   "home": {
+    "id": 166682,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166677,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904966,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T11:00:00.000Z",
+   "home": {
+    "id": 162966,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320307,
+    "name": "TuS Traunreut",
+    "clubId": 3150,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904967,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T08:00:00.000Z",
+   "home": {
+    "id": 166677,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166760,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904968,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T10:30:00.000Z",
+   "home": {
+    "id": 165714,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166682,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904969,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T12:30:00.000Z",
+   "home": {
+    "id": 163006,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163016,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904970,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T12:45:00.000Z",
+   "home": {
+    "id": 310476,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322901,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904971,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T10:15:00.000Z",
+   "home": {
+    "id": 322901,
+    "name": "Ost Youngstars",
+    "clubId": 5260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162966,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904973,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T08:00:00.000Z",
+   "home": {
+    "id": 163016,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310476,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904975,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T10:15:00.000Z",
+   "home": {
+    "id": 166682,
+    "name": "TSV Oberhaching",
+    "clubId": 747,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163006,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904977,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T08:00:00.000Z",
+   "home": {
+    "id": 166760,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165714,
+    "name": "MTSV Schwabing 2",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904979,
+   "ligaId": 53792,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T10:30:00.000Z",
+   "home": {
+    "id": 320307,
+    "name": "TuS Traunreut",
+    "clubId": 3150,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166677,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

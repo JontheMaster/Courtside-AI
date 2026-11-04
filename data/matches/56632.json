@@ -1,0 +1,858 @@
+{
+ "league": {
+  "ligaId": 56632,
+  "name": "Bezirksklasse U14 männlich A",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U14",
+  "gender": "männlich",
+  "level": "Bezirksklasse",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2985644,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T12:30:00.000Z",
+   "home": {
+    "id": 178808,
+    "name": "BG Litzendorf 2",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317059,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "homeScore": 74,
+   "guestScore": 41,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985645,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T14:00:00.000Z",
+   "home": {
+    "id": 282006,
+    "name": "Regnitztal Baskets 2",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 202079,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 68,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985646,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T09:00:00.000Z",
+   "home": {
+    "id": 317059,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 282006,
+    "name": "Regnitztal Baskets 2",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "homeScore": 47,
+   "guestScore": 89,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985648,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T13:00:00.000Z",
+   "home": {
+    "id": 292931,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 178808,
+    "name": "BG Litzendorf 2",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985650,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T16:00:00.000Z",
+   "home": {
+    "id": 202079,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317059,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985651,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T12:00:00.000Z",
+   "home": {
+    "id": 282006,
+    "name": "Regnitztal Baskets 2",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 292931,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985653,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T12:00:00.000Z",
+   "home": {
+    "id": 178808,
+    "name": "BG Litzendorf 2",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 282006,
+    "name": "Regnitztal Baskets 2",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985654,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T13:30:00.000Z",
+   "home": {
+    "id": 292931,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 202079,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985655,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T14:00:00.000Z",
+   "home": {
+    "id": 317059,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 292931,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985656,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T16:00:00.000Z",
+   "home": {
+    "id": 202079,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 178808,
+    "name": "BG Litzendorf 2",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985659,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T11:30:00.000Z",
+   "home": {
+    "id": 317059,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 178808,
+    "name": "BG Litzendorf 2",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985660,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T09:00:00.000Z",
+   "home": {
+    "id": 202079,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 282006,
+    "name": "Regnitztal Baskets 2",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985661,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T12:00:00.000Z",
+   "home": {
+    "id": 282006,
+    "name": "Regnitztal Baskets 2",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317059,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985663,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T11:00:00.000Z",
+   "home": {
+    "id": 178808,
+    "name": "BG Litzendorf 2",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 292931,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985665,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T14:00:00.000Z",
+   "home": {
+    "id": 317059,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 202079,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985666,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T12:00:00.000Z",
+   "home": {
+    "id": 282006,
+    "name": "Regnitztal Baskets 2",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 292931,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985668,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T09:00:00.000Z",
+   "home": {
+    "id": 282006,
+    "name": "Regnitztal Baskets 2",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 178808,
+    "name": "BG Litzendorf 2",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985669,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:00:00.000Z",
+   "home": {
+    "id": 202079,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 292931,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985670,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T13:30:00.000Z",
+   "home": {
+    "id": 292931,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317059,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985671,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T13:00:00.000Z",
+   "home": {
+    "id": 178808,
+    "name": "BG Litzendorf 2",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 202079,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985674,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T13:00:00.000Z",
+   "home": {
+    "id": 178808,
+    "name": "BG Litzendorf 2",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317059,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985675,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T12:00:00.000Z",
+   "home": {
+    "id": 282006,
+    "name": "Regnitztal Baskets 2",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 202079,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985676,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-02-26T23:00:00.000Z",
+   "home": {
+    "id": 317059,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 282006,
+    "name": "Regnitztal Baskets 2",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985678,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T13:30:00.000Z",
+   "home": {
+    "id": 292931,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 178808,
+    "name": "BG Litzendorf 2",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985680,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T11:15:00.000Z",
+   "home": {
+    "id": 202079,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317059,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985681,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T13:00:00.000Z",
+   "home": {
+    "id": 292931,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 282006,
+    "name": "Regnitztal Baskets 2",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985683,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T13:30:00.000Z",
+   "home": {
+    "id": 178808,
+    "name": "BG Litzendorf 2",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 282006,
+    "name": "Regnitztal Baskets 2",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985684,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T13:30:00.000Z",
+   "home": {
+    "id": 292931,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 202079,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985685,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-03-19T23:00:00.000Z",
+   "home": {
+    "id": 317059,
+    "name": "DJK Eggolsheim 2",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 292931,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985686,
+   "ligaId": 56632,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T16:00:00.000Z",
+   "home": {
+    "id": 202079,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 178808,
+    "name": "BG Litzendorf 2",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

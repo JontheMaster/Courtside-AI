@@ -1,0 +1,2538 @@
+{
+ "league": {
+  "ligaId": 53797,
+  "name": "West - Bezirksklasse U14m (WE-BK14M) 2026/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U14",
+  "gender": "männlich",
+  "level": "Bezirksklasse",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2909149,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T10:15:00.000Z",
+   "home": {
+    "id": 163012,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314817,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 87,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909150,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T12:15:00.000Z",
+   "home": {
+    "id": 273410,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321111,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": 86,
+   "guestScore": 36,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909151,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T08:00:00.000Z",
+   "home": {
+    "id": 163015,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165321,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": 58,
+   "guestScore": 60,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909152,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T10:15:00.000Z",
+   "home": {
+    "id": 163018,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165464,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": 20,
+   "guestScore": 0,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909153,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T10:00:00.000Z",
+   "home": {
+    "id": 165481,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309731,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": 53,
+   "guestScore": 48,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909154,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "09:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T07:45:00.000Z",
+   "home": {
+    "id": 165464,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163015,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 75,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909155,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T15:45:00.000Z",
+   "home": {
+    "id": 165321,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273410,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909156,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T08:00:00.000Z",
+   "home": {
+    "id": 321111,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165481,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": 37,
+   "guestScore": 60,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909157,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T13:00:00.000Z",
+   "home": {
+    "id": 309731,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163012,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": 47,
+   "guestScore": 76,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909158,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T08:00:00.000Z",
+   "home": {
+    "id": 314817,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163018,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": 79,
+   "guestScore": 45,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909159,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T12:30:00.000Z",
+   "home": {
+    "id": 163012,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163018,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": 63,
+   "guestScore": 82,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909160,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T14:45:00.000Z",
+   "home": {
+    "id": 273410,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165464,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": 106,
+   "guestScore": 53,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909161,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T10:30:00.000Z",
+   "home": {
+    "id": 163015,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314817,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": 74,
+   "guestScore": 53,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909162,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "11:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T09:15:00.000Z",
+   "home": {
+    "id": 309731,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321111,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": 102,
+   "guestScore": 34,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909163,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T10:00:00.000Z",
+   "home": {
+    "id": 165481,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165321,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": 45,
+   "guestScore": 80,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909164,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T10:00:00.000Z",
+   "home": {
+    "id": 165464,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165481,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 79,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909165,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T10:15:00.000Z",
+   "home": {
+    "id": 165321,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309731,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": 84,
+   "guestScore": 54,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909166,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T09:00:00.000Z",
+   "home": {
+    "id": 321111,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163012,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": 55,
+   "guestScore": 69,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909167,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T11:15:00.000Z",
+   "home": {
+    "id": 163018,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163015,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": 49,
+   "guestScore": 116,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909168,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T12:30:00.000Z",
+   "home": {
+    "id": 314817,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273410,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "homeScore": 91,
+   "guestScore": 35,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909169,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T13:30:00.000Z",
+   "home": {
+    "id": 163012,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163015,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909170,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T15:30:00.000Z",
+   "home": {
+    "id": 273410,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163018,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909171,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T09:00:00.000Z",
+   "home": {
+    "id": 321111,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165321,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909172,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "13:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T12:15:00.000Z",
+   "home": {
+    "id": 309731,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165464,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909173,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T11:00:00.000Z",
+   "home": {
+    "id": 165481,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314817,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909174,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T13:15:00.000Z",
+   "home": {
+    "id": 165464,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321111,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909175,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T11:15:00.000Z",
+   "home": {
+    "id": 165321,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163012,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909176,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T14:00:00.000Z",
+   "home": {
+    "id": 163015,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273410,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909177,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T11:15:00.000Z",
+   "home": {
+    "id": 163018,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165481,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909178,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "09:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T08:00:00.000Z",
+   "home": {
+    "id": 314817,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309731,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909179,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T15:45:00.000Z",
+   "home": {
+    "id": 163012,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273410,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909180,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T11:15:00.000Z",
+   "home": {
+    "id": 165321,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165464,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909181,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T09:00:00.000Z",
+   "home": {
+    "id": 321111,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314817,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909182,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "11:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T10:15:00.000Z",
+   "home": {
+    "id": 309731,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163018,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909183,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T11:00:00.000Z",
+   "home": {
+    "id": 165481,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163015,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909184,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T11:15:00.000Z",
+   "home": {
+    "id": 163012,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165464,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909185,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T13:30:00.000Z",
+   "home": {
+    "id": 273410,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165481,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909186,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T09:00:00.000Z",
+   "home": {
+    "id": 163015,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309731,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909187,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T11:15:00.000Z",
+   "home": {
+    "id": 163018,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321111,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909188,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T09:00:00.000Z",
+   "home": {
+    "id": 314817,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165321,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": 58,
+   "guestScore": 103,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909190,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T12:30:00.000Z",
+   "home": {
+    "id": 165464,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314817,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909191,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T11:15:00.000Z",
+   "home": {
+    "id": 165321,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163018,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909192,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T09:00:00.000Z",
+   "home": {
+    "id": 321111,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163015,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909193,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "11:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T10:15:00.000Z",
+   "home": {
+    "id": 309731,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273410,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909194,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T11:00:00.000Z",
+   "home": {
+    "id": 165481,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163012,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909195,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T11:30:00.000Z",
+   "home": {
+    "id": 314817,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163012,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909196,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T09:00:00.000Z",
+   "home": {
+    "id": 321111,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273410,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909197,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T09:00:00.000Z",
+   "home": {
+    "id": 165321,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163015,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909198,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T13:15:00.000Z",
+   "home": {
+    "id": 165464,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163018,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909199,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T14:00:00.000Z",
+   "home": {
+    "id": 309731,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165481,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909200,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T09:00:00.000Z",
+   "home": {
+    "id": 163015,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165464,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909201,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T12:30:00.000Z",
+   "home": {
+    "id": 273410,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165321,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": 43,
+   "guestScore": 93,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909202,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T09:00:00.000Z",
+   "home": {
+    "id": 165481,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321111,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909203,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T11:15:00.000Z",
+   "home": {
+    "id": 163012,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309731,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909204,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T13:30:00.000Z",
+   "home": {
+    "id": 163018,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314817,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909205,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T11:15:00.000Z",
+   "home": {
+    "id": 163018,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163012,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909206,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T13:15:00.000Z",
+   "home": {
+    "id": 165464,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273410,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909207,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T11:30:00.000Z",
+   "home": {
+    "id": 314817,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163015,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909208,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T09:00:00.000Z",
+   "home": {
+    "id": 321111,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309731,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909209,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T13:30:00.000Z",
+   "home": {
+    "id": 165321,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165481,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909210,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T11:00:00.000Z",
+   "home": {
+    "id": 165481,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165464,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909211,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "11:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T10:15:00.000Z",
+   "home": {
+    "id": 309731,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165321,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909212,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T11:15:00.000Z",
+   "home": {
+    "id": 163012,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321111,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909213,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T11:30:00.000Z",
+   "home": {
+    "id": 163015,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163018,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909214,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "16:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T15:15:00.000Z",
+   "home": {
+    "id": 273410,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314817,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909216,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T09:00:00.000Z",
+   "home": {
+    "id": 163015,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163012,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909217,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T11:15:00.000Z",
+   "home": {
+    "id": 163018,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273410,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909218,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T11:15:00.000Z",
+   "home": {
+    "id": 165321,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321111,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909219,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T13:15:00.000Z",
+   "home": {
+    "id": 165464,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309731,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909220,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T10:30:00.000Z",
+   "home": {
+    "id": 314817,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165481,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909221,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T09:00:00.000Z",
+   "home": {
+    "id": 321111,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165464,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909222,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T15:45:00.000Z",
+   "home": {
+    "id": 163012,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165321,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909223,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T15:45:00.000Z",
+   "home": {
+    "id": 273410,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163015,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909224,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T11:00:00.000Z",
+   "home": {
+    "id": 165481,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163018,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909225,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "11:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T10:15:00.000Z",
+   "home": {
+    "id": 309731,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314817,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909226,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T15:45:00.000Z",
+   "home": {
+    "id": 273410,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163012,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909227,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T13:15:00.000Z",
+   "home": {
+    "id": 165464,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165321,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909228,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T09:00:00.000Z",
+   "home": {
+    "id": 314817,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321111,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909229,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T11:15:00.000Z",
+   "home": {
+    "id": 163018,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309731,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909230,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T11:30:00.000Z",
+   "home": {
+    "id": 163015,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165481,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909231,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T14:00:00.000Z",
+   "home": {
+    "id": 165464,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163012,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909232,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T10:00:00.000Z",
+   "home": {
+    "id": 165481,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273410,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909233,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "11:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T09:15:00.000Z",
+   "home": {
+    "id": 309731,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163015,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909234,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T08:00:00.000Z",
+   "home": {
+    "id": 321111,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163018,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909236,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T10:15:00.000Z",
+   "home": {
+    "id": 165321,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314817,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909237,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T10:30:00.000Z",
+   "home": {
+    "id": 314817,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165464,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909238,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T10:15:00.000Z",
+   "home": {
+    "id": 163018,
+    "name": "TuS Fürstenfeldbruck",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165321,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909239,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T12:30:00.000Z",
+   "home": {
+    "id": 163015,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321111,
+    "name": "HWKT 2 - Hard Work Knox Talent e.V..",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909240,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T14:45:00.000Z",
+   "home": {
+    "id": 273410,
+    "name": "TSV Hechendorf",
+    "clubId": 1958,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309731,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909241,
+   "ligaId": 53797,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T08:00:00.000Z",
+   "home": {
+    "id": 163012,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165481,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

@@ -1,0 +1,858 @@
+{
+ "league": {
+  "ligaId": 56009,
+  "name": "UFR Bezirksliga U14 weiblich",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U14",
+  "gender": "weiblich",
+  "level": "Bezirksliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Unterfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2932713,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:00:00.000Z",
+   "home": {
+    "id": 273289,
+    "name": "DJK Münsterschwarzach AK",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310667,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": 36,
+   "guestScore": 53,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932714,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T09:00:00.000Z",
+   "home": {
+    "id": 321141,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228408,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": 17,
+   "guestScore": 105,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932715,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T10:00:00.000Z",
+   "home": {
+    "id": 323116,
+    "name": "SV Oberdürrbach 1959 AK",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321144,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932716,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T12:30:00.000Z",
+   "home": {
+    "id": 228408,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323116,
+    "name": "SV Oberdürrbach 1959 AK",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "homeScore": 86,
+   "guestScore": 25,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932717,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "15:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T13:15:00.000Z",
+   "home": {
+    "id": 321144,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273289,
+    "name": "DJK Münsterschwarzach AK",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "homeScore": 44,
+   "guestScore": 37,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932718,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T14:00:00.000Z",
+   "home": {
+    "id": 310667,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321141,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "homeScore": 81,
+   "guestScore": 51,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932719,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T13:00:00.000Z",
+   "home": {
+    "id": 273289,
+    "name": "DJK Münsterschwarzach AK",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321141,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932720,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "11:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T10:15:00.000Z",
+   "home": {
+    "id": 321144,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228408,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932721,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T12:00:00.000Z",
+   "home": {
+    "id": 323116,
+    "name": "SV Oberdürrbach 1959 AK",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310667,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932722,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T13:00:00.000Z",
+   "home": {
+    "id": 273289,
+    "name": "DJK Münsterschwarzach AK",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228408,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932723,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T12:00:00.000Z",
+   "home": {
+    "id": 321141,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323116,
+    "name": "SV Oberdürrbach 1959 AK",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932724,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "10:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T09:45:00.000Z",
+   "home": {
+    "id": 310667,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321144,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932725,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T13:00:00.000Z",
+   "home": {
+    "id": 228408,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310667,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932726,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T12:00:00.000Z",
+   "home": {
+    "id": 321144,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321141,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932727,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T12:30:00.000Z",
+   "home": {
+    "id": 323116,
+    "name": "SV Oberdürrbach 1959 AK",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273289,
+    "name": "DJK Münsterschwarzach AK",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932728,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T10:00:00.000Z",
+   "home": {
+    "id": 310667,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273289,
+    "name": "DJK Münsterschwarzach AK",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932729,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T11:00:00.000Z",
+   "home": {
+    "id": 228408,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321141,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932730,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T12:00:00.000Z",
+   "home": {
+    "id": 321144,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323116,
+    "name": "SV Oberdürrbach 1959 AK",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932731,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T12:00:00.000Z",
+   "home": {
+    "id": 323116,
+    "name": "SV Oberdürrbach 1959 AK",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228408,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932732,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T13:00:00.000Z",
+   "home": {
+    "id": 273289,
+    "name": "DJK Münsterschwarzach AK",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321144,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932733,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T12:00:00.000Z",
+   "home": {
+    "id": 321141,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310667,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932734,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T10:00:00.000Z",
+   "home": {
+    "id": 321141,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273289,
+    "name": "DJK Münsterschwarzach AK",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932735,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T15:45:00.000Z",
+   "home": {
+    "id": 228408,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321144,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932736,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T12:00:00.000Z",
+   "home": {
+    "id": 310667,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323116,
+    "name": "SV Oberdürrbach 1959 AK",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932737,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T11:00:00.000Z",
+   "home": {
+    "id": 228408,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273289,
+    "name": "DJK Münsterschwarzach AK",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932738,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T12:00:00.000Z",
+   "home": {
+    "id": 323116,
+    "name": "SV Oberdürrbach 1959 AK",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321141,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932739,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T12:00:00.000Z",
+   "home": {
+    "id": 321144,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310667,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932740,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "10:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T09:45:00.000Z",
+   "home": {
+    "id": 310667,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228408,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932741,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T10:00:00.000Z",
+   "home": {
+    "id": 321141,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321144,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932742,
+   "ligaId": 56009,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T15:00:00.000Z",
+   "home": {
+    "id": 273289,
+    "name": "DJK Münsterschwarzach AK",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323116,
+    "name": "SV Oberdürrbach 1959 AK",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

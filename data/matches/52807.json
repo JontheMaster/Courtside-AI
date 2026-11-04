@@ -1,0 +1,2538 @@
+{
+ "league": {
+  "ligaId": 52807,
+  "name": "Bezirksliga Herren",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Bezirksliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2897185,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T14:30:00.000Z",
+   "home": {
+    "id": 321239,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143017,
+    "name": "BBC Coburg 2",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "homeScore": 96,
+   "guestScore": 92,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897186,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T17:30:00.000Z",
+   "home": {
+    "id": 143226,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150996,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": 71,
+   "guestScore": 101,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897187,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T12:30:00.000Z",
+   "home": {
+    "id": 142980,
+    "name": "BBC Bayreuth 3",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142991,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": 101,
+   "guestScore": 47,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897188,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T16:00:00.000Z",
+   "home": {
+    "id": 150993,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166187,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "homeScore": 83,
+   "guestScore": 63,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897189,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T16:00:00.000Z",
+   "home": {
+    "id": 143024,
+    "name": "TSV Breitengüßbach 4",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143008,
+    "name": "TSV Hof",
+    "clubId": 1004,
+    "forfeit": false
+   },
+   "homeScore": 60,
+   "guestScore": 49,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897190,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T16:00:00.000Z",
+   "home": {
+    "id": 150993,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142980,
+    "name": "BBC Bayreuth 3",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": 66,
+   "guestScore": 69,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897191,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:00:00.000Z",
+   "home": {
+    "id": 142991,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143226,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "homeScore": 50,
+   "guestScore": 79,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897192,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T15:00:00.000Z",
+   "home": {
+    "id": 150996,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143024,
+    "name": "TSV Breitengüßbach 4",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": 102,
+   "guestScore": 52,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897193,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T14:30:00.000Z",
+   "home": {
+    "id": 143008,
+    "name": "TSV Hof",
+    "clubId": 1004,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321239,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 80,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897194,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T14:00:00.000Z",
+   "home": {
+    "id": 143017,
+    "name": "BBC Coburg 2",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166187,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "homeScore": 104,
+   "guestScore": 45,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897195,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "10:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T08:45:00.000Z",
+   "home": {
+    "id": 321239,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166187,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "homeScore": 98,
+   "guestScore": 42,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897196,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T17:00:00.000Z",
+   "home": {
+    "id": 143226,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150993,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897197,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T14:45:00.000Z",
+   "home": {
+    "id": 142980,
+    "name": "BBC Bayreuth 3",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143017,
+    "name": "BBC Coburg 2",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "homeScore": 71,
+   "guestScore": 72,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897198,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T17:00:00.000Z",
+   "home": {
+    "id": 143008,
+    "name": "TSV Hof",
+    "clubId": 1004,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150996,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": 83,
+   "guestScore": 71,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897199,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T15:00:00.000Z",
+   "home": {
+    "id": 143024,
+    "name": "TSV Breitengüßbach 4",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142991,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": 77,
+   "guestScore": 52,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897200,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T18:00:00.000Z",
+   "home": {
+    "id": 150993,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143024,
+    "name": "TSV Breitengüßbach 4",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": 83,
+   "guestScore": 85,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897201,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T16:30:00.000Z",
+   "home": {
+    "id": 142991,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143008,
+    "name": "TSV Hof",
+    "clubId": 1004,
+    "forfeit": false
+   },
+   "homeScore": 53,
+   "guestScore": 96,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897202,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T13:00:00.000Z",
+   "home": {
+    "id": 150996,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321239,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "homeScore": 60,
+   "guestScore": 75,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897203,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T17:00:00.000Z",
+   "home": {
+    "id": 142980,
+    "name": "BBC Bayreuth 3",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166187,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897204,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T11:30:00.000Z",
+   "home": {
+    "id": 143017,
+    "name": "BBC Coburg 2",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143226,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "homeScore": 76,
+   "guestScore": 84,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897205,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T15:30:00.000Z",
+   "home": {
+    "id": 321239,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142980,
+    "name": "BBC Bayreuth 3",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897206,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T18:30:00.000Z",
+   "home": {
+    "id": 143226,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166187,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897207,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T10:00:00.000Z",
+   "home": {
+    "id": 150996,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142991,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897208,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T18:00:00.000Z",
+   "home": {
+    "id": 143008,
+    "name": "TSV Hof",
+    "clubId": 1004,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150993,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897209,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T16:00:00.000Z",
+   "home": {
+    "id": 143024,
+    "name": "TSV Breitengüßbach 4",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143017,
+    "name": "BBC Coburg 2",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897210,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T19:00:00.000Z",
+   "home": {
+    "id": 150993,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150996,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897211,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T17:30:00.000Z",
+   "home": {
+    "id": 142991,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321239,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897212,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T15:45:00.000Z",
+   "home": {
+    "id": 142980,
+    "name": "BBC Bayreuth 3",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143226,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897213,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-20",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-20T19:00:00.000Z",
+   "home": {
+    "id": 166187,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143024,
+    "name": "TSV Breitengüßbach 4",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897214,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T12:00:00.000Z",
+   "home": {
+    "id": 143017,
+    "name": "BBC Coburg 2",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143008,
+    "name": "TSV Hof",
+    "clubId": 1004,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897215,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T15:30:00.000Z",
+   "home": {
+    "id": 321239,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143226,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897216,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T17:30:00.000Z",
+   "home": {
+    "id": 142991,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150993,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897217,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T16:00:00.000Z",
+   "home": {
+    "id": 150996,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143017,
+    "name": "BBC Coburg 2",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897218,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T18:00:00.000Z",
+   "home": {
+    "id": 143008,
+    "name": "TSV Hof",
+    "clubId": 1004,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166187,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897219,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T16:00:00.000Z",
+   "home": {
+    "id": 143024,
+    "name": "TSV Breitengüßbach 4",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142980,
+    "name": "BBC Bayreuth 3",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897220,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T10:30:00.000Z",
+   "home": {
+    "id": 321239,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150993,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897221,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T18:30:00.000Z",
+   "home": {
+    "id": 143226,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143024,
+    "name": "TSV Breitengüßbach 4",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897222,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T13:30:00.000Z",
+   "home": {
+    "id": 142980,
+    "name": "BBC Bayreuth 3",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143008,
+    "name": "TSV Hof",
+    "clubId": 1004,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897223,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-04",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-04T19:00:00.000Z",
+   "home": {
+    "id": 166187,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150996,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897224,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T12:00:00.000Z",
+   "home": {
+    "id": 143017,
+    "name": "BBC Coburg 2",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142991,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897225,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T18:30:00.000Z",
+   "home": {
+    "id": 150993,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143017,
+    "name": "BBC Coburg 2",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897226,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T16:00:00.000Z",
+   "home": {
+    "id": 142991,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166187,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897227,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T15:00:00.000Z",
+   "home": {
+    "id": 150996,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142980,
+    "name": "BBC Bayreuth 3",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897228,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T18:00:00.000Z",
+   "home": {
+    "id": 143008,
+    "name": "TSV Hof",
+    "clubId": 1004,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143226,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897229,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T16:00:00.000Z",
+   "home": {
+    "id": 143024,
+    "name": "TSV Breitengüßbach 4",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321239,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897230,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T09:00:00.000Z",
+   "home": {
+    "id": 143017,
+    "name": "BBC Coburg 2",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321239,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897231,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T16:00:00.000Z",
+   "home": {
+    "id": 150996,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143226,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897232,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T17:30:00.000Z",
+   "home": {
+    "id": 142991,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142980,
+    "name": "BBC Bayreuth 3",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897233,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T19:00:00.000Z",
+   "home": {
+    "id": 166187,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150993,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897234,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T15:30:00.000Z",
+   "home": {
+    "id": 143008,
+    "name": "TSV Hof",
+    "clubId": 1004,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143024,
+    "name": "TSV Breitengüßbach 4",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897235,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T18:00:00.000Z",
+   "home": {
+    "id": 142980,
+    "name": "BBC Bayreuth 3",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150993,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897236,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T18:30:00.000Z",
+   "home": {
+    "id": 143226,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142991,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897237,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:00:00.000Z",
+   "home": {
+    "id": 143024,
+    "name": "TSV Breitengüßbach 4",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150996,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897238,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T15:30:00.000Z",
+   "home": {
+    "id": 321239,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143008,
+    "name": "TSV Hof",
+    "clubId": 1004,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897239,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T19:00:00.000Z",
+   "home": {
+    "id": 166187,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143017,
+    "name": "BBC Coburg 2",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897240,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-29",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-29T19:00:00.000Z",
+   "home": {
+    "id": 166187,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321239,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897241,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T18:30:00.000Z",
+   "home": {
+    "id": 150993,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143226,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897242,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T12:00:00.000Z",
+   "home": {
+    "id": 143017,
+    "name": "BBC Coburg 2",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142980,
+    "name": "BBC Bayreuth 3",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897243,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T13:00:00.000Z",
+   "home": {
+    "id": 150996,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143008,
+    "name": "TSV Hof",
+    "clubId": 1004,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897244,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T17:30:00.000Z",
+   "home": {
+    "id": 142991,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143024,
+    "name": "TSV Breitengüßbach 4",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897245,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T16:00:00.000Z",
+   "home": {
+    "id": 143024,
+    "name": "TSV Breitengüßbach 4",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150993,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897246,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T18:00:00.000Z",
+   "home": {
+    "id": 143008,
+    "name": "TSV Hof",
+    "clubId": 1004,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142991,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897247,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T09:30:00.000Z",
+   "home": {
+    "id": 321239,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150996,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897248,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-12",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-12T19:00:00.000Z",
+   "home": {
+    "id": 166187,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142980,
+    "name": "BBC Bayreuth 3",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897249,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T18:30:00.000Z",
+   "home": {
+    "id": 143226,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143017,
+    "name": "BBC Coburg 2",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897250,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T15:45:00.000Z",
+   "home": {
+    "id": 142980,
+    "name": "BBC Bayreuth 3",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321239,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897251,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-19",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-19T19:00:00.000Z",
+   "home": {
+    "id": 166187,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143226,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897252,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T17:30:00.000Z",
+   "home": {
+    "id": 142991,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150996,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897253,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T18:30:00.000Z",
+   "home": {
+    "id": 150993,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143008,
+    "name": "TSV Hof",
+    "clubId": 1004,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897254,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T12:30:00.000Z",
+   "home": {
+    "id": 143017,
+    "name": "BBC Coburg 2",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143024,
+    "name": "TSV Breitengüßbach 4",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897255,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T13:00:00.000Z",
+   "home": {
+    "id": 150996,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150993,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897256,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T09:30:00.000Z",
+   "home": {
+    "id": 321239,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142991,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897257,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T18:30:00.000Z",
+   "home": {
+    "id": 143226,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142980,
+    "name": "BBC Bayreuth 3",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897258,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T16:00:00.000Z",
+   "home": {
+    "id": 143024,
+    "name": "TSV Breitengüßbach 4",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166187,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897259,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T15:30:00.000Z",
+   "home": {
+    "id": 143008,
+    "name": "TSV Hof",
+    "clubId": 1004,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143017,
+    "name": "BBC Coburg 2",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897260,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T18:30:00.000Z",
+   "home": {
+    "id": 143226,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321239,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897261,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T18:30:00.000Z",
+   "home": {
+    "id": 150993,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142991,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897262,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T12:00:00.000Z",
+   "home": {
+    "id": 143017,
+    "name": "BBC Coburg 2",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150996,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897263,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T19:00:00.000Z",
+   "home": {
+    "id": 166187,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143008,
+    "name": "TSV Hof",
+    "clubId": 1004,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897264,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T18:00:00.000Z",
+   "home": {
+    "id": 142980,
+    "name": "BBC Bayreuth 3",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143024,
+    "name": "TSV Breitengüßbach 4",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897265,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T18:30:00.000Z",
+   "home": {
+    "id": 150993,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321239,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897266,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T16:00:00.000Z",
+   "home": {
+    "id": 143024,
+    "name": "TSV Breitengüßbach 4",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143226,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897267,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T15:30:00.000Z",
+   "home": {
+    "id": 143008,
+    "name": "TSV Hof",
+    "clubId": 1004,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142980,
+    "name": "BBC Bayreuth 3",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897268,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T09:00:00.000Z",
+   "home": {
+    "id": 150996,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166187,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897269,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T17:30:00.000Z",
+   "home": {
+    "id": 142991,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143017,
+    "name": "BBC Coburg 2",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897270,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T12:00:00.000Z",
+   "home": {
+    "id": 143017,
+    "name": "BBC Coburg 2",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150993,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897271,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-19",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-19T19:00:00.000Z",
+   "home": {
+    "id": 166187,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142991,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897272,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T18:00:00.000Z",
+   "home": {
+    "id": 142980,
+    "name": "BBC Bayreuth 3",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150996,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897273,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T18:30:00.000Z",
+   "home": {
+    "id": 143226,
+    "name": "Maintal Baskets Hassberge",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143008,
+    "name": "TSV Hof",
+    "clubId": 1004,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897274,
+   "ligaId": 52807,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T16:00:00.000Z",
+   "home": {
+    "id": 321239,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143024,
+    "name": "TSV Breitengüßbach 4",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

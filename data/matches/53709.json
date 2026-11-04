@@ -1,0 +1,2538 @@
+{
+ "league": {
+  "ligaId": 53709,
+  "name": "MFR Bezirksoberliga Herren",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Mittelfranken",
+  "competitionType": "regular",
+  "role": "core"
+ },
+ "matches": [
+  {
+   "matchId": 2869768,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T09:00:00.000Z",
+   "home": {
+    "id": 266864,
+    "name": "ESV Flügelrad Nürnberg 1",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151006,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": 74,
+   "guestScore": 66,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869769,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T15:30:00.000Z",
+   "home": {
+    "id": 157649,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157627,
+    "name": "TSV Ansbach 2",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "homeScore": 73,
+   "guestScore": 77,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869770,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T15:00:00.000Z",
+   "home": {
+    "id": 152018,
+    "name": "VfL Treuchtlingen 2",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157674,
+    "name": "TV 1877 Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869771,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T17:00:00.000Z",
+   "home": {
+    "id": 157635,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151990,
+    "name": "Post SV Nürnberg 1",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": 62,
+   "guestScore": 77,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869772,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T12:30:00.000Z",
+   "home": {
+    "id": 157630,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157626,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": 80,
+   "guestScore": 108,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869773,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T18:00:00.000Z",
+   "home": {
+    "id": 151990,
+    "name": "Post SV Nürnberg 1",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152018,
+    "name": "VfL Treuchtlingen 2",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": 73,
+   "guestScore": 75,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869774,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T17:30:00.000Z",
+   "home": {
+    "id": 157674,
+    "name": "TV 1877 Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157649,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": 69,
+   "guestScore": 64,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869775,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:00:00.000Z",
+   "home": {
+    "id": 157627,
+    "name": "TSV Ansbach 2",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157630,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": 62,
+   "guestScore": 78,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869776,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:30:00.000Z",
+   "home": {
+    "id": 157626,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 266864,
+    "name": "ESV Flügelrad Nürnberg 1",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "homeScore": 87,
+   "guestScore": 86,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869777,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T13:00:00.000Z",
+   "home": {
+    "id": 151006,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157635,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": 89,
+   "guestScore": 57,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869778,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T15:00:00.000Z",
+   "home": {
+    "id": 266864,
+    "name": "ESV Flügelrad Nürnberg 1",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157635,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": 76,
+   "guestScore": 48,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869779,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T15:30:00.000Z",
+   "home": {
+    "id": 157649,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151990,
+    "name": "Post SV Nürnberg 1",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": 79,
+   "guestScore": 87,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869780,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-02-07",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-07T14:30:00.000Z",
+   "home": {
+    "id": 152018,
+    "name": "VfL Treuchtlingen 2",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151006,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869781,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T12:30:00.000Z",
+   "home": {
+    "id": 157626,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157627,
+    "name": "TSV Ansbach 2",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "homeScore": 44,
+   "guestScore": 62,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869782,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-04-03",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-03T16:00:00.000Z",
+   "home": {
+    "id": 157630,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157674,
+    "name": "TV 1877 Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869783,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T18:00:00.000Z",
+   "home": {
+    "id": 151990,
+    "name": "Post SV Nürnberg 1",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157630,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": 78,
+   "guestScore": 69,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869784,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T15:00:00.000Z",
+   "home": {
+    "id": 157674,
+    "name": "TV 1877 Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157626,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869785,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:00:00.000Z",
+   "home": {
+    "id": 157627,
+    "name": "TSV Ansbach 2",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 266864,
+    "name": "ESV Flügelrad Nürnberg 1",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "homeScore": 81,
+   "guestScore": 55,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869786,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T14:00:00.000Z",
+   "home": {
+    "id": 157635,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152018,
+    "name": "VfL Treuchtlingen 2",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": 61,
+   "guestScore": 54,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869787,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T14:00:00.000Z",
+   "home": {
+    "id": 151006,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157649,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": 89,
+   "guestScore": 69,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869788,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T19:00:00.000Z",
+   "home": {
+    "id": 266864,
+    "name": "ESV Flügelrad Nürnberg 1",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152018,
+    "name": "VfL Treuchtlingen 2",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869789,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T16:30:00.000Z",
+   "home": {
+    "id": 157649,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157635,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869790,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T16:00:00.000Z",
+   "home": {
+    "id": 157627,
+    "name": "TSV Ansbach 2",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157674,
+    "name": "TV 1877 Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869791,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T13:30:00.000Z",
+   "home": {
+    "id": 157626,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151990,
+    "name": "Post SV Nürnberg 1",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869792,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T17:00:00.000Z",
+   "home": {
+    "id": 157630,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151006,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869793,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T19:00:00.000Z",
+   "home": {
+    "id": 151990,
+    "name": "Post SV Nürnberg 1",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157627,
+    "name": "TSV Ansbach 2",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869794,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T18:30:00.000Z",
+   "home": {
+    "id": 157674,
+    "name": "TV 1877 Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 266864,
+    "name": "ESV Flügelrad Nürnberg 1",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869795,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T15:00:00.000Z",
+   "home": {
+    "id": 152018,
+    "name": "VfL Treuchtlingen 2",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157649,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869796,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T15:00:00.000Z",
+   "home": {
+    "id": 157635,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157630,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869797,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T14:00:00.000Z",
+   "home": {
+    "id": 151006,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157626,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869798,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T17:30:00.000Z",
+   "home": {
+    "id": 266864,
+    "name": "ESV Flügelrad Nürnberg 1",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157649,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869799,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T18:30:00.000Z",
+   "home": {
+    "id": 157674,
+    "name": "TV 1877 Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151990,
+    "name": "Post SV Nürnberg 1",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869800,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T16:00:00.000Z",
+   "home": {
+    "id": 157627,
+    "name": "TSV Ansbach 2",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151006,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869801,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T16:30:00.000Z",
+   "home": {
+    "id": 157626,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157635,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869802,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T17:00:00.000Z",
+   "home": {
+    "id": 157630,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152018,
+    "name": "VfL Treuchtlingen 2",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869803,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T17:00:00.000Z",
+   "home": {
+    "id": 266864,
+    "name": "ESV Flügelrad Nürnberg 1",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151990,
+    "name": "Post SV Nürnberg 1",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869804,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T16:30:00.000Z",
+   "home": {
+    "id": 157649,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157630,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869805,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T15:00:00.000Z",
+   "home": {
+    "id": 152018,
+    "name": "VfL Treuchtlingen 2",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157626,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869806,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T14:00:00.000Z",
+   "home": {
+    "id": 157635,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157627,
+    "name": "TSV Ansbach 2",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869807,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T14:00:00.000Z",
+   "home": {
+    "id": 151006,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157674,
+    "name": "TV 1877 Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869808,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T19:00:00.000Z",
+   "home": {
+    "id": 151990,
+    "name": "Post SV Nürnberg 1",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151006,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869809,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T17:00:00.000Z",
+   "home": {
+    "id": 157674,
+    "name": "TV 1877 Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157635,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869810,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T16:00:00.000Z",
+   "home": {
+    "id": 157627,
+    "name": "TSV Ansbach 2",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152018,
+    "name": "VfL Treuchtlingen 2",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869811,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T16:30:00.000Z",
+   "home": {
+    "id": 157626,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157649,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869812,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T17:00:00.000Z",
+   "home": {
+    "id": 157630,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 266864,
+    "name": "ESV Flügelrad Nürnberg 1",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869813,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T14:00:00.000Z",
+   "home": {
+    "id": 151006,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 266864,
+    "name": "ESV Flügelrad Nürnberg 1",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869814,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:00:00.000Z",
+   "home": {
+    "id": 157627,
+    "name": "TSV Ansbach 2",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157649,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869815,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T18:30:00.000Z",
+   "home": {
+    "id": 157674,
+    "name": "TV 1877 Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152018,
+    "name": "VfL Treuchtlingen 2",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869816,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T19:00:00.000Z",
+   "home": {
+    "id": 151990,
+    "name": "Post SV Nürnberg 1",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157635,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869817,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:30:00.000Z",
+   "home": {
+    "id": 157626,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157630,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869818,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T15:00:00.000Z",
+   "home": {
+    "id": 152018,
+    "name": "VfL Treuchtlingen 2",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151990,
+    "name": "Post SV Nürnberg 1",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869819,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:30:00.000Z",
+   "home": {
+    "id": 157649,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157674,
+    "name": "TV 1877 Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869820,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T15:00:00.000Z",
+   "home": {
+    "id": 157630,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157627,
+    "name": "TSV Ansbach 2",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869821,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T19:00:00.000Z",
+   "home": {
+    "id": 266864,
+    "name": "ESV Flügelrad Nürnberg 1",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157626,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869822,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T12:00:00.000Z",
+   "home": {
+    "id": 157635,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151006,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869823,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T15:00:00.000Z",
+   "home": {
+    "id": 157635,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 266864,
+    "name": "ESV Flügelrad Nürnberg 1",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869824,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T19:00:00.000Z",
+   "home": {
+    "id": 151990,
+    "name": "Post SV Nürnberg 1",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157649,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869825,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T14:00:00.000Z",
+   "home": {
+    "id": 151006,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152018,
+    "name": "VfL Treuchtlingen 2",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869826,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T16:00:00.000Z",
+   "home": {
+    "id": 157627,
+    "name": "TSV Ansbach 2",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157626,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869827,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T18:30:00.000Z",
+   "home": {
+    "id": 157674,
+    "name": "TV 1877 Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157630,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869828,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T17:00:00.000Z",
+   "home": {
+    "id": 157630,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151990,
+    "name": "Post SV Nürnberg 1",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869829,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T16:30:00.000Z",
+   "home": {
+    "id": 157626,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157674,
+    "name": "TV 1877 Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869830,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T17:00:00.000Z",
+   "home": {
+    "id": 266864,
+    "name": "ESV Flügelrad Nürnberg 1",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157627,
+    "name": "TSV Ansbach 2",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869831,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T18:00:00.000Z",
+   "home": {
+    "id": 152018,
+    "name": "VfL Treuchtlingen 2",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157635,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869832,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T16:30:00.000Z",
+   "home": {
+    "id": 157649,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151006,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869833,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T15:00:00.000Z",
+   "home": {
+    "id": 152018,
+    "name": "VfL Treuchtlingen 2",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 266864,
+    "name": "ESV Flügelrad Nürnberg 1",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869834,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T14:00:00.000Z",
+   "home": {
+    "id": 157635,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157649,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869835,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T18:30:00.000Z",
+   "home": {
+    "id": 157674,
+    "name": "TV 1877 Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157627,
+    "name": "TSV Ansbach 2",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869836,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T19:00:00.000Z",
+   "home": {
+    "id": 151990,
+    "name": "Post SV Nürnberg 1",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157626,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869837,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T14:00:00.000Z",
+   "home": {
+    "id": 151006,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157630,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869838,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T16:00:00.000Z",
+   "home": {
+    "id": 157627,
+    "name": "TSV Ansbach 2",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151990,
+    "name": "Post SV Nürnberg 1",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869839,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T10:00:00.000Z",
+   "home": {
+    "id": 266864,
+    "name": "ESV Flügelrad Nürnberg 1",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157674,
+    "name": "TV 1877 Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869840,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T16:30:00.000Z",
+   "home": {
+    "id": 157649,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152018,
+    "name": "VfL Treuchtlingen 2",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869841,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T15:00:00.000Z",
+   "home": {
+    "id": 157630,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157635,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869842,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T16:30:00.000Z",
+   "home": {
+    "id": 157626,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151006,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869843,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T16:30:00.000Z",
+   "home": {
+    "id": 157649,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 266864,
+    "name": "ESV Flügelrad Nürnberg 1",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869844,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T19:00:00.000Z",
+   "home": {
+    "id": 151990,
+    "name": "Post SV Nürnberg 1",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157674,
+    "name": "TV 1877 Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869845,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T14:00:00.000Z",
+   "home": {
+    "id": 151006,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157627,
+    "name": "TSV Ansbach 2",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869846,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T12:00:00.000Z",
+   "home": {
+    "id": 157635,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157626,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869847,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T15:00:00.000Z",
+   "home": {
+    "id": 152018,
+    "name": "VfL Treuchtlingen 2",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157630,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869848,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T18:00:00.000Z",
+   "home": {
+    "id": 151990,
+    "name": "Post SV Nürnberg 1",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 266864,
+    "name": "ESV Flügelrad Nürnberg 1",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869849,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T13:30:00.000Z",
+   "home": {
+    "id": 157630,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157649,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869850,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T15:30:00.000Z",
+   "home": {
+    "id": 157626,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152018,
+    "name": "VfL Treuchtlingen 2",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869851,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T15:00:00.000Z",
+   "home": {
+    "id": 157627,
+    "name": "TSV Ansbach 2",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157635,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869852,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T17:30:00.000Z",
+   "home": {
+    "id": 157674,
+    "name": "TV 1877 Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151006,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869853,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T13:00:00.000Z",
+   "home": {
+    "id": 151006,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151990,
+    "name": "Post SV Nürnberg 1",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869854,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T14:00:00.000Z",
+   "home": {
+    "id": 157635,
+    "name": "TB 1888 Erlangen 2",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157674,
+    "name": "TV 1877 Lauf",
+    "clubId": 1627,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869855,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T17:30:00.000Z",
+   "home": {
+    "id": 152018,
+    "name": "VfL Treuchtlingen 2",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157627,
+    "name": "TSV Ansbach 2",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869856,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T15:30:00.000Z",
+   "home": {
+    "id": 157649,
+    "name": "TV Fürth 1860",
+    "clubId": 558,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157626,
+    "name": "TS Herzogenaurach 2",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2869857,
+   "ligaId": 53709,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T18:00:00.000Z",
+   "home": {
+    "id": 266864,
+    "name": "ESV Flügelrad Nürnberg 1",
+    "clubId": 1727,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157630,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

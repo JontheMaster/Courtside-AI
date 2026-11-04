@@ -1,0 +1,438 @@
+{
+ "league": {
+  "ligaId": 54351,
+  "name": "Landesliga U18 m Einteilungsrunde West",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U18",
+  "gender": "männlich",
+  "level": "Landesliga",
+  "levelScope": "Verband",
+  "verbandId": 2,
+  "bezirk": null,
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2904555,
+   "ligaId": 54351,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T11:30:00.000Z",
+   "home": {
+    "id": 163630,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143089,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "homeScore": 73,
+   "guestScore": 78,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904557,
+   "ligaId": 54351,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T10:30:00.000Z",
+   "home": {
+    "id": 143084,
+    "name": "TSV Breitengüßbach",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163677,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": 60,
+   "guestScore": 56,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904561,
+   "ligaId": 54351,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T11:00:00.000Z",
+   "home": {
+    "id": 316488,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143083,
+    "name": "CYBEX Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": 84,
+   "guestScore": 85,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904565,
+   "ligaId": 54351,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T09:00:00.000Z",
+   "home": {
+    "id": 163677,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316488,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": 73,
+   "guestScore": 86,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904566,
+   "ligaId": 54351,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T15:00:00.000Z",
+   "home": {
+    "id": 143083,
+    "name": "CYBEX Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163630,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": 81,
+   "guestScore": 75,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904569,
+   "ligaId": 54351,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T10:30:00.000Z",
+   "home": {
+    "id": 143084,
+    "name": "TSV Breitengüßbach",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143089,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904570,
+   "ligaId": 54351,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T11:30:00.000Z",
+   "home": {
+    "id": 143083,
+    "name": "CYBEX Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163677,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": 76,
+   "guestScore": 58,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904573,
+   "ligaId": 54351,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T14:00:00.000Z",
+   "home": {
+    "id": 163677,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163630,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904575,
+   "ligaId": 54351,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T16:00:00.000Z",
+   "home": {
+    "id": 143089,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316488,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904576,
+   "ligaId": 54351,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T10:00:00.000Z",
+   "home": {
+    "id": 163630,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143084,
+    "name": "TSV Breitengüßbach",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904578,
+   "ligaId": 54351,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T16:00:00.000Z",
+   "home": {
+    "id": 143089,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143083,
+    "name": "CYBEX Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904581,
+   "ligaId": 54351,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T11:00:00.000Z",
+   "home": {
+    "id": 143084,
+    "name": "TSV Breitengüßbach",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316488,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904583,
+   "ligaId": 54351,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T15:30:00.000Z",
+   "home": {
+    "id": 143089,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163677,
+    "name": "TG Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904588,
+   "ligaId": 54351,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T12:30:00.000Z",
+   "home": {
+    "id": 143083,
+    "name": "CYBEX Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143084,
+    "name": "TSV Breitengüßbach",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904590,
+   "ligaId": 54351,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T13:00:00.000Z",
+   "home": {
+    "id": 316488,
+    "name": "Aschaffenburg Baskets",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163630,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

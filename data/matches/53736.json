@@ -1,0 +1,1586 @@
+{
+ "league": {
+  "ligaId": 53736,
+  "name": "Kreisliga Herren B (MI-KLHB) 2026/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Kreisliga",
+  "levelScope": "Kreis",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2904585,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T17:30:00.000Z",
+   "home": {
+    "id": 162384,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162383,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": 53,
+   "guestScore": 57,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904587,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-11-01",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-01T15:00:00.000Z",
+   "home": {
+    "id": 157000,
+    "name": "TSV 1884 Wolnzach 2",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162389,
+    "name": "TSV Vaterstetten 2",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": 53,
+   "guestScore": 63,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904589,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T14:00:00.000Z",
+   "home": {
+    "id": 162399,
+    "name": "VfR Garching 2",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310472,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": 33,
+   "guestScore": 46,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904591,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T16:00:00.000Z",
+   "home": {
+    "id": 168497,
+    "name": "TV von 1895 Markt Schwaben",
+    "clubId": 322,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318907,
+    "name": "Chinesischer SV München",
+    "clubId": 5155,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 61,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904595,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:00:00.000Z",
+   "home": {
+    "id": 318907,
+    "name": "Chinesischer SV München",
+    "clubId": 5155,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162399,
+    "name": "VfR Garching 2",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "homeScore": 80,
+   "guestScore": 61,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904597,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T17:30:00.000Z",
+   "home": {
+    "id": 310472,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157000,
+    "name": "TSV 1884 Wolnzach 2",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": 20,
+   "guestScore": 0,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904603,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:00:00.000Z",
+   "home": {
+    "id": 162383,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168497,
+    "name": "TV von 1895 Markt Schwaben",
+    "clubId": 322,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 44,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904605,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T17:30:00.000Z",
+   "home": {
+    "id": 162384,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168497,
+    "name": "TV von 1895 Markt Schwaben",
+    "clubId": 322,
+    "forfeit": false
+   },
+   "homeScore": 62,
+   "guestScore": 48,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904607,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T17:00:00.000Z",
+   "home": {
+    "id": 157000,
+    "name": "TSV 1884 Wolnzach 2",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318907,
+    "name": "Chinesischer SV München",
+    "clubId": 5155,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904609,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T13:00:00.000Z",
+   "home": {
+    "id": 162399,
+    "name": "VfR Garching 2",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162383,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": 63,
+   "guestScore": 68,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904619,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T18:00:00.000Z",
+   "home": {
+    "id": 162389,
+    "name": "TSV Vaterstetten 2",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162384,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904621,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T17:00:00.000Z",
+   "home": {
+    "id": 168497,
+    "name": "TV von 1895 Markt Schwaben",
+    "clubId": 322,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162399,
+    "name": "VfR Garching 2",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "homeScore": 92,
+   "guestScore": 72,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904623,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:00:00.000Z",
+   "home": {
+    "id": 162383,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157000,
+    "name": "TSV 1884 Wolnzach 2",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": 68,
+   "guestScore": 62,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904625,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T19:00:00.000Z",
+   "home": {
+    "id": 162384,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162399,
+    "name": "VfR Garching 2",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904627,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T18:00:00.000Z",
+   "home": {
+    "id": 157000,
+    "name": "TSV 1884 Wolnzach 2",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168497,
+    "name": "TV von 1895 Markt Schwaben",
+    "clubId": 322,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904629,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T18:00:00.000Z",
+   "home": {
+    "id": 162389,
+    "name": "TSV Vaterstetten 2",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310472,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904635,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T16:00:00.000Z",
+   "home": {
+    "id": 318907,
+    "name": "Chinesischer SV München",
+    "clubId": 5155,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162389,
+    "name": "TSV Vaterstetten 2",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904637,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T18:30:00.000Z",
+   "home": {
+    "id": 310472,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162384,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904639,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T16:00:00.000Z",
+   "home": {
+    "id": 162399,
+    "name": "VfR Garching 2",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157000,
+    "name": "TSV 1884 Wolnzach 2",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904645,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T18:30:00.000Z",
+   "home": {
+    "id": 162384,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157000,
+    "name": "TSV 1884 Wolnzach 2",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904647,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T18:30:00.000Z",
+   "home": {
+    "id": 310472,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318907,
+    "name": "Chinesischer SV München",
+    "clubId": 5155,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904648,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T18:00:00.000Z",
+   "home": {
+    "id": 162389,
+    "name": "TSV Vaterstetten 2",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162383,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904651,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T18:30:00.000Z",
+   "home": {
+    "id": 162384,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318907,
+    "name": "Chinesischer SV München",
+    "clubId": 5155,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904654,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T17:00:00.000Z",
+   "home": {
+    "id": 168497,
+    "name": "TV von 1895 Markt Schwaben",
+    "clubId": 322,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162389,
+    "name": "TSV Vaterstetten 2",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904655,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T16:00:00.000Z",
+   "home": {
+    "id": 162383,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310472,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904656,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T16:00:00.000Z",
+   "home": {
+    "id": 318907,
+    "name": "Chinesischer SV München",
+    "clubId": 5155,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162383,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904657,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T18:30:00.000Z",
+   "home": {
+    "id": 310472,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168497,
+    "name": "TV von 1895 Markt Schwaben",
+    "clubId": 322,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904658,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T16:30:00.000Z",
+   "home": {
+    "id": 162389,
+    "name": "TSV Vaterstetten 2",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162399,
+    "name": "VfR Garching 2",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904661,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:00:00.000Z",
+   "home": {
+    "id": 162383,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162384,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904662,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T18:00:00.000Z",
+   "home": {
+    "id": 162389,
+    "name": "TSV Vaterstetten 2",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157000,
+    "name": "TSV 1884 Wolnzach 2",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904663,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T18:30:00.000Z",
+   "home": {
+    "id": 310472,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162399,
+    "name": "VfR Garching 2",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904664,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:00:00.000Z",
+   "home": {
+    "id": 318907,
+    "name": "Chinesischer SV München",
+    "clubId": 5155,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168497,
+    "name": "TV von 1895 Markt Schwaben",
+    "clubId": 322,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904666,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T16:00:00.000Z",
+   "home": {
+    "id": 162399,
+    "name": "VfR Garching 2",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318907,
+    "name": "Chinesischer SV München",
+    "clubId": 5155,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904667,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T18:00:00.000Z",
+   "home": {
+    "id": 157000,
+    "name": "TSV 1884 Wolnzach 2",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310472,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904670,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T18:00:00.000Z",
+   "home": {
+    "id": 168497,
+    "name": "TV von 1895 Markt Schwaben",
+    "clubId": 322,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162383,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904671,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T17:00:00.000Z",
+   "home": {
+    "id": 168497,
+    "name": "TV von 1895 Markt Schwaben",
+    "clubId": 322,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162384,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904672,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T16:00:00.000Z",
+   "home": {
+    "id": 318907,
+    "name": "Chinesischer SV München",
+    "clubId": 5155,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157000,
+    "name": "TSV 1884 Wolnzach 2",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904673,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T16:00:00.000Z",
+   "home": {
+    "id": 162383,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162399,
+    "name": "VfR Garching 2",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904678,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T19:00:00.000Z",
+   "home": {
+    "id": 162384,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162389,
+    "name": "TSV Vaterstetten 2",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904679,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T14:00:00.000Z",
+   "home": {
+    "id": 162399,
+    "name": "VfR Garching 2",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168497,
+    "name": "TV von 1895 Markt Schwaben",
+    "clubId": 322,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904680,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T18:00:00.000Z",
+   "home": {
+    "id": 157000,
+    "name": "TSV 1884 Wolnzach 2",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162383,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904681,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T15:00:00.000Z",
+   "home": {
+    "id": 162399,
+    "name": "VfR Garching 2",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162384,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904682,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T17:00:00.000Z",
+   "home": {
+    "id": 168497,
+    "name": "TV von 1895 Markt Schwaben",
+    "clubId": 322,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157000,
+    "name": "TSV 1884 Wolnzach 2",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904683,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T18:30:00.000Z",
+   "home": {
+    "id": 310472,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162389,
+    "name": "TSV Vaterstetten 2",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904686,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T16:30:00.000Z",
+   "home": {
+    "id": 162389,
+    "name": "TSV Vaterstetten 2",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318907,
+    "name": "Chinesischer SV München",
+    "clubId": 5155,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904687,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T16:30:00.000Z",
+   "home": {
+    "id": 162384,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310472,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904688,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T18:00:00.000Z",
+   "home": {
+    "id": 157000,
+    "name": "TSV 1884 Wolnzach 2",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162399,
+    "name": "VfR Garching 2",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904691,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T17:00:00.000Z",
+   "home": {
+    "id": 157000,
+    "name": "TSV 1884 Wolnzach 2",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162384,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904692,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T16:00:00.000Z",
+   "home": {
+    "id": 318907,
+    "name": "Chinesischer SV München",
+    "clubId": 5155,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310472,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904693,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T16:00:00.000Z",
+   "home": {
+    "id": 162383,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162389,
+    "name": "TSV Vaterstetten 2",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904696,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T15:00:00.000Z",
+   "home": {
+    "id": 318907,
+    "name": "Chinesischer SV München",
+    "clubId": 5155,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162384,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904699,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T15:30:00.000Z",
+   "home": {
+    "id": 162389,
+    "name": "TSV Vaterstetten 2",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168497,
+    "name": "TV von 1895 Markt Schwaben",
+    "clubId": 322,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904700,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T17:30:00.000Z",
+   "home": {
+    "id": 310472,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162383,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904701,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T15:00:00.000Z",
+   "home": {
+    "id": 162383,
+    "name": "TSV Jahn Freising 2",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318907,
+    "name": "Chinesischer SV München",
+    "clubId": 5155,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904702,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T16:00:00.000Z",
+   "home": {
+    "id": 168497,
+    "name": "TV von 1895 Markt Schwaben",
+    "clubId": 322,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310472,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904703,
+   "ligaId": 53736,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T12:30:00.000Z",
+   "home": {
+    "id": 162399,
+    "name": "VfR Garching 2",
+    "clubId": 1943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162389,
+    "name": "TSV Vaterstetten 2",
+    "clubId": 1055,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

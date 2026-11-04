@@ -1,0 +1,354 @@
+{
+ "league": {
+  "ligaId": 56463,
+  "name": "U18 weiblich Bezirksoberliga",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U18",
+  "gender": "weiblich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberpfalz",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2958214,
+   "ligaId": 56463,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T10:00:00.000Z",
+   "home": {
+    "id": 272780,
+    "name": "DJK Pressath 1",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 194488,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": 65,
+   "guestScore": 49,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958215,
+   "ligaId": 56463,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T13:00:00.000Z",
+   "home": {
+    "id": 321733,
+    "name": "1. FC Schwarzenfeld",
+    "clubId": 1887,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 311245,
+    "name": "FC Tegernheim",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958216,
+   "ligaId": 56463,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T13:30:00.000Z",
+   "home": {
+    "id": 272780,
+    "name": "DJK Pressath 1",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 311245,
+    "name": "FC Tegernheim",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958217,
+   "ligaId": 56463,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T11:00:00.000Z",
+   "home": {
+    "id": 194488,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321733,
+    "name": "1. FC Schwarzenfeld",
+    "clubId": 1887,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958218,
+   "ligaId": 56463,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T16:00:00.000Z",
+   "home": {
+    "id": 311245,
+    "name": "FC Tegernheim",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 194488,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958219,
+   "ligaId": 56463,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T14:00:00.000Z",
+   "home": {
+    "id": 321733,
+    "name": "1. FC Schwarzenfeld",
+    "clubId": 1887,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 272780,
+    "name": "DJK Pressath 1",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958220,
+   "ligaId": 56463,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T09:00:00.000Z",
+   "home": {
+    "id": 194488,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 272780,
+    "name": "DJK Pressath 1",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958221,
+   "ligaId": 56463,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T13:30:00.000Z",
+   "home": {
+    "id": 311245,
+    "name": "FC Tegernheim",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321733,
+    "name": "1. FC Schwarzenfeld",
+    "clubId": 1887,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958222,
+   "ligaId": 56463,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T12:30:00.000Z",
+   "home": {
+    "id": 311245,
+    "name": "FC Tegernheim",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 272780,
+    "name": "DJK Pressath 1",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958223,
+   "ligaId": 56463,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T13:00:00.000Z",
+   "home": {
+    "id": 321733,
+    "name": "1. FC Schwarzenfeld",
+    "clubId": 1887,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 194488,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958224,
+   "ligaId": 56463,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T17:00:00.000Z",
+   "home": {
+    "id": 194488,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 311245,
+    "name": "FC Tegernheim",
+    "clubId": 428,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2958225,
+   "ligaId": 56463,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T09:00:00.000Z",
+   "home": {
+    "id": 272780,
+    "name": "DJK Pressath 1",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321733,
+    "name": "1. FC Schwarzenfeld",
+    "clubId": 1887,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

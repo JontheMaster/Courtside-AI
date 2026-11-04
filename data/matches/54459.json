@@ -1,0 +1,1586 @@
+{
+ "league": {
+  "ligaId": 54459,
+  "name": "Bezirksoberliga U18 männlich 26/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U18",
+  "gender": "männlich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Schwaben",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2924858,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T13:30:00.000Z",
+   "home": {
+    "id": 163569,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163577,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924859,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T16:30:00.000Z",
+   "home": {
+    "id": 163579,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163572,
+    "name": "BG Leitershofen/Stadtbergen",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924860,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T11:30:00.000Z",
+   "home": {
+    "id": 231426,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163571,
+    "name": "VSC Baskets Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "homeScore": 134,
+   "guestScore": 58,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924861,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T08:00:00.000Z",
+   "home": {
+    "id": 314289,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163580,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "homeScore": 82,
+   "guestScore": 49,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924862,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T15:00:00.000Z",
+   "home": {
+    "id": 163571,
+    "name": "VSC Baskets Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163579,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": 106,
+   "guestScore": 44,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924863,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T12:45:00.000Z",
+   "home": {
+    "id": 163572,
+    "name": "BG Leitershofen/Stadtbergen",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314289,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": 81,
+   "guestScore": 79,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924864,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T09:30:00.000Z",
+   "home": {
+    "id": 163580,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163569,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": 66,
+   "guestScore": 98,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924865,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T12:45:00.000Z",
+   "home": {
+    "id": 163577,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 231426,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": 60,
+   "guestScore": 109,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924866,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T10:15:00.000Z",
+   "home": {
+    "id": 163569,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 231426,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": 92,
+   "guestScore": 70,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924867,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T14:00:00.000Z",
+   "home": {
+    "id": 163579,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163577,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": 56,
+   "guestScore": 69,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924868,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:30:00.000Z",
+   "home": {
+    "id": 163580,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163572,
+    "name": "BG Leitershofen/Stadtbergen",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": 47,
+   "guestScore": 100,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924869,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T12:30:00.000Z",
+   "home": {
+    "id": 314289,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163571,
+    "name": "VSC Baskets Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924870,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T16:00:00.000Z",
+   "home": {
+    "id": 163571,
+    "name": "VSC Baskets Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163580,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924871,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T14:00:00.000Z",
+   "home": {
+    "id": 163572,
+    "name": "BG Leitershofen/Stadtbergen",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163569,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924872,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T16:30:00.000Z",
+   "home": {
+    "id": 231426,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163579,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924873,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T12:30:00.000Z",
+   "home": {
+    "id": 163577,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314289,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924874,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T15:45:00.000Z",
+   "home": {
+    "id": 163569,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163579,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924875,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T13:15:00.000Z",
+   "home": {
+    "id": 163572,
+    "name": "BG Leitershofen/Stadtbergen",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163571,
+    "name": "VSC Baskets Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924876,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T11:30:00.000Z",
+   "home": {
+    "id": 163580,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163577,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924877,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T13:30:00.000Z",
+   "home": {
+    "id": 314289,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 231426,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924878,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T13:30:00.000Z",
+   "home": {
+    "id": 163569,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163571,
+    "name": "VSC Baskets Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924879,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-02-07",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-07T15:30:00.000Z",
+   "home": {
+    "id": 163579,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314289,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924880,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T15:00:00.000Z",
+   "home": {
+    "id": 231426,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163580,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924881,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T15:00:00.000Z",
+   "home": {
+    "id": 163577,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163572,
+    "name": "BG Leitershofen/Stadtbergen",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924882,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T16:00:00.000Z",
+   "home": {
+    "id": 163571,
+    "name": "VSC Baskets Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163577,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924883,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T15:30:00.000Z",
+   "home": {
+    "id": 163572,
+    "name": "BG Leitershofen/Stadtbergen",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 231426,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924884,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T15:30:00.000Z",
+   "home": {
+    "id": 163580,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163579,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924885,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T13:30:00.000Z",
+   "home": {
+    "id": 314289,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163569,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924886,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T15:00:00.000Z",
+   "home": {
+    "id": 163577,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163569,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924887,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T13:30:00.000Z",
+   "home": {
+    "id": 163572,
+    "name": "BG Leitershofen/Stadtbergen",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163579,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924888,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T15:30:00.000Z",
+   "home": {
+    "id": 163571,
+    "name": "VSC Baskets Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 231426,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924889,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T09:00:00.000Z",
+   "home": {
+    "id": 163580,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314289,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924890,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T16:30:00.000Z",
+   "home": {
+    "id": 163579,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163571,
+    "name": "VSC Baskets Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924891,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T15:00:00.000Z",
+   "home": {
+    "id": 314289,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163572,
+    "name": "BG Leitershofen/Stadtbergen",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924892,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T13:30:00.000Z",
+   "home": {
+    "id": 163569,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163580,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924893,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T15:00:00.000Z",
+   "home": {
+    "id": 231426,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163577,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924894,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T16:30:00.000Z",
+   "home": {
+    "id": 231426,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163569,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924895,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "13:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T12:45:00.000Z",
+   "home": {
+    "id": 163577,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163579,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924896,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T09:30:00.000Z",
+   "home": {
+    "id": 163572,
+    "name": "BG Leitershofen/Stadtbergen",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163580,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924897,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T15:00:00.000Z",
+   "home": {
+    "id": 163571,
+    "name": "VSC Baskets Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314289,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924898,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T12:00:00.000Z",
+   "home": {
+    "id": 163580,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163571,
+    "name": "VSC Baskets Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924899,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T15:45:00.000Z",
+   "home": {
+    "id": 163569,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163572,
+    "name": "BG Leitershofen/Stadtbergen",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924900,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T14:00:00.000Z",
+   "home": {
+    "id": 163579,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 231426,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924901,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T13:30:00.000Z",
+   "home": {
+    "id": 314289,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163577,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924902,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T14:00:00.000Z",
+   "home": {
+    "id": 163579,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163569,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924903,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T13:30:00.000Z",
+   "home": {
+    "id": 163571,
+    "name": "VSC Baskets Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163572,
+    "name": "BG Leitershofen/Stadtbergen",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924904,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T16:00:00.000Z",
+   "home": {
+    "id": 163577,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163580,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924905,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T11:30:00.000Z",
+   "home": {
+    "id": 231426,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314289,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924906,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T16:00:00.000Z",
+   "home": {
+    "id": 163571,
+    "name": "VSC Baskets Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163569,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924907,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T13:30:00.000Z",
+   "home": {
+    "id": 314289,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163579,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924908,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T11:30:00.000Z",
+   "home": {
+    "id": 163580,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 231426,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924909,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T11:15:00.000Z",
+   "home": {
+    "id": 163572,
+    "name": "BG Leitershofen/Stadtbergen",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163577,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924910,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T12:30:00.000Z",
+   "home": {
+    "id": 163577,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163571,
+    "name": "VSC Baskets Donauwörth",
+    "clubId": 1310,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924911,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T12:30:00.000Z",
+   "home": {
+    "id": 231426,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163572,
+    "name": "BG Leitershofen/Stadtbergen",
+    "clubId": 97,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924912,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2026-11-01",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-01T11:30:00.000Z",
+   "home": {
+    "id": 163579,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163580,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "homeScore": 67,
+   "guestScore": 65,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924913,
+   "ligaId": 54459,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T11:15:00.000Z",
+   "home": {
+    "id": 163569,
+    "name": "TSV Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314289,
+    "name": "BG Illertal",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

@@ -1,0 +1,1217 @@
+{
+ "league": {
+  "ligaId": 53808,
+  "name": "West - Kreisklasse U14m-A (WE-KK14M-A) 2026/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U14",
+  "gender": "männlich",
+  "level": "Kreisklasse",
+  "levelScope": "Kreis",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2909702,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T09:30:00.000Z",
+   "home": {
+    "id": 318404,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 232544,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909704,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T15:30:00.000Z",
+   "home": {
+    "id": 168205,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198779,
+    "name": "Slama Jama Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 52,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909705,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T10:30:00.000Z",
+   "home": {
+    "id": 165519,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 258752,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909706,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T14:00:00.000Z",
+   "home": {
+    "id": 198779,
+    "name": "Slama Jama Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909707,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T08:00:00.000Z",
+   "home": {
+    "id": 229672,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165519,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "homeScore": 65,
+   "guestScore": 53,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909708,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "09:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T08:45:00.000Z",
+   "home": {
+    "id": 258752,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 318404,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909709,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T15:45:00.000Z",
+   "home": {
+    "id": 232544,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168205,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "homeScore": 30,
+   "guestScore": 83,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909710,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T13:30:00.000Z",
+   "home": {
+    "id": 318404,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168205,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909712,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "09:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T08:45:00.000Z",
+   "home": {
+    "id": 258752,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 229672,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909713,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T11:30:00.000Z",
+   "home": {
+    "id": 165519,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198779,
+    "name": "Slama Jama Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909714,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T10:00:00.000Z",
+   "home": {
+    "id": 198779,
+    "name": "Slama Jama Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 258752,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909716,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T09:00:00.000Z",
+   "home": {
+    "id": 229672,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318404,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909718,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T13:30:00.000Z",
+   "home": {
+    "id": 232544,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165519,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909720,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T09:00:00.000Z",
+   "home": {
+    "id": 229672,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198779,
+    "name": "Slama Jama Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909721,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T12:30:00.000Z",
+   "home": {
+    "id": 258752,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 232544,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909722,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T11:30:00.000Z",
+   "home": {
+    "id": 165519,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168205,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909723,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T09:00:00.000Z",
+   "home": {
+    "id": 318404,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198779,
+    "name": "Slama Jama Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909725,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T11:30:00.000Z",
+   "home": {
+    "id": 168205,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 258752,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909726,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T13:30:00.000Z",
+   "home": {
+    "id": 232544,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 229672,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909727,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-04-25",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-25T13:00:00.000Z",
+   "home": {
+    "id": 198779,
+    "name": "Slama Jama Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 232544,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909728,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T09:00:00.000Z",
+   "home": {
+    "id": 229672,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168205,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909730,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T11:30:00.000Z",
+   "home": {
+    "id": 165519,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318404,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909731,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T15:45:00.000Z",
+   "home": {
+    "id": 232544,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318404,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909733,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T14:00:00.000Z",
+   "home": {
+    "id": 198779,
+    "name": "Slama Jama Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168205,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909734,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "09:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T08:45:00.000Z",
+   "home": {
+    "id": 258752,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 165519,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909736,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T11:30:00.000Z",
+   "home": {
+    "id": 165519,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 229672,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909737,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T13:30:00.000Z",
+   "home": {
+    "id": 318404,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 258752,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909738,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T11:30:00.000Z",
+   "home": {
+    "id": 168205,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 232544,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909739,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T11:30:00.000Z",
+   "home": {
+    "id": 168205,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318404,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909741,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T09:00:00.000Z",
+   "home": {
+    "id": 229672,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 258752,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909742,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T14:00:00.000Z",
+   "home": {
+    "id": 198779,
+    "name": "Slama Jama Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165519,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909743,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T12:30:00.000Z",
+   "home": {
+    "id": 258752,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 198779,
+    "name": "Slama Jama Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909744,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T13:30:00.000Z",
+   "home": {
+    "id": 318404,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 229672,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909746,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T11:30:00.000Z",
+   "home": {
+    "id": 165519,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 232544,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909748,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T14:00:00.000Z",
+   "home": {
+    "id": 198779,
+    "name": "Slama Jama Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 229672,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909749,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T13:30:00.000Z",
+   "home": {
+    "id": 232544,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 258752,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909750,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T11:30:00.000Z",
+   "home": {
+    "id": 168205,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165519,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909751,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T13:00:00.000Z",
+   "home": {
+    "id": 198779,
+    "name": "Slama Jama Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318404,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909753,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-09",
+   "kickoffTime": "09:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-09T07:15:00.000Z",
+   "home": {
+    "id": 258752,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 168205,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909754,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T08:00:00.000Z",
+   "home": {
+    "id": 229672,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 232544,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909755,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T12:30:00.000Z",
+   "home": {
+    "id": 232544,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198779,
+    "name": "Slama Jama Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909756,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T10:30:00.000Z",
+   "home": {
+    "id": 168205,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 229672,
+    "name": "SV Germering 2",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909758,
+   "ligaId": 53808,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T12:30:00.000Z",
+   "home": {
+    "id": 318404,
+    "name": "SV Mammendorf 2",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165519,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

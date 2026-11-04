@@ -1,0 +1,438 @@
+{
+ "league": {
+  "ligaId": 54310,
+  "name": "Bayernliga U14 weiblich Einteilungsrunde Nord",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U14",
+  "gender": "weiblich",
+  "level": "Bayernliga",
+  "levelScope": "Verband",
+  "verbandId": 2,
+  "bezirk": null,
+  "competitionType": "regular",
+  "role": "core"
+ },
+ "matches": [
+  {
+   "matchId": 2911186,
+   "ligaId": 54310,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T09:00:00.000Z",
+   "home": {
+    "id": 219297,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 196636,
+    "name": "TV Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": 71,
+   "guestScore": 51,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911188,
+   "ligaId": 54310,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T12:30:00.000Z",
+   "home": {
+    "id": 321931,
+    "name": "MissPompadour Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 256991,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": 67,
+   "guestScore": 110,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911189,
+   "ligaId": 54310,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T12:30:00.000Z",
+   "home": {
+    "id": 310400,
+    "name": "Freak City Bamberg",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183032,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": 35,
+   "guestScore": 107,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911192,
+   "ligaId": 54310,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T14:30:00.000Z",
+   "home": {
+    "id": 183032,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 219297,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": 66,
+   "guestScore": 69,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911193,
+   "ligaId": 54310,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-09-20",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-20T12:00:00.000Z",
+   "home": {
+    "id": 196636,
+    "name": "TV Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321931,
+    "name": "MissPompadour Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "homeScore": 54,
+   "guestScore": 82,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911194,
+   "ligaId": 54310,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "13:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T11:15:00.000Z",
+   "home": {
+    "id": 219297,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321931,
+    "name": "MissPompadour Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "homeScore": 88,
+   "guestScore": 47,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911197,
+   "ligaId": 54310,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T09:00:00.000Z",
+   "home": {
+    "id": 310400,
+    "name": "Freak City Bamberg",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 256991,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": 56,
+   "guestScore": 103,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911198,
+   "ligaId": 54310,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T11:30:00.000Z",
+   "home": {
+    "id": 256991,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183032,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911201,
+   "ligaId": 54310,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T10:00:00.000Z",
+   "home": {
+    "id": 196636,
+    "name": "TV Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310400,
+    "name": "Freak City Bamberg",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "homeScore": 73,
+   "guestScore": 70,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911204,
+   "ligaId": 54310,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:00:00.000Z",
+   "home": {
+    "id": 183032,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 196636,
+    "name": "TV Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": 84,
+   "guestScore": 63,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911205,
+   "ligaId": 54310,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T11:00:00.000Z",
+   "home": {
+    "id": 321931,
+    "name": "MissPompadour Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310400,
+    "name": "Freak City Bamberg",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "homeScore": 75,
+   "guestScore": 60,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911206,
+   "ligaId": 54310,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T12:30:00.000Z",
+   "home": {
+    "id": 219297,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 256991,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911208,
+   "ligaId": 54310,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T11:00:00.000Z",
+   "home": {
+    "id": 321931,
+    "name": "MissPompadour Oberpfalz Hunters",
+    "clubId": 4913,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183032,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911210,
+   "ligaId": 54310,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T11:30:00.000Z",
+   "home": {
+    "id": 256991,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 196636,
+    "name": "TV Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2911213,
+   "ligaId": 54310,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T12:30:00.000Z",
+   "home": {
+    "id": 310400,
+    "name": "Freak City Bamberg",
+    "clubId": 1932,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 219297,
+    "name": "TG 48 Würzburg",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

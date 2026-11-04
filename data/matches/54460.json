@@ -1,0 +1,578 @@
+{
+ "league": {
+  "ligaId": 54460,
+  "name": "Bezirksoberliga U18 weiblich 26/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U18",
+  "gender": "weiblich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Schwaben",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2924914,
+   "ligaId": 54460,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T13:30:00.000Z",
+   "home": {
+    "id": 311698,
+    "name": "TSV Etting-Ingolstadt (BOLU20W)",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310621,
+    "name": "TSV Schwaben Augsburg (BOLU20W)",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": 48,
+   "guestScore": 39,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924915,
+   "ligaId": 54460,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T09:00:00.000Z",
+   "home": {
+    "id": 180545,
+    "name": "TV Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314288,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924917,
+   "ligaId": 54460,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T10:00:00.000Z",
+   "home": {
+    "id": 314288,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310624,
+    "name": "TSV 1862 Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "homeScore": 40,
+   "guestScore": 75,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924919,
+   "ligaId": 54460,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T15:00:00.000Z",
+   "home": {
+    "id": 310621,
+    "name": "TSV Schwaben Augsburg (BOLU20W)",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180545,
+    "name": "TV Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924920,
+   "ligaId": 54460,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T10:15:00.000Z",
+   "home": {
+    "id": 311698,
+    "name": "TSV Etting-Ingolstadt (BOLU20W)",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180545,
+    "name": "TV Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": 35,
+   "guestScore": 72,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924922,
+   "ligaId": 54460,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T14:00:00.000Z",
+   "home": {
+    "id": 310624,
+    "name": "TSV 1862 Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310621,
+    "name": "TSV Schwaben Augsburg (BOLU20W)",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924923,
+   "ligaId": 54460,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T13:30:00.000Z",
+   "home": {
+    "id": 311698,
+    "name": "TSV Etting-Ingolstadt (BOLU20W)",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314288,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924924,
+   "ligaId": 54460,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T11:30:00.000Z",
+   "home": {
+    "id": 180545,
+    "name": "TV Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310624,
+    "name": "TSV 1862 Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924926,
+   "ligaId": 54460,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T11:00:00.000Z",
+   "home": {
+    "id": 314288,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310621,
+    "name": "TSV Schwaben Augsburg (BOLU20W)",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924928,
+   "ligaId": 54460,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T16:30:00.000Z",
+   "home": {
+    "id": 310624,
+    "name": "TSV 1862 Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 311698,
+    "name": "TSV Etting-Ingolstadt (BOLU20W)",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924929,
+   "ligaId": 54460,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T14:00:00.000Z",
+   "home": {
+    "id": 310621,
+    "name": "TSV Schwaben Augsburg (BOLU20W)",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 311698,
+    "name": "TSV Etting-Ingolstadt (BOLU20W)",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": 77,
+   "guestScore": 42,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924930,
+   "ligaId": 54460,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T11:30:00.000Z",
+   "home": {
+    "id": 314288,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180545,
+    "name": "TV Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924932,
+   "ligaId": 54460,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T14:00:00.000Z",
+   "home": {
+    "id": 310624,
+    "name": "TSV 1862 Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314288,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924934,
+   "ligaId": 54460,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T11:30:00.000Z",
+   "home": {
+    "id": 180545,
+    "name": "TV Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310621,
+    "name": "TSV Schwaben Augsburg (BOLU20W)",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924935,
+   "ligaId": 54460,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T11:30:00.000Z",
+   "home": {
+    "id": 180545,
+    "name": "TV Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 311698,
+    "name": "TSV Etting-Ingolstadt (BOLU20W)",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924937,
+   "ligaId": 54460,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "16:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T15:15:00.000Z",
+   "home": {
+    "id": 310621,
+    "name": "TSV Schwaben Augsburg (BOLU20W)",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310624,
+    "name": "TSV 1862 Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924938,
+   "ligaId": 54460,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T13:30:00.000Z",
+   "home": {
+    "id": 314288,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 311698,
+    "name": "TSV Etting-Ingolstadt (BOLU20W)",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924939,
+   "ligaId": 54460,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T19:00:00.000Z",
+   "home": {
+    "id": 310624,
+    "name": "TSV 1862 Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180545,
+    "name": "TV Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924941,
+   "ligaId": 54460,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T16:00:00.000Z",
+   "home": {
+    "id": 310621,
+    "name": "TSV Schwaben Augsburg (BOLU20W)",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314288,
+    "name": "DJK Eichstätt",
+    "clubId": 1472,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924943,
+   "ligaId": 54460,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T17:00:00.000Z",
+   "home": {
+    "id": 311698,
+    "name": "TSV Etting-Ingolstadt (BOLU20W)",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310624,
+    "name": "TSV 1862 Neuburg",
+    "clubId": 1188,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

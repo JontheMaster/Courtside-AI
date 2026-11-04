@@ -1,0 +1,2538 @@
+{
+ "league": {
+  "ligaId": 53748,
+  "name": "Bezirksklasse u18m Südgruppe (MI-BK18M-S) 2026/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U18",
+  "gender": "männlich",
+  "level": "Bezirksklasse",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2903403,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T13:00:00.000Z",
+   "home": {
+    "id": 162978,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168439,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": 102,
+   "guestScore": 52,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903405,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T15:45:00.000Z",
+   "home": {
+    "id": 165701,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166690,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903407,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T12:00:00.000Z",
+   "home": {
+    "id": 166746,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162953,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903409,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T13:30:00.000Z",
+   "home": {
+    "id": 316254,
+    "name": "FC Aschheim",
+    "clubId": 4871,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168430,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": 101,
+   "guestScore": 52,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903411,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T13:30:00.000Z",
+   "home": {
+    "id": 166698,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903413,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T10:30:00.000Z",
+   "home": {
+    "id": 168430,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166746,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "homeScore": 118,
+   "guestScore": 45,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903415,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T10:30:00.000Z",
+   "home": {
+    "id": 162953,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 165701,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903417,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T10:30:00.000Z",
+   "home": {
+    "id": 166690,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166698,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "homeScore": 64,
+   "guestScore": 74,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903419,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-09",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-08T22:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162978,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903421,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T14:00:00.000Z",
+   "home": {
+    "id": 168439,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316254,
+    "name": "FC Aschheim",
+    "clubId": 4871,
+    "forfeit": false
+   },
+   "homeScore": 64,
+   "guestScore": 53,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903423,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T10:30:00.000Z",
+   "home": {
+    "id": 162978,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316254,
+    "name": "FC Aschheim",
+    "clubId": 4871,
+    "forfeit": false
+   },
+   "homeScore": 79,
+   "guestScore": 87,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903425,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T10:15:00.000Z",
+   "home": {
+    "id": 165701,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168430,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": 94,
+   "guestScore": 79,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903427,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T12:00:00.000Z",
+   "home": {
+    "id": 166746,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168439,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": 42,
+   "guestScore": 88,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903429,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-16",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-15T22:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166690,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903431,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T13:30:00.000Z",
+   "home": {
+    "id": 166698,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162953,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903433,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:30:00.000Z",
+   "home": {
+    "id": 168430,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166698,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 56,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903435,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T14:00:00.000Z",
+   "home": {
+    "id": 162953,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": true
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903437,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T10:30:00.000Z",
+   "home": {
+    "id": 166690,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162978,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": 76,
+   "guestScore": 88,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903439,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T13:30:00.000Z",
+   "home": {
+    "id": 316254,
+    "name": "FC Aschheim",
+    "clubId": 4871,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166746,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "homeScore": 111,
+   "guestScore": 34,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903441,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T11:30:00.000Z",
+   "home": {
+    "id": 168439,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165701,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": 95,
+   "guestScore": 56,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903444,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T16:30:00.000Z",
+   "home": {
+    "id": 162978,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166746,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903445,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "11:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T10:15:00.000Z",
+   "home": {
+    "id": 165701,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316254,
+    "name": "FC Aschheim",
+    "clubId": 4871,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903446,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T11:30:00.000Z",
+   "home": {
+    "id": 166690,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162953,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903447,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-13",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-12T23:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168430,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903448,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T14:30:00.000Z",
+   "home": {
+    "id": 166698,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168439,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903449,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T11:30:00.000Z",
+   "home": {
+    "id": 168430,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166690,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903450,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T14:00:00.000Z",
+   "home": {
+    "id": 162953,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 162978,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903451,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T16:00:00.000Z",
+   "home": {
+    "id": 166746,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165701,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903452,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-20",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-19T23:00:00.000Z",
+   "home": {
+    "id": 316254,
+    "name": "FC Aschheim",
+    "clubId": 4871,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166698,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903453,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T15:00:00.000Z",
+   "home": {
+    "id": 168439,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903454,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T16:30:00.000Z",
+   "home": {
+    "id": 162978,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165701,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903455,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T14:00:00.000Z",
+   "home": {
+    "id": 162953,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 168430,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903456,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T14:00:00.000Z",
+   "home": {
+    "id": 166690,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168439,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903457,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-27",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-26T23:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316254,
+    "name": "FC Aschheim",
+    "clubId": 4871,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903458,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T14:30:00.000Z",
+   "home": {
+    "id": 166698,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166746,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903459,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T11:30:00.000Z",
+   "home": {
+    "id": 162978,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168430,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903460,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T09:30:00.000Z",
+   "home": {
+    "id": 165701,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166698,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903461,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T13:00:00.000Z",
+   "home": {
+    "id": 166746,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903462,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T14:30:00.000Z",
+   "home": {
+    "id": 316254,
+    "name": "FC Aschheim",
+    "clubId": 4871,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166690,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903463,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T15:00:00.000Z",
+   "home": {
+    "id": 168439,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162953,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903464,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T11:30:00.000Z",
+   "home": {
+    "id": 168430,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168439,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903465,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T14:00:00.000Z",
+   "home": {
+    "id": 162953,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 316254,
+    "name": "FC Aschheim",
+    "clubId": 4871,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903466,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T11:30:00.000Z",
+   "home": {
+    "id": 166690,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166746,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903467,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-11",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-12-10T23:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165701,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903468,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T14:30:00.000Z",
+   "home": {
+    "id": 166698,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162978,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903469,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T15:00:00.000Z",
+   "home": {
+    "id": 168439,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162978,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903470,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T14:00:00.000Z",
+   "home": {
+    "id": 166690,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165701,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903471,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T14:00:00.000Z",
+   "home": {
+    "id": 162953,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 166746,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903472,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T09:00:00.000Z",
+   "home": {
+    "id": 168430,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316254,
+    "name": "FC Aschheim",
+    "clubId": 4871,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903473,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-15",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-14T23:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166698,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903474,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T13:00:00.000Z",
+   "home": {
+    "id": 166746,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168430,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903475,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T09:30:00.000Z",
+   "home": {
+    "id": 165701,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162953,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903476,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T14:30:00.000Z",
+   "home": {
+    "id": 166698,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166690,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903477,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-22",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-21T23:00:00.000Z",
+   "home": {
+    "id": 162978,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903478,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-05-01",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-05-01T13:30:00.000Z",
+   "home": {
+    "id": 316254,
+    "name": "FC Aschheim",
+    "clubId": 4871,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168439,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903479,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-29",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-28T23:00:00.000Z",
+   "home": {
+    "id": 316254,
+    "name": "FC Aschheim",
+    "clubId": 4871,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162978,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903480,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T11:30:00.000Z",
+   "home": {
+    "id": 168430,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165701,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903481,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T15:00:00.000Z",
+   "home": {
+    "id": 168439,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166746,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903482,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-06T11:30:00.000Z",
+   "home": {
+    "id": 166690,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903483,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T14:00:00.000Z",
+   "home": {
+    "id": 162953,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 166698,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903484,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T14:30:00.000Z",
+   "home": {
+    "id": 166698,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168430,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903485,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-19",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-02-18T23:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162953,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903486,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T14:00:00.000Z",
+   "home": {
+    "id": 162978,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166690,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903487,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T13:00:00.000Z",
+   "home": {
+    "id": 166746,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316254,
+    "name": "FC Aschheim",
+    "clubId": 4871,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903488,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "13:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T12:45:00.000Z",
+   "home": {
+    "id": 165701,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168439,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903489,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T13:00:00.000Z",
+   "home": {
+    "id": 166746,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162978,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903490,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T17:00:00.000Z",
+   "home": {
+    "id": 316254,
+    "name": "FC Aschheim",
+    "clubId": 4871,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165701,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903491,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T16:30:00.000Z",
+   "home": {
+    "id": 162953,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 166690,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903492,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T16:30:00.000Z",
+   "home": {
+    "id": 168430,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903493,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T15:00:00.000Z",
+   "home": {
+    "id": 168439,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166698,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903494,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T11:30:00.000Z",
+   "home": {
+    "id": 166690,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168430,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903495,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T11:30:00.000Z",
+   "home": {
+    "id": 162978,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162953,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903496,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T11:00:00.000Z",
+   "home": {
+    "id": 165701,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166746,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903497,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T14:30:00.000Z",
+   "home": {
+    "id": 166698,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316254,
+    "name": "FC Aschheim",
+    "clubId": 4871,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903498,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-05",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-03-04T23:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168439,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903499,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T12:30:00.000Z",
+   "home": {
+    "id": 165701,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162978,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903500,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T11:30:00.000Z",
+   "home": {
+    "id": 168430,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162953,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903501,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T15:00:00.000Z",
+   "home": {
+    "id": 168439,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166690,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903502,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-12",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-03-11T23:00:00.000Z",
+   "home": {
+    "id": 316254,
+    "name": "FC Aschheim",
+    "clubId": 4871,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903503,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T13:00:00.000Z",
+   "home": {
+    "id": 166746,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166698,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903504,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T10:30:00.000Z",
+   "home": {
+    "id": 168430,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162978,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903505,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T13:30:00.000Z",
+   "home": {
+    "id": 166698,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165701,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903506,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-09",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-04-08T22:00:00.000Z",
+   "home": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166746,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903507,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T10:30:00.000Z",
+   "home": {
+    "id": 166690,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 316254,
+    "name": "FC Aschheim",
+    "clubId": 4871,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903508,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T13:00:00.000Z",
+   "home": {
+    "id": 162953,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 168439,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903509,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T14:00:00.000Z",
+   "home": {
+    "id": 168439,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 168430,
+    "name": "TSV Trudering",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903510,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-16",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-04-15T22:00:00.000Z",
+   "home": {
+    "id": 316254,
+    "name": "FC Aschheim",
+    "clubId": 4871,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162953,
+    "name": "TSV Vaterstetten",
+    "clubId": 1055,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903511,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T09:00:00.000Z",
+   "home": {
+    "id": 166746,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166690,
+    "name": "TuS Holzkirchen",
+    "clubId": 1393,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903512,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-16",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-04-15T22:00:00.000Z",
+   "home": {
+    "id": 165701,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": null,
+    "name": "Platzhalter 2",
+    "clubId": null,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2903513,
+   "ligaId": 53748,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T13:00:00.000Z",
+   "home": {
+    "id": 162978,
+    "name": "MTV 1879 München",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166698,
+    "name": "SpVgg Höhenkirchen",
+    "clubId": 2500,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

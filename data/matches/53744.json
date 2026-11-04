@@ -1,0 +1,2538 @@
+{
+ "league": {
+  "ligaId": 53744,
+  "name": "Bezirksoberliga U18 ml (BOL18M) 2026/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U18",
+  "gender": "männlich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2899706,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T15:00:00.000Z",
+   "home": {
+    "id": 166704,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 164128,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": 82,
+   "guestScore": 59,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899707,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-02",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-02T18:00:00.000Z",
+   "home": {
+    "id": 162976,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321113,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": 85,
+   "guestScore": 62,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899708,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T15:30:00.000Z",
+   "home": {
+    "id": 165699,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162952,
+    "name": "Dachau Spurs",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": 80,
+   "guestScore": 60,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899709,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T08:00:00.000Z",
+   "home": {
+    "id": 165698,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": 94,
+   "guestScore": 76,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899710,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T12:15:00.000Z",
+   "home": {
+    "id": 311458,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162955,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 84,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899711,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:00:00.000Z",
+   "home": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165699,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": 82,
+   "guestScore": 96,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899712,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T17:00:00.000Z",
+   "home": {
+    "id": 162952,
+    "name": "Dachau Spurs",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162976,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": 63,
+   "guestScore": 106,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899713,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T15:30:00.000Z",
+   "home": {
+    "id": 321113,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 311458,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899714,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T13:00:00.000Z",
+   "home": {
+    "id": 162955,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166704,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "homeScore": 101,
+   "guestScore": 70,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899715,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-09",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-09T16:30:00.000Z",
+   "home": {
+    "id": 164128,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165698,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": 62,
+   "guestScore": 91,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899716,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T15:00:00.000Z",
+   "home": {
+    "id": 166704,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165698,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": 70,
+   "guestScore": 112,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899717,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-16",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-16T16:00:00.000Z",
+   "home": {
+    "id": 162976,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": 124,
+   "guestScore": 55,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899718,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T15:30:00.000Z",
+   "home": {
+    "id": 165699,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 164128,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": 85,
+   "guestScore": 78,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899719,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T10:30:00.000Z",
+   "home": {
+    "id": 162955,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321113,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": 86,
+   "guestScore": 62,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899720,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T15:30:00.000Z",
+   "home": {
+    "id": 311458,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162952,
+    "name": "Dachau Spurs",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": 81,
+   "guestScore": 65,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899721,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T13:15:00.000Z",
+   "home": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 311458,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899722,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T14:30:00.000Z",
+   "home": {
+    "id": 162952,
+    "name": "Dachau Spurs",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162955,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": 64,
+   "guestScore": 110,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899723,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T15:30:00.000Z",
+   "home": {
+    "id": 321113,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166704,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "homeScore": 65,
+   "guestScore": 69,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899724,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T10:30:00.000Z",
+   "home": {
+    "id": 165698,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165699,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": 111,
+   "guestScore": 77,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899725,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-11",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-11T17:00:00.000Z",
+   "home": {
+    "id": 164128,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162976,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899726,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T16:00:00.000Z",
+   "home": {
+    "id": 166704,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165699,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899727,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-13",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-13T18:30:00.000Z",
+   "home": {
+    "id": 162976,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165698,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899728,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T16:30:00.000Z",
+   "home": {
+    "id": 321113,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162952,
+    "name": "Dachau Spurs",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899729,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T14:00:00.000Z",
+   "home": {
+    "id": 162955,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899730,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T16:30:00.000Z",
+   "home": {
+    "id": 311458,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 164128,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899731,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T16:00:00.000Z",
+   "home": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321113,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899732,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T15:30:00.000Z",
+   "home": {
+    "id": 162952,
+    "name": "Dachau Spurs",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166704,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899733,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T16:30:00.000Z",
+   "home": {
+    "id": 165699,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162976,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899734,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-20",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-20T18:00:00.000Z",
+   "home": {
+    "id": 165698,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 311458,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899735,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T12:00:00.000Z",
+   "home": {
+    "id": 164128,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162955,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899736,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T16:00:00.000Z",
+   "home": {
+    "id": 166704,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162976,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899737,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T17:30:00.000Z",
+   "home": {
+    "id": 162952,
+    "name": "Dachau Spurs",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899738,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T16:30:00.000Z",
+   "home": {
+    "id": 321113,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 164128,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899739,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T14:00:00.000Z",
+   "home": {
+    "id": 162955,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165698,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899740,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T16:30:00.000Z",
+   "home": {
+    "id": 311458,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165699,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899741,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T16:00:00.000Z",
+   "home": {
+    "id": 166704,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899742,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-04",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-04T17:00:00.000Z",
+   "home": {
+    "id": 162976,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 311458,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899743,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T14:00:00.000Z",
+   "home": {
+    "id": 165699,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162955,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899744,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T11:30:00.000Z",
+   "home": {
+    "id": 165698,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321113,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899745,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T12:00:00.000Z",
+   "home": {
+    "id": 164128,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162952,
+    "name": "Dachau Spurs",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899746,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T15:30:00.000Z",
+   "home": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 164128,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899747,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T15:00:00.000Z",
+   "home": {
+    "id": 162952,
+    "name": "Dachau Spurs",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165698,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899748,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T16:30:00.000Z",
+   "home": {
+    "id": 321113,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165699,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899749,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T13:30:00.000Z",
+   "home": {
+    "id": 162955,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162976,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899750,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T15:30:00.000Z",
+   "home": {
+    "id": 311458,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166704,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "homeScore": 87,
+   "guestScore": 65,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899751,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T09:00:00.000Z",
+   "home": {
+    "id": 164128,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166704,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899752,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T16:30:00.000Z",
+   "home": {
+    "id": 321113,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162976,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899753,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T15:30:00.000Z",
+   "home": {
+    "id": 162952,
+    "name": "Dachau Spurs",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165699,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899754,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T15:30:00.000Z",
+   "home": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165698,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899755,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T14:00:00.000Z",
+   "home": {
+    "id": 162955,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 311458,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899756,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T16:30:00.000Z",
+   "home": {
+    "id": 165699,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899757,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T14:00:00.000Z",
+   "home": {
+    "id": 162976,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162952,
+    "name": "Dachau Spurs",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899758,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T14:00:00.000Z",
+   "home": {
+    "id": 311458,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321113,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899759,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T16:00:00.000Z",
+   "home": {
+    "id": 166704,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162955,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899760,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T09:00:00.000Z",
+   "home": {
+    "id": 165698,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 164128,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899761,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T09:00:00.000Z",
+   "home": {
+    "id": 165698,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166704,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899762,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T15:30:00.000Z",
+   "home": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162976,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899763,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-29",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-29T18:30:00.000Z",
+   "home": {
+    "id": 164128,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165699,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899764,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T16:30:00.000Z",
+   "home": {
+    "id": 321113,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162955,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899765,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T15:00:00.000Z",
+   "home": {
+    "id": 162952,
+    "name": "Dachau Spurs",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 311458,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899766,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T11:30:00.000Z",
+   "home": {
+    "id": 311458,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899767,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T14:00:00.000Z",
+   "home": {
+    "id": 162955,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162952,
+    "name": "Dachau Spurs",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899768,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T16:00:00.000Z",
+   "home": {
+    "id": 166704,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321113,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899769,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T14:00:00.000Z",
+   "home": {
+    "id": 165699,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165698,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899770,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-19",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-19T18:30:00.000Z",
+   "home": {
+    "id": 162976,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 164128,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899771,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T16:30:00.000Z",
+   "home": {
+    "id": 165699,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166704,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899772,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T09:00:00.000Z",
+   "home": {
+    "id": 165698,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162976,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899773,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T18:00:00.000Z",
+   "home": {
+    "id": 162952,
+    "name": "Dachau Spurs",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321113,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899774,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T15:30:00.000Z",
+   "home": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162955,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899775,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T16:00:00.000Z",
+   "home": {
+    "id": 164128,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 311458,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899776,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T16:30:00.000Z",
+   "home": {
+    "id": 321113,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899777,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T16:00:00.000Z",
+   "home": {
+    "id": 166704,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162952,
+    "name": "Dachau Spurs",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899778,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-05",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-05T18:30:00.000Z",
+   "home": {
+    "id": 162976,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165699,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899779,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T16:30:00.000Z",
+   "home": {
+    "id": 311458,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165698,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899780,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T14:00:00.000Z",
+   "home": {
+    "id": 162955,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 164128,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899781,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T14:00:00.000Z",
+   "home": {
+    "id": 162976,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166704,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899782,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T15:30:00.000Z",
+   "home": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162952,
+    "name": "Dachau Spurs",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899783,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T16:00:00.000Z",
+   "home": {
+    "id": 164128,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321113,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899784,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T11:30:00.000Z",
+   "home": {
+    "id": 165698,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162955,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899785,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T16:30:00.000Z",
+   "home": {
+    "id": 165699,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 311458,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899786,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-03",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-03T15:00:00.000Z",
+   "home": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166704,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899787,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T14:00:00.000Z",
+   "home": {
+    "id": 311458,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162976,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899788,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T14:00:00.000Z",
+   "home": {
+    "id": 162955,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165699,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899789,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T14:00:00.000Z",
+   "home": {
+    "id": 321113,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165698,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899790,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T15:30:00.000Z",
+   "home": {
+    "id": 162952,
+    "name": "Dachau Spurs",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 164128,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899791,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2026-09-25",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-25T16:30:00.000Z",
+   "home": {
+    "id": 164128,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165494,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": 99,
+   "guestScore": 90,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899792,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T13:00:00.000Z",
+   "home": {
+    "id": 165698,
+    "name": "MTSV Schwabing",
+    "clubId": 924,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162952,
+    "name": "Dachau Spurs",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": 118,
+   "guestScore": 56,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899793,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T15:30:00.000Z",
+   "home": {
+    "id": 165699,
+    "name": "TS Jahn München",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321113,
+    "name": "HWKT - Hard Work Knox Talent",
+    "clubId": 5159,
+    "forfeit": false
+   },
+   "homeScore": 78,
+   "guestScore": 74,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899794,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T10:15:00.000Z",
+   "home": {
+    "id": 162976,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162955,
+    "name": "DJK SB München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": 87,
+   "guestScore": 99,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899795,
+   "ligaId": 53744,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T16:00:00.000Z",
+   "home": {
+    "id": 166704,
+    "name": "TSV Ismaning",
+    "clubId": 1256,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 311458,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

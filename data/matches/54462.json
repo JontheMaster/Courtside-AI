@@ -1,0 +1,1194 @@
+{
+ "league": {
+  "ligaId": 54462,
+  "name": "Bezirksoberliga U16 weiblich 26/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U16",
+  "gender": "weiblich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Schwaben",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2925034,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T12:30:00.000Z",
+   "home": {
+    "id": 229075,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317875,
+    "name": "TSV Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": 73,
+   "guestScore": 32,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925035,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T11:00:00.000Z",
+   "home": {
+    "id": 269396,
+    "name": "TSV Etting a.K.",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 240738,
+    "name": "TSV Nördlingen a.K.",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": 34,
+   "guestScore": 62,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925036,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-08-09",
+   "kickoffTime": "09:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-08-09T07:30:00.000Z",
+   "home": {
+    "id": 323035,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 313125,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": true,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925038,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T08:00:00.000Z",
+   "home": {
+    "id": 313125,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 269396,
+    "name": "TSV Etting a.K.",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": 20,
+   "guestScore": 0,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925040,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T13:00:00.000Z",
+   "home": {
+    "id": 259782,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 229075,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": 42,
+   "guestScore": 89,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925041,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-16T22:00:00.000Z",
+   "home": {
+    "id": 317875,
+    "name": "TSV Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323035,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925042,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T15:15:00.000Z",
+   "home": {
+    "id": 229075,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323035,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925043,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T11:15:00.000Z",
+   "home": {
+    "id": 269396,
+    "name": "TSV Etting a.K.",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317875,
+    "name": "TSV Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": 60,
+   "guestScore": 39,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925044,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T09:30:00.000Z",
+   "home": {
+    "id": 259782,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 240738,
+    "name": "TSV Nördlingen a.K.",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": 78,
+   "guestScore": 44,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925046,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T09:00:00.000Z",
+   "home": {
+    "id": 313125,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 259782,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925047,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T12:00:00.000Z",
+   "home": {
+    "id": 240738,
+    "name": "TSV Nördlingen a.K.",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 229075,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925048,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T16:00:00.000Z",
+   "home": {
+    "id": 323035,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 269396,
+    "name": "TSV Etting a.K.",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925050,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T11:00:00.000Z",
+   "home": {
+    "id": 229075,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 269396,
+    "name": "TSV Etting a.K.",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925051,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T11:15:00.000Z",
+   "home": {
+    "id": 240738,
+    "name": "TSV Nördlingen a.K.",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313125,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925052,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T13:00:00.000Z",
+   "home": {
+    "id": 259782,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317875,
+    "name": "TSV Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925054,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T16:15:00.000Z",
+   "home": {
+    "id": 229075,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313125,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925056,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T13:30:00.000Z",
+   "home": {
+    "id": 323035,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 259782,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925057,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T10:30:00.000Z",
+   "home": {
+    "id": 317875,
+    "name": "TSV Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 240738,
+    "name": "TSV Nördlingen a.K.",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925058,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T11:30:00.000Z",
+   "home": {
+    "id": 313125,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317875,
+    "name": "TSV Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925059,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-12-04T23:00:00.000Z",
+   "home": {
+    "id": 240738,
+    "name": "TSV Nördlingen a.K.",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323035,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925060,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T12:30:00.000Z",
+   "home": {
+    "id": 259782,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 269396,
+    "name": "TSV Etting a.K.",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925062,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T16:00:00.000Z",
+   "home": {
+    "id": 317875,
+    "name": "TSV Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 229075,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925063,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T13:30:00.000Z",
+   "home": {
+    "id": 240738,
+    "name": "TSV Nördlingen a.K.",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 269396,
+    "name": "TSV Etting a.K.",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925064,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T09:00:00.000Z",
+   "home": {
+    "id": 313125,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323035,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925066,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T14:00:00.000Z",
+   "home": {
+    "id": 269396,
+    "name": "TSV Etting a.K.",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313125,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925068,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T09:00:00.000Z",
+   "home": {
+    "id": 229075,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 259782,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925069,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-15T23:00:00.000Z",
+   "home": {
+    "id": 323035,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 317875,
+    "name": "TSV Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925070,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T13:30:00.000Z",
+   "home": {
+    "id": 323035,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 229075,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925071,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T16:00:00.000Z",
+   "home": {
+    "id": 317875,
+    "name": "TSV Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 269396,
+    "name": "TSV Etting a.K.",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925072,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T09:00:00.000Z",
+   "home": {
+    "id": 240738,
+    "name": "TSV Nördlingen a.K.",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 259782,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925074,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T13:00:00.000Z",
+   "home": {
+    "id": 259782,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313125,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925075,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T15:30:00.000Z",
+   "home": {
+    "id": 229075,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 240738,
+    "name": "TSV Nördlingen a.K.",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925076,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T14:00:00.000Z",
+   "home": {
+    "id": 269396,
+    "name": "TSV Etting a.K.",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323035,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925078,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T11:15:00.000Z",
+   "home": {
+    "id": 269396,
+    "name": "TSV Etting a.K.",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 229075,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925079,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T09:00:00.000Z",
+   "home": {
+    "id": 313125,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 240738,
+    "name": "TSV Nördlingen a.K.",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925080,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T12:30:00.000Z",
+   "home": {
+    "id": 317875,
+    "name": "TSV Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 259782,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925082,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T13:00:00.000Z",
+   "home": {
+    "id": 313125,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 229075,
+    "name": "SSV Schrobenhausen",
+    "clubId": 1061,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925084,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T14:30:00.000Z",
+   "home": {
+    "id": 259782,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323035,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925085,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T14:00:00.000Z",
+   "home": {
+    "id": 240738,
+    "name": "TSV Nördlingen a.K.",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317875,
+    "name": "TSV Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925086,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T13:30:00.000Z",
+   "home": {
+    "id": 317875,
+    "name": "TSV Schwaben Augsburg 2",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313125,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925087,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T13:00:00.000Z",
+   "home": {
+    "id": 323035,
+    "name": "Sportfreunde Friedberg",
+    "clubId": 42,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 240738,
+    "name": "TSV Nördlingen a.K.",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2925088,
+   "ligaId": 54462,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T11:15:00.000Z",
+   "home": {
+    "id": 269396,
+    "name": "TSV Etting a.K.",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 259782,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

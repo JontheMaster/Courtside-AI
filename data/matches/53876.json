@@ -1,0 +1,2034 @@
+{
+ "league": {
+  "ligaId": 53876,
+  "name": "Bezirksliga Damen (bzld) 26/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "weiblich",
+  "level": "Bezirksliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2904234,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T14:45:00.000Z",
+   "home": {
+    "id": 162868,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 155355,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 37,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904235,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T17:30:00.000Z",
+   "home": {
+    "id": 310479,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165439,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "homeScore": 55,
+   "guestScore": 44,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904236,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T13:30:00.000Z",
+   "home": {
+    "id": 310506,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154143,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904237,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T10:30:00.000Z",
+   "home": {
+    "id": 165446,
+    "name": "München Basket 3",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154150,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904239,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T10:00:00.000Z",
+   "home": {
+    "id": 154150,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 310506,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904240,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T14:45:00.000Z",
+   "home": {
+    "id": 154143,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310479,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": 31,
+   "guestScore": 52,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904241,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T11:00:00.000Z",
+   "home": {
+    "id": 165439,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154148,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904243,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:00:00.000Z",
+   "home": {
+    "id": 155355,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165446,
+    "name": "München Basket 3",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": 31,
+   "guestScore": 42,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904244,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T12:30:00.000Z",
+   "home": {
+    "id": 162868,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165446,
+    "name": "München Basket 3",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": 57,
+   "guestScore": 32,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904245,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T17:30:00.000Z",
+   "home": {
+    "id": 310479,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154150,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904246,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-01",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-01T11:30:00.000Z",
+   "home": {
+    "id": 310506,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 155355,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": 62,
+   "guestScore": 32,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904248,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T14:00:00.000Z",
+   "home": {
+    "id": 154148,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154143,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": 24,
+   "guestScore": 67,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904249,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T12:30:00.000Z",
+   "home": {
+    "id": 154150,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 154148,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904251,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T15:00:00.000Z",
+   "home": {
+    "id": 165439,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162868,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 47,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904252,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T10:30:00.000Z",
+   "home": {
+    "id": 165446,
+    "name": "München Basket 3",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310506,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": 50,
+   "guestScore": 60,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904253,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T15:00:00.000Z",
+   "home": {
+    "id": 155355,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310479,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": 30,
+   "guestScore": 62,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904254,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T15:45:00.000Z",
+   "home": {
+    "id": 162868,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310506,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904255,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T18:30:00.000Z",
+   "home": {
+    "id": 310479,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165446,
+    "name": "München Basket 3",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904256,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T16:00:00.000Z",
+   "home": {
+    "id": 165439,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154143,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904258,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T15:00:00.000Z",
+   "home": {
+    "id": 154148,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 155355,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904259,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T12:30:00.000Z",
+   "home": {
+    "id": 154150,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 165439,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904260,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T15:45:00.000Z",
+   "home": {
+    "id": 154143,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162868,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904261,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T16:00:00.000Z",
+   "home": {
+    "id": 310506,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310479,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904262,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T11:00:00.000Z",
+   "home": {
+    "id": 165446,
+    "name": "München Basket 3",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154148,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904264,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "19:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T18:15:00.000Z",
+   "home": {
+    "id": 162868,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310479,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904265,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T15:45:00.000Z",
+   "home": {
+    "id": 154143,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154150,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904266,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T16:00:00.000Z",
+   "home": {
+    "id": 165439,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 155355,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904268,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T12:00:00.000Z",
+   "home": {
+    "id": 154148,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310506,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904269,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T15:45:00.000Z",
+   "home": {
+    "id": 162868,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154150,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904270,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T18:30:00.000Z",
+   "home": {
+    "id": 310479,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154148,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904272,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T14:30:00.000Z",
+   "home": {
+    "id": 165446,
+    "name": "München Basket 3",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165439,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904273,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T13:30:00.000Z",
+   "home": {
+    "id": 155355,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154143,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904274,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T15:30:00.000Z",
+   "home": {
+    "id": 154150,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 155355,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904275,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T15:45:00.000Z",
+   "home": {
+    "id": 154143,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165446,
+    "name": "München Basket 3",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904276,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T18:00:00.000Z",
+   "home": {
+    "id": 165439,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310506,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904278,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T15:00:00.000Z",
+   "home": {
+    "id": 154148,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162868,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904279,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T18:30:00.000Z",
+   "home": {
+    "id": 155355,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162868,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904280,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T16:00:00.000Z",
+   "home": {
+    "id": 165439,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310479,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904281,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T15:45:00.000Z",
+   "home": {
+    "id": 154143,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310506,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904282,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T12:30:00.000Z",
+   "home": {
+    "id": 154150,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 165446,
+    "name": "München Basket 3",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904284,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-04-25",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-25T15:00:00.000Z",
+   "home": {
+    "id": 310506,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154150,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904285,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T18:30:00.000Z",
+   "home": {
+    "id": 310479,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154143,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904286,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T12:00:00.000Z",
+   "home": {
+    "id": 154148,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165439,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904288,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T11:30:00.000Z",
+   "home": {
+    "id": 165446,
+    "name": "München Basket 3",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 155355,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904289,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T14:00:00.000Z",
+   "home": {
+    "id": 165446,
+    "name": "München Basket 3",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162868,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904290,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T15:30:00.000Z",
+   "home": {
+    "id": 154150,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 310479,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904291,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T16:00:00.000Z",
+   "home": {
+    "id": 155355,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310506,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904293,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T15:45:00.000Z",
+   "home": {
+    "id": 154143,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154148,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904294,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T15:00:00.000Z",
+   "home": {
+    "id": 154148,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154150,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904296,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T09:00:00.000Z",
+   "home": {
+    "id": 162868,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165439,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904297,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-06T14:00:00.000Z",
+   "home": {
+    "id": 310506,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165446,
+    "name": "München Basket 3",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904298,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T18:30:00.000Z",
+   "home": {
+    "id": 310479,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 155355,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904299,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T16:30:00.000Z",
+   "home": {
+    "id": 310506,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162868,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904300,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T15:00:00.000Z",
+   "home": {
+    "id": 165446,
+    "name": "München Basket 3",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310479,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904301,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T15:45:00.000Z",
+   "home": {
+    "id": 154143,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165439,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904303,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T16:00:00.000Z",
+   "home": {
+    "id": 155355,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154148,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904304,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T16:00:00.000Z",
+   "home": {
+    "id": 165439,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154150,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904305,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T15:45:00.000Z",
+   "home": {
+    "id": 162868,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154143,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904306,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T18:30:00.000Z",
+   "home": {
+    "id": 310479,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310506,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904307,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T15:00:00.000Z",
+   "home": {
+    "id": 154148,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165446,
+    "name": "München Basket 3",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904309,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T18:30:00.000Z",
+   "home": {
+    "id": 310479,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162868,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904310,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T15:00:00.000Z",
+   "home": {
+    "id": 154150,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 154143,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904311,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T16:00:00.000Z",
+   "home": {
+    "id": 155355,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165439,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904313,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T18:30:00.000Z",
+   "home": {
+    "id": 310506,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154148,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904314,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T14:00:00.000Z",
+   "home": {
+    "id": 154150,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 162868,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904315,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T14:00:00.000Z",
+   "home": {
+    "id": 154148,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310479,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904317,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T15:00:00.000Z",
+   "home": {
+    "id": 165439,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165446,
+    "name": "München Basket 3",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904318,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T14:45:00.000Z",
+   "home": {
+    "id": 154143,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 155355,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904319,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T15:00:00.000Z",
+   "home": {
+    "id": 155355,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154150,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904320,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T13:30:00.000Z",
+   "home": {
+    "id": 165446,
+    "name": "München Basket 3",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154143,
+    "name": "SV Germering",
+    "clubId": 1067,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904321,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T15:00:00.000Z",
+   "home": {
+    "id": 310506,
+    "name": "TSV München Ost 3",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165439,
+    "name": "SV Bad Tölz",
+    "clubId": 741,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904323,
+   "ligaId": 53876,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T14:30:00.000Z",
+   "home": {
+    "id": 162868,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154148,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

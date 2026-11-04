@@ -1,0 +1,74 @@
+{
+ "league": {
+  "ligaId": 56596,
+  "name": "U20 weiblich Bezirksoberliga",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U20",
+  "gender": "weiblich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberpfalz",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2983820,
+   "ligaId": 56596,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T13:00:00.000Z",
+   "home": {
+    "id": 323559,
+    "name": "1. FC Schwarzenfeld",
+    "clubId": 1887,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 194497,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2983826,
+   "ligaId": 56596,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T13:00:00.000Z",
+   "home": {
+    "id": 194497,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323559,
+    "name": "1. FC Schwarzenfeld",
+    "clubId": 1887,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

@@ -1,0 +1,1586 @@
+{
+ "league": {
+  "ligaId": 52497,
+  "name": "Regionalliga Damen HR-Nord (RLD-HRN)",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "weiblich",
+  "level": "Regionalliga",
+  "levelScope": "Verband",
+  "verbandId": 32,
+  "bezirk": null,
+  "competitionType": "regular",
+  "role": "core"
+ },
+ "matches": [
+  {
+   "matchId": 2839490,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T13:00:00.000Z",
+   "home": {
+    "id": 320636,
+    "name": "CATL Basketball Löwinnen Erfurt",
+    "clubId": 4877,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157689,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": 42,
+   "guestScore": 99,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839491,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T14:00:00.000Z",
+   "home": {
+    "id": 152178,
+    "name": "Leipzig Lakers",
+    "clubId": 4117,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 182918,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": 80,
+   "guestScore": 59,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839492,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "18:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T16:15:00.000Z",
+   "home": {
+    "id": 152327,
+    "name": "BC Dresden",
+    "clubId": 123,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151052,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": 78,
+   "guestScore": 62,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839493,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T14:00:00.000Z",
+   "home": {
+    "id": 151030,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157691,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": 47,
+   "guestScore": 56,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839494,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T11:00:00.000Z",
+   "home": {
+    "id": 151052,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152178,
+    "name": "Leipzig Lakers",
+    "clubId": 4117,
+    "forfeit": false
+   },
+   "homeScore": 73,
+   "guestScore": 43,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839495,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-02",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-02T17:30:00.000Z",
+   "home": {
+    "id": 151030,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 182918,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": 46,
+   "guestScore": 45,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839496,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T14:00:00.000Z",
+   "home": {
+    "id": 157691,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320636,
+    "name": "CATL Basketball Löwinnen Erfurt",
+    "clubId": 4877,
+    "forfeit": false
+   },
+   "homeScore": 0,
+   "guestScore": 20,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839497,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T13:00:00.000Z",
+   "home": {
+    "id": 157689,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152327,
+    "name": "BC Dresden",
+    "clubId": 123,
+    "forfeit": false
+   },
+   "homeScore": 100,
+   "guestScore": 63,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839498,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T11:00:00.000Z",
+   "home": {
+    "id": 320636,
+    "name": "CATL Basketball Löwinnen Erfurt",
+    "clubId": 4877,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152327,
+    "name": "BC Dresden",
+    "clubId": 123,
+    "forfeit": false
+   },
+   "homeScore": 54,
+   "guestScore": 77,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839499,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T13:30:00.000Z",
+   "home": {
+    "id": 152178,
+    "name": "Leipzig Lakers",
+    "clubId": 4117,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157689,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": 76,
+   "guestScore": 84,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839500,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T17:00:00.000Z",
+   "home": {
+    "id": 157691,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 182918,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": 94,
+   "guestScore": 45,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839501,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T18:00:00.000Z",
+   "home": {
+    "id": 151030,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151052,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 66,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839502,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T12:45:00.000Z",
+   "home": {
+    "id": 151052,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157691,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": 54,
+   "guestScore": 84,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839503,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T12:00:00.000Z",
+   "home": {
+    "id": 182918,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320636,
+    "name": "CATL Basketball Löwinnen Erfurt",
+    "clubId": 4877,
+    "forfeit": false
+   },
+   "homeScore": 57,
+   "guestScore": 54,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839504,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "18:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T16:15:00.000Z",
+   "home": {
+    "id": 152327,
+    "name": "BC Dresden",
+    "clubId": 123,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152178,
+    "name": "Leipzig Lakers",
+    "clubId": 4117,
+    "forfeit": false
+   },
+   "homeScore": 33,
+   "guestScore": 68,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839505,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-16",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-16T17:00:00.000Z",
+   "home": {
+    "id": 157689,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151030,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": 87,
+   "guestScore": 58,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839506,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T15:00:00.000Z",
+   "home": {
+    "id": 320636,
+    "name": "CATL Basketball Löwinnen Erfurt",
+    "clubId": 4877,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152178,
+    "name": "Leipzig Lakers",
+    "clubId": 4117,
+    "forfeit": false
+   },
+   "homeScore": 45,
+   "guestScore": 85,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839507,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T17:00:00.000Z",
+   "home": {
+    "id": 182918,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151052,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": 55,
+   "guestScore": 65,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839508,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-23",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-23T18:00:00.000Z",
+   "home": {
+    "id": 157691,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157689,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": 86,
+   "guestScore": 65,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839509,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T15:15:00.000Z",
+   "home": {
+    "id": 151030,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152327,
+    "name": "BC Dresden",
+    "clubId": 123,
+    "forfeit": false
+   },
+   "homeScore": 50,
+   "guestScore": 52,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839510,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T16:00:00.000Z",
+   "home": {
+    "id": 320636,
+    "name": "CATL Basketball Löwinnen Erfurt",
+    "clubId": 4877,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151052,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 78,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839511,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-01",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-01T15:00:00.000Z",
+   "home": {
+    "id": 152178,
+    "name": "Leipzig Lakers",
+    "clubId": 4117,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151030,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": 66,
+   "guestScore": 49,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839512,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "18:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T17:15:00.000Z",
+   "home": {
+    "id": 152327,
+    "name": "BC Dresden",
+    "clubId": 123,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157691,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": 41,
+   "guestScore": 75,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839513,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-10-30",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-30T18:00:00.000Z",
+   "home": {
+    "id": 157689,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 182918,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": 81,
+   "guestScore": 57,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839514,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T13:45:00.000Z",
+   "home": {
+    "id": 151052,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157689,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839515,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T17:00:00.000Z",
+   "home": {
+    "id": 182918,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152327,
+    "name": "BC Dresden",
+    "clubId": 123,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839516,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T15:00:00.000Z",
+   "home": {
+    "id": 157691,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152178,
+    "name": "Leipzig Lakers",
+    "clubId": 4117,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839517,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T16:15:00.000Z",
+   "home": {
+    "id": 151030,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320636,
+    "name": "CATL Basketball Löwinnen Erfurt",
+    "clubId": 4877,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839518,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T14:00:00.000Z",
+   "home": {
+    "id": 157689,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320636,
+    "name": "CATL Basketball Löwinnen Erfurt",
+    "clubId": 4877,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839519,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T11:00:00.000Z",
+   "home": {
+    "id": 182918,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152178,
+    "name": "Leipzig Lakers",
+    "clubId": 4117,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839520,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T13:45:00.000Z",
+   "home": {
+    "id": 151052,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152327,
+    "name": "BC Dresden",
+    "clubId": 123,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839521,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T18:00:00.000Z",
+   "home": {
+    "id": 157691,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151030,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839522,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T14:30:00.000Z",
+   "home": {
+    "id": 152178,
+    "name": "Leipzig Lakers",
+    "clubId": 4117,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151052,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839523,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T16:30:00.000Z",
+   "home": {
+    "id": 182918,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151030,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839524,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T16:00:00.000Z",
+   "home": {
+    "id": 320636,
+    "name": "CATL Basketball Löwinnen Erfurt",
+    "clubId": 4877,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157691,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839525,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T14:30:00.000Z",
+   "home": {
+    "id": 152327,
+    "name": "BC Dresden",
+    "clubId": 123,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157689,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839526,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "18:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T17:15:00.000Z",
+   "home": {
+    "id": 152327,
+    "name": "BC Dresden",
+    "clubId": 123,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320636,
+    "name": "CATL Basketball Löwinnen Erfurt",
+    "clubId": 4877,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839527,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T14:00:00.000Z",
+   "home": {
+    "id": 157689,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152178,
+    "name": "Leipzig Lakers",
+    "clubId": 4117,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839528,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T13:00:00.000Z",
+   "home": {
+    "id": 182918,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157691,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839529,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T13:45:00.000Z",
+   "home": {
+    "id": 151052,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151030,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839530,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T18:00:00.000Z",
+   "home": {
+    "id": 157691,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151052,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839531,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-12-04",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-04T19:00:00.000Z",
+   "home": {
+    "id": 320636,
+    "name": "CATL Basketball Löwinnen Erfurt",
+    "clubId": 4877,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 182918,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839532,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-12-04",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-04T18:30:00.000Z",
+   "home": {
+    "id": 152178,
+    "name": "Leipzig Lakers",
+    "clubId": 4117,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152327,
+    "name": "BC Dresden",
+    "clubId": 123,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839533,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-12-04",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-04T18:30:00.000Z",
+   "home": {
+    "id": 151030,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157689,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839534,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T12:00:00.000Z",
+   "home": {
+    "id": 152178,
+    "name": "Leipzig Lakers",
+    "clubId": 4117,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320636,
+    "name": "CATL Basketball Löwinnen Erfurt",
+    "clubId": 4877,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839535,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "15:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T14:15:00.000Z",
+   "home": {
+    "id": 151052,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 182918,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839536,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T14:30:00.000Z",
+   "home": {
+    "id": 157689,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157691,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839537,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T14:30:00.000Z",
+   "home": {
+    "id": 152327,
+    "name": "BC Dresden",
+    "clubId": 123,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151030,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839538,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T13:45:00.000Z",
+   "home": {
+    "id": 151052,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320636,
+    "name": "CATL Basketball Löwinnen Erfurt",
+    "clubId": 4877,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839539,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T19:00:00.000Z",
+   "home": {
+    "id": 151030,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152178,
+    "name": "Leipzig Lakers",
+    "clubId": 4117,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839540,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T15:00:00.000Z",
+   "home": {
+    "id": 157691,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152327,
+    "name": "BC Dresden",
+    "clubId": 123,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839541,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2026-12-18",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-18T19:00:00.000Z",
+   "home": {
+    "id": 182918,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157689,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839542,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T14:00:00.000Z",
+   "home": {
+    "id": 157689,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151052,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839543,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "18:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T17:15:00.000Z",
+   "home": {
+    "id": 152327,
+    "name": "BC Dresden",
+    "clubId": 123,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 182918,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839544,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T14:30:00.000Z",
+   "home": {
+    "id": 152178,
+    "name": "Leipzig Lakers",
+    "clubId": 4117,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157691,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2839545,
+   "ligaId": 52497,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T17:00:00.000Z",
+   "home": {
+    "id": 320636,
+    "name": "CATL Basketball Löwinnen Erfurt",
+    "clubId": 4877,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151030,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

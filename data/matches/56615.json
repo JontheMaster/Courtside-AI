@@ -1,0 +1,858 @@
+{
+ "league": {
+  "ligaId": 56615,
+  "name": "Bezirksoberliga U16 weiblich",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U16",
+  "gender": "weiblich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2984855,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T14:00:00.000Z",
+   "home": {
+    "id": 178736,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 218210,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984856,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T10:00:00.000Z",
+   "home": {
+    "id": 183277,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 275669,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984857,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T09:00:00.000Z",
+   "home": {
+    "id": 221757,
+    "name": "TSV Ebermannstadt a. K.",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198083,
+    "name": "SC Kemmern",
+    "clubId": 602,
+    "forfeit": false
+   },
+   "homeScore": 35,
+   "guestScore": 64,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984858,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T09:30:00.000Z",
+   "home": {
+    "id": 275669,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 221757,
+    "name": "TSV Ebermannstadt a. K.",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 53,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984859,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T15:00:00.000Z",
+   "home": {
+    "id": 198083,
+    "name": "SC Kemmern",
+    "clubId": 602,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 178736,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": 67,
+   "guestScore": 74,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984860,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T12:30:00.000Z",
+   "home": {
+    "id": 218210,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183277,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": 40,
+   "guestScore": 55,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984861,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T15:30:00.000Z",
+   "home": {
+    "id": 178736,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183277,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984862,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T14:00:00.000Z",
+   "home": {
+    "id": 198083,
+    "name": "SC Kemmern",
+    "clubId": 602,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 275669,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984863,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T14:30:00.000Z",
+   "home": {
+    "id": 221757,
+    "name": "TSV Ebermannstadt a. K.",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 218210,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984864,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T09:00:00.000Z",
+   "home": {
+    "id": 178736,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 275669,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984865,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T12:30:00.000Z",
+   "home": {
+    "id": 183277,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 221757,
+    "name": "TSV Ebermannstadt a. K.",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984866,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-27",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-27T17:00:00.000Z",
+   "home": {
+    "id": 218210,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198083,
+    "name": "SC Kemmern",
+    "clubId": 602,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984867,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T12:30:00.000Z",
+   "home": {
+    "id": 275669,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 218210,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984868,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T16:00:00.000Z",
+   "home": {
+    "id": 198083,
+    "name": "SC Kemmern",
+    "clubId": 602,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183277,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984869,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T13:45:00.000Z",
+   "home": {
+    "id": 221757,
+    "name": "TSV Ebermannstadt a. K.",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 178736,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984870,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T14:00:00.000Z",
+   "home": {
+    "id": 218210,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 178736,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984871,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T09:30:00.000Z",
+   "home": {
+    "id": 275669,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183277,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984872,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T12:00:00.000Z",
+   "home": {
+    "id": 198083,
+    "name": "SC Kemmern",
+    "clubId": 602,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 221757,
+    "name": "TSV Ebermannstadt a. K.",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984873,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T13:00:00.000Z",
+   "home": {
+    "id": 221757,
+    "name": "TSV Ebermannstadt a. K.",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 275669,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984874,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T13:30:00.000Z",
+   "home": {
+    "id": 178736,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198083,
+    "name": "SC Kemmern",
+    "clubId": 602,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984875,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T10:00:00.000Z",
+   "home": {
+    "id": 183277,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 218210,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984876,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T12:30:00.000Z",
+   "home": {
+    "id": 183277,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 178736,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984877,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-02-23",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-23T16:00:00.000Z",
+   "home": {
+    "id": 275669,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198083,
+    "name": "SC Kemmern",
+    "clubId": 602,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984878,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T09:30:00.000Z",
+   "home": {
+    "id": 218210,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 221757,
+    "name": "TSV Ebermannstadt a. K.",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984879,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T09:30:00.000Z",
+   "home": {
+    "id": 275669,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 178736,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984880,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T12:30:00.000Z",
+   "home": {
+    "id": 221757,
+    "name": "TSV Ebermannstadt a. K.",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183277,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984881,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T17:00:00.000Z",
+   "home": {
+    "id": 198083,
+    "name": "SC Kemmern",
+    "clubId": 602,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 218210,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984882,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T09:30:00.000Z",
+   "home": {
+    "id": 218210,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 275669,
+    "name": "Bischberg Baskets",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984883,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T15:00:00.000Z",
+   "home": {
+    "id": 183277,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198083,
+    "name": "SC Kemmern",
+    "clubId": 602,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984884,
+   "ligaId": 56615,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T16:00:00.000Z",
+   "home": {
+    "id": 178736,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 221757,
+    "name": "TSV Ebermannstadt a. K.",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

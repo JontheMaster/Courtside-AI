@@ -1,0 +1,3714 @@
+{
+ "league": {
+  "ligaId": 53725,
+  "name": "Bezirksoberliga Herren (BOLH) - 2026/27 ",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2899574,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-05",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-05T18:00:00.000Z",
+   "home": {
+    "id": 156983,
+    "name": "SV Weißblau-Allianz München e.V.",
+    "clubId": 994,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156989,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "homeScore": 76,
+   "guestScore": 79,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899575,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T16:00:00.000Z",
+   "home": {
+    "id": 157913,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154127,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899576,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T16:30:00.000Z",
+   "home": {
+    "id": 154164,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314962,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": 95,
+   "guestScore": 105,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899577,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T14:00:00.000Z",
+   "home": {
+    "id": 152000,
+    "name": "TuS Bad Aibling Fireballs",
+    "clubId": 724,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312137,
+    "name": "TS Jahn München 3",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 74,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899578,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T15:00:00.000Z",
+   "home": {
+    "id": 154135,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154163,
+    "name": "München Basket 2",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": 58,
+   "guestScore": 45,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899579,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T17:00:00.000Z",
+   "home": {
+    "id": 151073,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154158,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": 69,
+   "guestScore": 72,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899580,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T13:30:00.000Z",
+   "home": {
+    "id": 154163,
+    "name": "München Basket 2",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152000,
+    "name": "TuS Bad Aibling Fireballs",
+    "clubId": 724,
+    "forfeit": false
+   },
+   "homeScore": 81,
+   "guestScore": 68,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899581,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:45:00.000Z",
+   "home": {
+    "id": 312137,
+    "name": "TS Jahn München 3",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154164,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": 116,
+   "guestScore": 37,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899582,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:30:00.000Z",
+   "home": {
+    "id": 314962,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157913,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": 62,
+   "guestScore": 74,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899583,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:00:00.000Z",
+   "home": {
+    "id": 154127,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151073,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": 77,
+   "guestScore": 65,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899584,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T17:30:00.000Z",
+   "home": {
+    "id": 154158,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156983,
+    "name": "SV Weißblau-Allianz München e.V.",
+    "clubId": 994,
+    "forfeit": false
+   },
+   "homeScore": 61,
+   "guestScore": 96,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899585,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T17:00:00.000Z",
+   "home": {
+    "id": 156989,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154135,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": 62,
+   "guestScore": 77,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899586,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-19",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-19T18:00:00.000Z",
+   "home": {
+    "id": 156983,
+    "name": "SV Weißblau-Allianz München e.V.",
+    "clubId": 994,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154135,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": 77,
+   "guestScore": 82,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899587,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T15:00:00.000Z",
+   "home": {
+    "id": 157913,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312137,
+    "name": "TS Jahn München 3",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899588,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T14:45:00.000Z",
+   "home": {
+    "id": 154164,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154163,
+    "name": "München Basket 2",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": 49,
+   "guestScore": 83,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899589,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T14:00:00.000Z",
+   "home": {
+    "id": 152000,
+    "name": "TuS Bad Aibling Fireballs",
+    "clubId": 724,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156989,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "homeScore": 79,
+   "guestScore": 83,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899590,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T17:30:00.000Z",
+   "home": {
+    "id": 154158,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154127,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": 65,
+   "guestScore": 75,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899591,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T17:00:00.000Z",
+   "home": {
+    "id": 151073,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314962,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": 65,
+   "guestScore": 74,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899592,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T15:30:00.000Z",
+   "home": {
+    "id": 154163,
+    "name": "München Basket 2",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157913,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": 77,
+   "guestScore": 69,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899593,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T17:30:00.000Z",
+   "home": {
+    "id": 312137,
+    "name": "TS Jahn München 3",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151073,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": 86,
+   "guestScore": 55,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899594,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T18:00:00.000Z",
+   "home": {
+    "id": 314962,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154158,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": 60,
+   "guestScore": 53,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899595,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:00:00.000Z",
+   "home": {
+    "id": 154127,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156983,
+    "name": "SV Weißblau-Allianz München e.V.",
+    "clubId": 994,
+    "forfeit": false
+   },
+   "homeScore": 68,
+   "guestScore": 86,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899596,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:00:00.000Z",
+   "home": {
+    "id": 154135,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152000,
+    "name": "TuS Bad Aibling Fireballs",
+    "clubId": 724,
+    "forfeit": false
+   },
+   "homeScore": 20,
+   "guestScore": 0,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899597,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T17:30:00.000Z",
+   "home": {
+    "id": 156989,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154164,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899598,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T15:00:00.000Z",
+   "home": {
+    "id": 156983,
+    "name": "SV Weißblau-Allianz München e.V.",
+    "clubId": 994,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152000,
+    "name": "TuS Bad Aibling Fireballs",
+    "clubId": 724,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899599,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-01",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-01T16:00:00.000Z",
+   "home": {
+    "id": 157913,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156989,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "homeScore": 76,
+   "guestScore": 74,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899600,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-01",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-01T15:00:00.000Z",
+   "home": {
+    "id": 154164,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154135,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": 89,
+   "guestScore": 72,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899601,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-04-25",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-25T15:00:00.000Z",
+   "home": {
+    "id": 154127,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314962,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899602,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T16:00:00.000Z",
+   "home": {
+    "id": 154158,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312137,
+    "name": "TS Jahn München 3",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899603,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T18:00:00.000Z",
+   "home": {
+    "id": 151073,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154163,
+    "name": "München Basket 2",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": 69,
+   "guestScore": 67,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899604,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "18:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T17:45:00.000Z",
+   "home": {
+    "id": 154163,
+    "name": "München Basket 2",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154158,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899605,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T19:00:00.000Z",
+   "home": {
+    "id": 312137,
+    "name": "TS Jahn München 3",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154127,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899606,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T18:00:00.000Z",
+   "home": {
+    "id": 314962,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156983,
+    "name": "SV Weißblau-Allianz München e.V.",
+    "clubId": 994,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899607,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T15:00:00.000Z",
+   "home": {
+    "id": 152000,
+    "name": "TuS Bad Aibling Fireballs",
+    "clubId": 724,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154164,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899608,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T16:00:00.000Z",
+   "home": {
+    "id": 154135,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157913,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899609,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T18:00:00.000Z",
+   "home": {
+    "id": 156989,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151073,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899610,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T15:00:00.000Z",
+   "home": {
+    "id": 156983,
+    "name": "SV Weißblau-Allianz München e.V.",
+    "clubId": 994,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154164,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899611,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T16:00:00.000Z",
+   "home": {
+    "id": 157913,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152000,
+    "name": "TuS Bad Aibling Fireballs",
+    "clubId": 724,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899612,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T16:30:00.000Z",
+   "home": {
+    "id": 314962,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312137,
+    "name": "TS Jahn München 3",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899613,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T16:00:00.000Z",
+   "home": {
+    "id": 154127,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154163,
+    "name": "München Basket 2",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899614,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T18:30:00.000Z",
+   "home": {
+    "id": 154158,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156989,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899615,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T18:00:00.000Z",
+   "home": {
+    "id": 151073,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154135,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899616,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T14:00:00.000Z",
+   "home": {
+    "id": 154163,
+    "name": "München Basket 2",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314962,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899617,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T15:30:00.000Z",
+   "home": {
+    "id": 312137,
+    "name": "TS Jahn München 3",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156983,
+    "name": "SV Weißblau-Allianz München e.V.",
+    "clubId": 994,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899618,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T13:30:00.000Z",
+   "home": {
+    "id": 154164,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157913,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899619,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T15:00:00.000Z",
+   "home": {
+    "id": 152000,
+    "name": "TuS Bad Aibling Fireballs",
+    "clubId": 724,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151073,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899620,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T16:00:00.000Z",
+   "home": {
+    "id": 154135,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154158,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899621,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T18:00:00.000Z",
+   "home": {
+    "id": 156989,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154127,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899622,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-07",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-07T19:00:00.000Z",
+   "home": {
+    "id": 156983,
+    "name": "SV Weißblau-Allianz München e.V.",
+    "clubId": 994,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157913,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899623,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T17:30:00.000Z",
+   "home": {
+    "id": 312137,
+    "name": "TS Jahn München 3",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154163,
+    "name": "München Basket 2",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899624,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T18:00:00.000Z",
+   "home": {
+    "id": 314962,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156989,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899625,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T16:00:00.000Z",
+   "home": {
+    "id": 154127,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154135,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899626,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T18:30:00.000Z",
+   "home": {
+    "id": 154158,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152000,
+    "name": "TuS Bad Aibling Fireballs",
+    "clubId": 724,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899627,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T18:00:00.000Z",
+   "home": {
+    "id": 151073,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154164,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899628,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-14",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-14T19:00:00.000Z",
+   "home": {
+    "id": 156983,
+    "name": "SV Weißblau-Allianz München e.V.",
+    "clubId": 994,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154163,
+    "name": "München Basket 2",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899629,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T16:00:00.000Z",
+   "home": {
+    "id": 157913,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151073,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899630,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T18:00:00.000Z",
+   "home": {
+    "id": 154164,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154158,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899631,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T15:00:00.000Z",
+   "home": {
+    "id": 152000,
+    "name": "TuS Bad Aibling Fireballs",
+    "clubId": 724,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154127,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899632,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T16:00:00.000Z",
+   "home": {
+    "id": 154135,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314962,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899633,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T18:00:00.000Z",
+   "home": {
+    "id": 156989,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312137,
+    "name": "TS Jahn München 3",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899634,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "13:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T12:45:00.000Z",
+   "home": {
+    "id": 154163,
+    "name": "München Basket 2",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156989,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899635,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T16:30:00.000Z",
+   "home": {
+    "id": 312137,
+    "name": "TS Jahn München 3",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154135,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899636,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T16:30:00.000Z",
+   "home": {
+    "id": 314962,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152000,
+    "name": "TuS Bad Aibling Fireballs",
+    "clubId": 724,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899637,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T16:00:00.000Z",
+   "home": {
+    "id": 154127,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154164,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899638,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T18:30:00.000Z",
+   "home": {
+    "id": 154158,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157913,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899639,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T18:00:00.000Z",
+   "home": {
+    "id": 151073,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156983,
+    "name": "SV Weißblau-Allianz München e.V.",
+    "clubId": 994,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899640,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T18:00:00.000Z",
+   "home": {
+    "id": 156989,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156983,
+    "name": "SV Weißblau-Allianz München e.V.",
+    "clubId": 994,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899641,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:00:00.000Z",
+   "home": {
+    "id": 154127,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157913,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899642,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:30:00.000Z",
+   "home": {
+    "id": 314962,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154164,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899643,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:30:00.000Z",
+   "home": {
+    "id": 312137,
+    "name": "TS Jahn München 3",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152000,
+    "name": "TuS Bad Aibling Fireballs",
+    "clubId": 724,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899644,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "16:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T15:15:00.000Z",
+   "home": {
+    "id": 154163,
+    "name": "München Basket 2",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154135,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899645,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T14:30:00.000Z",
+   "home": {
+    "id": 154158,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151073,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899646,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T18:00:00.000Z",
+   "home": {
+    "id": 152000,
+    "name": "TuS Bad Aibling Fireballs",
+    "clubId": 724,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154163,
+    "name": "München Basket 2",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899647,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T15:45:00.000Z",
+   "home": {
+    "id": 154164,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312137,
+    "name": "TS Jahn München 3",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899648,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:00:00.000Z",
+   "home": {
+    "id": 157913,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314962,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899649,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T18:00:00.000Z",
+   "home": {
+    "id": 151073,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154127,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899650,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-25",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-25T19:00:00.000Z",
+   "home": {
+    "id": 156983,
+    "name": "SV Weißblau-Allianz München e.V.",
+    "clubId": 994,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154158,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899651,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:00:00.000Z",
+   "home": {
+    "id": 154135,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156989,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899652,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T16:00:00.000Z",
+   "home": {
+    "id": 154135,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156983,
+    "name": "SV Weißblau-Allianz München e.V.",
+    "clubId": 994,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899653,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T17:30:00.000Z",
+   "home": {
+    "id": 312137,
+    "name": "TS Jahn München 3",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157913,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899654,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "16:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T15:15:00.000Z",
+   "home": {
+    "id": 154163,
+    "name": "München Basket 2",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154164,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899655,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T18:00:00.000Z",
+   "home": {
+    "id": 156989,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152000,
+    "name": "TuS Bad Aibling Fireballs",
+    "clubId": 724,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899656,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T16:00:00.000Z",
+   "home": {
+    "id": 154127,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154158,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899657,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T16:30:00.000Z",
+   "home": {
+    "id": 314962,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151073,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899658,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-07",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-07T16:00:00.000Z",
+   "home": {
+    "id": 157913,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154163,
+    "name": "München Basket 2",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899659,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-06T18:00:00.000Z",
+   "home": {
+    "id": 151073,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312137,
+    "name": "TS Jahn München 3",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899660,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-05",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-05T19:00:00.000Z",
+   "home": {
+    "id": 154158,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314962,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899661,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-08",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-08T19:00:00.000Z",
+   "home": {
+    "id": 156983,
+    "name": "SV Weißblau-Allianz München e.V.",
+    "clubId": 994,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154127,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899662,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-06T18:00:00.000Z",
+   "home": {
+    "id": 152000,
+    "name": "TuS Bad Aibling Fireballs",
+    "clubId": 724,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154135,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899663,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-06T15:00:00.000Z",
+   "home": {
+    "id": 154164,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156989,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899664,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T18:00:00.000Z",
+   "home": {
+    "id": 152000,
+    "name": "TuS Bad Aibling Fireballs",
+    "clubId": 724,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156983,
+    "name": "SV Weißblau-Allianz München e.V.",
+    "clubId": 994,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899665,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T18:00:00.000Z",
+   "home": {
+    "id": 156989,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157913,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899666,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T16:00:00.000Z",
+   "home": {
+    "id": 154135,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154164,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899667,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T18:00:00.000Z",
+   "home": {
+    "id": 314962,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154127,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899668,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T19:00:00.000Z",
+   "home": {
+    "id": 312137,
+    "name": "TS Jahn München 3",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154158,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899669,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T14:30:00.000Z",
+   "home": {
+    "id": 154163,
+    "name": "München Basket 2",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151073,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899670,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T18:30:00.000Z",
+   "home": {
+    "id": 154158,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154163,
+    "name": "München Basket 2",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899671,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T16:00:00.000Z",
+   "home": {
+    "id": 154127,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312137,
+    "name": "TS Jahn München 3",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899672,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T15:00:00.000Z",
+   "home": {
+    "id": 156983,
+    "name": "SV Weißblau-Allianz München e.V.",
+    "clubId": 994,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314962,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899673,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T15:45:00.000Z",
+   "home": {
+    "id": 154164,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152000,
+    "name": "TuS Bad Aibling Fireballs",
+    "clubId": 724,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899674,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T16:00:00.000Z",
+   "home": {
+    "id": 157913,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154135,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899675,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T18:00:00.000Z",
+   "home": {
+    "id": 151073,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156989,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899676,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T13:30:00.000Z",
+   "home": {
+    "id": 154164,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156983,
+    "name": "SV Weißblau-Allianz München e.V.",
+    "clubId": 994,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899677,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T18:00:00.000Z",
+   "home": {
+    "id": 152000,
+    "name": "TuS Bad Aibling Fireballs",
+    "clubId": 724,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157913,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899678,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T17:30:00.000Z",
+   "home": {
+    "id": 312137,
+    "name": "TS Jahn München 3",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314962,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899679,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T14:30:00.000Z",
+   "home": {
+    "id": 154163,
+    "name": "München Basket 2",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154127,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899680,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T18:00:00.000Z",
+   "home": {
+    "id": 156989,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154158,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899681,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T16:00:00.000Z",
+   "home": {
+    "id": 154135,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151073,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899682,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 19,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T16:30:00.000Z",
+   "home": {
+    "id": 314962,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154163,
+    "name": "München Basket 2",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899683,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 19,
+   "kickoffDate": "2027-03-15",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-15T19:00:00.000Z",
+   "home": {
+    "id": 156983,
+    "name": "SV Weißblau-Allianz München e.V.",
+    "clubId": 994,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312137,
+    "name": "TS Jahn München 3",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899684,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 19,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T16:00:00.000Z",
+   "home": {
+    "id": 157913,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154164,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899685,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 19,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T18:00:00.000Z",
+   "home": {
+    "id": 151073,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152000,
+    "name": "TuS Bad Aibling Fireballs",
+    "clubId": 724,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899686,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 19,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T18:30:00.000Z",
+   "home": {
+    "id": 154158,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154135,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899687,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 19,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T16:00:00.000Z",
+   "home": {
+    "id": 154127,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156989,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899688,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 20,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T16:00:00.000Z",
+   "home": {
+    "id": 157913,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156983,
+    "name": "SV Weißblau-Allianz München e.V.",
+    "clubId": 994,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899689,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 20,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "13:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T12:15:00.000Z",
+   "home": {
+    "id": 154163,
+    "name": "München Basket 2",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312137,
+    "name": "TS Jahn München 3",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899690,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 20,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T18:00:00.000Z",
+   "home": {
+    "id": 156989,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314962,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899691,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 20,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T16:00:00.000Z",
+   "home": {
+    "id": 154135,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154127,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899692,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 20,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T18:00:00.000Z",
+   "home": {
+    "id": 152000,
+    "name": "TuS Bad Aibling Fireballs",
+    "clubId": 724,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154158,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899693,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 20,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T15:00:00.000Z",
+   "home": {
+    "id": 154164,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151073,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899694,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 21,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T13:30:00.000Z",
+   "home": {
+    "id": 154163,
+    "name": "München Basket 2",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156983,
+    "name": "SV Weißblau-Allianz München e.V.",
+    "clubId": 994,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899695,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 21,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T17:00:00.000Z",
+   "home": {
+    "id": 151073,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157913,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899696,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 21,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T17:30:00.000Z",
+   "home": {
+    "id": 154158,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154164,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899697,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 21,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T15:00:00.000Z",
+   "home": {
+    "id": 154127,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152000,
+    "name": "TuS Bad Aibling Fireballs",
+    "clubId": 724,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899698,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 21,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T15:30:00.000Z",
+   "home": {
+    "id": 314962,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154135,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899699,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 21,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T18:00:00.000Z",
+   "home": {
+    "id": 312137,
+    "name": "TS Jahn München 3",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 156989,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899700,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 22,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T17:30:00.000Z",
+   "home": {
+    "id": 156989,
+    "name": "TSV Schleißheim",
+    "clubId": 279,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154163,
+    "name": "München Basket 2",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899701,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 22,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T18:00:00.000Z",
+   "home": {
+    "id": 154135,
+    "name": "BC Hellenen München 2",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312137,
+    "name": "TS Jahn München 3",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899702,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 22,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T17:00:00.000Z",
+   "home": {
+    "id": 152000,
+    "name": "TuS Bad Aibling Fireballs",
+    "clubId": 724,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314962,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899703,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 22,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T17:00:00.000Z",
+   "home": {
+    "id": 154164,
+    "name": "Baskets Vilsbiburg 2",
+    "clubId": 1422,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154127,
+    "name": "TSV Grünwald",
+    "clubId": 655,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899704,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 22,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T15:00:00.000Z",
+   "home": {
+    "id": 157913,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154158,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899705,
+   "ligaId": 53725,
+   "seasonId": 2026,
+   "matchDay": 22,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T14:00:00.000Z",
+   "home": {
+    "id": 156983,
+    "name": "SV Weißblau-Allianz München e.V.",
+    "clubId": 994,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151073,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

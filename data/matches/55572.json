@@ -1,0 +1,2034 @@
+{
+ "league": {
+  "ligaId": 55572,
+  "name": "UFR Bezirksoberliga Damen",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "weiblich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Unterfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2933396,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "15:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T13:15:00.000Z",
+   "home": {
+    "id": 157451,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157449,
+    "name": "SG Oerlenbach/Ebenh.",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "homeScore": 61,
+   "guestScore": 37,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933397,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T13:30:00.000Z",
+   "home": {
+    "id": 323007,
+    "name": "TG 1848 Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157450,
+    "name": "SV Erlenbach Black Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "homeScore": 40,
+   "guestScore": 56,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933398,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T10:30:00.000Z",
+   "home": {
+    "id": 321201,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157452,
+    "name": "DJK Münsterschwarzach",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "homeScore": 61,
+   "guestScore": 33,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933399,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T14:00:00.000Z",
+   "home": {
+    "id": 319336,
+    "name": "TB Arnstein Black Scorpions",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228505,
+    "name": "TV Marktheidenfeld 2",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": 44,
+   "guestScore": 34,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933401,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T14:00:00.000Z",
+   "home": {
+    "id": 228505,
+    "name": "TV Marktheidenfeld 2",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321201,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": 32,
+   "guestScore": 54,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933402,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T12:30:00.000Z",
+   "home": {
+    "id": 157452,
+    "name": "DJK Münsterschwarzach",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323007,
+    "name": "TG 1848 Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "homeScore": 25,
+   "guestScore": 60,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933404,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T13:00:00.000Z",
+   "home": {
+    "id": 317684,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157451,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": 56,
+   "guestScore": 60,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933405,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T14:30:00.000Z",
+   "home": {
+    "id": 157449,
+    "name": "SG Oerlenbach/Ebenh.",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319336,
+    "name": "TB Arnstein Black Scorpions",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": 34,
+   "guestScore": 44,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933406,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T16:00:00.000Z",
+   "home": {
+    "id": 157451,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319336,
+    "name": "TB Arnstein Black Scorpions",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": 51,
+   "guestScore": 41,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933407,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T14:00:00.000Z",
+   "home": {
+    "id": 323007,
+    "name": "TG 1848 Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228505,
+    "name": "TV Marktheidenfeld 2",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": 67,
+   "guestScore": 26,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933408,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T10:30:00.000Z",
+   "home": {
+    "id": 321201,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157449,
+    "name": "SG Oerlenbach/Ebenh.",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "homeScore": 44,
+   "guestScore": 37,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933409,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T13:00:00.000Z",
+   "home": {
+    "id": 317684,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157450,
+    "name": "SV Erlenbach Black Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "homeScore": 49,
+   "guestScore": 71,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933412,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T15:30:00.000Z",
+   "home": {
+    "id": 157452,
+    "name": "DJK Münsterschwarzach",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317684,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933413,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T15:00:00.000Z",
+   "home": {
+    "id": 157450,
+    "name": "SV Erlenbach Black Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157451,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": 67,
+   "guestScore": 46,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933414,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T14:00:00.000Z",
+   "home": {
+    "id": 319336,
+    "name": "TB Arnstein Black Scorpions",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321201,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": 24,
+   "guestScore": 50,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933415,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T14:30:00.000Z",
+   "home": {
+    "id": 157449,
+    "name": "SG Oerlenbach/Ebenh.",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323007,
+    "name": "TG 1848 Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "homeScore": 35,
+   "guestScore": 54,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933416,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "15:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T14:15:00.000Z",
+   "home": {
+    "id": 157451,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321201,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933417,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T14:30:00.000Z",
+   "home": {
+    "id": 323007,
+    "name": "TG 1848 Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319336,
+    "name": "TB Arnstein Black Scorpions",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933418,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T16:00:00.000Z",
+   "home": {
+    "id": 157450,
+    "name": "SV Erlenbach Black Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157452,
+    "name": "DJK Münsterschwarzach",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933419,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T14:00:00.000Z",
+   "home": {
+    "id": 317684,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228505,
+    "name": "TV Marktheidenfeld 2",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933421,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T16:00:00.000Z",
+   "home": {
+    "id": 228505,
+    "name": "TV Marktheidenfeld 2",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157450,
+    "name": "SV Erlenbach Black Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933422,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-20",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-20T18:00:00.000Z",
+   "home": {
+    "id": 157452,
+    "name": "DJK Münsterschwarzach",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157451,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933423,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T14:00:00.000Z",
+   "home": {
+    "id": 321201,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323007,
+    "name": "TG 1848 Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933425,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T15:30:00.000Z",
+   "home": {
+    "id": 157449,
+    "name": "SG Oerlenbach/Ebenh.",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317684,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933426,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T16:30:00.000Z",
+   "home": {
+    "id": 157451,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323007,
+    "name": "TG 1848 Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933427,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T15:30:00.000Z",
+   "home": {
+    "id": 157452,
+    "name": "DJK Münsterschwarzach",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228505,
+    "name": "TV Marktheidenfeld 2",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933428,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T16:00:00.000Z",
+   "home": {
+    "id": 157450,
+    "name": "SV Erlenbach Black Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157449,
+    "name": "SG Oerlenbach/Ebenh.",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933429,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T14:00:00.000Z",
+   "home": {
+    "id": 317684,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319336,
+    "name": "TB Arnstein Black Scorpions",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933431,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T15:00:00.000Z",
+   "home": {
+    "id": 157451,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228505,
+    "name": "TV Marktheidenfeld 2",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933433,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T11:30:00.000Z",
+   "home": {
+    "id": 321201,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317684,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933434,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T12:30:00.000Z",
+   "home": {
+    "id": 319336,
+    "name": "TB Arnstein Black Scorpions",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157450,
+    "name": "SV Erlenbach Black Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933435,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T15:30:00.000Z",
+   "home": {
+    "id": 157449,
+    "name": "SG Oerlenbach/Ebenh.",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157452,
+    "name": "DJK Münsterschwarzach",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933436,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "18:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T17:15:00.000Z",
+   "home": {
+    "id": 228505,
+    "name": "TV Marktheidenfeld 2",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157449,
+    "name": "SG Oerlenbach/Ebenh.",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933437,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T16:30:00.000Z",
+   "home": {
+    "id": 157452,
+    "name": "DJK Münsterschwarzach",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319336,
+    "name": "TB Arnstein Black Scorpions",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933438,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T16:00:00.000Z",
+   "home": {
+    "id": 157450,
+    "name": "SV Erlenbach Black Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321201,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933439,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T14:00:00.000Z",
+   "home": {
+    "id": 317684,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323007,
+    "name": "TG 1848 Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933441,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T15:30:00.000Z",
+   "home": {
+    "id": 157449,
+    "name": "SG Oerlenbach/Ebenh.",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157451,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933442,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T16:00:00.000Z",
+   "home": {
+    "id": 157450,
+    "name": "SV Erlenbach Black Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323007,
+    "name": "TG 1848 Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933443,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T15:30:00.000Z",
+   "home": {
+    "id": 157452,
+    "name": "DJK Münsterschwarzach",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321201,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933444,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T15:00:00.000Z",
+   "home": {
+    "id": 228505,
+    "name": "TV Marktheidenfeld 2",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319336,
+    "name": "TB Arnstein Black Scorpions",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933446,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T14:00:00.000Z",
+   "home": {
+    "id": 321201,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228505,
+    "name": "TV Marktheidenfeld 2",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933447,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T14:30:00.000Z",
+   "home": {
+    "id": 323007,
+    "name": "TG 1848 Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157452,
+    "name": "DJK Münsterschwarzach",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933449,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T15:00:00.000Z",
+   "home": {
+    "id": 157451,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317684,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933450,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T12:30:00.000Z",
+   "home": {
+    "id": 319336,
+    "name": "TB Arnstein Black Scorpions",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157449,
+    "name": "SG Oerlenbach/Ebenh.",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933451,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T15:00:00.000Z",
+   "home": {
+    "id": 319336,
+    "name": "TB Arnstein Black Scorpions",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157451,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933452,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:15:00.000Z",
+   "home": {
+    "id": 228505,
+    "name": "TV Marktheidenfeld 2",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323007,
+    "name": "TG 1848 Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933453,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T15:30:00.000Z",
+   "home": {
+    "id": 157449,
+    "name": "SG Oerlenbach/Ebenh.",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321201,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933454,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T16:00:00.000Z",
+   "home": {
+    "id": 157450,
+    "name": "SV Erlenbach Black Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317684,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933457,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T14:00:00.000Z",
+   "home": {
+    "id": 317684,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157452,
+    "name": "DJK Münsterschwarzach",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933458,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "15:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T14:15:00.000Z",
+   "home": {
+    "id": 157451,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157450,
+    "name": "SV Erlenbach Black Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933459,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T14:00:00.000Z",
+   "home": {
+    "id": 321201,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319336,
+    "name": "TB Arnstein Black Scorpions",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933460,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T14:30:00.000Z",
+   "home": {
+    "id": 323007,
+    "name": "TG 1848 Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157449,
+    "name": "SG Oerlenbach/Ebenh.",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933461,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T11:30:00.000Z",
+   "home": {
+    "id": 321201,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157451,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933462,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T16:30:00.000Z",
+   "home": {
+    "id": 319336,
+    "name": "TB Arnstein Black Scorpions",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323007,
+    "name": "TG 1848 Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933463,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T14:00:00.000Z",
+   "home": {
+    "id": 157452,
+    "name": "DJK Münsterschwarzach",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157450,
+    "name": "SV Erlenbach Black Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933464,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T15:00:00.000Z",
+   "home": {
+    "id": 228505,
+    "name": "TV Marktheidenfeld 2",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317684,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933466,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-19",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-19T18:00:00.000Z",
+   "home": {
+    "id": 157450,
+    "name": "SV Erlenbach Black Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228505,
+    "name": "TV Marktheidenfeld 2",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933467,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "17:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T16:45:00.000Z",
+   "home": {
+    "id": 157451,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157452,
+    "name": "DJK Münsterschwarzach",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933468,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T14:30:00.000Z",
+   "home": {
+    "id": 323007,
+    "name": "TG 1848 Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321201,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933470,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T14:00:00.000Z",
+   "home": {
+    "id": 317684,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157449,
+    "name": "SG Oerlenbach/Ebenh.",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933471,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T14:30:00.000Z",
+   "home": {
+    "id": 323007,
+    "name": "TG 1848 Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157451,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933472,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T15:00:00.000Z",
+   "home": {
+    "id": 228505,
+    "name": "TV Marktheidenfeld 2",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157452,
+    "name": "DJK Münsterschwarzach",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933473,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T15:30:00.000Z",
+   "home": {
+    "id": 157449,
+    "name": "SG Oerlenbach/Ebenh.",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157450,
+    "name": "SV Erlenbach Black Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933474,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T15:00:00.000Z",
+   "home": {
+    "id": 319336,
+    "name": "TB Arnstein Black Scorpions",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317684,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933476,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T15:00:00.000Z",
+   "home": {
+    "id": 228505,
+    "name": "TV Marktheidenfeld 2",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157451,
+    "name": "TG 48 Würzburg 4",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933478,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T14:00:00.000Z",
+   "home": {
+    "id": 317684,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321201,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933479,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T16:00:00.000Z",
+   "home": {
+    "id": 157450,
+    "name": "SV Erlenbach Black Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319336,
+    "name": "TB Arnstein Black Scorpions",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933480,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T15:30:00.000Z",
+   "home": {
+    "id": 157452,
+    "name": "DJK Münsterschwarzach",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157449,
+    "name": "SG Oerlenbach/Ebenh.",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933481,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-19",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-19T18:00:00.000Z",
+   "home": {
+    "id": 157449,
+    "name": "SG Oerlenbach/Ebenh.",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228505,
+    "name": "TV Marktheidenfeld 2",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933482,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T15:00:00.000Z",
+   "home": {
+    "id": 319336,
+    "name": "TB Arnstein Black Scorpions",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157452,
+    "name": "DJK Münsterschwarzach",
+    "clubId": 1954,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933483,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T11:30:00.000Z",
+   "home": {
+    "id": 321201,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157450,
+    "name": "SV Erlenbach Black Bees",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933484,
+   "ligaId": 55572,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T14:30:00.000Z",
+   "home": {
+    "id": 323007,
+    "name": "TG 1848 Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317684,
+    "name": "TSV Grombühl 2",
+    "clubId": 395,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

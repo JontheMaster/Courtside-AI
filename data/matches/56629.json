@@ -1,0 +1,858 @@
+{
+ "league": {
+  "ligaId": 56629,
+  "name": "Bezirksoberliga U14 männlich",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U14",
+  "gender": "männlich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2985494,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T14:00:00.000Z",
+   "home": {
+    "id": 183256,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 202044,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": 57,
+   "guestScore": 112,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985495,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T10:15:00.000Z",
+   "home": {
+    "id": 167098,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162241,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985496,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T13:45:00.000Z",
+   "home": {
+    "id": 202044,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167098,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985498,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T09:00:00.000Z",
+   "home": {
+    "id": 166359,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183256,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": 64,
+   "guestScore": 59,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985500,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T13:00:00.000Z",
+   "home": {
+    "id": 162241,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 202044,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985501,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T15:45:00.000Z",
+   "home": {
+    "id": 167098,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166359,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985503,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T15:00:00.000Z",
+   "home": {
+    "id": 183256,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167098,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985504,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T12:30:00.000Z",
+   "home": {
+    "id": 166359,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162241,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985505,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T09:00:00.000Z",
+   "home": {
+    "id": 202044,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166359,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985506,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T16:00:00.000Z",
+   "home": {
+    "id": 162241,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183256,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985509,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-11",
+   "kickoffTime": "18:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-11T17:45:00.000Z",
+   "home": {
+    "id": 202044,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183256,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985510,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T10:00:00.000Z",
+   "home": {
+    "id": 162241,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167098,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985511,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T12:00:00.000Z",
+   "home": {
+    "id": 167098,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 202044,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985513,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T14:00:00.000Z",
+   "home": {
+    "id": 183256,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166359,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985515,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T11:15:00.000Z",
+   "home": {
+    "id": 202044,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162241,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985516,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "13:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T12:45:00.000Z",
+   "home": {
+    "id": 166359,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167098,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985518,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T12:30:00.000Z",
+   "home": {
+    "id": 167098,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183256,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985519,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T13:00:00.000Z",
+   "home": {
+    "id": 162241,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166359,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985520,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T12:30:00.000Z",
+   "home": {
+    "id": 166359,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 202044,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985521,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T15:00:00.000Z",
+   "home": {
+    "id": 183256,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162241,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985524,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T15:00:00.000Z",
+   "home": {
+    "id": 183256,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 202044,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985525,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "15:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T14:45:00.000Z",
+   "home": {
+    "id": 167098,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162241,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985526,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T11:15:00.000Z",
+   "home": {
+    "id": 202044,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167098,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985528,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T12:30:00.000Z",
+   "home": {
+    "id": 166359,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183256,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985530,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T10:00:00.000Z",
+   "home": {
+    "id": 162241,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 202044,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985531,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "15:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T14:15:00.000Z",
+   "home": {
+    "id": 167098,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166359,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985533,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T12:30:00.000Z",
+   "home": {
+    "id": 183256,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167098,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985534,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T11:30:00.000Z",
+   "home": {
+    "id": 166359,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162241,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985535,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T11:15:00.000Z",
+   "home": {
+    "id": 202044,
+    "name": "RSC Oberhaid",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166359,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2985536,
+   "ligaId": 56629,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T10:00:00.000Z",
+   "home": {
+    "id": 162241,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183256,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

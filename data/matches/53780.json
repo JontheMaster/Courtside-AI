@@ -1,0 +1,2358 @@
+{
+ "league": {
+  "ligaId": 53780,
+  "name": "West - Kreisliga U16m-A (WE-KL16M-A) 2026/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U16",
+  "gender": "männlich",
+  "level": "Kreisliga",
+  "levelScope": "Kreis",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2910803,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T08:00:00.000Z",
+   "home": {
+    "id": 322889,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319479,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": 25,
+   "guestScore": 97,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910804,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T12:30:00.000Z",
+   "home": {
+    "id": 165530,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910805,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T15:30:00.000Z",
+   "home": {
+    "id": 210473,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 258754,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": 68,
+   "guestScore": 31,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910806,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-02",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-01T22:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 198785,
+    "name": "SLAMA JAMA Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910807,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T12:30:00.000Z",
+   "home": {
+    "id": 322908,
+    "name": "Westside Warriors 3",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165518,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "homeScore": 58,
+   "guestScore": 75,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910808,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T13:00:00.000Z",
+   "home": {
+    "id": 198785,
+    "name": "SLAMA JAMA Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 210473,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "homeScore": 51,
+   "guestScore": 53,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910809,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T14:30:00.000Z",
+   "home": {
+    "id": 258754,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165530,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": 87,
+   "guestScore": 53,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910810,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-09",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-08T22:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 322908,
+    "name": "Westside Warriors 3",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910811,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T13:00:00.000Z",
+   "home": {
+    "id": 165518,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322889,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "homeScore": 123,
+   "guestScore": 33,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910812,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T12:00:00.000Z",
+   "home": {
+    "id": 319479,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910813,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T08:00:00.000Z",
+   "home": {
+    "id": 322889,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910814,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T12:30:00.000Z",
+   "home": {
+    "id": 165530,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198785,
+    "name": "SLAMA JAMA Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": 52,
+   "guestScore": 140,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910815,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T15:00:00.000Z",
+   "home": {
+    "id": 210473,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319479,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910816,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T13:00:00.000Z",
+   "home": {
+    "id": 165518,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910817,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T10:15:00.000Z",
+   "home": {
+    "id": 322908,
+    "name": "Westside Warriors 3",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 258754,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": 64,
+   "guestScore": 31,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910818,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T13:00:00.000Z",
+   "home": {
+    "id": 198785,
+    "name": "SLAMA JAMA Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322908,
+    "name": "Westside Warriors 3",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": 48,
+   "guestScore": 91,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910819,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T12:15:00.000Z",
+   "home": {
+    "id": 258754,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165518,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "homeScore": 75,
+   "guestScore": 62,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910820,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-23",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-22T22:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 322889,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910821,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-23",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-22T22:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 210473,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910822,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T09:30:00.000Z",
+   "home": {
+    "id": 319479,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165530,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": 114,
+   "guestScore": 70,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910823,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T09:00:00.000Z",
+   "home": {
+    "id": 322889,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 210473,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910824,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T13:30:00.000Z",
+   "home": {
+    "id": 165530,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910825,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-13",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-12T23:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 258754,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910826,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T14:00:00.000Z",
+   "home": {
+    "id": 165518,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198785,
+    "name": "SLAMA JAMA Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910827,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T13:30:00.000Z",
+   "home": {
+    "id": 322908,
+    "name": "Westside Warriors 3",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319479,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910828,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-20T23:00:00.000Z",
+   "home": {
+    "id": 198785,
+    "name": "SLAMA JAMA Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910829,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T11:00:00.000Z",
+   "home": {
+    "id": 258754,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322889,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910830,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T14:00:00.000Z",
+   "home": {
+    "id": 210473,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165530,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910831,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-20",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-19T23:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 322908,
+    "name": "Westside Warriors 3",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910832,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T09:30:00.000Z",
+   "home": {
+    "id": 319479,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165518,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "homeScore": 51,
+   "guestScore": 49,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910833,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T09:00:00.000Z",
+   "home": {
+    "id": 322889,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165530,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910834,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T13:15:00.000Z",
+   "home": {
+    "id": 258754,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198785,
+    "name": "SLAMA JAMA Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910835,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-27",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-26T23:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 319479,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910836,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T14:00:00.000Z",
+   "home": {
+    "id": 165518,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910837,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T09:00:00.000Z",
+   "home": {
+    "id": 322908,
+    "name": "Westside Warriors 3",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 210473,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910838,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T08:00:00.000Z",
+   "home": {
+    "id": 322889,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198785,
+    "name": "SLAMA JAMA Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910839,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T13:30:00.000Z",
+   "home": {
+    "id": 165530,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322908,
+    "name": "Westside Warriors 3",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910840,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T14:00:00.000Z",
+   "home": {
+    "id": 210473,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165518,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910841,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-04",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-12-03T23:00:00.000Z",
+   "home": null,
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910842,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T10:30:00.000Z",
+   "home": {
+    "id": 319479,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 258754,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910843,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-04-25",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-25T15:30:00.000Z",
+   "home": {
+    "id": 198785,
+    "name": "SLAMA JAMA Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319479,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910844,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-11",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-12-10T23:00:00.000Z",
+   "home": {
+    "id": 258754,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910845,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-11",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-12-10T23:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 210473,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910846,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T14:00:00.000Z",
+   "home": {
+    "id": 165518,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165530,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910847,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T09:00:00.000Z",
+   "home": {
+    "id": 322908,
+    "name": "Westside Warriors 3",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322889,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910848,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T10:30:00.000Z",
+   "home": {
+    "id": 319479,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322889,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910849,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-15",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-14T23:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 165530,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910850,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T15:00:00.000Z",
+   "home": {
+    "id": 258754,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 210473,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910851,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-15T23:00:00.000Z",
+   "home": {
+    "id": 198785,
+    "name": "SLAMA JAMA Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910852,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T14:00:00.000Z",
+   "home": {
+    "id": 165518,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322908,
+    "name": "Westside Warriors 3",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910853,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T14:00:00.000Z",
+   "home": {
+    "id": 210473,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198785,
+    "name": "SLAMA JAMA Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910854,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-04-25",
+   "kickoffTime": "17:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-25T15:45:00.000Z",
+   "home": {
+    "id": 165530,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 258754,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910855,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T09:00:00.000Z",
+   "home": {
+    "id": 322908,
+    "name": "Westside Warriors 3",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910856,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T09:00:00.000Z",
+   "home": {
+    "id": 322889,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165518,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910857,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-22",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-21T23:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 319479,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910858,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-29",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-28T23:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 322889,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910859,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T14:00:00.000Z",
+   "home": {
+    "id": 198785,
+    "name": "SLAMA JAMA Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165530,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910860,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T10:30:00.000Z",
+   "home": {
+    "id": 319479,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 210473,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910861,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-29",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-28T23:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 165518,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910862,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T12:30:00.000Z",
+   "home": {
+    "id": 258754,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322908,
+    "name": "Westside Warriors 3",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910863,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T16:00:00.000Z",
+   "home": {
+    "id": 322908,
+    "name": "Westside Warriors 3",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198785,
+    "name": "SLAMA JAMA Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910864,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T14:00:00.000Z",
+   "home": {
+    "id": 165518,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 258754,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910865,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T09:00:00.000Z",
+   "home": {
+    "id": 322889,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910866,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T14:00:00.000Z",
+   "home": {
+    "id": 210473,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910867,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T14:30:00.000Z",
+   "home": {
+    "id": 165530,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319479,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910868,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T14:00:00.000Z",
+   "home": {
+    "id": 210473,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322889,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910869,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-26",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-02-25T23:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 165530,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910870,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-26",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-02-25T23:00:00.000Z",
+   "home": {
+    "id": 258754,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910871,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T14:00:00.000Z",
+   "home": {
+    "id": 198785,
+    "name": "SLAMA JAMA Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165518,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910872,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T10:30:00.000Z",
+   "home": {
+    "id": 319479,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322908,
+    "name": "Westside Warriors 3",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910873,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-05",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-03-04T23:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 198785,
+    "name": "SLAMA JAMA Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910874,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T09:00:00.000Z",
+   "home": {
+    "id": 322889,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 258754,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910875,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T13:30:00.000Z",
+   "home": {
+    "id": 165530,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 210473,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910876,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T09:00:00.000Z",
+   "home": {
+    "id": 322908,
+    "name": "Westside Warriors 3",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910877,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T14:00:00.000Z",
+   "home": {
+    "id": 165518,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319479,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910878,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T13:30:00.000Z",
+   "home": {
+    "id": 165530,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322889,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910879,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T14:00:00.000Z",
+   "home": {
+    "id": 198785,
+    "name": "SLAMA JAMA Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 258754,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910880,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T13:00:00.000Z",
+   "home": {
+    "id": 319479,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910881,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-12",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-03-11T23:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 165518,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910882,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T14:00:00.000Z",
+   "home": {
+    "id": 210473,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322908,
+    "name": "Westside Warriors 3",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910883,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T13:00:00.000Z",
+   "home": {
+    "id": 198785,
+    "name": "SLAMA JAMA Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322889,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910884,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T12:30:00.000Z",
+   "home": {
+    "id": 322908,
+    "name": "Westside Warriors 3",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165530,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910885,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T13:00:00.000Z",
+   "home": {
+    "id": 165518,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 210473,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910886,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-09",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-04-08T22:00:00.000Z",
+   "home": null,
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910887,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T13:15:00.000Z",
+   "home": {
+    "id": 258754,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319479,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910888,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T09:30:00.000Z",
+   "home": {
+    "id": 319479,
+    "name": "TSV Milbertshofen 2",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198785,
+    "name": "SLAMA JAMA Gröbenzell 2",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910889,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-16",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-04-15T22:00:00.000Z",
+   "home": null,
+   "guest": {
+    "id": 258754,
+    "name": "TSV 1865 Dachau 2",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910890,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T13:00:00.000Z",
+   "home": {
+    "id": 210473,
+    "name": "TSV Olching",
+    "clubId": 766,
+    "forfeit": false
+   },
+   "guest": null,
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910891,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T12:30:00.000Z",
+   "home": {
+    "id": 165530,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165518,
+    "name": "Puchheim 46ers",
+    "clubId": 1449,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2910892,
+   "ligaId": 53780,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T08:00:00.000Z",
+   "home": {
+    "id": 322889,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322908,
+    "name": "Westside Warriors 3",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

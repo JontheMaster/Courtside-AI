@@ -1,0 +1,438 @@
+{
+ "league": {
+  "ligaId": 55327,
+  "name": "Bezirksliga U18 männlich Einteilungsrunde A",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U18",
+  "gender": "männlich",
+  "level": "Bezirksliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2897387,
+   "ligaId": 55327,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T10:15:00.000Z",
+   "home": {
+    "id": 265014,
+    "name": "CYBEX Talents BBC Bayreuth 2",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198289,
+    "name": "SV Weidenberg a. K.",
+    "clubId": 604,
+    "forfeit": false
+   },
+   "homeScore": 101,
+   "guestScore": 67,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897388,
+   "ligaId": 55327,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T16:30:00.000Z",
+   "home": {
+    "id": 143087,
+    "name": "TS Kronach a. K.",
+    "clubId": 1148,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312278,
+    "name": "TSV Staffelstein",
+    "clubId": 4397,
+    "forfeit": false
+   },
+   "homeScore": 93,
+   "guestScore": 56,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897389,
+   "ligaId": 55327,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T09:30:00.000Z",
+   "home": {
+    "id": 143096,
+    "name": "TSV Hof",
+    "clubId": 1004,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143080,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": 70,
+   "guestScore": 72,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897390,
+   "ligaId": 55327,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T11:00:00.000Z",
+   "home": {
+    "id": 312278,
+    "name": "TSV Staffelstein",
+    "clubId": 4397,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143096,
+    "name": "TSV Hof",
+    "clubId": 1004,
+    "forfeit": false
+   },
+   "homeScore": 66,
+   "guestScore": 74,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897391,
+   "ligaId": 55327,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T10:00:00.000Z",
+   "home": {
+    "id": 143080,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 265014,
+    "name": "CYBEX Talents BBC Bayreuth 2",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": 78,
+   "guestScore": 41,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897392,
+   "ligaId": 55327,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T12:00:00.000Z",
+   "home": {
+    "id": 198289,
+    "name": "SV Weidenberg a. K.",
+    "clubId": 604,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143087,
+    "name": "TS Kronach a. K.",
+    "clubId": 1148,
+    "forfeit": false
+   },
+   "homeScore": 10,
+   "guestScore": 13,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897393,
+   "ligaId": 55327,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T15:45:00.000Z",
+   "home": {
+    "id": 265014,
+    "name": "CYBEX Talents BBC Bayreuth 2",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143087,
+    "name": "TS Kronach a. K.",
+    "clubId": 1148,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897394,
+   "ligaId": 55327,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T13:00:00.000Z",
+   "home": {
+    "id": 143080,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312278,
+    "name": "TSV Staffelstein",
+    "clubId": 4397,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897395,
+   "ligaId": 55327,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-06",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-06T16:00:00.000Z",
+   "home": {
+    "id": 143096,
+    "name": "TSV Hof",
+    "clubId": 1004,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198289,
+    "name": "SV Weidenberg a. K.",
+    "clubId": 604,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897396,
+   "ligaId": 55327,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T13:30:00.000Z",
+   "home": {
+    "id": 265014,
+    "name": "CYBEX Talents BBC Bayreuth 2",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312278,
+    "name": "TSV Staffelstein",
+    "clubId": 4397,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897397,
+   "ligaId": 55327,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T19:00:00.000Z",
+   "home": {
+    "id": 143087,
+    "name": "TS Kronach a. K.",
+    "clubId": 1148,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143096,
+    "name": "TSV Hof",
+    "clubId": 1004,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897398,
+   "ligaId": 55327,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T13:00:00.000Z",
+   "home": {
+    "id": 198289,
+    "name": "SV Weidenberg a. K.",
+    "clubId": 604,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143080,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897399,
+   "ligaId": 55327,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T13:00:00.000Z",
+   "home": {
+    "id": 312278,
+    "name": "TSV Staffelstein",
+    "clubId": 4397,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198289,
+    "name": "SV Weidenberg a. K.",
+    "clubId": 604,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897400,
+   "ligaId": 55327,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T11:00:00.000Z",
+   "home": {
+    "id": 143080,
+    "name": "DJK Don Bosco Bamberg",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143087,
+    "name": "TS Kronach a. K.",
+    "clubId": 1148,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897401,
+   "ligaId": 55327,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T13:00:00.000Z",
+   "home": {
+    "id": 143096,
+    "name": "TSV Hof",
+    "clubId": 1004,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 265014,
+    "name": "CYBEX Talents BBC Bayreuth 2",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

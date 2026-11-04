@@ -1,0 +1,578 @@
+{
+ "league": {
+  "ligaId": 56212,
+  "name": "MFR U14w Kreisliga",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U14",
+  "gender": "weiblich",
+  "level": "Kreisliga",
+  "levelScope": "Kreis",
+  "verbandId": 2,
+  "bezirk": "Mittelfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2931123,
+   "ligaId": 56212,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T15:00:00.000Z",
+   "home": {
+    "id": 317827,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319861,
+    "name": "TV 48 Schwabach 3",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2931124,
+   "ligaId": 56212,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T15:00:00.000Z",
+   "home": {
+    "id": 323220,
+    "name": "Sportklub Heuchling 1920 (aK)",
+    "clubId": 5154,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310848,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2931127,
+   "ligaId": 56212,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T10:00:00.000Z",
+   "home": {
+    "id": 313775,
+    "name": "TB 1888 Erlangen e. V.",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317827,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2931128,
+   "ligaId": 56212,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T14:00:00.000Z",
+   "home": {
+    "id": 319861,
+    "name": "TV 48 Schwabach 3",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323220,
+    "name": "Sportklub Heuchling 1920 (aK)",
+    "clubId": 5154,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2931129,
+   "ligaId": 56212,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T14:00:00.000Z",
+   "home": {
+    "id": 317827,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323220,
+    "name": "Sportklub Heuchling 1920 (aK)",
+    "clubId": 5154,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2931130,
+   "ligaId": 56212,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T09:00:00.000Z",
+   "home": {
+    "id": 313775,
+    "name": "TB 1888 Erlangen e. V.",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310848,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2931132,
+   "ligaId": 56212,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T15:00:00.000Z",
+   "home": {
+    "id": 317827,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310848,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2931134,
+   "ligaId": 56212,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T12:00:00.000Z",
+   "home": {
+    "id": 319861,
+    "name": "TV 48 Schwabach 3",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313775,
+    "name": "TB 1888 Erlangen e. V.",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2931135,
+   "ligaId": 56212,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T15:30:00.000Z",
+   "home": {
+    "id": 310848,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319861,
+    "name": "TV 48 Schwabach 3",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": 74,
+   "guestScore": 36,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2931136,
+   "ligaId": 56212,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T11:00:00.000Z",
+   "home": {
+    "id": 313775,
+    "name": "TB 1888 Erlangen e. V.",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323220,
+    "name": "Sportklub Heuchling 1920 (aK)",
+    "clubId": 5154,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2931138,
+   "ligaId": 56212,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T15:00:00.000Z",
+   "home": {
+    "id": 319861,
+    "name": "TV 48 Schwabach 3",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317827,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2931139,
+   "ligaId": 56212,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T09:30:00.000Z",
+   "home": {
+    "id": 310848,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323220,
+    "name": "Sportklub Heuchling 1920 (aK)",
+    "clubId": 5154,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2931142,
+   "ligaId": 56212,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T14:00:00.000Z",
+   "home": {
+    "id": 317827,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313775,
+    "name": "TB 1888 Erlangen e. V.",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": 39,
+   "guestScore": 69,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2931143,
+   "ligaId": 56212,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T14:00:00.000Z",
+   "home": {
+    "id": 323220,
+    "name": "Sportklub Heuchling 1920 (aK)",
+    "clubId": 5154,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319861,
+    "name": "TV 48 Schwabach 3",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": 58,
+   "guestScore": 48,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2931144,
+   "ligaId": 56212,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T15:00:00.000Z",
+   "home": {
+    "id": 323220,
+    "name": "Sportklub Heuchling 1920 (aK)",
+    "clubId": 5154,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317827,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "homeScore": 27,
+   "guestScore": 52,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2931145,
+   "ligaId": 56212,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T12:15:00.000Z",
+   "home": {
+    "id": 310848,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313775,
+    "name": "TB 1888 Erlangen e. V.",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2931147,
+   "ligaId": 56212,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T10:00:00.000Z",
+   "home": {
+    "id": 310848,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317827,
+    "name": "Artio Nürnberg",
+    "clubId": 5020,
+    "forfeit": false
+   },
+   "homeScore": 47,
+   "guestScore": 51,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2931149,
+   "ligaId": 56212,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T11:00:00.000Z",
+   "home": {
+    "id": 313775,
+    "name": "TB 1888 Erlangen e. V.",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319861,
+    "name": "TV 48 Schwabach 3",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2931150,
+   "ligaId": 56212,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T09:30:00.000Z",
+   "home": {
+    "id": 319861,
+    "name": "TV 48 Schwabach 3",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310848,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2931151,
+   "ligaId": 56212,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T13:00:00.000Z",
+   "home": {
+    "id": 323220,
+    "name": "Sportklub Heuchling 1920 (aK)",
+    "clubId": 5154,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 313775,
+    "name": "TB 1888 Erlangen e. V.",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

@@ -1,0 +1,2538 @@
+{
+ "league": {
+  "ligaId": 52534,
+  "name": "Bayernliga Süd Damen (ByLSD)",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "weiblich",
+  "level": "Bayernliga",
+  "levelScope": "Verband",
+  "verbandId": 2,
+  "bezirk": null,
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2844428,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T14:00:00.000Z",
+   "home": {
+    "id": 151040,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165618,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": 80,
+   "guestScore": 42,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844429,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-06T18:30:00.000Z",
+   "home": {
+    "id": 154182,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317319,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844430,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T11:30:00.000Z",
+   "home": {
+    "id": 238713,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151054,
+    "name": "TSV 1861 Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": 71,
+   "guestScore": 62,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844431,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T16:30:00.000Z",
+   "home": {
+    "id": 162861,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157225,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844432,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T13:00:00.000Z",
+   "home": {
+    "id": 151053,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152264,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": 66,
+   "guestScore": 42,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844433,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "17:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T15:45:00.000Z",
+   "home": {
+    "id": 157225,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238713,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": 60,
+   "guestScore": 53,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844434,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T17:00:00.000Z",
+   "home": {
+    "id": 151054,
+    "name": "TSV 1861 Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154182,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": 67,
+   "guestScore": 41,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844435,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T12:00:00.000Z",
+   "home": {
+    "id": 317319,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151053,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": 38,
+   "guestScore": 75,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844436,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T18:00:00.000Z",
+   "home": {
+    "id": 152264,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151040,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": 60,
+   "guestScore": 58,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844437,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T17:30:00.000Z",
+   "home": {
+    "id": 165618,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162861,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": 58,
+   "guestScore": 67,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844438,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T14:00:00.000Z",
+   "home": {
+    "id": 151040,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162861,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": 94,
+   "guestScore": 47,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844439,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T17:30:00.000Z",
+   "home": {
+    "id": 154182,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157225,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": 55,
+   "guestScore": 43,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844440,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-03-28",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-28T12:30:00.000Z",
+   "home": {
+    "id": 238713,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165618,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844441,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T18:00:00.000Z",
+   "home": {
+    "id": 152264,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317319,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": 81,
+   "guestScore": 27,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844442,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T13:00:00.000Z",
+   "home": {
+    "id": 151053,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151054,
+    "name": "TSV 1861 Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": 53,
+   "guestScore": 45,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844443,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T13:30:00.000Z",
+   "home": {
+    "id": 157225,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151053,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844444,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T14:45:00.000Z",
+   "home": {
+    "id": 151054,
+    "name": "TSV 1861 Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152264,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": 44,
+   "guestScore": 54,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844445,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T11:30:00.000Z",
+   "home": {
+    "id": 317319,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151040,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": 64,
+   "guestScore": 81,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844446,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T14:30:00.000Z",
+   "home": {
+    "id": 162861,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238713,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": 61,
+   "guestScore": 69,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844447,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T17:30:00.000Z",
+   "home": {
+    "id": 165618,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154182,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 58,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844448,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T15:00:00.000Z",
+   "home": {
+    "id": 151040,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238713,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844449,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T15:00:00.000Z",
+   "home": {
+    "id": 154182,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162861,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844450,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T11:30:00.000Z",
+   "home": {
+    "id": 317319,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151054,
+    "name": "TSV 1861 Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": 47,
+   "guestScore": 81,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844451,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T16:00:00.000Z",
+   "home": {
+    "id": 152264,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157225,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844452,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T13:30:00.000Z",
+   "home": {
+    "id": 151053,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165618,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844453,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T16:30:00.000Z",
+   "home": {
+    "id": 157225,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317319,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844454,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "19:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T18:15:00.000Z",
+   "home": {
+    "id": 151054,
+    "name": "TSV 1861 Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151040,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844455,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T12:30:00.000Z",
+   "home": {
+    "id": 238713,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154182,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844456,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T14:00:00.000Z",
+   "home": {
+    "id": 162861,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151053,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844457,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T18:30:00.000Z",
+   "home": {
+    "id": 165618,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152264,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844458,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T15:00:00.000Z",
+   "home": {
+    "id": 151040,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154182,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844459,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T13:30:00.000Z",
+   "home": {
+    "id": 151054,
+    "name": "TSV 1861 Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157225,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844460,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T11:30:00.000Z",
+   "home": {
+    "id": 317319,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165618,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844461,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T16:00:00.000Z",
+   "home": {
+    "id": 152264,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162861,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844462,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T15:00:00.000Z",
+   "home": {
+    "id": 151053,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238713,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844463,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T15:00:00.000Z",
+   "home": {
+    "id": 151040,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157225,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844464,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T16:30:00.000Z",
+   "home": {
+    "id": 154182,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151053,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844465,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T15:00:00.000Z",
+   "home": {
+    "id": 238713,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152264,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844466,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T14:00:00.000Z",
+   "home": {
+    "id": 162861,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317319,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844467,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T18:45:00.000Z",
+   "home": {
+    "id": 165618,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151054,
+    "name": "TSV 1861 Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844468,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T16:30:00.000Z",
+   "home": {
+    "id": 157225,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165618,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844469,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T16:15:00.000Z",
+   "home": {
+    "id": 151054,
+    "name": "TSV 1861 Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162861,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844470,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T11:30:00.000Z",
+   "home": {
+    "id": 317319,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238713,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844471,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T16:00:00.000Z",
+   "home": {
+    "id": 152264,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154182,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844472,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "19:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T18:45:00.000Z",
+   "home": {
+    "id": 151053,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151040,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844473,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T16:00:00.000Z",
+   "home": {
+    "id": 165618,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151040,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844474,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T14:00:00.000Z",
+   "home": {
+    "id": 317319,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154182,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844475,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T16:15:00.000Z",
+   "home": {
+    "id": 151054,
+    "name": "TSV 1861 Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238713,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844476,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T16:30:00.000Z",
+   "home": {
+    "id": 157225,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162861,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844477,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T19:00:00.000Z",
+   "home": {
+    "id": 152264,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151053,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844478,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T14:00:00.000Z",
+   "home": {
+    "id": 238713,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157225,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844479,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T13:15:00.000Z",
+   "home": {
+    "id": 154182,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151054,
+    "name": "TSV 1861 Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844480,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T14:00:00.000Z",
+   "home": {
+    "id": 151053,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317319,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844481,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T15:00:00.000Z",
+   "home": {
+    "id": 151040,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152264,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844482,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T14:00:00.000Z",
+   "home": {
+    "id": 162861,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165618,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844483,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T14:00:00.000Z",
+   "home": {
+    "id": 162861,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151040,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844484,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T16:30:00.000Z",
+   "home": {
+    "id": 157225,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154182,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844485,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T16:00:00.000Z",
+   "home": {
+    "id": 165618,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238713,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844486,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T11:30:00.000Z",
+   "home": {
+    "id": 317319,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152264,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844487,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T18:00:00.000Z",
+   "home": {
+    "id": 151054,
+    "name": "TSV 1861 Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151053,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844488,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T14:00:00.000Z",
+   "home": {
+    "id": 151053,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157225,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844489,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T19:00:00.000Z",
+   "home": {
+    "id": 152264,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151054,
+    "name": "TSV 1861 Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844490,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T15:00:00.000Z",
+   "home": {
+    "id": 151040,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317319,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844491,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-07",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-07T12:30:00.000Z",
+   "home": {
+    "id": 238713,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162861,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844492,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T16:00:00.000Z",
+   "home": {
+    "id": 154182,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165618,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844493,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T15:00:00.000Z",
+   "home": {
+    "id": 238713,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151040,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844494,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T14:00:00.000Z",
+   "home": {
+    "id": 162861,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154182,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844495,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T17:00:00.000Z",
+   "home": {
+    "id": 151054,
+    "name": "TSV 1861 Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317319,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844496,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T16:30:00.000Z",
+   "home": {
+    "id": 157225,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152264,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844497,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T18:30:00.000Z",
+   "home": {
+    "id": 165618,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151053,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844498,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T11:30:00.000Z",
+   "home": {
+    "id": 317319,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157225,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844499,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T15:00:00.000Z",
+   "home": {
+    "id": 151040,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151054,
+    "name": "TSV 1861 Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844500,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T16:00:00.000Z",
+   "home": {
+    "id": 154182,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238713,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844501,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T13:45:00.000Z",
+   "home": {
+    "id": 151053,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162861,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844502,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T19:00:00.000Z",
+   "home": {
+    "id": 152264,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165618,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844503,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T18:30:00.000Z",
+   "home": {
+    "id": 154182,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151040,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844504,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T13:30:00.000Z",
+   "home": {
+    "id": 157225,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151054,
+    "name": "TSV 1861 Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844505,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T18:30:00.000Z",
+   "home": {
+    "id": 165618,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317319,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844506,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T14:00:00.000Z",
+   "home": {
+    "id": 162861,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152264,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844507,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T17:00:00.000Z",
+   "home": {
+    "id": 238713,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151053,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844508,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T16:30:00.000Z",
+   "home": {
+    "id": 157225,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151040,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844509,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T14:00:00.000Z",
+   "home": {
+    "id": 151053,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154182,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844510,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T16:00:00.000Z",
+   "home": {
+    "id": 152264,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238713,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844511,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T11:30:00.000Z",
+   "home": {
+    "id": 317319,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162861,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844512,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T16:00:00.000Z",
+   "home": {
+    "id": 151054,
+    "name": "TSV 1861 Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165618,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844513,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T12:30:00.000Z",
+   "home": {
+    "id": 165618,
+    "name": "TSV Schwaben Augsburg",
+    "clubId": 2977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157225,
+    "name": "TSV Etting-Ingolstadt",
+    "clubId": 1820,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844514,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T14:00:00.000Z",
+   "home": {
+    "id": 162861,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151054,
+    "name": "TSV 1861 Nördlingen",
+    "clubId": 1235,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844515,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T13:00:00.000Z",
+   "home": {
+    "id": 238713,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317319,
+    "name": "TV 1847 Augsburg 2",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844516,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T16:00:00.000Z",
+   "home": {
+    "id": 154182,
+    "name": "Haching Baskets",
+    "clubId": 1138,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152264,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844517,
+   "ligaId": 52534,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T15:00:00.000Z",
+   "home": {
+    "id": 151040,
+    "name": "DJK Landsberg",
+    "clubId": 1237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151053,
+    "name": "TS Jahn München 2",
+    "clubId": 961,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

@@ -1,0 +1,1614 @@
+{
+ "league": {
+  "ligaId": 54484,
+  "name": "Bezirksliga Herren Süd 26/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Bezirksliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Schwaben",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2924513,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T17:00:00.000Z",
+   "home": {
+    "id": 318953,
+    "name": "TV 1846 Isny",
+    "clubId": 2437,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163590,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924515,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T14:30:00.000Z",
+   "home": {
+    "id": 163558,
+    "name": "TSV Haunstetten",
+    "clubId": 1056,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165629,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": 77,
+   "guestScore": 81,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924519,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T16:30:00.000Z",
+   "home": {
+    "id": 314286,
+    "name": "BG Illertal 2",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165633,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924520,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T16:30:00.000Z",
+   "home": {
+    "id": 152020,
+    "name": "Netz16 Baskets Königsbrunn",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163558,
+    "name": "TSV Haunstetten",
+    "clubId": 1056,
+    "forfeit": false
+   },
+   "homeScore": 73,
+   "guestScore": 67,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924521,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T12:30:00.000Z",
+   "home": {
+    "id": 165629,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314286,
+    "name": "BG Illertal 2",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": 77,
+   "guestScore": 79,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924522,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T16:00:00.000Z",
+   "home": {
+    "id": 165633,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318953,
+    "name": "TV 1846 Isny",
+    "clubId": 2437,
+    "forfeit": false
+   },
+   "homeScore": 76,
+   "guestScore": 67,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924525,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:00:00.000Z",
+   "home": {
+    "id": 163558,
+    "name": "TSV Haunstetten",
+    "clubId": 1056,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163590,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924526,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T16:00:00.000Z",
+   "home": {
+    "id": 165633,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165629,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": 79,
+   "guestScore": 84,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924527,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T14:45:00.000Z",
+   "home": {
+    "id": 314286,
+    "name": "BG Illertal 2",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152020,
+    "name": "Netz16 Baskets Königsbrunn",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "homeScore": 85,
+   "guestScore": 59,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924528,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T17:30:00.000Z",
+   "home": {
+    "id": 152020,
+    "name": "Netz16 Baskets Königsbrunn",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165633,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924529,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T15:45:00.000Z",
+   "home": {
+    "id": 165629,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318953,
+    "name": "TV 1846 Isny",
+    "clubId": 2437,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924531,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T17:30:00.000Z",
+   "home": {
+    "id": 163590,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314286,
+    "name": "BG Illertal 2",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924532,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T15:30:00.000Z",
+   "home": {
+    "id": 318953,
+    "name": "TV 1846 Isny",
+    "clubId": 2437,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163558,
+    "name": "TSV Haunstetten",
+    "clubId": 1056,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924533,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T15:45:00.000Z",
+   "home": {
+    "id": 165629,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152020,
+    "name": "Netz16 Baskets Königsbrunn",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924534,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T17:00:00.000Z",
+   "home": {
+    "id": 165633,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163590,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924536,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T15:30:00.000Z",
+   "home": {
+    "id": 318953,
+    "name": "TV 1846 Isny",
+    "clubId": 2437,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152020,
+    "name": "Netz16 Baskets Königsbrunn",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924537,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T15:00:00.000Z",
+   "home": {
+    "id": 163558,
+    "name": "TSV Haunstetten",
+    "clubId": 1056,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314286,
+    "name": "BG Illertal 2",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924539,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T18:00:00.000Z",
+   "home": {
+    "id": 163590,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165629,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924540,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "15:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T13:45:00.000Z",
+   "home": {
+    "id": 152020,
+    "name": "Netz16 Baskets Königsbrunn",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163590,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "homeScore": 78,
+   "guestScore": 46,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924542,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T17:00:00.000Z",
+   "home": {
+    "id": 165633,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163558,
+    "name": "TSV Haunstetten",
+    "clubId": 1056,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924543,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T15:45:00.000Z",
+   "home": {
+    "id": 314286,
+    "name": "BG Illertal 2",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318953,
+    "name": "TV 1846 Isny",
+    "clubId": 2437,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924544,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T19:00:00.000Z",
+   "home": {
+    "id": 163590,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318953,
+    "name": "TV 1846 Isny",
+    "clubId": 2437,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924545,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T15:45:00.000Z",
+   "home": {
+    "id": 165629,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163558,
+    "name": "TSV Haunstetten",
+    "clubId": 1056,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924547,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T17:00:00.000Z",
+   "home": {
+    "id": 165633,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314286,
+    "name": "BG Illertal 2",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924548,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T18:30:00.000Z",
+   "home": {
+    "id": 163558,
+    "name": "TSV Haunstetten",
+    "clubId": 1056,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152020,
+    "name": "Netz16 Baskets Königsbrunn",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924549,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T17:30:00.000Z",
+   "home": {
+    "id": 314286,
+    "name": "BG Illertal 2",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165629,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924550,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T15:30:00.000Z",
+   "home": {
+    "id": 318953,
+    "name": "TV 1846 Isny",
+    "clubId": 2437,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165633,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924553,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T19:00:00.000Z",
+   "home": {
+    "id": 163590,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163558,
+    "name": "TSV Haunstetten",
+    "clubId": 1056,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924554,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T15:45:00.000Z",
+   "home": {
+    "id": 165629,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165633,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924555,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "15:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T14:45:00.000Z",
+   "home": {
+    "id": 152020,
+    "name": "Netz16 Baskets Königsbrunn",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314286,
+    "name": "BG Illertal 2",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924556,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T17:00:00.000Z",
+   "home": {
+    "id": 165633,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152020,
+    "name": "Netz16 Baskets Königsbrunn",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924557,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T15:30:00.000Z",
+   "home": {
+    "id": 318953,
+    "name": "TV 1846 Isny",
+    "clubId": 2437,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165629,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924559,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T13:30:00.000Z",
+   "home": {
+    "id": 314286,
+    "name": "BG Illertal 2",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163590,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924560,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-06T16:30:00.000Z",
+   "home": {
+    "id": 163558,
+    "name": "TSV Haunstetten",
+    "clubId": 1056,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318953,
+    "name": "TV 1846 Isny",
+    "clubId": 2437,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924561,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T17:30:00.000Z",
+   "home": {
+    "id": 152020,
+    "name": "Netz16 Baskets Königsbrunn",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165629,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924562,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T16:30:00.000Z",
+   "home": {
+    "id": 163590,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165633,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924563,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-09-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-21T15:00:00.000Z",
+   "home": {
+    "id": 171230,
+    "name": "BG Leitershofen/Stadtbergen 4",
+    "clubId": 97,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 314286,
+    "name": "BG Illertal 2",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924564,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T17:30:00.000Z",
+   "home": {
+    "id": 152020,
+    "name": "Netz16 Baskets Königsbrunn",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318953,
+    "name": "TV 1846 Isny",
+    "clubId": 2437,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924565,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T15:45:00.000Z",
+   "home": {
+    "id": 314286,
+    "name": "BG Illertal 2",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163558,
+    "name": "TSV Haunstetten",
+    "clubId": 1056,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924567,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-07",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-07T13:30:00.000Z",
+   "home": {
+    "id": 165629,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163590,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924568,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T19:00:00.000Z",
+   "home": {
+    "id": 163590,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152020,
+    "name": "Netz16 Baskets Königsbrunn",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924570,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T17:30:00.000Z",
+   "home": {
+    "id": 163558,
+    "name": "TSV Haunstetten",
+    "clubId": 1056,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165633,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2924571,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-04",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-04T14:30:00.000Z",
+   "home": {
+    "id": 318953,
+    "name": "TV 1846 Isny",
+    "clubId": 2437,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314286,
+    "name": "BG Illertal 2",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986995,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T18:00:00.000Z",
+   "home": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152020,
+    "name": "Netz16 Baskets Königsbrunn",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986996,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T12:00:00.000Z",
+   "home": {
+    "id": 163590,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "homeScore": 66,
+   "guestScore": 81,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986998,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:00:00.000Z",
+   "home": {
+    "id": 318953,
+    "name": "TV 1846 Isny",
+    "clubId": 2437,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "homeScore": 77,
+   "guestScore": 87,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986999,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T13:30:00.000Z",
+   "home": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163558,
+    "name": "TSV Haunstetten",
+    "clubId": 1056,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2987000,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T15:45:00.000Z",
+   "home": {
+    "id": 314286,
+    "name": "BG Illertal 2",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2987001,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T18:00:00.000Z",
+   "home": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165633,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2987002,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T15:45:00.000Z",
+   "home": {
+    "id": 165629,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2987003,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "16:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T15:15:00.000Z",
+   "home": {
+    "id": 152020,
+    "name": "Netz16 Baskets Königsbrunn",
+    "clubId": 2901,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2987004,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T18:00:00.000Z",
+   "home": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 318953,
+    "name": "TV 1846 Isny",
+    "clubId": 2437,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2987006,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T16:00:00.000Z",
+   "home": {
+    "id": 163558,
+    "name": "TSV Haunstetten",
+    "clubId": 1056,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2987008,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T17:00:00.000Z",
+   "home": {
+    "id": 165633,
+    "name": "TSV Ottobeuren",
+    "clubId": 603,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2987009,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T18:00:00.000Z",
+   "home": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165629,
+    "name": "SG Heising-Kottern",
+    "clubId": 1921,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2987010,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T18:00:00.000Z",
+   "home": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163590,
+    "name": "VFL Buchloe",
+    "clubId": 2847,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2987011,
+   "ligaId": 54484,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T18:00:00.000Z",
+   "home": {
+    "id": 151028,
+    "name": "TV Memmingen",
+    "clubId": 1520,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314286,
+    "name": "BG Illertal 2",
+    "clubId": 4872,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

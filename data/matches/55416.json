@@ -1,0 +1,1586 @@
+{
+ "league": {
+  "ligaId": 55416,
+  "name": "West - Bezirksklasse U14w (we-bku14w) 2026/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U14",
+  "gender": "weiblich",
+  "level": "Bezirksklasse",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2909248,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T08:00:00.000Z",
+   "home": {
+    "id": 310484,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321337,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": 25,
+   "guestScore": 73,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909249,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T12:30:00.000Z",
+   "home": {
+    "id": 175117,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165466,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": 33,
+   "guestScore": 77,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909250,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T08:00:00.000Z",
+   "home": {
+    "id": 317505,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238745,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": 20,
+   "guestScore": 0,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909251,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T10:30:00.000Z",
+   "home": {
+    "id": 310486,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235400,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": 36,
+   "guestScore": 59,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909252,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T15:00:00.000Z",
+   "home": {
+    "id": 238745,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 175117,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": 74,
+   "guestScore": 38,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909253,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "09:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T07:45:00.000Z",
+   "home": {
+    "id": 165466,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310486,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": 121,
+   "guestScore": 50,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909254,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T09:00:00.000Z",
+   "home": {
+    "id": 235400,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310484,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": 48,
+   "guestScore": 43,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909255,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T12:15:00.000Z",
+   "home": {
+    "id": 321337,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317505,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909256,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T09:00:00.000Z",
+   "home": {
+    "id": 310484,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317505,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909257,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T11:15:00.000Z",
+   "home": {
+    "id": 175117,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321337,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909258,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T09:00:00.000Z",
+   "home": {
+    "id": 235400,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165466,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909259,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T11:15:00.000Z",
+   "home": {
+    "id": 310486,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238745,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909261,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T11:15:00.000Z",
+   "home": {
+    "id": 238745,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235400,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909262,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "09:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T08:45:00.000Z",
+   "home": {
+    "id": 165466,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310484,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909263,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T11:30:00.000Z",
+   "home": {
+    "id": 317505,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 175117,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909264,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T13:15:00.000Z",
+   "home": {
+    "id": 321337,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310486,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909265,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T11:30:00.000Z",
+   "home": {
+    "id": 310484,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 175117,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909266,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T15:30:00.000Z",
+   "home": {
+    "id": 165466,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238745,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909267,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T09:00:00.000Z",
+   "home": {
+    "id": 235400,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321337,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909268,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T09:00:00.000Z",
+   "home": {
+    "id": 310486,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317505,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909269,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T09:00:00.000Z",
+   "home": {
+    "id": 310484,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238745,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909270,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-04-25",
+   "kickoffTime": "13:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-25T11:15:00.000Z",
+   "home": {
+    "id": 175117,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310486,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909271,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T11:30:00.000Z",
+   "home": {
+    "id": 317505,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235400,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909272,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "09:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T08:00:00.000Z",
+   "home": {
+    "id": 321337,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165466,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909273,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T09:00:00.000Z",
+   "home": {
+    "id": 238745,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321337,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909274,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T11:00:00.000Z",
+   "home": {
+    "id": 165466,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317505,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909275,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T09:00:00.000Z",
+   "home": {
+    "id": 235400,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 175117,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909276,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T16:30:00.000Z",
+   "home": {
+    "id": 310486,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310484,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909277,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T10:30:00.000Z",
+   "home": {
+    "id": 321337,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310484,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909278,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T11:00:00.000Z",
+   "home": {
+    "id": 165466,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 175117,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909279,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T12:30:00.000Z",
+   "home": {
+    "id": 238745,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317505,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909280,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T11:15:00.000Z",
+   "home": {
+    "id": 235400,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310486,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909281,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T10:00:00.000Z",
+   "home": {
+    "id": 175117,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238745,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909282,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T13:30:00.000Z",
+   "home": {
+    "id": 310486,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165466,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909283,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T11:30:00.000Z",
+   "home": {
+    "id": 310484,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235400,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909284,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T11:30:00.000Z",
+   "home": {
+    "id": 317505,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321337,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909285,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T09:00:00.000Z",
+   "home": {
+    "id": 317505,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310484,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909286,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "09:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T08:00:00.000Z",
+   "home": {
+    "id": 321337,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 175117,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909287,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T12:30:00.000Z",
+   "home": {
+    "id": 165466,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235400,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909288,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T13:30:00.000Z",
+   "home": {
+    "id": 238745,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310486,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909290,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T12:30:00.000Z",
+   "home": {
+    "id": 235400,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238745,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909291,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T09:00:00.000Z",
+   "home": {
+    "id": 310484,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165466,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909292,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T11:15:00.000Z",
+   "home": {
+    "id": 175117,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317505,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909293,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T11:30:00.000Z",
+   "home": {
+    "id": 310486,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321337,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909294,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T11:15:00.000Z",
+   "home": {
+    "id": 175117,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310484,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909295,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T09:00:00.000Z",
+   "home": {
+    "id": 238745,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165466,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909296,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T10:30:00.000Z",
+   "home": {
+    "id": 321337,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235400,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909297,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T14:00:00.000Z",
+   "home": {
+    "id": 317505,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310486,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909298,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T10:15:00.000Z",
+   "home": {
+    "id": 238745,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310484,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909299,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T08:00:00.000Z",
+   "home": {
+    "id": 310486,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 175117,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909300,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T12:30:00.000Z",
+   "home": {
+    "id": 235400,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317505,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909301,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T13:15:00.000Z",
+   "home": {
+    "id": 165466,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321337,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909302,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T14:30:00.000Z",
+   "home": {
+    "id": 321337,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 238745,
+    "name": "TSV 1880 Wasserburg 2",
+    "clubId": 1212,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909303,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T10:30:00.000Z",
+   "home": {
+    "id": 317505,
+    "name": "DJK SB München 2",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165466,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909304,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T10:15:00.000Z",
+   "home": {
+    "id": 175117,
+    "name": "SC Vierkirchen",
+    "clubId": 220,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235400,
+    "name": "TSV 1847 Weilheim 2",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909305,
+   "ligaId": 55416,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T08:00:00.000Z",
+   "home": {
+    "id": 310484,
+    "name": "MTV 1879 München 2",
+    "clubId": 606,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310486,
+    "name": "TSV München Ost 2",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

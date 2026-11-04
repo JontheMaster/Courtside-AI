@@ -1,0 +1,3714 @@
+{
+ "league": {
+  "ligaId": 52531,
+  "name": "Bayernliga Herren Mitte (ByLHM)",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Bayernliga",
+  "levelScope": "Verband",
+  "verbandId": 2,
+  "bezirk": null,
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2844650,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T18:00:00.000Z",
+   "home": {
+    "id": 151999,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151011,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844651,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T17:30:00.000Z",
+   "home": {
+    "id": 151021,
+    "name": "TSV Neuötting",
+    "clubId": 834,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154126,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": 83,
+   "guestScore": 107,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844652,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T13:30:00.000Z",
+   "home": {
+    "id": 151078,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152031,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": 82,
+   "guestScore": 46,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844653,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T15:30:00.000Z",
+   "home": {
+    "id": 167889,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154133,
+    "name": "Dukes Dingolfing",
+    "clubId": 2714,
+    "forfeit": false
+   },
+   "homeScore": 20,
+   "guestScore": 0,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844654,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T15:00:00.000Z",
+   "home": {
+    "id": 158900,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273045,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": 56,
+   "guestScore": 103,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844655,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T15:30:00.000Z",
+   "home": {
+    "id": 163593,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151074,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": 82,
+   "guestScore": 70,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844656,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T17:30:00.000Z",
+   "home": {
+    "id": 273045,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167889,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "homeScore": 102,
+   "guestScore": 87,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844657,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T14:00:00.000Z",
+   "home": {
+    "id": 154133,
+    "name": "Dukes Dingolfing",
+    "clubId": 2714,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151078,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": 58,
+   "guestScore": 96,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844658,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T14:00:00.000Z",
+   "home": {
+    "id": 152031,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151021,
+    "name": "TSV Neuötting",
+    "clubId": 834,
+    "forfeit": false
+   },
+   "homeScore": 88,
+   "guestScore": 60,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844659,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T18:00:00.000Z",
+   "home": {
+    "id": 154126,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163593,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": 108,
+   "guestScore": 92,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844660,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T18:00:00.000Z",
+   "home": {
+    "id": 151074,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151999,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": 57,
+   "guestScore": 70,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844661,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T14:00:00.000Z",
+   "home": {
+    "id": 151011,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158900,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": 94,
+   "guestScore": 56,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844662,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T17:00:00.000Z",
+   "home": {
+    "id": 151999,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158900,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": 96,
+   "guestScore": 79,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844663,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T16:00:00.000Z",
+   "home": {
+    "id": 151021,
+    "name": "TSV Neuötting",
+    "clubId": 834,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154133,
+    "name": "Dukes Dingolfing",
+    "clubId": 2714,
+    "forfeit": false
+   },
+   "homeScore": 77,
+   "guestScore": 93,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844664,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T16:00:00.000Z",
+   "home": {
+    "id": 151078,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273045,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": 63,
+   "guestScore": 75,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844665,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T15:30:00.000Z",
+   "home": {
+    "id": 167889,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151011,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": 75,
+   "guestScore": 93,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844666,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T18:00:00.000Z",
+   "home": {
+    "id": 151074,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154126,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": 74,
+   "guestScore": 76,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844667,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T14:00:00.000Z",
+   "home": {
+    "id": 163593,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152031,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": 76,
+   "guestScore": 82,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844668,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T17:30:00.000Z",
+   "home": {
+    "id": 273045,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151021,
+    "name": "TSV Neuötting",
+    "clubId": 834,
+    "forfeit": false
+   },
+   "homeScore": 76,
+   "guestScore": 59,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844669,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T14:00:00.000Z",
+   "home": {
+    "id": 154133,
+    "name": "Dukes Dingolfing",
+    "clubId": 2714,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163593,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": 78,
+   "guestScore": 65,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844670,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T18:00:00.000Z",
+   "home": {
+    "id": 152031,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151074,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": 89,
+   "guestScore": 55,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844671,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T18:00:00.000Z",
+   "home": {
+    "id": 154126,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151999,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": 94,
+   "guestScore": 82,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844672,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:30:00.000Z",
+   "home": {
+    "id": 158900,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167889,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "homeScore": 90,
+   "guestScore": 92,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844673,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:00:00.000Z",
+   "home": {
+    "id": 151011,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151078,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": 89,
+   "guestScore": 85,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844674,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T18:00:00.000Z",
+   "home": {
+    "id": 151999,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167889,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844675,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T18:30:00.000Z",
+   "home": {
+    "id": 151021,
+    "name": "TSV Neuötting",
+    "clubId": 834,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151011,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844676,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T14:30:00.000Z",
+   "home": {
+    "id": 151078,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158900,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844677,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T16:00:00.000Z",
+   "home": {
+    "id": 154126,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152031,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844678,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T19:00:00.000Z",
+   "home": {
+    "id": 151074,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154133,
+    "name": "Dukes Dingolfing",
+    "clubId": 2714,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844679,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T16:30:00.000Z",
+   "home": {
+    "id": 163593,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273045,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844680,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T18:30:00.000Z",
+   "home": {
+    "id": 273045,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151074,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844681,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T15:00:00.000Z",
+   "home": {
+    "id": 154133,
+    "name": "Dukes Dingolfing",
+    "clubId": 2714,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154126,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844682,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-13",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-13T18:30:00.000Z",
+   "home": {
+    "id": 152031,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151999,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844683,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T15:30:00.000Z",
+   "home": {
+    "id": 167889,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151078,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": 65,
+   "guestScore": 108,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844684,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T17:00:00.000Z",
+   "home": {
+    "id": 158900,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151021,
+    "name": "TSV Neuötting",
+    "clubId": 834,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844685,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T15:00:00.000Z",
+   "home": {
+    "id": 151011,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163593,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844686,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T18:00:00.000Z",
+   "home": {
+    "id": 151999,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151078,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844687,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T18:30:00.000Z",
+   "home": {
+    "id": 151021,
+    "name": "TSV Neuötting",
+    "clubId": 834,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167889,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844688,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-20",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-20T18:30:00.000Z",
+   "home": {
+    "id": 152031,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154133,
+    "name": "Dukes Dingolfing",
+    "clubId": 2714,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844689,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T14:30:00.000Z",
+   "home": {
+    "id": 154126,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273045,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": 81,
+   "guestScore": 72,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844690,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T19:00:00.000Z",
+   "home": {
+    "id": 151074,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151011,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844691,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T15:00:00.000Z",
+   "home": {
+    "id": 163593,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158900,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844692,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T18:30:00.000Z",
+   "home": {
+    "id": 273045,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152031,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844693,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T15:00:00.000Z",
+   "home": {
+    "id": 154133,
+    "name": "Dukes Dingolfing",
+    "clubId": 2714,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151999,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844694,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T17:00:00.000Z",
+   "home": {
+    "id": 151078,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151021,
+    "name": "TSV Neuötting",
+    "clubId": 834,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844695,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T18:30:00.000Z",
+   "home": {
+    "id": 167889,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163593,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844696,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T16:00:00.000Z",
+   "home": {
+    "id": 158900,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151074,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844697,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T15:00:00.000Z",
+   "home": {
+    "id": 151011,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154126,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844698,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T18:00:00.000Z",
+   "home": {
+    "id": 151999,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151021,
+    "name": "TSV Neuötting",
+    "clubId": 834,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844699,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T15:00:00.000Z",
+   "home": {
+    "id": 154133,
+    "name": "Dukes Dingolfing",
+    "clubId": 2714,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273045,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844700,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T17:00:00.000Z",
+   "home": {
+    "id": 152031,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151011,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844701,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T18:00:00.000Z",
+   "home": {
+    "id": 154126,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158900,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": 119,
+   "guestScore": 64,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844702,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T19:00:00.000Z",
+   "home": {
+    "id": 151074,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167889,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844703,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T16:30:00.000Z",
+   "home": {
+    "id": 163593,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151078,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844704,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T18:00:00.000Z",
+   "home": {
+    "id": 151999,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273045,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844705,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T18:30:00.000Z",
+   "home": {
+    "id": 151021,
+    "name": "TSV Neuötting",
+    "clubId": 834,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163593,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844706,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T17:00:00.000Z",
+   "home": {
+    "id": 151078,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151074,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844707,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T16:30:00.000Z",
+   "home": {
+    "id": 167889,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154126,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844708,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T16:00:00.000Z",
+   "home": {
+    "id": 158900,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152031,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844709,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T16:00:00.000Z",
+   "home": {
+    "id": 151011,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154133,
+    "name": "Dukes Dingolfing",
+    "clubId": 2714,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844710,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T16:30:00.000Z",
+   "home": {
+    "id": 273045,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151011,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844711,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T15:00:00.000Z",
+   "home": {
+    "id": 154133,
+    "name": "Dukes Dingolfing",
+    "clubId": 2714,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158900,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844712,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T15:00:00.000Z",
+   "home": {
+    "id": 152031,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167889,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844713,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T19:00:00.000Z",
+   "home": {
+    "id": 154126,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151078,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844714,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T19:00:00.000Z",
+   "home": {
+    "id": 151074,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151021,
+    "name": "TSV Neuötting",
+    "clubId": 834,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844715,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T16:30:00.000Z",
+   "home": {
+    "id": 163593,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151999,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844716,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T15:00:00.000Z",
+   "home": {
+    "id": 151011,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151999,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844717,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T15:00:00.000Z",
+   "home": {
+    "id": 154126,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151021,
+    "name": "TSV Neuötting",
+    "clubId": 834,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844718,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T19:00:00.000Z",
+   "home": {
+    "id": 152031,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151078,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844719,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T15:00:00.000Z",
+   "home": {
+    "id": 154133,
+    "name": "Dukes Dingolfing",
+    "clubId": 2714,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167889,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844720,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T18:30:00.000Z",
+   "home": {
+    "id": 273045,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158900,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844721,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T19:00:00.000Z",
+   "home": {
+    "id": 151074,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163593,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844722,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T18:30:00.000Z",
+   "home": {
+    "id": 167889,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273045,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844723,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T14:30:00.000Z",
+   "home": {
+    "id": 151078,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154133,
+    "name": "Dukes Dingolfing",
+    "clubId": 2714,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844724,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T18:30:00.000Z",
+   "home": {
+    "id": 151021,
+    "name": "TSV Neuötting",
+    "clubId": 834,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152031,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844725,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T19:00:00.000Z",
+   "home": {
+    "id": 163593,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154126,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844726,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T18:00:00.000Z",
+   "home": {
+    "id": 151999,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151074,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844727,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:00:00.000Z",
+   "home": {
+    "id": 158900,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151011,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844728,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T16:00:00.000Z",
+   "home": {
+    "id": 158900,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151999,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844729,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T15:00:00.000Z",
+   "home": {
+    "id": 154133,
+    "name": "Dukes Dingolfing",
+    "clubId": 2714,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151021,
+    "name": "TSV Neuötting",
+    "clubId": 834,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844730,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T18:30:00.000Z",
+   "home": {
+    "id": 273045,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151078,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844731,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T15:00:00.000Z",
+   "home": {
+    "id": 151011,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167889,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844732,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T19:00:00.000Z",
+   "home": {
+    "id": 154126,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151074,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844733,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T19:00:00.000Z",
+   "home": {
+    "id": 152031,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163593,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844734,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T18:30:00.000Z",
+   "home": {
+    "id": 151021,
+    "name": "TSV Neuötting",
+    "clubId": 834,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273045,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844735,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T16:30:00.000Z",
+   "home": {
+    "id": 163593,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154133,
+    "name": "Dukes Dingolfing",
+    "clubId": 2714,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844736,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T19:00:00.000Z",
+   "home": {
+    "id": 151074,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152031,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844737,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T18:00:00.000Z",
+   "home": {
+    "id": 151999,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154126,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844738,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T18:30:00.000Z",
+   "home": {
+    "id": 167889,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158900,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844739,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T17:00:00.000Z",
+   "home": {
+    "id": 151078,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151011,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844740,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T16:30:00.000Z",
+   "home": {
+    "id": 167889,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151999,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844741,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T15:00:00.000Z",
+   "home": {
+    "id": 151011,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151021,
+    "name": "TSV Neuötting",
+    "clubId": 834,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844742,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T16:00:00.000Z",
+   "home": {
+    "id": 158900,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151078,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844743,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T19:00:00.000Z",
+   "home": {
+    "id": 152031,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154126,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844744,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T15:00:00.000Z",
+   "home": {
+    "id": 154133,
+    "name": "Dukes Dingolfing",
+    "clubId": 2714,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151074,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844745,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T18:30:00.000Z",
+   "home": {
+    "id": 273045,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163593,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844746,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T19:00:00.000Z",
+   "home": {
+    "id": 151074,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273045,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844747,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T19:00:00.000Z",
+   "home": {
+    "id": 154126,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154133,
+    "name": "Dukes Dingolfing",
+    "clubId": 2714,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844748,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T18:00:00.000Z",
+   "home": {
+    "id": 151999,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152031,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844749,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T17:00:00.000Z",
+   "home": {
+    "id": 151078,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167889,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844750,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T18:30:00.000Z",
+   "home": {
+    "id": 151021,
+    "name": "TSV Neuötting",
+    "clubId": 834,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158900,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844751,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T15:00:00.000Z",
+   "home": {
+    "id": 163593,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151011,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844752,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T17:00:00.000Z",
+   "home": {
+    "id": 151078,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151999,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844753,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T16:00:00.000Z",
+   "home": {
+    "id": 167889,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151021,
+    "name": "TSV Neuötting",
+    "clubId": 834,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844754,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T15:00:00.000Z",
+   "home": {
+    "id": 154133,
+    "name": "Dukes Dingolfing",
+    "clubId": 2714,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152031,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844755,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T18:30:00.000Z",
+   "home": {
+    "id": 273045,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154126,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844756,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T16:00:00.000Z",
+   "home": {
+    "id": 151011,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151074,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844757,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T16:00:00.000Z",
+   "home": {
+    "id": 158900,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163593,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844758,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 19,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T19:00:00.000Z",
+   "home": {
+    "id": 152031,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273045,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844759,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 19,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T18:00:00.000Z",
+   "home": {
+    "id": 151999,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154133,
+    "name": "Dukes Dingolfing",
+    "clubId": 2714,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844760,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 19,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T18:30:00.000Z",
+   "home": {
+    "id": 151021,
+    "name": "TSV Neuötting",
+    "clubId": 834,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151078,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844761,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 19,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T16:30:00.000Z",
+   "home": {
+    "id": 163593,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167889,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844762,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 19,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T19:00:00.000Z",
+   "home": {
+    "id": 151074,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158900,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844763,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 19,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T19:00:00.000Z",
+   "home": {
+    "id": 154126,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151011,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844764,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 20,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T18:30:00.000Z",
+   "home": {
+    "id": 151021,
+    "name": "TSV Neuötting",
+    "clubId": 834,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151999,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844765,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 20,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T18:30:00.000Z",
+   "home": {
+    "id": 273045,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154133,
+    "name": "Dukes Dingolfing",
+    "clubId": 2714,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844766,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 20,
+   "kickoffDate": "2027-02-07",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-07T15:00:00.000Z",
+   "home": {
+    "id": 151011,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152031,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844767,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 20,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T16:00:00.000Z",
+   "home": {
+    "id": 158900,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154126,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844768,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 20,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T18:30:00.000Z",
+   "home": {
+    "id": 167889,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151074,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844769,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 20,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T17:00:00.000Z",
+   "home": {
+    "id": 151078,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163593,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844770,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 21,
+   "kickoffDate": "2027-04-03",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-03T17:30:00.000Z",
+   "home": {
+    "id": 273045,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151999,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844771,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 21,
+   "kickoffDate": "2027-04-03",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-03T15:30:00.000Z",
+   "home": {
+    "id": 163593,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151021,
+    "name": "TSV Neuötting",
+    "clubId": 834,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844772,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 21,
+   "kickoffDate": "2027-04-03",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-03T18:00:00.000Z",
+   "home": {
+    "id": 151074,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151078,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844773,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 21,
+   "kickoffDate": "2027-04-03",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-03T18:00:00.000Z",
+   "home": {
+    "id": 154126,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167889,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844774,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 21,
+   "kickoffDate": "2027-04-03",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-03T18:00:00.000Z",
+   "home": {
+    "id": 152031,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 158900,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844775,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 21,
+   "kickoffDate": "2027-04-03",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-03T14:00:00.000Z",
+   "home": {
+    "id": 154133,
+    "name": "Dukes Dingolfing",
+    "clubId": 2714,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151011,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844776,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 22,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T14:00:00.000Z",
+   "home": {
+    "id": 151011,
+    "name": "TSV 1884 Wolnzach",
+    "clubId": 1578,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 273045,
+    "name": "Nürnberger Basketball Club",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844777,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 22,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T15:00:00.000Z",
+   "home": {
+    "id": 158900,
+    "name": "TV 1881 Altdorf",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154133,
+    "name": "Dukes Dingolfing",
+    "clubId": 2714,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844778,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 22,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T17:30:00.000Z",
+   "home": {
+    "id": 167889,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 152031,
+    "name": "FC Bayern München 3",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844779,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 22,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T16:00:00.000Z",
+   "home": {
+    "id": 151078,
+    "name": "TSV Jahn Freising",
+    "clubId": 1238,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 154126,
+    "name": "TG Landshut",
+    "clubId": 1216,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844780,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 22,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T17:30:00.000Z",
+   "home": {
+    "id": 151021,
+    "name": "TSV Neuötting",
+    "clubId": 834,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151074,
+    "name": "TSV Milbertshofen",
+    "clubId": 600,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2844781,
+   "ligaId": 52531,
+   "seasonId": 2026,
+   "matchDay": 22,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T17:00:00.000Z",
+   "home": {
+    "id": 151999,
+    "name": "TSV 1865 Dachau",
+    "clubId": 1505,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163593,
+    "name": "PSV Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

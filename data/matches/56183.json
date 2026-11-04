@@ -1,0 +1,1586 @@
+{
+ "league": {
+  "ligaId": 56183,
+  "name": "MFR U16m Kreisliga Süd",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U16",
+  "gender": "männlich",
+  "level": "Kreisliga",
+  "levelScope": "Kreis",
+  "verbandId": 2,
+  "bezirk": "Mittelfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2929670,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T10:30:00.000Z",
+   "home": {
+    "id": 323224,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166634,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": 76,
+   "guestScore": 33,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929672,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T12:00:00.000Z",
+   "home": {
+    "id": 166650,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166599,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929673,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T15:00:00.000Z",
+   "home": {
+    "id": 166570,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323225,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929674,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T12:00:00.000Z",
+   "home": {
+    "id": 166599,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166653,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929676,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T11:15:00.000Z",
+   "home": {
+    "id": 323225,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323224,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929677,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T14:00:00.000Z",
+   "home": {
+    "id": 166634,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166650,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929678,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T11:30:00.000Z",
+   "home": {
+    "id": 323224,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166650,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929679,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T13:15:00.000Z",
+   "home": {
+    "id": 166653,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166634,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929681,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T13:00:00.000Z",
+   "home": {
+    "id": 166570,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166599,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929682,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T12:00:00.000Z",
+   "home": {
+    "id": 166599,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323225,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929684,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:30:00.000Z",
+   "home": {
+    "id": 166650,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166653,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929685,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T14:00:00.000Z",
+   "home": {
+    "id": 166634,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166570,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": 55,
+   "guestScore": 66,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929686,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T10:30:00.000Z",
+   "home": {
+    "id": 323224,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166653,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929688,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T11:15:00.000Z",
+   "home": {
+    "id": 323225,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166634,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929689,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T11:00:00.000Z",
+   "home": {
+    "id": 166570,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166650,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929690,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T10:30:00.000Z",
+   "home": {
+    "id": 323224,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166599,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929691,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T14:30:00.000Z",
+   "home": {
+    "id": 166653,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166570,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929692,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-09-01",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-08-31T22:00:00.000Z",
+   "home": {
+    "id": 166650,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323225,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929694,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-04-25",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-25T13:00:00.000Z",
+   "home": {
+    "id": 166599,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166634,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929696,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T13:30:00.000Z",
+   "home": {
+    "id": 323225,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166653,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929697,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T10:00:00.000Z",
+   "home": {
+    "id": 166570,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323224,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929698,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T15:30:00.000Z",
+   "home": {
+    "id": 166634,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323224,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929700,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T11:00:00.000Z",
+   "home": {
+    "id": 166599,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166650,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929701,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T12:30:00.000Z",
+   "home": {
+    "id": 323225,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166570,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929702,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T11:00:00.000Z",
+   "home": {
+    "id": 166653,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166599,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929704,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T10:30:00.000Z",
+   "home": {
+    "id": 323224,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323225,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": 54,
+   "guestScore": 53,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929705,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T12:00:00.000Z",
+   "home": {
+    "id": 166650,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166634,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929706,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "10:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T09:45:00.000Z",
+   "home": {
+    "id": 166650,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323224,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929707,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T13:00:00.000Z",
+   "home": {
+    "id": 166634,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166653,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929709,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T14:00:00.000Z",
+   "home": {
+    "id": 166599,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166570,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929710,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T11:15:00.000Z",
+   "home": {
+    "id": 323225,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166599,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": 92,
+   "guestScore": 27,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929712,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T13:15:00.000Z",
+   "home": {
+    "id": 166653,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166650,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929713,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T15:00:00.000Z",
+   "home": {
+    "id": 166570,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166634,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929714,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T11:00:00.000Z",
+   "home": {
+    "id": 166653,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323224,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929716,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T15:00:00.000Z",
+   "home": {
+    "id": 166634,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323225,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929717,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T10:00:00.000Z",
+   "home": {
+    "id": 166650,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166570,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929718,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T14:00:00.000Z",
+   "home": {
+    "id": 166599,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323224,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929719,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T12:15:00.000Z",
+   "home": {
+    "id": 166570,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166653,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929720,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2026-09-01",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-08-31T22:00:00.000Z",
+   "home": {
+    "id": 323225,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166650,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929722,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T13:00:00.000Z",
+   "home": {
+    "id": 166634,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166599,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929724,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T09:00:00.000Z",
+   "home": {
+    "id": 166653,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323225,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929725,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T11:30:00.000Z",
+   "home": {
+    "id": 323224,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166570,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986014,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T15:00:00.000Z",
+   "home": {
+    "id": 317830,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166650,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": 46,
+   "guestScore": 44,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986015,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T12:30:00.000Z",
+   "home": {
+    "id": 317830,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323225,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986016,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T12:30:00.000Z",
+   "home": {
+    "id": 317830,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166599,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "homeScore": 58,
+   "guestScore": 47,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986017,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T12:00:00.000Z",
+   "home": {
+    "id": 166634,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317830,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 49,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986018,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T11:00:00.000Z",
+   "home": {
+    "id": 166653,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317830,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986019,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T13:30:00.000Z",
+   "home": {
+    "id": 317830,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323224,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986020,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T13:30:00.000Z",
+   "home": {
+    "id": 317830,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166570,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986021,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T13:30:00.000Z",
+   "home": {
+    "id": 323225,
+    "name": "TV 1881 Altdorf 2",
+    "clubId": 79,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317830,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986022,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T13:00:00.000Z",
+   "home": {
+    "id": 317830,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166653,
+    "name": "TSV 1860 Weißenburg",
+    "clubId": 1376,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986023,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T11:00:00.000Z",
+   "home": {
+    "id": 317830,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166634,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986024,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-06T11:30:00.000Z",
+   "home": {
+    "id": 166570,
+    "name": "VfL Treuchtlingen",
+    "clubId": 446,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317830,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986025,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "10:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T09:45:00.000Z",
+   "home": {
+    "id": 166650,
+    "name": "TV 1879 Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317830,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986026,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T11:30:00.000Z",
+   "home": {
+    "id": 323224,
+    "name": "Nürnberg Falcons 2",
+    "clubId": 4938,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317830,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986027,
+   "ligaId": 56183,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-04-03",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-03T15:00:00.000Z",
+   "home": {
+    "id": 166599,
+    "name": "Nürnberger Basketball Club 2",
+    "clubId": 1950,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317830,
+    "name": "TUSPO Nürnberg 2",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

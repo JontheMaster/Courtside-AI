@@ -1,0 +1,2034 @@
+{
+ "league": {
+  "ligaId": 55569,
+  "name": "UFR Bezirksliga Herren ",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Bezirksliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Unterfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2933486,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T15:00:00.000Z",
+   "home": {
+    "id": 157557,
+    "name": "TV Gerolzhofen",
+    "clubId": 4363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157549,
+    "name": "SG Oerlenbach/Ebenhausen",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "homeScore": 78,
+   "guestScore": 52,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933487,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T16:00:00.000Z",
+   "home": {
+    "id": 157366,
+    "name": "TG Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157577,
+    "name": "SV Erlenbach Gorillairs",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "homeScore": 57,
+   "guestScore": 60,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933488,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T13:00:00.000Z",
+   "home": {
+    "id": 319416,
+    "name": "Gerbrunn Grizzlies 3",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157375,
+    "name": "DJK Schweinfurt 2",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 66,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933489,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T15:30:00.000Z",
+   "home": {
+    "id": 317694,
+    "name": "Gerbrunn Grizzlies 2",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157371,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "homeScore": 91,
+   "guestScore": 45,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933491,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T17:00:00.000Z",
+   "home": {
+    "id": 157371,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319416,
+    "name": "Gerbrunn Grizzlies 3",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": 67,
+   "guestScore": 57,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933492,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T16:00:00.000Z",
+   "home": {
+    "id": 157375,
+    "name": "DJK Schweinfurt 2",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157366,
+    "name": "TG Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "homeScore": 73,
+   "guestScore": 45,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933494,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T16:30:00.000Z",
+   "home": {
+    "id": 312811,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157557,
+    "name": "TV Gerolzhofen",
+    "clubId": 4363,
+    "forfeit": false
+   },
+   "homeScore": 54,
+   "guestScore": 57,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933495,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T17:00:00.000Z",
+   "home": {
+    "id": 157549,
+    "name": "SG Oerlenbach/Ebenhausen",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317694,
+    "name": "Gerbrunn Grizzlies 2",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": 55,
+   "guestScore": 57,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933496,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T15:30:00.000Z",
+   "home": {
+    "id": 317694,
+    "name": "Gerbrunn Grizzlies 2",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157557,
+    "name": "TV Gerolzhofen",
+    "clubId": 4363,
+    "forfeit": false
+   },
+   "homeScore": 78,
+   "guestScore": 88,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933497,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T11:30:00.000Z",
+   "home": {
+    "id": 157366,
+    "name": "TG Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157371,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "homeScore": 64,
+   "guestScore": 87,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933498,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T13:00:00.000Z",
+   "home": {
+    "id": 319416,
+    "name": "Gerbrunn Grizzlies 3",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157549,
+    "name": "SG Oerlenbach/Ebenhausen",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "homeScore": 65,
+   "guestScore": 56,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933499,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T16:00:00.000Z",
+   "home": {
+    "id": 312811,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157577,
+    "name": "SV Erlenbach Gorillairs",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "homeScore": 69,
+   "guestScore": 37,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933502,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T18:00:00.000Z",
+   "home": {
+    "id": 157375,
+    "name": "DJK Schweinfurt 2",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312811,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": 90,
+   "guestScore": 89,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933503,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T17:30:00.000Z",
+   "home": {
+    "id": 157577,
+    "name": "SV Erlenbach Gorillairs",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157557,
+    "name": "TV Gerolzhofen",
+    "clubId": 4363,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 73,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933504,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:30:00.000Z",
+   "home": {
+    "id": 317694,
+    "name": "Gerbrunn Grizzlies 2",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319416,
+    "name": "Gerbrunn Grizzlies 3",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": 60,
+   "guestScore": 41,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933505,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T17:00:00.000Z",
+   "home": {
+    "id": 157549,
+    "name": "SG Oerlenbach/Ebenhausen",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157366,
+    "name": "TG Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "homeScore": 54,
+   "guestScore": 53,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933506,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T16:30:00.000Z",
+   "home": {
+    "id": 319416,
+    "name": "Gerbrunn Grizzlies 3",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157557,
+    "name": "TV Gerolzhofen",
+    "clubId": 4363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933507,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T17:00:00.000Z",
+   "home": {
+    "id": 157366,
+    "name": "TG Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317694,
+    "name": "Gerbrunn Grizzlies 2",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933508,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T18:30:00.000Z",
+   "home": {
+    "id": 157577,
+    "name": "SV Erlenbach Gorillairs",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157375,
+    "name": "DJK Schweinfurt 2",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933509,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T15:30:00.000Z",
+   "home": {
+    "id": 312811,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157371,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933511,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T18:00:00.000Z",
+   "home": {
+    "id": 157371,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157577,
+    "name": "SV Erlenbach Gorillairs",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933512,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T19:00:00.000Z",
+   "home": {
+    "id": 157375,
+    "name": "DJK Schweinfurt 2",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157557,
+    "name": "TV Gerolzhofen",
+    "clubId": 4363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933513,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T16:30:00.000Z",
+   "home": {
+    "id": 319416,
+    "name": "Gerbrunn Grizzlies 3",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157366,
+    "name": "TG Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933515,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T18:00:00.000Z",
+   "home": {
+    "id": 157549,
+    "name": "SG Oerlenbach/Ebenhausen",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312811,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933516,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T16:00:00.000Z",
+   "home": {
+    "id": 157557,
+    "name": "TV Gerolzhofen",
+    "clubId": 4363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157366,
+    "name": "TG Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933517,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T17:00:00.000Z",
+   "home": {
+    "id": 157375,
+    "name": "DJK Schweinfurt 2",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157371,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933518,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T18:30:00.000Z",
+   "home": {
+    "id": 157577,
+    "name": "SV Erlenbach Gorillairs",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157549,
+    "name": "SG Oerlenbach/Ebenhausen",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933519,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T15:30:00.000Z",
+   "home": {
+    "id": 312811,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317694,
+    "name": "Gerbrunn Grizzlies 2",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": 76,
+   "guestScore": 65,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933521,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T16:00:00.000Z",
+   "home": {
+    "id": 157557,
+    "name": "TV Gerolzhofen",
+    "clubId": 4363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157371,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933523,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T14:00:00.000Z",
+   "home": {
+    "id": 319416,
+    "name": "Gerbrunn Grizzlies 3",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312811,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933524,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T16:30:00.000Z",
+   "home": {
+    "id": 317694,
+    "name": "Gerbrunn Grizzlies 2",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157577,
+    "name": "SV Erlenbach Gorillairs",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933525,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T18:00:00.000Z",
+   "home": {
+    "id": 157549,
+    "name": "SG Oerlenbach/Ebenhausen",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157375,
+    "name": "DJK Schweinfurt 2",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933526,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T16:30:00.000Z",
+   "home": {
+    "id": 157371,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157549,
+    "name": "SG Oerlenbach/Ebenhausen",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933527,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T17:00:00.000Z",
+   "home": {
+    "id": 157375,
+    "name": "DJK Schweinfurt 2",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317694,
+    "name": "Gerbrunn Grizzlies 2",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933528,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T18:30:00.000Z",
+   "home": {
+    "id": 157577,
+    "name": "SV Erlenbach Gorillairs",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319416,
+    "name": "Gerbrunn Grizzlies 3",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933529,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T15:30:00.000Z",
+   "home": {
+    "id": 312811,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157366,
+    "name": "TG Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933531,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T18:00:00.000Z",
+   "home": {
+    "id": 157549,
+    "name": "SG Oerlenbach/Ebenhausen",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157557,
+    "name": "TV Gerolzhofen",
+    "clubId": 4363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933532,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T18:30:00.000Z",
+   "home": {
+    "id": 157577,
+    "name": "SV Erlenbach Gorillairs",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157366,
+    "name": "TG Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933533,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T19:00:00.000Z",
+   "home": {
+    "id": 157375,
+    "name": "DJK Schweinfurt 2",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319416,
+    "name": "Gerbrunn Grizzlies 3",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933534,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T18:00:00.000Z",
+   "home": {
+    "id": 157371,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317694,
+    "name": "Gerbrunn Grizzlies 2",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933536,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:30:00.000Z",
+   "home": {
+    "id": 319416,
+    "name": "Gerbrunn Grizzlies 3",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157371,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933537,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T17:00:00.000Z",
+   "home": {
+    "id": 157366,
+    "name": "TG Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157375,
+    "name": "DJK Schweinfurt 2",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933539,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:00:00.000Z",
+   "home": {
+    "id": 157557,
+    "name": "TV Gerolzhofen",
+    "clubId": 4363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312811,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933540,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T19:00:00.000Z",
+   "home": {
+    "id": 317694,
+    "name": "Gerbrunn Grizzlies 2",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157549,
+    "name": "SG Oerlenbach/Ebenhausen",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933541,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:00:00.000Z",
+   "home": {
+    "id": 157557,
+    "name": "TV Gerolzhofen",
+    "clubId": 4363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317694,
+    "name": "Gerbrunn Grizzlies 2",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933542,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T18:00:00.000Z",
+   "home": {
+    "id": 157371,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157366,
+    "name": "TG Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933543,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T18:00:00.000Z",
+   "home": {
+    "id": 157549,
+    "name": "SG Oerlenbach/Ebenhausen",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319416,
+    "name": "Gerbrunn Grizzlies 3",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933544,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T18:30:00.000Z",
+   "home": {
+    "id": 157577,
+    "name": "SV Erlenbach Gorillairs",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312811,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933547,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T15:00:00.000Z",
+   "home": {
+    "id": 312811,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157375,
+    "name": "DJK Schweinfurt 2",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933548,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T16:00:00.000Z",
+   "home": {
+    "id": 157557,
+    "name": "TV Gerolzhofen",
+    "clubId": 4363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157577,
+    "name": "SV Erlenbach Gorillairs",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933549,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T16:30:00.000Z",
+   "home": {
+    "id": 319416,
+    "name": "Gerbrunn Grizzlies 3",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317694,
+    "name": "Gerbrunn Grizzlies 2",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933550,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T17:00:00.000Z",
+   "home": {
+    "id": 157366,
+    "name": "TG Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157549,
+    "name": "SG Oerlenbach/Ebenhausen",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933551,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T16:00:00.000Z",
+   "home": {
+    "id": 157557,
+    "name": "TV Gerolzhofen",
+    "clubId": 4363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319416,
+    "name": "Gerbrunn Grizzlies 3",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933552,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T19:00:00.000Z",
+   "home": {
+    "id": 317694,
+    "name": "Gerbrunn Grizzlies 2",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157366,
+    "name": "TG Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933553,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T19:00:00.000Z",
+   "home": {
+    "id": 157375,
+    "name": "DJK Schweinfurt 2",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157577,
+    "name": "SV Erlenbach Gorillairs",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933554,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T16:15:00.000Z",
+   "home": {
+    "id": 157371,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312811,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933556,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T18:30:00.000Z",
+   "home": {
+    "id": 157577,
+    "name": "SV Erlenbach Gorillairs",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157371,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933557,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T16:00:00.000Z",
+   "home": {
+    "id": 157557,
+    "name": "TV Gerolzhofen",
+    "clubId": 4363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157375,
+    "name": "DJK Schweinfurt 2",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933558,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T17:00:00.000Z",
+   "home": {
+    "id": 157366,
+    "name": "TG Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319416,
+    "name": "Gerbrunn Grizzlies 3",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933560,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T12:30:00.000Z",
+   "home": {
+    "id": 312811,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157549,
+    "name": "SG Oerlenbach/Ebenhausen",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933561,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T17:00:00.000Z",
+   "home": {
+    "id": 157366,
+    "name": "TG Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157557,
+    "name": "TV Gerolzhofen",
+    "clubId": 4363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933562,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T16:15:00.000Z",
+   "home": {
+    "id": 157371,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157375,
+    "name": "DJK Schweinfurt 2",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933563,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T18:00:00.000Z",
+   "home": {
+    "id": 157549,
+    "name": "SG Oerlenbach/Ebenhausen",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157577,
+    "name": "SV Erlenbach Gorillairs",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933564,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T16:30:00.000Z",
+   "home": {
+    "id": 317694,
+    "name": "Gerbrunn Grizzlies 2",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312811,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933566,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T18:00:00.000Z",
+   "home": {
+    "id": 157371,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157557,
+    "name": "TV Gerolzhofen",
+    "clubId": 4363,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933568,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "16:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T15:15:00.000Z",
+   "home": {
+    "id": 312811,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319416,
+    "name": "Gerbrunn Grizzlies 3",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933569,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T18:30:00.000Z",
+   "home": {
+    "id": 157577,
+    "name": "SV Erlenbach Gorillairs",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317694,
+    "name": "Gerbrunn Grizzlies 2",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933570,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T19:00:00.000Z",
+   "home": {
+    "id": 157375,
+    "name": "DJK Schweinfurt 2",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157549,
+    "name": "SG Oerlenbach/Ebenhausen",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933571,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T18:00:00.000Z",
+   "home": {
+    "id": 157549,
+    "name": "SG Oerlenbach/Ebenhausen",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157371,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933572,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T16:30:00.000Z",
+   "home": {
+    "id": 317694,
+    "name": "Gerbrunn Grizzlies 2",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157375,
+    "name": "DJK Schweinfurt 2",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933573,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T14:00:00.000Z",
+   "home": {
+    "id": 319416,
+    "name": "Gerbrunn Grizzlies 3",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157577,
+    "name": "SV Erlenbach Gorillairs",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2933574,
+   "ligaId": 55569,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T17:00:00.000Z",
+   "home": {
+    "id": 157366,
+    "name": "TG Schweinfurt",
+    "clubId": 1956,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 312811,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

@@ -1,0 +1,2034 @@
+{
+ "league": {
+  "ligaId": 52812,
+  "name": "Kreisliga Herren B",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Kreisliga",
+  "levelScope": "Kreis",
+  "verbandId": 2,
+  "bezirk": "Oberfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2897778,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "13:31",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T11:31:00.000Z",
+   "home": {
+    "id": 145600,
+    "name": "Bischberg Baskets 2",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143031,
+    "name": "SV Weidenberg 2",
+    "clubId": 604,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 57,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897779,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T15:00:00.000Z",
+   "home": {
+    "id": 166136,
+    "name": "Maintal Baskets Hassberge 2",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143027,
+    "name": "ATS Kulmbach 2",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 83,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897780,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T15:30:00.000Z",
+   "home": {
+    "id": 322152,
+    "name": "BG Bamberg 3",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 202071,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897781,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T11:00:00.000Z",
+   "home": {
+    "id": 314300,
+    "name": "DJK Eggolsheim 3",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143221,
+    "name": "TTL Basketball Bamberg 4",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": 52,
+   "guestScore": 65,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897783,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-09",
+   "kickoffTime": "19:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-09T17:15:00.000Z",
+   "home": {
+    "id": 143221,
+    "name": "TTL Basketball Bamberg 4",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322152,
+    "name": "BG Bamberg 3",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "homeScore": 70,
+   "guestScore": 63,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897784,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T16:00:00.000Z",
+   "home": {
+    "id": 202071,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166136,
+    "name": "Maintal Baskets Hassberge 2",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "homeScore": 66,
+   "guestScore": 80,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897786,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T17:30:00.000Z",
+   "home": {
+    "id": 319895,
+    "name": "SV Memmelsdorf",
+    "clubId": 5141,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 145600,
+    "name": "Bischberg Baskets 2",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "homeScore": 33,
+   "guestScore": 58,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897787,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T14:30:00.000Z",
+   "home": {
+    "id": 143031,
+    "name": "SV Weidenberg 2",
+    "clubId": 604,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314300,
+    "name": "DJK Eggolsheim 3",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "homeScore": 54,
+   "guestScore": 63,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897788,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T11:30:00.000Z",
+   "home": {
+    "id": 145600,
+    "name": "Bischberg Baskets 2",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314300,
+    "name": "DJK Eggolsheim 3",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "homeScore": 83,
+   "guestScore": 40,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897789,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T15:00:00.000Z",
+   "home": {
+    "id": 166136,
+    "name": "Maintal Baskets Hassberge 2",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143221,
+    "name": "TTL Basketball Bamberg 4",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": 60,
+   "guestScore": 70,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897790,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "10:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T08:45:00.000Z",
+   "home": {
+    "id": 322152,
+    "name": "BG Bamberg 3",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143031,
+    "name": "SV Weidenberg 2",
+    "clubId": 604,
+    "forfeit": false
+   },
+   "homeScore": 20,
+   "guestScore": 0,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897791,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T11:00:00.000Z",
+   "home": {
+    "id": 319895,
+    "name": "SV Memmelsdorf",
+    "clubId": 5141,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143027,
+    "name": "ATS Kulmbach 2",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897794,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "19:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T17:15:00.000Z",
+   "home": {
+    "id": 202071,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319895,
+    "name": "SV Memmelsdorf",
+    "clubId": 5141,
+    "forfeit": false
+   },
+   "homeScore": 62,
+   "guestScore": 66,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897795,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "15:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T13:15:00.000Z",
+   "home": {
+    "id": 143027,
+    "name": "ATS Kulmbach 2",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 145600,
+    "name": "Bischberg Baskets 2",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "homeScore": 91,
+   "guestScore": 44,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897796,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T13:00:00.000Z",
+   "home": {
+    "id": 314300,
+    "name": "DJK Eggolsheim 3",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322152,
+    "name": "BG Bamberg 3",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "homeScore": 48,
+   "guestScore": 52,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897797,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T14:30:00.000Z",
+   "home": {
+    "id": 143031,
+    "name": "SV Weidenberg 2",
+    "clubId": 604,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166136,
+    "name": "Maintal Baskets Hassberge 2",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "homeScore": 93,
+   "guestScore": 53,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897798,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T12:30:00.000Z",
+   "home": {
+    "id": 145600,
+    "name": "Bischberg Baskets 2",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322152,
+    "name": "BG Bamberg 3",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897799,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T16:00:00.000Z",
+   "home": {
+    "id": 166136,
+    "name": "Maintal Baskets Hassberge 2",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314300,
+    "name": "DJK Eggolsheim 3",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897800,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T12:00:00.000Z",
+   "home": {
+    "id": 143027,
+    "name": "ATS Kulmbach 2",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 202071,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897801,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T13:00:00.000Z",
+   "home": {
+    "id": 143221,
+    "name": "TTL Basketball Bamberg 4",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319895,
+    "name": "SV Memmelsdorf",
+    "clubId": 5141,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897803,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T14:00:00.000Z",
+   "home": {
+    "id": 143221,
+    "name": "TTL Basketball Bamberg 4",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143027,
+    "name": "ATS Kulmbach 2",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897804,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T16:00:00.000Z",
+   "home": {
+    "id": 145600,
+    "name": "Bischberg Baskets 2",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 202071,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897805,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T13:30:00.000Z",
+   "home": {
+    "id": 322152,
+    "name": "BG Bamberg 3",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166136,
+    "name": "Maintal Baskets Hassberge 2",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897807,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T15:30:00.000Z",
+   "home": {
+    "id": 143031,
+    "name": "SV Weidenberg 2",
+    "clubId": 604,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319895,
+    "name": "SV Memmelsdorf",
+    "clubId": 5141,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897808,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T12:30:00.000Z",
+   "home": {
+    "id": 145600,
+    "name": "Bischberg Baskets 2",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166136,
+    "name": "Maintal Baskets Hassberge 2",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897809,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T17:00:00.000Z",
+   "home": {
+    "id": 202071,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143221,
+    "name": "TTL Basketball Bamberg 4",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897810,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T12:00:00.000Z",
+   "home": {
+    "id": 143027,
+    "name": "ATS Kulmbach 2",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143031,
+    "name": "SV Weidenberg 2",
+    "clubId": 604,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897811,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T14:00:00.000Z",
+   "home": {
+    "id": 314300,
+    "name": "DJK Eggolsheim 3",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319895,
+    "name": "SV Memmelsdorf",
+    "clubId": 5141,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897813,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T12:00:00.000Z",
+   "home": {
+    "id": 145600,
+    "name": "Bischberg Baskets 2",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143221,
+    "name": "TTL Basketball Bamberg 4",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897815,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "10:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T09:45:00.000Z",
+   "home": {
+    "id": 322152,
+    "name": "BG Bamberg 3",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319895,
+    "name": "SV Memmelsdorf",
+    "clubId": 5141,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897816,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T16:30:00.000Z",
+   "home": {
+    "id": 314300,
+    "name": "DJK Eggolsheim 3",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143027,
+    "name": "ATS Kulmbach 2",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897817,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T15:30:00.000Z",
+   "home": {
+    "id": 143031,
+    "name": "SV Weidenberg 2",
+    "clubId": 604,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 202071,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897818,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T16:00:00.000Z",
+   "home": {
+    "id": 143221,
+    "name": "TTL Basketball Bamberg 4",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143031,
+    "name": "SV Weidenberg 2",
+    "clubId": 604,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897819,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T17:00:00.000Z",
+   "home": {
+    "id": 202071,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314300,
+    "name": "DJK Eggolsheim 3",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897820,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T12:30:00.000Z",
+   "home": {
+    "id": 143027,
+    "name": "ATS Kulmbach 2",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322152,
+    "name": "BG Bamberg 3",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897821,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T18:30:00.000Z",
+   "home": {
+    "id": 319895,
+    "name": "SV Memmelsdorf",
+    "clubId": 5141,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166136,
+    "name": "Maintal Baskets Hassberge 2",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897823,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T15:30:00.000Z",
+   "home": {
+    "id": 143031,
+    "name": "SV Weidenberg 2",
+    "clubId": 604,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 145600,
+    "name": "Bischberg Baskets 2",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897824,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T12:00:00.000Z",
+   "home": {
+    "id": 143027,
+    "name": "ATS Kulmbach 2",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166136,
+    "name": "Maintal Baskets Hassberge 2",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897825,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T17:00:00.000Z",
+   "home": {
+    "id": 202071,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322152,
+    "name": "BG Bamberg 3",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897826,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T17:00:00.000Z",
+   "home": {
+    "id": 143221,
+    "name": "TTL Basketball Bamberg 4",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314300,
+    "name": "DJK Eggolsheim 3",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897828,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T15:30:00.000Z",
+   "home": {
+    "id": 322152,
+    "name": "BG Bamberg 3",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143221,
+    "name": "TTL Basketball Bamberg 4",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897829,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T16:00:00.000Z",
+   "home": {
+    "id": 166136,
+    "name": "Maintal Baskets Hassberge 2",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 202071,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897831,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T12:30:00.000Z",
+   "home": {
+    "id": 145600,
+    "name": "Bischberg Baskets 2",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319895,
+    "name": "SV Memmelsdorf",
+    "clubId": 5141,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897832,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-22",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-21T23:00:00.000Z",
+   "home": {
+    "id": 314300,
+    "name": "DJK Eggolsheim 3",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143031,
+    "name": "SV Weidenberg 2",
+    "clubId": 604,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897833,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T12:00:00.000Z",
+   "home": {
+    "id": 314300,
+    "name": "DJK Eggolsheim 3",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 145600,
+    "name": "Bischberg Baskets 2",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897834,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T14:00:00.000Z",
+   "home": {
+    "id": 143221,
+    "name": "TTL Basketball Bamberg 4",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166136,
+    "name": "Maintal Baskets Hassberge 2",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897835,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T15:30:00.000Z",
+   "home": {
+    "id": 143031,
+    "name": "SV Weidenberg 2",
+    "clubId": 604,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322152,
+    "name": "BG Bamberg 3",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897836,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T12:00:00.000Z",
+   "home": {
+    "id": 143027,
+    "name": "ATS Kulmbach 2",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319895,
+    "name": "SV Memmelsdorf",
+    "clubId": 5141,
+    "forfeit": false
+   },
+   "homeScore": 89,
+   "guestScore": 61,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897839,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T11:00:00.000Z",
+   "home": {
+    "id": 319895,
+    "name": "SV Memmelsdorf",
+    "clubId": 5141,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 202071,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897840,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T12:30:00.000Z",
+   "home": {
+    "id": 145600,
+    "name": "Bischberg Baskets 2",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143027,
+    "name": "ATS Kulmbach 2",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897841,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T09:30:00.000Z",
+   "home": {
+    "id": 322152,
+    "name": "BG Bamberg 3",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314300,
+    "name": "DJK Eggolsheim 3",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897842,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T16:00:00.000Z",
+   "home": {
+    "id": 166136,
+    "name": "Maintal Baskets Hassberge 2",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143031,
+    "name": "SV Weidenberg 2",
+    "clubId": 604,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897843,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T09:00:00.000Z",
+   "home": {
+    "id": 322152,
+    "name": "BG Bamberg 3",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 145600,
+    "name": "Bischberg Baskets 2",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897844,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T14:00:00.000Z",
+   "home": {
+    "id": 314300,
+    "name": "DJK Eggolsheim 3",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166136,
+    "name": "Maintal Baskets Hassberge 2",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897845,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T18:30:00.000Z",
+   "home": {
+    "id": 202071,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143027,
+    "name": "ATS Kulmbach 2",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897846,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T11:00:00.000Z",
+   "home": {
+    "id": 319895,
+    "name": "SV Memmelsdorf",
+    "clubId": 5141,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143221,
+    "name": "TTL Basketball Bamberg 4",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897848,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T12:00:00.000Z",
+   "home": {
+    "id": 143027,
+    "name": "ATS Kulmbach 2",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143221,
+    "name": "TTL Basketball Bamberg 4",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897849,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T18:30:00.000Z",
+   "home": {
+    "id": 202071,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 145600,
+    "name": "Bischberg Baskets 2",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897850,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T16:00:00.000Z",
+   "home": {
+    "id": 166136,
+    "name": "Maintal Baskets Hassberge 2",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322152,
+    "name": "BG Bamberg 3",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897852,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T13:30:00.000Z",
+   "home": {
+    "id": 319895,
+    "name": "SV Memmelsdorf",
+    "clubId": 5141,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143031,
+    "name": "SV Weidenberg 2",
+    "clubId": 604,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897853,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T16:00:00.000Z",
+   "home": {
+    "id": 166136,
+    "name": "Maintal Baskets Hassberge 2",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 145600,
+    "name": "Bischberg Baskets 2",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897854,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T14:00:00.000Z",
+   "home": {
+    "id": 143221,
+    "name": "TTL Basketball Bamberg 4",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 202071,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897855,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T15:30:00.000Z",
+   "home": {
+    "id": 143031,
+    "name": "SV Weidenberg 2",
+    "clubId": 604,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143027,
+    "name": "ATS Kulmbach 2",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897856,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T11:00:00.000Z",
+   "home": {
+    "id": 319895,
+    "name": "SV Memmelsdorf",
+    "clubId": 5141,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314300,
+    "name": "DJK Eggolsheim 3",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897858,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T13:00:00.000Z",
+   "home": {
+    "id": 143221,
+    "name": "TTL Basketball Bamberg 4",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 145600,
+    "name": "Bischberg Baskets 2",
+    "clubId": 2063,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897860,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T11:00:00.000Z",
+   "home": {
+    "id": 319895,
+    "name": "SV Memmelsdorf",
+    "clubId": 5141,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322152,
+    "name": "BG Bamberg 3",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897861,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T12:00:00.000Z",
+   "home": {
+    "id": 143027,
+    "name": "ATS Kulmbach 2",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314300,
+    "name": "DJK Eggolsheim 3",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897862,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "19:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T18:15:00.000Z",
+   "home": {
+    "id": 202071,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143031,
+    "name": "SV Weidenberg 2",
+    "clubId": 604,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897863,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T15:30:00.000Z",
+   "home": {
+    "id": 143031,
+    "name": "SV Weidenberg 2",
+    "clubId": 604,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143221,
+    "name": "TTL Basketball Bamberg 4",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897864,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T14:00:00.000Z",
+   "home": {
+    "id": 314300,
+    "name": "DJK Eggolsheim 3",
+    "clubId": 1016,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 202071,
+    "name": "RSC Oberhaid 2",
+    "clubId": 651,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897865,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T16:00:00.000Z",
+   "home": {
+    "id": 322152,
+    "name": "BG Bamberg 3",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143027,
+    "name": "ATS Kulmbach 2",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897866,
+   "ligaId": 52812,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T16:00:00.000Z",
+   "home": {
+    "id": 166136,
+    "name": "Maintal Baskets Hassberge 2",
+    "clubId": 4348,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319895,
+    "name": "SV Memmelsdorf",
+    "clubId": 5141,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

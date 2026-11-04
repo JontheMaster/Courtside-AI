@@ -1,0 +1,1586 @@
+{
+ "league": {
+  "ligaId": 52808,
+  "name": "Bezirksliga Damen A",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "weiblich",
+  "level": "Bezirksliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2897275,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T12:00:00.000Z",
+   "home": {
+    "id": 322546,
+    "name": "TV Weismain",
+    "clubId": 60,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320622,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": 43,
+   "guestScore": 49,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897276,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T13:30:00.000Z",
+   "home": {
+    "id": 166189,
+    "name": "BG Litzendorf 2",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143051,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "homeScore": 82,
+   "guestScore": 13,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897277,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T14:00:00.000Z",
+   "home": {
+    "id": 244355,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151029,
+    "name": "BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": 68,
+   "guestScore": 36,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897278,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-02",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-01T22:00:00.000Z",
+   "home": {
+    "id": 218169,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 183321,
+    "name": "DJK Don Bosco Bamberg 3",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897279,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T15:45:00.000Z",
+   "home": {
+    "id": 151029,
+    "name": "BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166189,
+    "name": "BG Litzendorf 2",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897280,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-09",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-08T22:00:00.000Z",
+   "home": {
+    "id": 143051,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 218169,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897281,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:30:00.000Z",
+   "home": {
+    "id": 183321,
+    "name": "DJK Don Bosco Bamberg 3",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322546,
+    "name": "TV Weismain",
+    "clubId": 60,
+    "forfeit": false
+   },
+   "homeScore": 38,
+   "guestScore": 60,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897282,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T12:30:00.000Z",
+   "home": {
+    "id": 320622,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 244355,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "homeScore": 60,
+   "guestScore": 40,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897283,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T12:45:00.000Z",
+   "home": {
+    "id": 322546,
+    "name": "TV Weismain",
+    "clubId": 60,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 244355,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 47,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897284,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T15:30:00.000Z",
+   "home": {
+    "id": 166189,
+    "name": "BG Litzendorf 2",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320622,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": 78,
+   "guestScore": 26,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897285,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-18",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-18T18:30:00.000Z",
+   "home": {
+    "id": 183321,
+    "name": "DJK Don Bosco Bamberg 3",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143051,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897286,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-16",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-15T22:00:00.000Z",
+   "home": {
+    "id": 218169,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 151029,
+    "name": "BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897287,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T12:30:00.000Z",
+   "home": {
+    "id": 151029,
+    "name": "BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183321,
+    "name": "DJK Don Bosco Bamberg 3",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": 63,
+   "guestScore": 33,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897288,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T11:30:00.000Z",
+   "home": {
+    "id": 143051,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322546,
+    "name": "TV Weismain",
+    "clubId": 60,
+    "forfeit": false
+   },
+   "homeScore": 43,
+   "guestScore": 66,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897289,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T16:00:00.000Z",
+   "home": {
+    "id": 244355,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166189,
+    "name": "BG Litzendorf 2",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897290,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T14:00:00.000Z",
+   "home": {
+    "id": 320622,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 218169,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897291,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T13:45:00.000Z",
+   "home": {
+    "id": 322546,
+    "name": "TV Weismain",
+    "clubId": 60,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166189,
+    "name": "BG Litzendorf 2",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897292,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T09:00:00.000Z",
+   "home": {
+    "id": 143051,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151029,
+    "name": "BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897293,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T10:00:00.000Z",
+   "home": {
+    "id": 183321,
+    "name": "DJK Don Bosco Bamberg 3",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320622,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897294,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-13",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-12T23:00:00.000Z",
+   "home": {
+    "id": 218169,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 244355,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897295,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T13:45:00.000Z",
+   "home": {
+    "id": 322546,
+    "name": "TV Weismain",
+    "clubId": 60,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151029,
+    "name": "BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897296,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T16:30:00.000Z",
+   "home": {
+    "id": 166189,
+    "name": "BG Litzendorf 2",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 218169,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897297,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T17:00:00.000Z",
+   "home": {
+    "id": 244355,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183321,
+    "name": "DJK Don Bosco Bamberg 3",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897298,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T15:00:00.000Z",
+   "home": {
+    "id": 320622,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143051,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897299,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T13:30:00.000Z",
+   "home": {
+    "id": 151029,
+    "name": "BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320622,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897300,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T13:00:00.000Z",
+   "home": {
+    "id": 143051,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 244355,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897301,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T09:00:00.000Z",
+   "home": {
+    "id": 183321,
+    "name": "DJK Don Bosco Bamberg 3",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166189,
+    "name": "BG Litzendorf 2",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897302,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-27",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-26T23:00:00.000Z",
+   "home": {
+    "id": 218169,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 322546,
+    "name": "TV Weismain",
+    "clubId": 60,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897303,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T16:00:00.000Z",
+   "home": {
+    "id": 320622,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322546,
+    "name": "TV Weismain",
+    "clubId": 60,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897304,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T12:00:00.000Z",
+   "home": {
+    "id": 143051,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166189,
+    "name": "BG Litzendorf 2",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897305,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T15:45:00.000Z",
+   "home": {
+    "id": 151029,
+    "name": "BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 244355,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897306,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-04",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-12-03T23:00:00.000Z",
+   "home": {
+    "id": 183321,
+    "name": "DJK Don Bosco Bamberg 3",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 218169,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897307,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T16:30:00.000Z",
+   "home": {
+    "id": 166189,
+    "name": "BG Litzendorf 2",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151029,
+    "name": "BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897308,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-11",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-12-10T23:00:00.000Z",
+   "home": {
+    "id": 218169,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 143051,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897309,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T15:00:00.000Z",
+   "home": {
+    "id": 322546,
+    "name": "TV Weismain",
+    "clubId": 60,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183321,
+    "name": "DJK Don Bosco Bamberg 3",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897310,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "15:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T14:15:00.000Z",
+   "home": {
+    "id": 244355,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320622,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897311,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T15:00:00.000Z",
+   "home": {
+    "id": 244355,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322546,
+    "name": "TV Weismain",
+    "clubId": 60,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897312,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T15:00:00.000Z",
+   "home": {
+    "id": 320622,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 166189,
+    "name": "BG Litzendorf 2",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897313,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T11:15:00.000Z",
+   "home": {
+    "id": 143051,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183321,
+    "name": "DJK Don Bosco Bamberg 3",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897314,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T15:45:00.000Z",
+   "home": {
+    "id": 151029,
+    "name": "BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 218169,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897315,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T13:00:00.000Z",
+   "home": {
+    "id": 183321,
+    "name": "DJK Don Bosco Bamberg 3",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151029,
+    "name": "BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897316,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T13:45:00.000Z",
+   "home": {
+    "id": 322546,
+    "name": "TV Weismain",
+    "clubId": 60,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143051,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897317,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T16:00:00.000Z",
+   "home": {
+    "id": 166189,
+    "name": "BG Litzendorf 2",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 244355,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897318,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-22",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-21T23:00:00.000Z",
+   "home": {
+    "id": 218169,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 320622,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897319,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T16:30:00.000Z",
+   "home": {
+    "id": 166189,
+    "name": "BG Litzendorf 2",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322546,
+    "name": "TV Weismain",
+    "clubId": 60,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897320,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T15:45:00.000Z",
+   "home": {
+    "id": 151029,
+    "name": "BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143051,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897321,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T15:00:00.000Z",
+   "home": {
+    "id": 320622,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183321,
+    "name": "DJK Don Bosco Bamberg 3",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897322,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-29",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-28T23:00:00.000Z",
+   "home": {
+    "id": 244355,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 218169,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897323,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-12",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-02-11T23:00:00.000Z",
+   "home": {
+    "id": 151029,
+    "name": "BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322546,
+    "name": "TV Weismain",
+    "clubId": 60,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897324,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-12",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-02-11T23:00:00.000Z",
+   "home": {
+    "id": 218169,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 166189,
+    "name": "BG Litzendorf 2",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897325,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T19:00:00.000Z",
+   "home": {
+    "id": 183321,
+    "name": "DJK Don Bosco Bamberg 3",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 244355,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897326,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T09:00:00.000Z",
+   "home": {
+    "id": 143051,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320622,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897327,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T15:00:00.000Z",
+   "home": {
+    "id": 320622,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151029,
+    "name": "BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897328,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T17:00:00.000Z",
+   "home": {
+    "id": 244355,
+    "name": "ATS Kulmbach",
+    "clubId": 1283,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143051,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897329,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T14:00:00.000Z",
+   "home": {
+    "id": 166189,
+    "name": "BG Litzendorf 2",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183321,
+    "name": "DJK Don Bosco Bamberg 3",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2897330,
+   "ligaId": 52808,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-19",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-02-18T23:00:00.000Z",
+   "home": {
+    "id": 322546,
+    "name": "TV Weismain",
+    "clubId": 60,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 218169,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  }
+ ]
+}

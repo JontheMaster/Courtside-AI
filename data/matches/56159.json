@@ -1,0 +1,578 @@
+{
+ "league": {
+  "ligaId": 56159,
+  "name": "MFR U18w Bezirksoberliga",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U18",
+  "gender": "weiblich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Mittelfranken",
+  "competitionType": "regular",
+  "role": "core"
+ },
+ "matches": [
+  {
+   "matchId": 2928914,
+   "ligaId": 56159,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T17:00:00.000Z",
+   "home": {
+    "id": 257061,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310841,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928915,
+   "ligaId": 56159,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T10:00:00.000Z",
+   "home": {
+    "id": 188279,
+    "name": "TS Herzogenaurach",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 193930,
+    "name": "TB Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": true,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928918,
+   "ligaId": 56159,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T16:00:00.000Z",
+   "home": {
+    "id": 314206,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 257061,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928919,
+   "ligaId": 56159,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T11:00:00.000Z",
+   "home": {
+    "id": 310841,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 188279,
+    "name": "TS Herzogenaurach",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928920,
+   "ligaId": 56159,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T11:00:00.000Z",
+   "home": {
+    "id": 257061,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 188279,
+    "name": "TS Herzogenaurach",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928921,
+   "ligaId": 56159,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "16:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T14:15:00.000Z",
+   "home": {
+    "id": 314206,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 193930,
+    "name": "TB Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928923,
+   "ligaId": 56159,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-02-07",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-07T15:00:00.000Z",
+   "home": {
+    "id": 257061,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 193930,
+    "name": "TB Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928925,
+   "ligaId": 56159,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "13:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T12:15:00.000Z",
+   "home": {
+    "id": 310841,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314206,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": 45,
+   "guestScore": 31,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928926,
+   "ligaId": 56159,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T10:00:00.000Z",
+   "home": {
+    "id": 193930,
+    "name": "TB Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310841,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928927,
+   "ligaId": 56159,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T13:30:00.000Z",
+   "home": {
+    "id": 314206,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 188279,
+    "name": "TS Herzogenaurach",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928929,
+   "ligaId": 56159,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-04-04",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-04T14:00:00.000Z",
+   "home": {
+    "id": 310841,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 257061,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928930,
+   "ligaId": 56159,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T10:00:00.000Z",
+   "home": {
+    "id": 193930,
+    "name": "TB Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 188279,
+    "name": "TS Herzogenaurach",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928933,
+   "ligaId": 56159,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "09:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T08:30:00.000Z",
+   "home": {
+    "id": 257061,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314206,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928934,
+   "ligaId": 56159,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T15:00:00.000Z",
+   "home": {
+    "id": 188279,
+    "name": "TS Herzogenaurach",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310841,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928935,
+   "ligaId": 56159,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T14:00:00.000Z",
+   "home": {
+    "id": 188279,
+    "name": "TS Herzogenaurach",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 257061,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928936,
+   "ligaId": 56159,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T10:00:00.000Z",
+   "home": {
+    "id": 193930,
+    "name": "TB Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314206,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928938,
+   "ligaId": 56159,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T11:00:00.000Z",
+   "home": {
+    "id": 193930,
+    "name": "TB Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 257061,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928940,
+   "ligaId": 56159,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T16:00:00.000Z",
+   "home": {
+    "id": 314206,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310841,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928941,
+   "ligaId": 56159,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T09:30:00.000Z",
+   "home": {
+    "id": 310841,
+    "name": "TV 48 Schwabach",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 193930,
+    "name": "TB Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": 66,
+   "guestScore": 39,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2928942,
+   "ligaId": 56159,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-04-03",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-03T15:00:00.000Z",
+   "home": {
+    "id": 188279,
+    "name": "TS Herzogenaurach",
+    "clubId": 460,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314206,
+    "name": "TUSPO Nürnberg",
+    "clubId": 4839,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

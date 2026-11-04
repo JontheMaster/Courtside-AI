@@ -1,0 +1,2538 @@
+{
+ "league": {
+  "ligaId": 53770,
+  "name": "Bezirksoberliga U16 wbl (bol16w) 2026/27 ",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U16",
+  "gender": "weiblich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2899976,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T15:00:00.000Z",
+   "home": {
+    "id": 199597,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 215866,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": 43,
+   "guestScore": 74,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899977,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T09:30:00.000Z",
+   "home": {
+    "id": 314990,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317502,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899978,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T10:30:00.000Z",
+   "home": {
+    "id": 310516,
+    "name": "TSV Trudering Basketball",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227312,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": 62,
+   "guestScore": 47,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899979,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T12:30:00.000Z",
+   "home": {
+    "id": 165536,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314991,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": 64,
+   "guestScore": 57,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899980,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "09:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T07:00:00.000Z",
+   "home": {
+    "id": 309742,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317504,
+    "name": "TSV Gräfelfing 2",
+    "clubId": 4589,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899981,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T12:30:00.000Z",
+   "home": {
+    "id": 314991,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310516,
+    "name": "TSV Trudering Basketball",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": 38,
+   "guestScore": 61,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899982,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T08:00:00.000Z",
+   "home": {
+    "id": 227312,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314990,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": 49,
+   "guestScore": 46,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899983,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T08:00:00.000Z",
+   "home": {
+    "id": 317502,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309742,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": 58,
+   "guestScore": 53,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899984,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T10:30:00.000Z",
+   "home": {
+    "id": 317504,
+    "name": "TSV Gräfelfing 2",
+    "clubId": 4589,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 199597,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899985,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T10:15:00.000Z",
+   "home": {
+    "id": 215866,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165536,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": 67,
+   "guestScore": 48,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899986,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T12:00:00.000Z",
+   "home": {
+    "id": 199597,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165536,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": 64,
+   "guestScore": 87,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899987,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T15:15:00.000Z",
+   "home": {
+    "id": 314990,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314991,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": 60,
+   "guestScore": 55,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899988,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T10:30:00.000Z",
+   "home": {
+    "id": 310516,
+    "name": "TSV Trudering Basketball",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 215866,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 56,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899989,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T14:00:00.000Z",
+   "home": {
+    "id": 317504,
+    "name": "TSV Gräfelfing 2",
+    "clubId": 4589,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 317502,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899990,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "09:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T07:00:00.000Z",
+   "home": {
+    "id": 309742,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227312,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": 95,
+   "guestScore": 54,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899991,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T13:30:00.000Z",
+   "home": {
+    "id": 314991,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309742,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": 73,
+   "guestScore": 55,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899992,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T13:30:00.000Z",
+   "home": {
+    "id": 227312,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317504,
+    "name": "TSV Gräfelfing 2",
+    "clubId": 4589,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899993,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-13",
+   "kickoffTime": "18:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-13T17:45:00.000Z",
+   "home": {
+    "id": 317502,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 199597,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899994,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T12:30:00.000Z",
+   "home": {
+    "id": 165536,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310516,
+    "name": "TSV Trudering Basketball",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899995,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T15:45:00.000Z",
+   "home": {
+    "id": 215866,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314990,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": 20,
+   "guestScore": 0,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899996,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T12:00:00.000Z",
+   "home": {
+    "id": 199597,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310516,
+    "name": "TSV Trudering Basketball",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899997,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T16:15:00.000Z",
+   "home": {
+    "id": 314990,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165536,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899998,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T13:30:00.000Z",
+   "home": {
+    "id": 317502,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227312,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2899999,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T11:30:00.000Z",
+   "home": {
+    "id": 317504,
+    "name": "TSV Gräfelfing 2",
+    "clubId": 4589,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 314991,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900000,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "09:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T08:00:00.000Z",
+   "home": {
+    "id": 309742,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 215866,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900001,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T11:15:00.000Z",
+   "home": {
+    "id": 314991,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317502,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900002,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T15:45:00.000Z",
+   "home": {
+    "id": 227312,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 199597,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900003,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T14:00:00.000Z",
+   "home": {
+    "id": 310516,
+    "name": "TSV Trudering Basketball",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314990,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900004,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T13:30:00.000Z",
+   "home": {
+    "id": 165536,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309742,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900005,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T13:30:00.000Z",
+   "home": {
+    "id": 215866,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317504,
+    "name": "TSV Gräfelfing 2",
+    "clubId": 4589,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900006,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T09:00:00.000Z",
+   "home": {
+    "id": 199597,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314990,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900007,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T13:30:00.000Z",
+   "home": {
+    "id": 227312,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314991,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900008,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T08:00:00.000Z",
+   "home": {
+    "id": 317502,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 215866,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": 53,
+   "guestScore": 56,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900009,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T11:30:00.000Z",
+   "home": {
+    "id": 317504,
+    "name": "TSV Gräfelfing 2",
+    "clubId": 4589,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 165536,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900010,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "09:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T08:00:00.000Z",
+   "home": {
+    "id": 309742,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310516,
+    "name": "TSV Trudering Basketball",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900011,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T09:00:00.000Z",
+   "home": {
+    "id": 199597,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314991,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900012,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T16:15:00.000Z",
+   "home": {
+    "id": 314990,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309742,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900013,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T11:30:00.000Z",
+   "home": {
+    "id": 310516,
+    "name": "TSV Trudering Basketball",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317504,
+    "name": "TSV Gräfelfing 2",
+    "clubId": 4589,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900014,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T09:00:00.000Z",
+   "home": {
+    "id": 165536,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317502,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900015,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T13:30:00.000Z",
+   "home": {
+    "id": 215866,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227312,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900016,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T13:30:00.000Z",
+   "home": {
+    "id": 314991,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 215866,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900017,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T11:15:00.000Z",
+   "home": {
+    "id": 227312,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165536,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900018,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T13:30:00.000Z",
+   "home": {
+    "id": 317502,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310516,
+    "name": "TSV Trudering Basketball",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900019,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-07",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-07T09:00:00.000Z",
+   "home": {
+    "id": 317504,
+    "name": "TSV Gräfelfing 2",
+    "clubId": 4589,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 314990,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900020,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "09:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T08:00:00.000Z",
+   "home": {
+    "id": 309742,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 199597,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900021,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T13:30:00.000Z",
+   "home": {
+    "id": 215866,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 199597,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900022,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T13:30:00.000Z",
+   "home": {
+    "id": 317502,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314990,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900023,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T11:15:00.000Z",
+   "home": {
+    "id": 227312,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310516,
+    "name": "TSV Trudering Basketball",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900024,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:00:00.000Z",
+   "home": {
+    "id": 314991,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165536,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900025,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T09:00:00.000Z",
+   "home": {
+    "id": 317504,
+    "name": "TSV Gräfelfing 2",
+    "clubId": 4589,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 309742,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900026,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T11:30:00.000Z",
+   "home": {
+    "id": 310516,
+    "name": "TSV Trudering Basketball",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314991,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900027,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T16:15:00.000Z",
+   "home": {
+    "id": 314990,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227312,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900028,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "09:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T08:00:00.000Z",
+   "home": {
+    "id": 309742,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317502,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900029,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T12:00:00.000Z",
+   "home": {
+    "id": 199597,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317504,
+    "name": "TSV Gräfelfing 2",
+    "clubId": 4589,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900030,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T09:00:00.000Z",
+   "home": {
+    "id": 165536,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 215866,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900031,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T13:30:00.000Z",
+   "home": {
+    "id": 165536,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 199597,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900032,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T13:30:00.000Z",
+   "home": {
+    "id": 314991,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314990,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900033,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T13:30:00.000Z",
+   "home": {
+    "id": 215866,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310516,
+    "name": "TSV Trudering Basketball",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900034,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T13:30:00.000Z",
+   "home": {
+    "id": 317502,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317504,
+    "name": "TSV Gräfelfing 2",
+    "clubId": 4589,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900035,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T11:15:00.000Z",
+   "home": {
+    "id": 227312,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309742,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900036,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "09:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T08:00:00.000Z",
+   "home": {
+    "id": 309742,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314991,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900037,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T10:30:00.000Z",
+   "home": {
+    "id": 317504,
+    "name": "TSV Gräfelfing 2",
+    "clubId": 4589,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 227312,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900038,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T09:00:00.000Z",
+   "home": {
+    "id": 199597,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317502,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900039,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T11:30:00.000Z",
+   "home": {
+    "id": 310516,
+    "name": "TSV Trudering Basketball",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165536,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900040,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T16:15:00.000Z",
+   "home": {
+    "id": 314990,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 215866,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900041,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T11:30:00.000Z",
+   "home": {
+    "id": 310516,
+    "name": "TSV Trudering Basketball",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 199597,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900042,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T15:45:00.000Z",
+   "home": {
+    "id": 165536,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314990,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900043,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T11:15:00.000Z",
+   "home": {
+    "id": 227312,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317502,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900044,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T13:30:00.000Z",
+   "home": {
+    "id": 314991,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317504,
+    "name": "TSV Gräfelfing 2",
+    "clubId": 4589,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900045,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T14:45:00.000Z",
+   "home": {
+    "id": 215866,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309742,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": 79,
+   "guestScore": 50,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900046,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T11:15:00.000Z",
+   "home": {
+    "id": 317502,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314991,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900047,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T09:00:00.000Z",
+   "home": {
+    "id": 199597,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227312,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900048,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T16:15:00.000Z",
+   "home": {
+    "id": 314990,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310516,
+    "name": "TSV Trudering Basketball",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900049,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "09:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T08:00:00.000Z",
+   "home": {
+    "id": 309742,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165536,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900050,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T11:30:00.000Z",
+   "home": {
+    "id": 317504,
+    "name": "TSV Gräfelfing 2",
+    "clubId": 4589,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 215866,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900051,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T16:15:00.000Z",
+   "home": {
+    "id": 314990,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 199597,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900052,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T11:00:00.000Z",
+   "home": {
+    "id": 314991,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227312,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900053,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T09:00:00.000Z",
+   "home": {
+    "id": 215866,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317502,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900054,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T15:45:00.000Z",
+   "home": {
+    "id": 165536,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317504,
+    "name": "TSV Gräfelfing 2",
+    "clubId": 4589,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900055,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T14:00:00.000Z",
+   "home": {
+    "id": 310516,
+    "name": "TSV Trudering Basketball",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309742,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900056,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T12:30:00.000Z",
+   "home": {
+    "id": 314991,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 199597,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900057,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "09:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T07:00:00.000Z",
+   "home": {
+    "id": 309742,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314990,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900058,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T10:30:00.000Z",
+   "home": {
+    "id": 317504,
+    "name": "TSV Gräfelfing 2",
+    "clubId": 4589,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 310516,
+    "name": "TSV Trudering Basketball",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900059,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T12:30:00.000Z",
+   "home": {
+    "id": 317502,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165536,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900060,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T12:30:00.000Z",
+   "home": {
+    "id": 227312,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 215866,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900061,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T12:30:00.000Z",
+   "home": {
+    "id": 215866,
+    "name": "ESV Staffelsee",
+    "clubId": 861,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314991,
+    "name": "BC Hellenen München",
+    "clubId": 104,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900062,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T12:00:00.000Z",
+   "home": {
+    "id": 165536,
+    "name": "TSV Weilheim",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227312,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900063,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T10:30:00.000Z",
+   "home": {
+    "id": 310516,
+    "name": "TSV Trudering Basketball",
+    "clubId": 4237,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317502,
+    "name": "TuS Fürstenfeldbruck 2",
+    "clubId": 1121,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900064,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T15:15:00.000Z",
+   "home": {
+    "id": 314990,
+    "name": "AK Tigers München",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317504,
+    "name": "TSV Gräfelfing 2",
+    "clubId": 4589,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2900065,
+   "ligaId": 53770,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T08:00:00.000Z",
+   "home": {
+    "id": 199597,
+    "name": "FC Bayern München",
+    "clubId": 619,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309742,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

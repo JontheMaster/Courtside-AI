@@ -1,0 +1,1558 @@
+{
+ "league": {
+  "ligaId": 56614,
+  "name": "Bezirksoberliga U14 weiblich",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U14",
+  "gender": "weiblich",
+  "level": "Bezirksoberliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2984724,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T13:30:00.000Z",
+   "home": {
+    "id": 178717,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 218195,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984725,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T11:30:00.000Z",
+   "home": {
+    "id": 183262,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321844,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "homeScore": 82,
+   "guestScore": 41,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984726,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T15:00:00.000Z",
+   "home": {
+    "id": 198063,
+    "name": "SC Kemmern",
+    "clubId": 602,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 264830,
+    "name": "CYBEX Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": 105,
+   "guestScore": 26,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984728,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T14:45:00.000Z",
+   "home": {
+    "id": 314847,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 321845,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984729,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T10:15:00.000Z",
+   "home": {
+    "id": 323586,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198063,
+    "name": "SC Kemmern",
+    "clubId": 602,
+    "forfeit": false
+   },
+   "homeScore": 38,
+   "guestScore": 86,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984730,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T13:30:00.000Z",
+   "home": {
+    "id": 264830,
+    "name": "CYBEX Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183262,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984731,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T08:00:00.000Z",
+   "home": {
+    "id": 321844,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 178717,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984732,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-10-23T22:00:00.000Z",
+   "home": {
+    "id": 218195,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314847,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984734,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T14:00:00.000Z",
+   "home": {
+    "id": 254900,
+    "name": "TSV Ludwigsstadt a. K.",
+    "clubId": 1453,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321705,
+    "name": "SV Steppach a. K.",
+    "clubId": 5169,
+    "forfeit": false
+   },
+   "homeScore": 20,
+   "guestScore": 86,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984736,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T13:30:00.000Z",
+   "home": {
+    "id": 178717,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 264830,
+    "name": "CYBEX Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984737,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T10:00:00.000Z",
+   "home": {
+    "id": 183262,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323586,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984738,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T12:00:00.000Z",
+   "home": {
+    "id": 198063,
+    "name": "SC Kemmern",
+    "clubId": 602,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 254900,
+    "name": "TSV Ludwigsstadt a. K.",
+    "clubId": 1453,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984739,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T14:30:00.000Z",
+   "home": {
+    "id": 321845,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 218195,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984740,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-13T23:00:00.000Z",
+   "home": {
+    "id": 314847,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 321844,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984741,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T11:15:00.000Z",
+   "home": {
+    "id": 323586,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 178717,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984742,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T13:30:00.000Z",
+   "home": {
+    "id": 264830,
+    "name": "CYBEX Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314847,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984743,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T12:00:00.000Z",
+   "home": {
+    "id": 321844,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321845,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984745,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T14:00:00.000Z",
+   "home": {
+    "id": 321705,
+    "name": "SV Steppach a. K.",
+    "clubId": 5169,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198063,
+    "name": "SC Kemmern",
+    "clubId": 602,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984746,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T14:00:00.000Z",
+   "home": {
+    "id": 254900,
+    "name": "TSV Ludwigsstadt a. K.",
+    "clubId": 1453,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183262,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984748,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T13:00:00.000Z",
+   "home": {
+    "id": 178717,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 254900,
+    "name": "TSV Ludwigsstadt a. K.",
+    "clubId": 1453,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984749,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T15:00:00.000Z",
+   "home": {
+    "id": 183262,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321705,
+    "name": "SV Steppach a. K.",
+    "clubId": 5169,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984750,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T09:30:00.000Z",
+   "home": {
+    "id": 218195,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321844,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984751,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T09:00:00.000Z",
+   "home": {
+    "id": 321845,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 264830,
+    "name": "CYBEX Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984752,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-11-27T23:00:00.000Z",
+   "home": {
+    "id": 314847,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 323586,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984753,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T11:30:00.000Z",
+   "home": {
+    "id": 323586,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321845,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984754,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T11:15:00.000Z",
+   "home": {
+    "id": 264830,
+    "name": "CYBEX Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 218195,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984756,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T14:30:00.000Z",
+   "home": {
+    "id": 198063,
+    "name": "SC Kemmern",
+    "clubId": 602,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183262,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984757,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T12:00:00.000Z",
+   "home": {
+    "id": 321705,
+    "name": "SV Steppach a. K.",
+    "clubId": 5169,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 178717,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984758,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T14:30:00.000Z",
+   "home": {
+    "id": 254900,
+    "name": "TSV Ludwigsstadt a. K.",
+    "clubId": 1453,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314847,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984760,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T14:00:00.000Z",
+   "home": {
+    "id": 178717,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198063,
+    "name": "SC Kemmern",
+    "clubId": 602,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984761,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-08T23:00:00.000Z",
+   "home": {
+    "id": 321844,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 264830,
+    "name": "CYBEX Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984762,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "10:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T09:30:00.000Z",
+   "home": {
+    "id": 218195,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323586,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984763,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T10:00:00.000Z",
+   "home": {
+    "id": 321845,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 254900,
+    "name": "TSV Ludwigsstadt a. K.",
+    "clubId": 1453,
+    "forfeit": false
+   },
+   "homeScore": 82,
+   "guestScore": 19,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984764,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-08T23:00:00.000Z",
+   "home": {
+    "id": 314847,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 321705,
+    "name": "SV Steppach a. K.",
+    "clubId": 5169,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984765,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T11:15:00.000Z",
+   "home": {
+    "id": 323586,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321844,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984767,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T14:00:00.000Z",
+   "home": {
+    "id": 183262,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 178717,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984768,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T09:00:00.000Z",
+   "home": {
+    "id": 198063,
+    "name": "SC Kemmern",
+    "clubId": 602,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314847,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984769,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T12:00:00.000Z",
+   "home": {
+    "id": 321705,
+    "name": "SV Steppach a. K.",
+    "clubId": 5169,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321845,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984770,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T14:00:00.000Z",
+   "home": {
+    "id": 254900,
+    "name": "TSV Ludwigsstadt a. K.",
+    "clubId": 1453,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 218195,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984772,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T11:15:00.000Z",
+   "home": {
+    "id": 264830,
+    "name": "CYBEX Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323586,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984773,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T09:00:00.000Z",
+   "home": {
+    "id": 321844,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 254900,
+    "name": "TSV Ludwigsstadt a. K.",
+    "clubId": 1453,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984774,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T12:30:00.000Z",
+   "home": {
+    "id": 218195,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321705,
+    "name": "SV Steppach a. K.",
+    "clubId": 5169,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984775,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T10:30:00.000Z",
+   "home": {
+    "id": 321845,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198063,
+    "name": "SC Kemmern",
+    "clubId": 602,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984776,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-01-29T23:00:00.000Z",
+   "home": {
+    "id": 314847,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 183262,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984778,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-02-19T23:00:00.000Z",
+   "home": {
+    "id": 178717,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314847,
+    "name": "BBC Coburg",
+    "clubId": 1273,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984779,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T10:00:00.000Z",
+   "home": {
+    "id": 183262,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321845,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984780,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T12:00:00.000Z",
+   "home": {
+    "id": 198063,
+    "name": "SC Kemmern",
+    "clubId": 602,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 218195,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984781,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T12:00:00.000Z",
+   "home": {
+    "id": 321705,
+    "name": "SV Steppach a. K.",
+    "clubId": 5169,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321844,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984782,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T14:30:00.000Z",
+   "home": {
+    "id": 254900,
+    "name": "TSV Ludwigsstadt a. K.",
+    "clubId": 1453,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 264830,
+    "name": "CYBEX Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984783,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T11:15:00.000Z",
+   "home": {
+    "id": 323586,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 254900,
+    "name": "TSV Ludwigsstadt a. K.",
+    "clubId": 1453,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984784,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T13:30:00.000Z",
+   "home": {
+    "id": 264830,
+    "name": "CYBEX Talents BBC Bayreuth",
+    "clubId": 1660,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321705,
+    "name": "SV Steppach a. K.",
+    "clubId": 5169,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984785,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2027-02-26T23:00:00.000Z",
+   "home": {
+    "id": 321844,
+    "name": "Regnitztal Baskets",
+    "clubId": 3585,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198063,
+    "name": "SC Kemmern",
+    "clubId": 602,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984786,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T12:30:00.000Z",
+   "home": {
+    "id": 218195,
+    "name": "SpVgg Rattelsdorf",
+    "clubId": 888,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 183262,
+    "name": "DJK Don Bosco Bamberg 2",
+    "clubId": 389,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2984787,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T14:00:00.000Z",
+   "home": {
+    "id": 321845,
+    "name": "TSV Ebermannstadt",
+    "clubId": 943,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 178717,
+    "name": "BG Litzendorf",
+    "clubId": 333,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2987903,
+   "ligaId": 56614,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T12:00:00.000Z",
+   "home": {
+    "id": 321705,
+    "name": "SV Steppach a. K.",
+    "clubId": 5169,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323586,
+    "name": "BG Bamberg",
+    "clubId": 5307,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

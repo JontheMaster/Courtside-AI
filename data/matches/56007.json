@@ -1,0 +1,2034 @@
+{
+ "league": {
+  "ligaId": 56007,
+  "name": "UFR Bezirksliga U16 männlich",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U16",
+  "gender": "männlich",
+  "level": "Bezirksliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Unterfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2932568,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T13:00:00.000Z",
+   "home": {
+    "id": 321151,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319388,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": 26,
+   "guestScore": 126,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932569,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T10:00:00.000Z",
+   "home": {
+    "id": 228417,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319360,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932570,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T12:00:00.000Z",
+   "home": {
+    "id": 213186,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163639,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "homeScore": 73,
+   "guestScore": 76,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932571,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T12:00:00.000Z",
+   "home": {
+    "id": 163718,
+    "name": "SG Wartberg Kreuzw. Wertheim AK",
+    "clubId": 1783,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314970,
+    "name": "Basketball Akademie Bayerischer Untermain",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932572,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-06",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-06T17:00:00.000Z",
+   "home": {
+    "id": 163639,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228417,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932573,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T16:00:00.000Z",
+   "home": {
+    "id": 319360,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321151,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": 104,
+   "guestScore": 49,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932574,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T11:30:00.000Z",
+   "home": {
+    "id": 319388,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163718,
+    "name": "SG Wartberg Kreuzw. Wertheim AK",
+    "clubId": 1783,
+    "forfeit": false
+   },
+   "homeScore": 55,
+   "guestScore": 34,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932575,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T13:30:00.000Z",
+   "home": {
+    "id": 314970,
+    "name": "Basketball Akademie Bayerischer Untermain",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163644,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": 57,
+   "guestScore": 52,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932577,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T11:00:00.000Z",
+   "home": {
+    "id": 163644,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213186,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932578,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T13:00:00.000Z",
+   "home": {
+    "id": 321151,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163639,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "homeScore": 37,
+   "guestScore": 135,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932580,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T14:30:00.000Z",
+   "home": {
+    "id": 314970,
+    "name": "Basketball Akademie Bayerischer Untermain",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319388,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": 55,
+   "guestScore": 61,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932581,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T12:00:00.000Z",
+   "home": {
+    "id": 163718,
+    "name": "SG Wartberg Kreuzw. Wertheim AK",
+    "clubId": 1783,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319360,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932582,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T17:00:00.000Z",
+   "home": {
+    "id": 163639,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163718,
+    "name": "SG Wartberg Kreuzw. Wertheim AK",
+    "clubId": 1783,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932583,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T15:30:00.000Z",
+   "home": {
+    "id": 319360,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314970,
+    "name": "Basketball Akademie Bayerischer Untermain",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 66,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932584,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T12:30:00.000Z",
+   "home": {
+    "id": 319388,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163644,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": 92,
+   "guestScore": 34,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932585,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T14:00:00.000Z",
+   "home": {
+    "id": 213186,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228417,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": 96,
+   "guestScore": 87,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932587,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T12:00:00.000Z",
+   "home": {
+    "id": 163644,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228417,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932588,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T11:30:00.000Z",
+   "home": {
+    "id": 321151,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213186,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932589,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T12:30:00.000Z",
+   "home": {
+    "id": 319388,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319360,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932590,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T12:00:00.000Z",
+   "home": {
+    "id": 314970,
+    "name": "Basketball Akademie Bayerischer Untermain",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163639,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932592,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T17:00:00.000Z",
+   "home": {
+    "id": 163639,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319388,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932593,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "16:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T15:15:00.000Z",
+   "home": {
+    "id": 319360,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163644,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932594,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T17:00:00.000Z",
+   "home": {
+    "id": 228417,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321151,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932595,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T14:00:00.000Z",
+   "home": {
+    "id": 213186,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163718,
+    "name": "SG Wartberg Kreuzw. Wertheim AK",
+    "clubId": 1783,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932597,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T12:30:00.000Z",
+   "home": {
+    "id": 163644,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321151,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932598,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T16:15:00.000Z",
+   "home": {
+    "id": 319360,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163639,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932600,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T15:30:00.000Z",
+   "home": {
+    "id": 314970,
+    "name": "Basketball Akademie Bayerischer Untermain",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213186,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932601,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T11:00:00.000Z",
+   "home": {
+    "id": 163718,
+    "name": "SG Wartberg Kreuzw. Wertheim AK",
+    "clubId": 1783,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228417,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": 78,
+   "guestScore": 42,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932602,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "15:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T14:15:00.000Z",
+   "home": {
+    "id": 163644,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163639,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932603,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T11:30:00.000Z",
+   "home": {
+    "id": 321151,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163718,
+    "name": "SG Wartberg Kreuzw. Wertheim AK",
+    "clubId": 1783,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932604,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T11:00:00.000Z",
+   "home": {
+    "id": 228417,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314970,
+    "name": "Basketball Akademie Bayerischer Untermain",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932605,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T14:00:00.000Z",
+   "home": {
+    "id": 213186,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319388,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932608,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T16:30:00.000Z",
+   "home": {
+    "id": 319360,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213186,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932609,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T12:30:00.000Z",
+   "home": {
+    "id": 319388,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228417,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932610,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T13:00:00.000Z",
+   "home": {
+    "id": 314970,
+    "name": "Basketball Akademie Bayerischer Untermain",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321151,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932611,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T12:30:00.000Z",
+   "home": {
+    "id": 163718,
+    "name": "SG Wartberg Kreuzw. Wertheim AK",
+    "clubId": 1783,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163644,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932613,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T12:30:00.000Z",
+   "home": {
+    "id": 319388,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321151,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932614,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T16:30:00.000Z",
+   "home": {
+    "id": 319360,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228417,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932615,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T17:00:00.000Z",
+   "home": {
+    "id": 163639,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213186,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932616,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T11:30:00.000Z",
+   "home": {
+    "id": 314970,
+    "name": "Basketball Akademie Bayerischer Untermain",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163718,
+    "name": "SG Wartberg Kreuzw. Wertheim AK",
+    "clubId": 1783,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932617,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T14:00:00.000Z",
+   "home": {
+    "id": 228417,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163639,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932618,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T11:30:00.000Z",
+   "home": {
+    "id": 321151,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319360,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932619,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T12:30:00.000Z",
+   "home": {
+    "id": 163718,
+    "name": "SG Wartberg Kreuzw. Wertheim AK",
+    "clubId": 1783,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319388,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932620,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T12:30:00.000Z",
+   "home": {
+    "id": 163644,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314970,
+    "name": "Basketball Akademie Bayerischer Untermain",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932622,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T14:00:00.000Z",
+   "home": {
+    "id": 213186,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163644,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932623,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T14:30:00.000Z",
+   "home": {
+    "id": 163639,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321151,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932625,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T12:30:00.000Z",
+   "home": {
+    "id": 319388,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314970,
+    "name": "Basketball Akademie Bayerischer Untermain",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932626,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T17:00:00.000Z",
+   "home": {
+    "id": 319360,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163718,
+    "name": "SG Wartberg Kreuzw. Wertheim AK",
+    "clubId": 1783,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932627,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T12:30:00.000Z",
+   "home": {
+    "id": 163718,
+    "name": "SG Wartberg Kreuzw. Wertheim AK",
+    "clubId": 1783,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163639,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932628,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T15:00:00.000Z",
+   "home": {
+    "id": 314970,
+    "name": "Basketball Akademie Bayerischer Untermain",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319360,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932629,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "15:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T14:15:00.000Z",
+   "home": {
+    "id": 163644,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319388,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932630,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T13:00:00.000Z",
+   "home": {
+    "id": 228417,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213186,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932632,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T11:00:00.000Z",
+   "home": {
+    "id": 228417,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163644,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932633,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T14:00:00.000Z",
+   "home": {
+    "id": 213186,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321151,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932634,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T16:30:00.000Z",
+   "home": {
+    "id": 319360,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319388,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932635,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T14:30:00.000Z",
+   "home": {
+    "id": 163639,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314970,
+    "name": "Basketball Akademie Bayerischer Untermain",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932637,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T12:30:00.000Z",
+   "home": {
+    "id": 319388,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163639,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932638,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T12:30:00.000Z",
+   "home": {
+    "id": 163644,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319360,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932639,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T09:00:00.000Z",
+   "home": {
+    "id": 321151,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228417,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932640,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T12:30:00.000Z",
+   "home": {
+    "id": 163718,
+    "name": "SG Wartberg Kreuzw. Wertheim AK",
+    "clubId": 1783,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213186,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932642,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T09:00:00.000Z",
+   "home": {
+    "id": 321151,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163644,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932643,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T17:00:00.000Z",
+   "home": {
+    "id": 163639,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319360,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932645,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T14:00:00.000Z",
+   "home": {
+    "id": 213186,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314970,
+    "name": "Basketball Akademie Bayerischer Untermain",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932646,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T13:00:00.000Z",
+   "home": {
+    "id": 228417,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163718,
+    "name": "SG Wartberg Kreuzw. Wertheim AK",
+    "clubId": 1783,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932647,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T17:00:00.000Z",
+   "home": {
+    "id": 163639,
+    "name": "DJK Schweinfurt",
+    "clubId": 873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163644,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932648,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T12:30:00.000Z",
+   "home": {
+    "id": 163718,
+    "name": "SG Wartberg Kreuzw. Wertheim AK",
+    "clubId": 1783,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321151,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932649,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "13:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T12:15:00.000Z",
+   "home": {
+    "id": 314970,
+    "name": "Basketball Akademie Bayerischer Untermain",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 228417,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932650,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T12:30:00.000Z",
+   "home": {
+    "id": 319388,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 213186,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932653,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T14:00:00.000Z",
+   "home": {
+    "id": 213186,
+    "name": "TSV Karlstadt",
+    "clubId": 812,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319360,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932654,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T13:00:00.000Z",
+   "home": {
+    "id": 228417,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319388,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932655,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T14:00:00.000Z",
+   "home": {
+    "id": 321151,
+    "name": "Gerbrunn Grizzlies",
+    "clubId": 4873,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314970,
+    "name": "Basketball Akademie Bayerischer Untermain",
+    "clubId": 4898,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932656,
+   "ligaId": 56007,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T10:00:00.000Z",
+   "home": {
+    "id": 163644,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163718,
+    "name": "SG Wartberg Kreuzw. Wertheim AK",
+    "clubId": 1783,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

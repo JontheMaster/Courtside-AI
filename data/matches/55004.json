@@ -1,0 +1,1586 @@
+{
+ "league": {
+  "ligaId": 55004,
+  "name": "Bezirksklasse Damen West (kü-bkdw) 2026/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "weiblich",
+  "level": "Bezirksklasse",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2904145,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T17:30:00.000Z",
+   "home": {
+    "id": 317513,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314872,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": 92,
+   "guestScore": 55,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904146,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T14:00:00.000Z",
+   "home": {
+    "id": 162865,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 196477,
+    "name": "München Basket 4",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904148,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "15:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T14:45:00.000Z",
+   "home": {
+    "id": 314977,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321550,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904149,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-04-25",
+   "kickoffTime": "12:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-25T10:45:00.000Z",
+   "home": {
+    "id": 198598,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162865,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904150,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T10:00:00.000Z",
+   "home": {
+    "id": 196477,
+    "name": "München Basket 4",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317513,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": 46,
+   "guestScore": 80,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904151,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T16:30:00.000Z",
+   "home": {
+    "id": 314872,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314977,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904152,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T13:00:00.000Z",
+   "home": {
+    "id": 321550,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227260,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": 63,
+   "guestScore": 45,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904155,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T17:30:00.000Z",
+   "home": {
+    "id": 317513,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198598,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": 42,
+   "guestScore": 39,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904157,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-16",
+   "kickoffTime": "20:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-16T18:15:00.000Z",
+   "home": {
+    "id": 321550,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314872,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": 114,
+   "guestScore": 39,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904158,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T16:00:00.000Z",
+   "home": {
+    "id": 314977,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 196477,
+    "name": "München Basket 4",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": 53,
+   "guestScore": 32,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904159,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T18:00:00.000Z",
+   "home": {
+    "id": 198598,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314977,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": 67,
+   "guestScore": 80,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904160,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T10:30:00.000Z",
+   "home": {
+    "id": 196477,
+    "name": "München Basket 4",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321550,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": 62,
+   "guestScore": 45,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904161,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T16:00:00.000Z",
+   "home": {
+    "id": 314872,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227260,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904164,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T14:45:00.000Z",
+   "home": {
+    "id": 227260,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162865,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": 59,
+   "guestScore": 45,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904166,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T16:30:00.000Z",
+   "home": {
+    "id": 314872,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 196477,
+    "name": "München Basket 4",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904167,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T18:00:00.000Z",
+   "home": {
+    "id": 321550,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198598,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": 56,
+   "guestScore": 30,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904169,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T12:00:00.000Z",
+   "home": {
+    "id": 198598,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314872,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904170,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T17:30:00.000Z",
+   "home": {
+    "id": 196477,
+    "name": "München Basket 4",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227260,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904171,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T15:00:00.000Z",
+   "home": {
+    "id": 162865,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317513,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904174,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T15:45:00.000Z",
+   "home": {
+    "id": 227260,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317513,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904175,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "15:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T14:45:00.000Z",
+   "home": {
+    "id": 196477,
+    "name": "München Basket 4",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198598,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904178,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T17:00:00.000Z",
+   "home": {
+    "id": 314977,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162865,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904179,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T15:45:00.000Z",
+   "home": {
+    "id": 227260,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198598,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904180,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T18:30:00.000Z",
+   "home": {
+    "id": 317513,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314977,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904181,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T15:00:00.000Z",
+   "home": {
+    "id": 162865,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321550,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904186,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T18:30:00.000Z",
+   "home": {
+    "id": 314872,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162865,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904187,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T16:30:00.000Z",
+   "home": {
+    "id": 321550,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317513,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904188,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T17:00:00.000Z",
+   "home": {
+    "id": 314977,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227260,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904190,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "12:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T11:45:00.000Z",
+   "home": {
+    "id": 314872,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317513,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904191,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T14:00:00.000Z",
+   "home": {
+    "id": 196477,
+    "name": "München Basket 4",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162865,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904193,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T16:30:00.000Z",
+   "home": {
+    "id": 321550,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314977,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904194,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T15:00:00.000Z",
+   "home": {
+    "id": 162865,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198598,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904195,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T18:30:00.000Z",
+   "home": {
+    "id": 317513,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 196477,
+    "name": "München Basket 4",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904196,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T12:30:00.000Z",
+   "home": {
+    "id": 314977,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314872,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904197,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T15:45:00.000Z",
+   "home": {
+    "id": 227260,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321550,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904200,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T18:30:00.000Z",
+   "home": {
+    "id": 198598,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317513,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904202,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-06T16:30:00.000Z",
+   "home": {
+    "id": 314872,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321550,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904203,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T16:30:00.000Z",
+   "home": {
+    "id": 196477,
+    "name": "München Basket 4",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314977,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904204,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "15:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T14:45:00.000Z",
+   "home": {
+    "id": 314977,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198598,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904205,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T19:00:00.000Z",
+   "home": {
+    "id": 321550,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 196477,
+    "name": "München Basket 4",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904206,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T15:45:00.000Z",
+   "home": {
+    "id": 227260,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314872,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904209,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T15:00:00.000Z",
+   "home": {
+    "id": 162865,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227260,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904211,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "16:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T15:15:00.000Z",
+   "home": {
+    "id": 196477,
+    "name": "München Basket 4",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314872,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904212,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T18:30:00.000Z",
+   "home": {
+    "id": 198598,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321550,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904214,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T11:00:00.000Z",
+   "home": {
+    "id": 314872,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 198598,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904215,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T17:30:00.000Z",
+   "home": {
+    "id": 227260,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 196477,
+    "name": "München Basket 4",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904216,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T18:30:00.000Z",
+   "home": {
+    "id": 317513,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162865,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904219,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T18:30:00.000Z",
+   "home": {
+    "id": 317513,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227260,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904220,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T18:30:00.000Z",
+   "home": {
+    "id": 198598,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 196477,
+    "name": "München Basket 4",
+    "clubId": 575,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904223,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T15:45:00.000Z",
+   "home": {
+    "id": 162865,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314977,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904224,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T17:30:00.000Z",
+   "home": {
+    "id": 198598,
+    "name": "Slama Jama Gröbenzell",
+    "clubId": 607,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 227260,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904225,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "15:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T13:45:00.000Z",
+   "home": {
+    "id": 314977,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 317513,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904226,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T13:00:00.000Z",
+   "home": {
+    "id": 321550,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162865,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904231,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T14:00:00.000Z",
+   "home": {
+    "id": 162865,
+    "name": "TSV München-Forstenried",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314872,
+    "name": "TSV München Ost 4",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904232,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T17:30:00.000Z",
+   "home": {
+    "id": 317513,
+    "name": "AK Tigers München 2",
+    "clubId": 4526,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321550,
+    "name": "TSV Gräfelfing e.V.",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2904233,
+   "ligaId": 55004,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T14:45:00.000Z",
+   "home": {
+    "id": 227260,
+    "name": "TSV 1898 Penzberg",
+    "clubId": 1035,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314977,
+    "name": "TSV München-Solln",
+    "clubId": 4477,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

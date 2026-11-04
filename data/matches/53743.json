@@ -1,0 +1,2538 @@
+{
+ "league": {
+  "ligaId": 53743,
+  "name": "West - Kreisklasse Herren (WE-KKH) 2026/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Kreisklasse",
+  "levelScope": "Kreis",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2909763,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-09-27",
+   "kickoffTime": "19:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-27T17:15:00.000Z",
+   "home": {
+    "id": 235416,
+    "name": "TSV Weilheim 3",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319334,
+    "name": "TSV Gräfelfing e.V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": 88,
+   "guestScore": 53,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909764,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T13:30:00.000Z",
+   "home": {
+    "id": 322679,
+    "name": "TSV Peiting 2",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180869,
+    "name": "TuS Geretsried 2",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": 54,
+   "guestScore": 50,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909765,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T15:00:00.000Z",
+   "home": {
+    "id": 163921,
+    "name": "TSV München-Forstenried 2",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163935,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909766,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T18:00:00.000Z",
+   "home": {
+    "id": 163914,
+    "name": "DJK SB München 4",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163919,
+    "name": "SV Polling",
+    "clubId": 1942,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909767,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T14:00:00.000Z",
+   "home": {
+    "id": 287742,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322680,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "homeScore": 51,
+   "guestScore": 42,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909768,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T13:30:00.000Z",
+   "home": {
+    "id": 163919,
+    "name": "SV Polling",
+    "clubId": 1942,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163921,
+    "name": "TSV München-Forstenried 2",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": 55,
+   "guestScore": 60,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909769,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T18:00:00.000Z",
+   "home": {
+    "id": 163935,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 322679,
+    "name": "TSV Peiting 2",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909770,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T16:30:00.000Z",
+   "home": {
+    "id": 180869,
+    "name": "TuS Geretsried 2",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 287742,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "homeScore": 89,
+   "guestScore": 55,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909771,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T08:00:00.000Z",
+   "home": {
+    "id": 322680,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235416,
+    "name": "TSV Weilheim 3",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": 30,
+   "guestScore": 105,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909772,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T18:00:00.000Z",
+   "home": {
+    "id": 319334,
+    "name": "TSV Gräfelfing e.V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163914,
+    "name": "DJK SB München 4",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": 49,
+   "guestScore": 77,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909773,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T08:00:00.000Z",
+   "home": {
+    "id": 235416,
+    "name": "TSV Weilheim 3",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163914,
+    "name": "DJK SB München 4",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": 51,
+   "guestScore": 59,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909774,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T13:30:00.000Z",
+   "home": {
+    "id": 322679,
+    "name": "TSV Peiting 2",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163919,
+    "name": "SV Polling",
+    "clubId": 1942,
+    "forfeit": false
+   },
+   "homeScore": 56,
+   "guestScore": 54,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909775,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T17:30:00.000Z",
+   "home": {
+    "id": 163921,
+    "name": "TSV München-Forstenried 2",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319334,
+    "name": "TSV Gräfelfing e.V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": 38,
+   "guestScore": 48,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909776,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T11:00:00.000Z",
+   "home": {
+    "id": 322680,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180869,
+    "name": "TuS Geretsried 2",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": 35,
+   "guestScore": 80,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909777,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T14:00:00.000Z",
+   "home": {
+    "id": 287742,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163935,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909778,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T13:30:00.000Z",
+   "home": {
+    "id": 163919,
+    "name": "SV Polling",
+    "clubId": 1942,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 287742,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "homeScore": 39,
+   "guestScore": 56,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909779,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T18:00:00.000Z",
+   "home": {
+    "id": 163935,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 322680,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909780,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T15:30:00.000Z",
+   "home": {
+    "id": 180869,
+    "name": "TuS Geretsried 2",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235416,
+    "name": "TSV Weilheim 3",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909782,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T18:00:00.000Z",
+   "home": {
+    "id": 163914,
+    "name": "DJK SB München 4",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163921,
+    "name": "TSV München-Forstenried 2",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": 62,
+   "guestScore": 53,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909783,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T16:30:00.000Z",
+   "home": {
+    "id": 319334,
+    "name": "TSV Gräfelfing e.V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322679,
+    "name": "TSV Peiting 2",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909784,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "19:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T18:15:00.000Z",
+   "home": {
+    "id": 235416,
+    "name": "TSV Weilheim 3",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163921,
+    "name": "TSV München-Forstenried 2",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909785,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "12:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T11:30:00.000Z",
+   "home": {
+    "id": 322679,
+    "name": "TSV Peiting 2",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163914,
+    "name": "DJK SB München 4",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909786,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T17:30:00.000Z",
+   "home": {
+    "id": 180869,
+    "name": "TuS Geretsried 2",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163935,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909787,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T09:00:00.000Z",
+   "home": {
+    "id": 322680,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163919,
+    "name": "SV Polling",
+    "clubId": 1942,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909788,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T15:00:00.000Z",
+   "home": {
+    "id": 287742,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319334,
+    "name": "TSV Gräfelfing e.V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909789,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T14:30:00.000Z",
+   "home": {
+    "id": 163919,
+    "name": "SV Polling",
+    "clubId": 1942,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180869,
+    "name": "TuS Geretsried 2",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909790,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T19:00:00.000Z",
+   "home": {
+    "id": 163935,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 235416,
+    "name": "TSV Weilheim 3",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909791,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T18:30:00.000Z",
+   "home": {
+    "id": 163921,
+    "name": "TSV München-Forstenried 2",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322679,
+    "name": "TSV Peiting 2",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909792,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T19:00:00.000Z",
+   "home": {
+    "id": 163914,
+    "name": "DJK SB München 4",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 287742,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909793,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T16:30:00.000Z",
+   "home": {
+    "id": 319334,
+    "name": "TSV Gräfelfing e.V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322680,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909794,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T13:30:00.000Z",
+   "home": {
+    "id": 235416,
+    "name": "TSV Weilheim 3",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322679,
+    "name": "TSV Peiting 2",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909795,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T19:00:00.000Z",
+   "home": {
+    "id": 163935,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 163919,
+    "name": "SV Polling",
+    "clubId": 1942,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909796,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T17:30:00.000Z",
+   "home": {
+    "id": 180869,
+    "name": "TuS Geretsried 2",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319334,
+    "name": "TSV Gräfelfing e.V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909797,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T12:00:00.000Z",
+   "home": {
+    "id": 322680,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163914,
+    "name": "DJK SB München 4",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909798,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T15:00:00.000Z",
+   "home": {
+    "id": 287742,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163921,
+    "name": "TSV München-Forstenried 2",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909799,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T13:30:00.000Z",
+   "home": {
+    "id": 235416,
+    "name": "TSV Weilheim 3",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163919,
+    "name": "SV Polling",
+    "clubId": 1942,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909800,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T14:30:00.000Z",
+   "home": {
+    "id": 322679,
+    "name": "TSV Peiting 2",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 287742,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909801,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T18:30:00.000Z",
+   "home": {
+    "id": 163921,
+    "name": "TSV München-Forstenried 2",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322680,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909802,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T19:00:00.000Z",
+   "home": {
+    "id": 163914,
+    "name": "DJK SB München 4",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180869,
+    "name": "TuS Geretsried 2",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909803,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T19:00:00.000Z",
+   "home": {
+    "id": 319334,
+    "name": "TSV Gräfelfing e.V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163935,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909804,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T12:00:00.000Z",
+   "home": {
+    "id": 163919,
+    "name": "SV Polling",
+    "clubId": 1942,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319334,
+    "name": "TSV Gräfelfing e.V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909805,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T19:00:00.000Z",
+   "home": {
+    "id": 163935,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 163914,
+    "name": "DJK SB München 4",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909806,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T17:30:00.000Z",
+   "home": {
+    "id": 180869,
+    "name": "TuS Geretsried 2",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163921,
+    "name": "TSV München-Forstenried 2",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909807,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T09:00:00.000Z",
+   "home": {
+    "id": 322680,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322679,
+    "name": "TSV Peiting 2",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909809,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T15:00:00.000Z",
+   "home": {
+    "id": 287742,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235416,
+    "name": "TSV Weilheim 3",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909810,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T19:00:00.000Z",
+   "home": {
+    "id": 319334,
+    "name": "TSV Gräfelfing e.V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235416,
+    "name": "TSV Weilheim 3",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909811,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T17:30:00.000Z",
+   "home": {
+    "id": 180869,
+    "name": "TuS Geretsried 2",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322679,
+    "name": "TSV Peiting 2",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909812,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T19:00:00.000Z",
+   "home": {
+    "id": 163935,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 163921,
+    "name": "TSV München-Forstenried 2",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909813,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T14:30:00.000Z",
+   "home": {
+    "id": 163919,
+    "name": "SV Polling",
+    "clubId": 1942,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163914,
+    "name": "DJK SB München 4",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909814,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T18:00:00.000Z",
+   "home": {
+    "id": 322680,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 287742,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909815,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T18:30:00.000Z",
+   "home": {
+    "id": 163921,
+    "name": "TSV München-Forstenried 2",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163919,
+    "name": "SV Polling",
+    "clubId": 1942,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909816,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T10:00:00.000Z",
+   "home": {
+    "id": 322679,
+    "name": "TSV Peiting 2",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163935,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909817,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:00:00.000Z",
+   "home": {
+    "id": 287742,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180869,
+    "name": "TuS Geretsried 2",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909818,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T11:15:00.000Z",
+   "home": {
+    "id": 235416,
+    "name": "TSV Weilheim 3",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322680,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909819,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T19:00:00.000Z",
+   "home": {
+    "id": 163914,
+    "name": "DJK SB München 4",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319334,
+    "name": "TSV Gräfelfing e.V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909820,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T18:00:00.000Z",
+   "home": {
+    "id": 163914,
+    "name": "DJK SB München 4",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235416,
+    "name": "TSV Weilheim 3",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": 115,
+   "guestScore": 60,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909821,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T14:00:00.000Z",
+   "home": {
+    "id": 163919,
+    "name": "SV Polling",
+    "clubId": 1942,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322679,
+    "name": "TSV Peiting 2",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909822,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T16:30:00.000Z",
+   "home": {
+    "id": 319334,
+    "name": "TSV Gräfelfing e.V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163921,
+    "name": "TSV München-Forstenried 2",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909823,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-06T17:30:00.000Z",
+   "home": {
+    "id": 180869,
+    "name": "TuS Geretsried 2",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322680,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909824,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T16:30:00.000Z",
+   "home": {
+    "id": 163935,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 287742,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909825,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T09:00:00.000Z",
+   "home": {
+    "id": 287742,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163919,
+    "name": "SV Polling",
+    "clubId": 1942,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909826,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T12:00:00.000Z",
+   "home": {
+    "id": 322680,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163935,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909827,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "19:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T18:15:00.000Z",
+   "home": {
+    "id": 235416,
+    "name": "TSV Weilheim 3",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180869,
+    "name": "TuS Geretsried 2",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909828,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "16:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T15:45:00.000Z",
+   "home": {
+    "id": 163921,
+    "name": "TSV München-Forstenried 2",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163914,
+    "name": "DJK SB München 4",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909829,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T14:30:00.000Z",
+   "home": {
+    "id": 322679,
+    "name": "TSV Peiting 2",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319334,
+    "name": "TSV Gräfelfing e.V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909830,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T18:30:00.000Z",
+   "home": {
+    "id": 163921,
+    "name": "TSV München-Forstenried 2",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235416,
+    "name": "TSV Weilheim 3",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909831,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T19:00:00.000Z",
+   "home": {
+    "id": 163914,
+    "name": "DJK SB München 4",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322679,
+    "name": "TSV Peiting 2",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909832,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T19:00:00.000Z",
+   "home": {
+    "id": 163935,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 180869,
+    "name": "TuS Geretsried 2",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909833,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T14:00:00.000Z",
+   "home": {
+    "id": 163919,
+    "name": "SV Polling",
+    "clubId": 1942,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322680,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909834,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T19:00:00.000Z",
+   "home": {
+    "id": 319334,
+    "name": "TSV Gräfelfing e.V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 287742,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909835,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T17:30:00.000Z",
+   "home": {
+    "id": 180869,
+    "name": "TuS Geretsried 2",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163919,
+    "name": "SV Polling",
+    "clubId": 1942,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909836,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T17:30:00.000Z",
+   "home": {
+    "id": 235416,
+    "name": "TSV Weilheim 3",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163935,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909837,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T17:00:00.000Z",
+   "home": {
+    "id": 322679,
+    "name": "TSV Peiting 2",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163921,
+    "name": "TSV München-Forstenried 2",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909838,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T15:00:00.000Z",
+   "home": {
+    "id": 287742,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163914,
+    "name": "DJK SB München 4",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909839,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T12:00:00.000Z",
+   "home": {
+    "id": 322680,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319334,
+    "name": "TSV Gräfelfing e.V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909840,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T14:30:00.000Z",
+   "home": {
+    "id": 322679,
+    "name": "TSV Peiting 2",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235416,
+    "name": "TSV Weilheim 3",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909841,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T12:00:00.000Z",
+   "home": {
+    "id": 163919,
+    "name": "SV Polling",
+    "clubId": 1942,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163935,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909843,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-04-25",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-25T15:30:00.000Z",
+   "home": {
+    "id": 319334,
+    "name": "TSV Gräfelfing e.V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180869,
+    "name": "TuS Geretsried 2",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909844,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T19:00:00.000Z",
+   "home": {
+    "id": 163914,
+    "name": "DJK SB München 4",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322680,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909845,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T18:30:00.000Z",
+   "home": {
+    "id": 163921,
+    "name": "TSV München-Forstenried 2",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 287742,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909846,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T13:30:00.000Z",
+   "home": {
+    "id": 163919,
+    "name": "SV Polling",
+    "clubId": 1942,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 235416,
+    "name": "TSV Weilheim 3",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909847,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T14:00:00.000Z",
+   "home": {
+    "id": 287742,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322679,
+    "name": "TSV Peiting 2",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909848,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "10:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T08:00:00.000Z",
+   "home": {
+    "id": 322680,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163921,
+    "name": "TSV München-Forstenried 2",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909849,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T16:30:00.000Z",
+   "home": {
+    "id": 180869,
+    "name": "TuS Geretsried 2",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163914,
+    "name": "DJK SB München 4",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909850,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T19:00:00.000Z",
+   "home": {
+    "id": 163935,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "guest": {
+    "id": 319334,
+    "name": "TSV Gräfelfing e.V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "home",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909851,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T15:30:00.000Z",
+   "home": {
+    "id": 319334,
+    "name": "TSV Gräfelfing e.V. 2",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163919,
+    "name": "SV Polling",
+    "clubId": 1942,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909852,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T18:00:00.000Z",
+   "home": {
+    "id": 163914,
+    "name": "DJK SB München 4",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163935,
+    "name": "Gautinger Sportclub e.V.",
+    "clubId": 3576,
+    "forfeit": true
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "forfeit",
+   "forfeitBy": "guest",
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909853,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T17:30:00.000Z",
+   "home": {
+    "id": 163921,
+    "name": "TSV München-Forstenried 2",
+    "clubId": 1228,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 180869,
+    "name": "TuS Geretsried 2",
+    "clubId": 366,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909854,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-18",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-18T09:00:00.000Z",
+   "home": {
+    "id": 322679,
+    "name": "TSV Peiting 2",
+    "clubId": 1425,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 322680,
+    "name": "TSV Eintracht Karlsfeld e.V.",
+    "clubId": 5346,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2909855,
+   "ligaId": 53743,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-04-17",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-17T10:15:00.000Z",
+   "home": {
+    "id": 235416,
+    "name": "TSV Weilheim 3",
+    "clubId": 1166,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 287742,
+    "name": "ESV München",
+    "clubId": 3909,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

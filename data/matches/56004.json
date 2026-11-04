@@ -1,0 +1,354 @@
+{
+ "league": {
+  "ligaId": 56004,
+  "name": "UFR Bezirksliga U20 männlich",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U20",
+  "gender": "männlich",
+  "level": "Bezirksliga",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Unterfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2932513,
+   "ligaId": 56004,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T17:00:00.000Z",
+   "home": {
+    "id": 323112,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 244219,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "homeScore": 89,
+   "guestScore": 50,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932514,
+   "ligaId": 56004,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T10:00:00.000Z",
+   "home": {
+    "id": 285295,
+    "name": "BG Elsenfeld / Großwallstadt",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 193372,
+    "name": "SV Germania Erlenbach",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932515,
+   "ligaId": 56004,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T10:00:00.000Z",
+   "home": {
+    "id": 323112,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 193372,
+    "name": "SV Germania Erlenbach",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932516,
+   "ligaId": 56004,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T17:00:00.000Z",
+   "home": {
+    "id": 244219,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 285295,
+    "name": "BG Elsenfeld / Großwallstadt",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932517,
+   "ligaId": 56004,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T15:00:00.000Z",
+   "home": {
+    "id": 193372,
+    "name": "SV Germania Erlenbach",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 244219,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932518,
+   "ligaId": 56004,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T16:30:00.000Z",
+   "home": {
+    "id": 285295,
+    "name": "BG Elsenfeld / Großwallstadt",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323112,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932519,
+   "ligaId": 56004,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T13:00:00.000Z",
+   "home": {
+    "id": 244219,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323112,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932520,
+   "ligaId": 56004,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T15:00:00.000Z",
+   "home": {
+    "id": 193372,
+    "name": "SV Germania Erlenbach",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 285295,
+    "name": "BG Elsenfeld / Großwallstadt",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932521,
+   "ligaId": 56004,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T15:00:00.000Z",
+   "home": {
+    "id": 193372,
+    "name": "SV Germania Erlenbach",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323112,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932522,
+   "ligaId": 56004,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T17:00:00.000Z",
+   "home": {
+    "id": 285295,
+    "name": "BG Elsenfeld / Großwallstadt",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 244219,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932523,
+   "ligaId": 56004,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T17:00:00.000Z",
+   "home": {
+    "id": 244219,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 193372,
+    "name": "SV Germania Erlenbach",
+    "clubId": 535,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2932524,
+   "ligaId": 56004,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T10:00:00.000Z",
+   "home": {
+    "id": 323112,
+    "name": "TG 1877 Veitshöchheim",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 285295,
+    "name": "BG Elsenfeld / Großwallstadt",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

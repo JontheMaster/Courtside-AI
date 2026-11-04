@@ -1,0 +1,578 @@
+{
+ "league": {
+  "ligaId": 54891,
+  "name": "OPF Bezirksklasse Damen 2026/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "weiblich",
+  "level": "Bezirksklasse",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberpfalz",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2927865,
+   "ligaId": 54891,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T15:30:00.000Z",
+   "home": {
+    "id": 320734,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157703,
+    "name": "TSV 1880 Schwandorf",
+    "clubId": 1400,
+    "forfeit": false
+   },
+   "homeScore": 82,
+   "guestScore": 42,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927867,
+   "ligaId": 54891,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-31",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-31T14:00:00.000Z",
+   "home": {
+    "id": 321731,
+    "name": "DJK Neustadt a. d. Waldnaab",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321821,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "homeScore": 31,
+   "guestScore": 66,
+   "confirmed": false,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927869,
+   "ligaId": 54891,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T14:00:00.000Z",
+   "home": {
+    "id": 157703,
+    "name": "TSV 1880 Schwandorf",
+    "clubId": 1400,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321731,
+    "name": "DJK Neustadt a. d. Waldnaab",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927872,
+   "ligaId": 54891,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T11:00:00.000Z",
+   "home": {
+    "id": 167888,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320734,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927874,
+   "ligaId": 54891,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T13:30:00.000Z",
+   "home": {
+    "id": 321821,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157703,
+    "name": "TSV 1880 Schwandorf",
+    "clubId": 1400,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927875,
+   "ligaId": 54891,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T15:00:00.000Z",
+   "home": {
+    "id": 321731,
+    "name": "DJK Neustadt a. d. Waldnaab",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167888,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927877,
+   "ligaId": 54891,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T10:00:00.000Z",
+   "home": {
+    "id": 320734,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321731,
+    "name": "DJK Neustadt a. d. Waldnaab",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927878,
+   "ligaId": 54891,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T19:00:00.000Z",
+   "home": {
+    "id": 167888,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321821,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927879,
+   "ligaId": 54891,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T15:00:00.000Z",
+   "home": {
+    "id": 157703,
+    "name": "TSV 1880 Schwandorf",
+    "clubId": 1400,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167888,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927880,
+   "ligaId": 54891,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T16:00:00.000Z",
+   "home": {
+    "id": 321821,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320734,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927883,
+   "ligaId": 54891,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T15:30:00.000Z",
+   "home": {
+    "id": 157703,
+    "name": "TSV 1880 Schwandorf",
+    "clubId": 1400,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320734,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927884,
+   "ligaId": 54891,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:00:00.000Z",
+   "home": {
+    "id": 321821,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321731,
+    "name": "DJK Neustadt a. d. Waldnaab",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927885,
+   "ligaId": 54891,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-06T14:00:00.000Z",
+   "home": {
+    "id": 321731,
+    "name": "DJK Neustadt a. d. Waldnaab",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157703,
+    "name": "TSV 1880 Schwandorf",
+    "clubId": 1400,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927887,
+   "ligaId": 54891,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-06T17:30:00.000Z",
+   "home": {
+    "id": 320734,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167888,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927889,
+   "ligaId": 54891,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T14:00:00.000Z",
+   "home": {
+    "id": 157703,
+    "name": "TSV 1880 Schwandorf",
+    "clubId": 1400,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321821,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927890,
+   "ligaId": 54891,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-09-26",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-09-26T13:00:00.000Z",
+   "home": {
+    "id": 167888,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321731,
+    "name": "DJK Neustadt a. d. Waldnaab",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": 90,
+   "guestScore": 23,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927892,
+   "ligaId": 54891,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T16:00:00.000Z",
+   "home": {
+    "id": 321731,
+    "name": "DJK Neustadt a. d. Waldnaab",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 320734,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927893,
+   "ligaId": 54891,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T11:00:00.000Z",
+   "home": {
+    "id": 321821,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 167888,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927894,
+   "ligaId": 54891,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T18:00:00.000Z",
+   "home": {
+    "id": 167888,
+    "name": "Fibalon Baskets Neumarkt",
+    "clubId": 4468,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157703,
+    "name": "TSV 1880 Schwandorf",
+    "clubId": 1400,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2927895,
+   "ligaId": 54891,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "13:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T12:15:00.000Z",
+   "home": {
+    "id": 320734,
+    "name": "Regensburg Baskets",
+    "clubId": 546,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 321821,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

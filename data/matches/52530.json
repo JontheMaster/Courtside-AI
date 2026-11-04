@@ -1,0 +1,3714 @@
+{
+ "league": {
+  "ligaId": 52530,
+  "name": "Bayernliga Herren  Nord (ByLHN)",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Bayernliga",
+  "levelScope": "Verband",
+  "verbandId": 2,
+  "bezirk": null,
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2840374,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T17:00:00.000Z",
+   "home": {
+    "id": 151000,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157368,
+    "name": "SV Oberdürrbach 1959",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "homeScore": 95,
+   "guestScore": 80,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840375,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T10:00:00.000Z",
+   "home": {
+    "id": 151003,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310313,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": 68,
+   "guestScore": 80,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840376,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T13:00:00.000Z",
+   "home": {
+    "id": 142981,
+    "name": "BSC Bayreuth Saas",
+    "clubId": 712,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159013,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": 80,
+   "guestScore": 71,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840377,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "15:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T13:45:00.000Z",
+   "home": {
+    "id": 151001,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157622,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": 80,
+   "guestScore": 100,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840378,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-03",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-03T17:00:00.000Z",
+   "home": {
+    "id": 150995,
+    "name": "TB Weiden",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159003,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "homeScore": 80,
+   "guestScore": 91,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840379,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T15:00:00.000Z",
+   "home": {
+    "id": 151013,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151066,
+    "name": "TSV Breitengüßbach 2",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": 64,
+   "guestScore": 90,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840380,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T15:00:00.000Z",
+   "home": {
+    "id": 159003,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151001,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": 72,
+   "guestScore": 63,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840381,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T15:30:00.000Z",
+   "home": {
+    "id": 157622,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142981,
+    "name": "BSC Bayreuth Saas",
+    "clubId": 712,
+    "forfeit": false
+   },
+   "homeScore": 76,
+   "guestScore": 68,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840382,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-11",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-11T14:00:00.000Z",
+   "home": {
+    "id": 159013,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151003,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": 75,
+   "guestScore": 77,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840383,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T14:00:00.000Z",
+   "home": {
+    "id": 310313,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151013,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "homeScore": 69,
+   "guestScore": 66,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840384,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T13:00:00.000Z",
+   "home": {
+    "id": 151066,
+    "name": "TSV Breitengüßbach 2",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151000,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": 96,
+   "guestScore": 83,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840385,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T17:00:00.000Z",
+   "home": {
+    "id": 157368,
+    "name": "SV Oberdürrbach 1959",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150995,
+    "name": "TB Weiden",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840386,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T17:00:00.000Z",
+   "home": {
+    "id": 151000,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150995,
+    "name": "TB Weiden",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "homeScore": 92,
+   "guestScore": 66,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840387,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T13:00:00.000Z",
+   "home": {
+    "id": 151003,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157622,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": 68,
+   "guestScore": 58,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840388,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T17:30:00.000Z",
+   "home": {
+    "id": 142981,
+    "name": "BSC Bayreuth Saas",
+    "clubId": 712,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159003,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "homeScore": 84,
+   "guestScore": 80,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840389,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "15:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T13:45:00.000Z",
+   "home": {
+    "id": 151001,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157368,
+    "name": "SV Oberdürrbach 1959",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "homeScore": 58,
+   "guestScore": 66,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840390,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T13:00:00.000Z",
+   "home": {
+    "id": 151066,
+    "name": "TSV Breitengüßbach 2",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310313,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": 97,
+   "guestScore": 60,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840391,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T17:00:00.000Z",
+   "home": {
+    "id": 151013,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159013,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": 82,
+   "guestScore": 41,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840392,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:00:00.000Z",
+   "home": {
+    "id": 159003,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151003,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": 71,
+   "guestScore": 66,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840393,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T15:30:00.000Z",
+   "home": {
+    "id": 157622,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151013,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "homeScore": 83,
+   "guestScore": 64,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840394,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T15:30:00.000Z",
+   "home": {
+    "id": 159013,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151066,
+    "name": "TSV Breitengüßbach 2",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": 56,
+   "guestScore": 105,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840395,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T14:00:00.000Z",
+   "home": {
+    "id": 310313,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151000,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": 65,
+   "guestScore": 81,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840396,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T17:00:00.000Z",
+   "home": {
+    "id": 150995,
+    "name": "TB Weiden",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151001,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": 20,
+   "guestScore": 0,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840397,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T16:00:00.000Z",
+   "home": {
+    "id": 157368,
+    "name": "SV Oberdürrbach 1959",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142981,
+    "name": "BSC Bayreuth Saas",
+    "clubId": 712,
+    "forfeit": false
+   },
+   "homeScore": 101,
+   "guestScore": 70,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840398,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T18:00:00.000Z",
+   "home": {
+    "id": 151000,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151001,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840399,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-08",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-08T12:00:00.000Z",
+   "home": {
+    "id": 151003,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157368,
+    "name": "SV Oberdürrbach 1959",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840400,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T17:00:00.000Z",
+   "home": {
+    "id": 142981,
+    "name": "BSC Bayreuth Saas",
+    "clubId": 712,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150995,
+    "name": "TB Weiden",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840401,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T12:30:00.000Z",
+   "home": {
+    "id": 310313,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159013,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840402,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T12:00:00.000Z",
+   "home": {
+    "id": 151066,
+    "name": "TSV Breitengüßbach 2",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157622,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840403,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-11-07",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-07T18:00:00.000Z",
+   "home": {
+    "id": 151013,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159003,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840404,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T16:00:00.000Z",
+   "home": {
+    "id": 159003,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151066,
+    "name": "TSV Breitengüßbach 2",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840405,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T16:30:00.000Z",
+   "home": {
+    "id": 157622,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310313,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840406,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T14:00:00.000Z",
+   "home": {
+    "id": 159013,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151000,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840407,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "17:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T16:15:00.000Z",
+   "home": {
+    "id": 151001,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142981,
+    "name": "BSC Bayreuth Saas",
+    "clubId": 712,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840408,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T18:00:00.000Z",
+   "home": {
+    "id": 150995,
+    "name": "TB Weiden",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151003,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840409,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-11-14",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-14T15:30:00.000Z",
+   "home": {
+    "id": 157368,
+    "name": "SV Oberdürrbach 1959",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151013,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840410,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T18:00:00.000Z",
+   "home": {
+    "id": 151000,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142981,
+    "name": "BSC Bayreuth Saas",
+    "clubId": 712,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840411,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T11:00:00.000Z",
+   "home": {
+    "id": 151003,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151001,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840412,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T15:00:00.000Z",
+   "home": {
+    "id": 159013,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157622,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840413,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T18:00:00.000Z",
+   "home": {
+    "id": 310313,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159003,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840414,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-21",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-21T14:00:00.000Z",
+   "home": {
+    "id": 151066,
+    "name": "TSV Breitengüßbach 2",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157368,
+    "name": "SV Oberdürrbach 1959",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840415,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-22T16:00:00.000Z",
+   "home": {
+    "id": 151013,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150995,
+    "name": "TB Weiden",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840416,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T18:30:00.000Z",
+   "home": {
+    "id": 159003,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159013,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840417,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T16:30:00.000Z",
+   "home": {
+    "id": 157622,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151000,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840418,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T18:30:00.000Z",
+   "home": {
+    "id": 142981,
+    "name": "BSC Bayreuth Saas",
+    "clubId": 712,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151003,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840419,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-29",
+   "kickoffTime": "15:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-29T14:15:00.000Z",
+   "home": {
+    "id": 151001,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151013,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840420,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T18:00:00.000Z",
+   "home": {
+    "id": 150995,
+    "name": "TB Weiden",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151066,
+    "name": "TSV Breitengüßbach 2",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840421,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T15:30:00.000Z",
+   "home": {
+    "id": 157368,
+    "name": "SV Oberdürrbach 1959",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310313,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840422,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T14:00:00.000Z",
+   "home": {
+    "id": 151000,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151003,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840423,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T16:30:00.000Z",
+   "home": {
+    "id": 157622,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159003,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840424,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T15:00:00.000Z",
+   "home": {
+    "id": 159013,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157368,
+    "name": "SV Oberdürrbach 1959",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840425,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T12:30:00.000Z",
+   "home": {
+    "id": 310313,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150995,
+    "name": "TB Weiden",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840426,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T14:00:00.000Z",
+   "home": {
+    "id": 151066,
+    "name": "TSV Breitengüßbach 2",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151001,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840427,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T18:00:00.000Z",
+   "home": {
+    "id": 151013,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142981,
+    "name": "BSC Bayreuth Saas",
+    "clubId": 712,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840428,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T18:00:00.000Z",
+   "home": {
+    "id": 151000,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159003,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840429,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T11:00:00.000Z",
+   "home": {
+    "id": 151003,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151013,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840430,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T19:00:00.000Z",
+   "home": {
+    "id": 142981,
+    "name": "BSC Bayreuth Saas",
+    "clubId": 712,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151066,
+    "name": "TSV Breitengüßbach 2",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840431,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T14:30:00.000Z",
+   "home": {
+    "id": 151001,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310313,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840432,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T18:00:00.000Z",
+   "home": {
+    "id": 150995,
+    "name": "TB Weiden",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159013,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840433,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T16:00:00.000Z",
+   "home": {
+    "id": 157368,
+    "name": "SV Oberdürrbach 1959",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157622,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840434,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T18:00:00.000Z",
+   "home": {
+    "id": 159003,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157368,
+    "name": "SV Oberdürrbach 1959",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840435,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T16:30:00.000Z",
+   "home": {
+    "id": 157622,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150995,
+    "name": "TB Weiden",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840436,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T15:00:00.000Z",
+   "home": {
+    "id": 159013,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151001,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840437,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T14:00:00.000Z",
+   "home": {
+    "id": 310313,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142981,
+    "name": "BSC Bayreuth Saas",
+    "clubId": 712,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840438,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T17:00:00.000Z",
+   "home": {
+    "id": 151066,
+    "name": "TSV Breitengüßbach 2",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151003,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840439,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 11,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T16:00:00.000Z",
+   "home": {
+    "id": 151013,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151000,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840440,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T17:00:00.000Z",
+   "home": {
+    "id": 157368,
+    "name": "SV Oberdürrbach 1959",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151000,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840441,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T18:00:00.000Z",
+   "home": {
+    "id": 310313,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151003,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840442,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T15:00:00.000Z",
+   "home": {
+    "id": 159013,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142981,
+    "name": "BSC Bayreuth Saas",
+    "clubId": 712,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840443,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T16:30:00.000Z",
+   "home": {
+    "id": 157622,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151001,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840444,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T18:00:00.000Z",
+   "home": {
+    "id": 159003,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150995,
+    "name": "TB Weiden",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840445,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T16:00:00.000Z",
+   "home": {
+    "id": 151066,
+    "name": "TSV Breitengüßbach 2",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151013,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840446,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "15:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T14:15:00.000Z",
+   "home": {
+    "id": 151001,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159003,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840447,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T18:30:00.000Z",
+   "home": {
+    "id": 142981,
+    "name": "BSC Bayreuth Saas",
+    "clubId": 712,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157622,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840448,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T10:00:00.000Z",
+   "home": {
+    "id": 151003,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159013,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840449,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:00:00.000Z",
+   "home": {
+    "id": 151013,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310313,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840450,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T15:00:00.000Z",
+   "home": {
+    "id": 151000,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151066,
+    "name": "TSV Breitengüßbach 2",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840451,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 13,
+   "kickoffDate": "2026-10-10",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-10T17:00:00.000Z",
+   "home": {
+    "id": 150995,
+    "name": "TB Weiden",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157368,
+    "name": "SV Oberdürrbach 1959",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "homeScore": 80,
+   "guestScore": 78,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840452,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T18:00:00.000Z",
+   "home": {
+    "id": 150995,
+    "name": "TB Weiden",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151000,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840453,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T16:30:00.000Z",
+   "home": {
+    "id": 157622,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151003,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840454,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T18:00:00.000Z",
+   "home": {
+    "id": 159003,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142981,
+    "name": "BSC Bayreuth Saas",
+    "clubId": 712,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840455,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T15:30:00.000Z",
+   "home": {
+    "id": 157368,
+    "name": "SV Oberdürrbach 1959",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151001,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840456,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T15:00:00.000Z",
+   "home": {
+    "id": 310313,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151066,
+    "name": "TSV Breitengüßbach 2",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840457,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T15:00:00.000Z",
+   "home": {
+    "id": 159013,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151013,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840458,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T13:00:00.000Z",
+   "home": {
+    "id": 151003,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159003,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840459,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T18:00:00.000Z",
+   "home": {
+    "id": 151013,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157622,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840460,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T14:00:00.000Z",
+   "home": {
+    "id": 151066,
+    "name": "TSV Breitengüßbach 2",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159013,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840461,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T15:00:00.000Z",
+   "home": {
+    "id": 151000,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310313,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840462,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "15:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T14:45:00.000Z",
+   "home": {
+    "id": 151001,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150995,
+    "name": "TB Weiden",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840463,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T10:00:00.000Z",
+   "home": {
+    "id": 142981,
+    "name": "BSC Bayreuth Saas",
+    "clubId": 712,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157368,
+    "name": "SV Oberdürrbach 1959",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840464,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "15:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T14:45:00.000Z",
+   "home": {
+    "id": 151001,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151000,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840465,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T15:30:00.000Z",
+   "home": {
+    "id": 157368,
+    "name": "SV Oberdürrbach 1959",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151003,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840466,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T18:00:00.000Z",
+   "home": {
+    "id": 150995,
+    "name": "TB Weiden",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142981,
+    "name": "BSC Bayreuth Saas",
+    "clubId": 712,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840467,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T15:00:00.000Z",
+   "home": {
+    "id": 159013,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310313,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840468,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T16:30:00.000Z",
+   "home": {
+    "id": 157622,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151066,
+    "name": "TSV Breitengüßbach 2",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840469,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 16,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T16:00:00.000Z",
+   "home": {
+    "id": 159003,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151013,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840470,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T14:00:00.000Z",
+   "home": {
+    "id": 151066,
+    "name": "TSV Breitengüßbach 2",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159003,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840471,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T15:00:00.000Z",
+   "home": {
+    "id": 310313,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157622,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840472,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T15:00:00.000Z",
+   "home": {
+    "id": 151000,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159013,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840473,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T18:30:00.000Z",
+   "home": {
+    "id": 142981,
+    "name": "BSC Bayreuth Saas",
+    "clubId": 712,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151001,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840474,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T13:00:00.000Z",
+   "home": {
+    "id": 151003,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150995,
+    "name": "TB Weiden",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840475,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 17,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T18:00:00.000Z",
+   "home": {
+    "id": 151013,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157368,
+    "name": "SV Oberdürrbach 1959",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840476,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T18:30:00.000Z",
+   "home": {
+    "id": 142981,
+    "name": "BSC Bayreuth Saas",
+    "clubId": 712,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151000,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840477,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "15:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T14:15:00.000Z",
+   "home": {
+    "id": 151001,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151003,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840478,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T16:30:00.000Z",
+   "home": {
+    "id": 157622,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159013,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840479,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T16:00:00.000Z",
+   "home": {
+    "id": 159003,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310313,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840480,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T16:00:00.000Z",
+   "home": {
+    "id": 157368,
+    "name": "SV Oberdürrbach 1959",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151066,
+    "name": "TSV Breitengüßbach 2",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840481,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 18,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T18:00:00.000Z",
+   "home": {
+    "id": 150995,
+    "name": "TB Weiden",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151013,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840482,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 19,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T15:00:00.000Z",
+   "home": {
+    "id": 159013,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159003,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840483,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 19,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T15:00:00.000Z",
+   "home": {
+    "id": 151000,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157622,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840484,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 19,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T10:00:00.000Z",
+   "home": {
+    "id": 151003,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142981,
+    "name": "BSC Bayreuth Saas",
+    "clubId": 712,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840485,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 19,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T16:00:00.000Z",
+   "home": {
+    "id": 151013,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151001,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840486,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 19,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T14:00:00.000Z",
+   "home": {
+    "id": 151066,
+    "name": "TSV Breitengüßbach 2",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150995,
+    "name": "TB Weiden",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840487,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 19,
+   "kickoffDate": "2027-03-13",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-13T15:00:00.000Z",
+   "home": {
+    "id": 310313,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157368,
+    "name": "SV Oberdürrbach 1959",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840488,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 20,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T10:00:00.000Z",
+   "home": {
+    "id": 151003,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151000,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840489,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 20,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T18:00:00.000Z",
+   "home": {
+    "id": 159003,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157622,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840490,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 20,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T16:00:00.000Z",
+   "home": {
+    "id": 157368,
+    "name": "SV Oberdürrbach 1959",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159013,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840491,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 20,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T18:00:00.000Z",
+   "home": {
+    "id": 150995,
+    "name": "TB Weiden",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310313,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840492,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 20,
+   "kickoffDate": "2027-03-21",
+   "kickoffTime": "15:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-21T14:45:00.000Z",
+   "home": {
+    "id": 151001,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151066,
+    "name": "TSV Breitengüßbach 2",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840493,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 20,
+   "kickoffDate": "2027-03-20",
+   "kickoffTime": "19:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-20T18:30:00.000Z",
+   "home": {
+    "id": 142981,
+    "name": "BSC Bayreuth Saas",
+    "clubId": 712,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151013,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840494,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 21,
+   "kickoffDate": "2027-04-03",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-03T17:00:00.000Z",
+   "home": {
+    "id": 159003,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151000,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840495,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 21,
+   "kickoffDate": "2027-04-03",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-03T17:00:00.000Z",
+   "home": {
+    "id": 151013,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151003,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840496,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 21,
+   "kickoffDate": "2027-04-03",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-03T13:00:00.000Z",
+   "home": {
+    "id": 151066,
+    "name": "TSV Breitengüßbach 2",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 142981,
+    "name": "BSC Bayreuth Saas",
+    "clubId": 712,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840497,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 21,
+   "kickoffDate": "2027-04-03",
+   "kickoffTime": "20:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-03T18:00:00.000Z",
+   "home": {
+    "id": 310313,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151001,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840498,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 21,
+   "kickoffDate": "2027-04-04",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-04T14:00:00.000Z",
+   "home": {
+    "id": 159013,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 150995,
+    "name": "TB Weiden",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840499,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 21,
+   "kickoffDate": "2027-04-03",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-03T15:30:00.000Z",
+   "home": {
+    "id": 157622,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157368,
+    "name": "SV Oberdürrbach 1959",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840500,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 22,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T14:30:00.000Z",
+   "home": {
+    "id": 157368,
+    "name": "SV Oberdürrbach 1959",
+    "clubId": 278,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159003,
+    "name": "DJK Pressath",
+    "clubId": 1937,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840501,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 22,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "19:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T17:00:00.000Z",
+   "home": {
+    "id": 150995,
+    "name": "TB Weiden",
+    "clubId": 347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 157622,
+    "name": "CVJM Erlangen",
+    "clubId": 642,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840502,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 22,
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "15:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-11T13:45:00.000Z",
+   "home": {
+    "id": 151001,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 159013,
+    "name": "DJK Neustadt a. d. Waldnaab 2",
+    "clubId": 398,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840503,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 22,
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-10T14:00:00.000Z",
+   "home": {
+    "id": 142981,
+    "name": "BSC Bayreuth Saas",
+    "clubId": 712,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310313,
+    "name": "TG 1877 Veitshöchheim 2",
+    "clubId": 1543,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840504,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 22,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T12:00:00.000Z",
+   "home": {
+    "id": 151003,
+    "name": "TTL Basketball Bamberg 2",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151066,
+    "name": "TSV Breitengüßbach 2",
+    "clubId": 1222,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2840505,
+   "ligaId": 52530,
+   "seasonId": 2026,
+   "matchDay": 22,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T14:00:00.000Z",
+   "home": {
+    "id": 151000,
+    "name": "TB 1888 Erlangen",
+    "clubId": 541,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 151013,
+    "name": "TuSpo Heroldsberg",
+    "clubId": 1790,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

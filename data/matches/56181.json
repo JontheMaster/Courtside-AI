@@ -1,0 +1,494 @@
+{
+ "league": {
+  "ligaId": 56181,
+  "name": "MFR U18w Kreisliga",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U18",
+  "gender": "weiblich",
+  "level": "Kreisliga",
+  "levelScope": "Kreis",
+  "verbandId": 2,
+  "bezirk": "Mittelfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2929064,
+   "ligaId": 56181,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "15:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-09T14:15:00.000Z",
+   "home": {
+    "id": 319355,
+    "name": "TG Kitzingen (Gast)",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 176754,
+    "name": "TV Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929065,
+   "ligaId": 56181,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-15T13:00:00.000Z",
+   "home": {
+    "id": 310842,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 206116,
+    "name": "TSV Ansbach",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929066,
+   "ligaId": 56181,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "14:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T13:45:00.000Z",
+   "home": {
+    "id": 319355,
+    "name": "TG Kitzingen (Gast)",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 206116,
+    "name": "TSV Ansbach",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929067,
+   "ligaId": 56181,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "10:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T09:45:00.000Z",
+   "home": {
+    "id": 176754,
+    "name": "TV Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310842,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929068,
+   "ligaId": 56181,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T13:00:00.000Z",
+   "home": {
+    "id": 206116,
+    "name": "TSV Ansbach",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 176754,
+    "name": "TV Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929069,
+   "ligaId": 56181,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-09-01",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-08-31T22:00:00.000Z",
+   "home": {
+    "id": 310842,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319355,
+    "name": "TG Kitzingen (Gast)",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929070,
+   "ligaId": 56181,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T11:00:00.000Z",
+   "home": {
+    "id": 176754,
+    "name": "TV Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319355,
+    "name": "TG Kitzingen (Gast)",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": 45,
+   "guestScore": 49,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929071,
+   "ligaId": 56181,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-11-28T13:00:00.000Z",
+   "home": {
+    "id": 206116,
+    "name": "TSV Ansbach",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310842,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929072,
+   "ligaId": 56181,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-25",
+   "kickoffTime": "14:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-25T13:30:00.000Z",
+   "home": {
+    "id": 206116,
+    "name": "TSV Ansbach",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319355,
+    "name": "TG Kitzingen (Gast)",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "cancelled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929073,
+   "ligaId": 56181,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "18:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T16:30:00.000Z",
+   "home": {
+    "id": 310842,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 176754,
+    "name": "TV Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "homeScore": 38,
+   "guestScore": 42,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929074,
+   "ligaId": 56181,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T11:00:00.000Z",
+   "home": {
+    "id": 176754,
+    "name": "TV Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 206116,
+    "name": "TSV Ansbach",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "homeScore": 58,
+   "guestScore": 75,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2929075,
+   "ligaId": 56181,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2026-09-01",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-08-31T22:00:00.000Z",
+   "home": {
+    "id": 319355,
+    "name": "TG Kitzingen (Gast)",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310842,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "missing_result",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2935170,
+   "ligaId": 56181,
+   "seasonId": 2026,
+   "matchDay": 12,
+   "kickoffDate": "2027-04-10",
+   "kickoffTime": "14:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-10T12:00:00.000Z",
+   "home": {
+    "id": 206116,
+    "name": "TSV Ansbach",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310842,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986366,
+   "ligaId": 56181,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T10:00:00.000Z",
+   "home": {
+    "id": 176754,
+    "name": "TV Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310842,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986367,
+   "ligaId": 56181,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T12:00:00.000Z",
+   "home": {
+    "id": 176754,
+    "name": "TV Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 206116,
+    "name": "TSV Ansbach",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986442,
+   "ligaId": 56181,
+   "seasonId": 2026,
+   "matchDay": 14,
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "12:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T10:00:00.000Z",
+   "home": {
+    "id": 176754,
+    "name": "TV Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 310842,
+    "name": "TV 48 Schwabach 2",
+    "clubId": 581,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2986443,
+   "ligaId": 56181,
+   "seasonId": 2026,
+   "matchDay": 15,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T12:00:00.000Z",
+   "home": {
+    "id": 176754,
+    "name": "TV Hilpoltstein",
+    "clubId": 276,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 206116,
+    "name": "TSV Ansbach",
+    "clubId": 718,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}
