@@ -39,7 +39,11 @@ export function buildSite(store, outDir = path.join(config.siteDir, 'data')) {
   const trainingGames = [...ratable.values()].reduce((a, r) => a + r.length, 0);
 
   const models = [
-    ...statModels.map((m) => ({ id: m.id, name: m.name, version: modelVersion(m, allParams), enabled: true })),
+    ...statModels.map((m) => ({
+      id: m.id, name: m.name, version: modelVersion(m, allParams), enabled: true,
+      // tatsächlich verwendete Parameter je Altersklasse (für die Methodik-Seite)
+      params: Object.fromEntries(config.ageGroups.map((ag) => [ag, paramsFor(m, ag, allParams)])),
+    })),
     { id: ml.id, name: ml.name, version: null, ...ml.status({ trainingGames }) },
     { id: llm.id, name: llm.name, version: modelVersion(llm, {}), ...llm.status() },
   ];
