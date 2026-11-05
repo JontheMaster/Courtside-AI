@@ -803,10 +803,10 @@
    "ligaId": 54353,
    "seasonId": 2026,
    "matchDay": 6,
-   "kickoffDate": "2026-11-15",
-   "kickoffTime": "14:00",
+   "kickoffDate": "2026-11-24",
+   "kickoffTime": "18:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-15T13:00:00.000Z",
+   "kickoffUtc": "2026-11-24T17:00:00.000Z",
    "home": {
     "id": 165709,
     "name": "FC Bayern Basketball 2",
