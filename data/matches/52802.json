@@ -205,7 +205,7 @@
    },
    "homeScore": 82,
    "guestScore": 66,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -317,7 +317,7 @@
    },
    "homeScore": 67,
    "guestScore": 81,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -345,7 +345,7 @@
    },
    "homeScore": 63,
    "guestScore": 58,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -373,7 +373,7 @@
    },
    "homeScore": 75,
    "guestScore": 51,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -401,7 +401,7 @@
    },
    "homeScore": 84,
    "guestScore": 70,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -429,7 +429,7 @@
    },
    "homeScore": 80,
    "guestScore": 101,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -457,7 +457,7 @@
    },
    "homeScore": 75,
    "guestScore": 82,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -485,7 +485,7 @@
    },
    "homeScore": 80,
    "guestScore": 64,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -513,7 +513,7 @@
    },
    "homeScore": 64,
    "guestScore": 85,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -541,7 +541,7 @@
    },
    "homeScore": 83,
    "guestScore": 79,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -569,7 +569,7 @@
    },
    "homeScore": 73,
    "guestScore": 84,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"

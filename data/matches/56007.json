@@ -328,9 +328,9 @@
    "seasonId": 2026,
    "matchDay": 3,
    "kickoffDate": "2026-11-07",
-   "kickoffTime": "13:00",
+   "kickoffTime": "14:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-07T12:00:00.000Z",
+   "kickoffUtc": "2026-11-07T13:00:00.000Z",
    "home": {
     "id": 163718,
     "name": "SG Wartberg Kreuzw. Wertheim AK",

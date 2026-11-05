@@ -1839,10 +1839,10 @@
    "ligaId": 56162,
    "seasonId": 2026,
    "matchDay": 13,
-   "kickoffDate": "2027-04-17",
-   "kickoffTime": "17:00",
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "13:00",
    "timeTbd": false,
-   "kickoffUtc": "2027-04-17T15:00:00.000Z",
+   "kickoffUtc": "2026-12-12T12:00:00.000Z",
    "home": {
     "id": 162240,
     "name": "Nürnberger Basketball Club",
