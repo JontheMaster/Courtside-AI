@@ -1941,7 +1941,7 @@
    },
    "homeScore": 87,
    "guestScore": 71,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
