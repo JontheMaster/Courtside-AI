@@ -1,4 +1,5 @@
 import { renderMethodik } from './methodik.js';
+import { renderStory } from './story.js';
 // COURTSIDE AI – Oberfläche (statisch, ohne Framework). Liest die vom Build erzeugten JSON-Dateien.
 const app = document.getElementById('app');
 const cache = new Map();
@@ -362,6 +363,7 @@ async function route() {
     else if (page === 'championship') await championshipPage();
     else if (page === 'performance') await performancePage();
     else if (page === 'about') await aboutPage();
+    else if (page === 'idee') await renderStory(app, { META, load, esc, pct, num, dot, modelName });
     else await dashboard();
     window.scrollTo(0, 0);
   } catch (err) {

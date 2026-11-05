@@ -145,6 +145,22 @@ section { scroll-margin-top: 70px; }
 }
 
 .lead { font-size: 1.02rem; max-width: 75ch; }
+.hero { padding: 1.2rem 0 .4rem; }
+.hero h1 { font-size: clamp(1.6rem, 4vw, 2.4rem); max-width: 22ch; letter-spacing: -.02em; }
+.kicker { color: var(--accent); font-weight: 650; text-transform: uppercase; letter-spacing: .08em; font-size: .8rem; margin: 0 0 .4rem; }
+.three { grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr)); }
+.pillar h3 { margin-top: .2rem; }
+.pillar p { margin: .4rem 0 0; }
+.pillar .icon { font-size: 1.5rem; }
+.timeline { list-style: none; margin: 0; padding: 0 0 0 1.4rem; border-left: 2px solid var(--line); }
+.timeline li { position: relative; padding: 0 0 1.1rem .4rem; max-width: 75ch; }
+.timeline li::before { content: ""; position: absolute; left: -1.4rem; top: .3rem; width: 12px; height: 12px; margin-left: -7px; border-radius: 50%; background: var(--accent); box-shadow: 0 0 0 4px var(--bg); }
+.timeline h3 { margin: 0 0 .2rem; }
+.timeline p { margin: 0; color: var(--muted); }
+.roadmap li { margin-bottom: .45rem; }
+.roadmap li.done { color: var(--muted); }
+.roadmap li.done::marker { color: var(--good); }
+.cta { margin-top: 1.5rem; border-color: color-mix(in srgb, var(--accent) 40%, var(--line)); }
 .mh { margin-top: 1.6rem; font-size: 1.08rem; }
 .widget { background: var(--surface-2); border-radius: 10px; padding: .9rem 1rem; margin: .8rem 0; }
 .controls { display: grid; gap: .6rem; grid-template-columns: repeat(auto-fit, minmax(min(100%, 230px), 1fr)); align-items: end; }
