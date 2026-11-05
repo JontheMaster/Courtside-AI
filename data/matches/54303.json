@@ -261,7 +261,7 @@
    },
    "homeScore": 90,
    "guestScore": 80,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -289,7 +289,7 @@
    },
    "homeScore": 61,
    "guestScore": 48,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -345,7 +345,7 @@
    },
    "homeScore": 71,
    "guestScore": 82,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"

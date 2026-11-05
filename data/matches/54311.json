@@ -407,34 +407,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2898545,
-   "ligaId": 54311,
-   "seasonId": 2026,
-   "matchDay": 4,
-   "kickoffDate": "2026-10-17",
-   "kickoffTime": "17:00",
-   "timeTbd": false,
-   "kickoffUtc": "2026-10-17T15:00:00.000Z",
-   "home": {
-    "id": 199567,
-    "name": "FC Bayern München",
-    "clubId": 619,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 198424,
-    "name": "MTV München",
-    "clubId": 606,
-    "forfeit": true
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "guest",
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2898546,
    "ligaId": 54311,
    "seasonId": 2026,
@@ -460,34 +432,6 @@
    "confirmed": true,
    "status": "final",
    "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2898547,
-   "ligaId": 54311,
-   "seasonId": 2026,
-   "matchDay": 5,
-   "kickoffDate": "2026-10-24",
-   "kickoffTime": "12:30",
-   "timeTbd": false,
-   "kickoffUtc": "2026-10-24T10:30:00.000Z",
-   "home": {
-    "id": 310406,
-    "name": "FV Jahn München",
-    "clubId": 4482,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 198424,
-    "name": "MTV München",
-    "clubId": 606,
-    "forfeit": true
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -569,7 +513,7 @@
    },
    "homeScore": 57,
    "guestScore": 33,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -600,34 +544,6 @@
    "confirmed": false,
    "status": "scheduled",
    "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2898552,
-   "ligaId": 54311,
-   "seasonId": 2026,
-   "matchDay": 6,
-   "kickoffDate": "2026-11-14",
-   "kickoffTime": "12:30",
-   "timeTbd": false,
-   "kickoffUtc": "2026-11-14T11:30:00.000Z",
-   "home": {
-    "id": 198424,
-    "name": "MTV München",
-    "clubId": 606,
-    "forfeit": true
-   },
-   "guest": {
-    "id": 165537,
-    "name": "Oberland United",
-    "clubId": 1166,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -740,34 +656,6 @@
    "confirmed": false,
    "status": "scheduled",
    "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2898557,
-   "ligaId": 54311,
-   "seasonId": 2026,
-   "matchDay": 7,
-   "kickoffDate": "2026-11-28",
-   "kickoffTime": "17:00",
-   "timeTbd": false,
-   "kickoffUtc": "2026-11-28T16:00:00.000Z",
-   "home": {
-    "id": 310632,
-    "name": "TSV Schwaben Augsburg",
-    "clubId": 2977,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 198424,
-    "name": "MTV München",
-    "clubId": 606,
-    "forfeit": true
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
