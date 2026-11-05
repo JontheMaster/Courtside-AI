@@ -1,3 +1,4 @@
+import { renderMethodik } from './methodik.js';
 // COURTSIDE AI – Oberfläche (statisch, ohne Framework). Liest die vom Build erzeugten JSON-Dateien.
 const app = document.getElementById('app');
 const cache = new Map();
@@ -31,9 +32,28 @@ const store = {
 function form(list) {
   return `<span class="form">${(list || []).map((r) => `<i class="${r}" title="${r === 'W' ? 'Sieg' : 'Niederlage'}">${r === 'W' ? 'S' : 'N'}</i>`).join('') || '<span class="muted">–</span>'}</span>`;
 }
-function probbar(p) {
-  return `<div class="probbar" role="img" aria-label="Heimsieg ${pct(p)}"><i class="h" style="width:${p * 100}%"></i><i class="g" style="width:${(1 - p) * 100}%"></i></div>`;
+function probbar(p, label = 'Heimsieg') {
+  return `<div class="probbar" role="img" aria-label="${label} ${pct(p)}"><i class="h" style="width:${p * 100}%"></i><i class="g" style="width:${(1 - p) * 100}%"></i></div>`;
 }
+
+// Sicht des Post SV: Modelle rechnen intern mit P(Heimsieg); angezeigt wird Sieg/Niederlage für den Verein.
+function clubView(side, p) {
+  const win = side === 'home' ? p.p : 1 - p.p;
+  const [own, opp] = side === 'home' ? [p.home, p.guest] : [p.guest, p.home];
+  return {
+    winProb: win,
+    tip: win >= 0.5 ? 'Sieg' : 'Niederlage',
+    tipProb: win >= 0.5 ? win : 1 - win,
+    score: `${own}:${opp}`,
+    margin: p.margin == null ? null : side === 'home' ? p.margin : -p.margin,
+  };
+}
+function clubResult(g) {
+  if (g.status !== 'final') return null;
+  const [own, opp] = g.clubSide === 'home' ? [g.homeScore, g.guestScore] : [g.guestScore, g.homeScore];
+  return { win: own > opp, label: own > opp ? 'Sieg' : 'Niederlage', score: `${own}:${opp}` };
+}
+const tipBadge = (v) => `<b class="${v.tip === 'Sieg' ? 'tip-win' : 'tip-loss'}">${v.tip}</b>`;
 const dot = (id) => `<span class="dot" style="background:${color(id)}"></span>`;
 
 // ---------- Dashboard ----------
@@ -96,9 +116,12 @@ function gameRow(g, modelId) {
   else if (!p) pred = `<span class="muted small">${done ? 'keine Live-Prognose vor Anpfiff' : g.ratingLeague ? 'Prognose ab 14 Tage vor dem Spiel' : 'keine vergleichbare Datenbasis'}</span>`;
   else {
     const hit = done ? (p.p >= 0.5) === (g.homeScore > g.guestScore) : null;
-    pred = `<div class="row"><span>${dot(modelId)}Heim ${pct(p.p)}</span><span class="muted">${p.home}:${p.guest}</span></div>${probbar(p.p)}
+    const v = clubView(g.clubSide, p);
+    pred = `<div class="row"><span>${dot(modelId)}Tipp: ${tipBadge(v)} ${pct(v.tipProb)}</span><span class="muted" title="Post SV zuerst">${v.score}</span></div>${probbar(v.winProb, 'Siegchance Post SV')}
       <div class="row"><span class="badge ${p.confidence}">${CONF[p.confidence]}</span>${hit == null ? '' : `<span class="badge ${hit ? 'hit' : 'miss'}">${hit ? 'Treffer' : 'daneben'}</span>`}</div>`;
   }
+  const res = clubResult(g);
+  if (res) pred = `<div class="row" style="margin-bottom:.3rem"><span>Ergebnis: <b class="${res.win ? 'tip-win' : 'tip-loss'}">${res.label}</b></span><span>${res.score}</span></div>${pred}`;
   const score = (side) => (done ? `<b>${side === 'home' ? g.homeScore : g.guestScore}</b>` : '');
   return `<a class="game" href="#/match/${g.matchId}">
     <div class="when"><b>${fmtDate(g.kickoffUtc)}</b>${g.kickoffTime ? `${g.kickoffTime} Uhr` : 'Uhrzeit offen'}</div>
@@ -134,20 +157,25 @@ async function matchPage(id) {
         <div><div class="name">${esc(d.guest.name)}</div><div class="muted small">Gast</div></div>
       </div>
       ${d.status !== 'scheduled' && d.status !== 'final' ? `<p class="note">Status: ${STATUS[d.status]}${d.forfeitBy ? ` (${d.forfeitBy === 'home' ? 'Heim' : d.forfeitBy === 'guest' ? 'Gast' : 'unbekannt'})` : ''}. Wird nicht als sportliches Ergebnis gewertet.</p>` : ''}
+      ${clubResult(d) ? `<p style="text-align:center;margin:.6rem 0 0">Post SV: <b class="${clubResult(d).win ? 'tip-win' : 'tip-loss'}">${clubResult(d).label}</b> ${clubResult(d).score}</p>` : ''}
       ${done && !d.confirmed ? '<p class="muted small">Ergebnis eingetragen, aber noch nicht bestätigt.</p>' : ''}
     </div>
     ${d.note ? `<p class="note">${esc(d.note)}</p>` : ''}
 
     <h2>Modellvergleich ${done ? '(finale Prognosen vor Anpfiff)' : '(aktueller Stand)'}</h2>
     ${preds.length ? `<div class="card tablewrap"><table>
-      <thead><tr><th>Modell</th><th>Tipp</th><th class="num">Heimsieg</th><th class="num">Endstand</th><th class="num">Differenz</th><th>Sicherheit</th><th>Erstellt</th></tr></thead>
-      <tbody>${preds.map(([mid, p]) => `<tr>
+      <thead><tr><th>Modell</th><th>Tipp Post SV</th><th class="num">Siegchance Post SV</th><th class="num">Endstand (Post SV zuerst)</th><th class="num">Differenz</th><th>Sicherheit</th><th>Erstellt</th></tr></thead>
+      <tbody>${preds.map(([mid, p]) => {
+        const v = clubView(d.clubSide, p);
+        const hit = (p.p >= 0.5) === (d.homeScore > d.guestScore);
+        return `<tr>
         <td>${dot(mid)}${esc(modelName(mid))}<div class="muted small">v${esc(p.version)}</div></td>
-        <td>${p.winner === 'HOME' ? 'Heim' : 'Gast'}${done ? ` <span class="badge ${(p.p >= 0.5) === (d.homeScore > d.guestScore) ? 'hit' : 'miss'}">${(p.p >= 0.5) === (d.homeScore > d.guestScore) ? 'Treffer' : 'daneben'}</span>` : ''}</td>
-        <td class="num">${pct(p.p)}${probbar(p.p)}</td><td class="num">${p.home}:${p.guest}</td><td class="num">${signed(p.margin)}</td>
-        <td><span class="badge ${p.confidence}">${CONF[p.confidence]}</span></td><td class="small muted">${fmtDT(p.createdAt)}</td></tr>`).join('')}</tbody></table></div>`
+        <td>${tipBadge(v)}${done ? ` <span class="badge ${hit ? 'hit' : 'miss'}">${hit ? 'Treffer' : 'daneben'}</span>` : ''}</td>
+        <td class="num">${pct(v.winProb)}${probbar(v.winProb, 'Siegchance Post SV')}</td><td class="num">${v.score}</td><td class="num">${signed(v.margin)}</td>
+        <td><span class="badge ${p.confidence}">${CONF[p.confidence]}</span></td><td class="small muted">${fmtDT(p.createdAt)}</td></tr>`;
+      }).join('')}</tbody></table></div>`
       : `<div class="card empty">${done ? 'Für dieses Spiel gab es vor Anpfiff keine Live-Prognose (das System lief damals noch nicht oder das Spiel lag außerhalb des Zeitfensters).' : 'Noch keine Prognose. Prognosen entstehen ab 14 Tage vor dem Spiel.'}</div>`}
-    ${d.backtest ? `<p class="muted small" style="margin-top:.6rem">Backtest (nachträglich gerechnet, nur mit Ergebnissen vor dem Spiel): ${Object.entries(d.backtest).map(([mid, p]) => `${dot(mid)}${esc(modelName(mid))} ${pct(p.p)} (${p.home}:${p.guest})`).join(' · ')}</p>` : ''}
+    ${d.backtest ? `<p class="muted small" style="margin-top:.6rem">Backtest (nachträglich gerechnet, nur mit Ergebnissen vor dem Spiel): ${Object.entries(d.backtest).map(([mid, p]) => { const v = clubView(d.clubSide, p); return `${dot(mid)}${esc(modelName(mid))} ${v.tip} ${pct(v.tipProb)} (${v.score})`; }).join(' · ')}</p>` : ''}
 
     ${s ? `
     <h2>Teamvergleich</h2>
@@ -317,182 +345,9 @@ function breakdown(ids, reports, key, labelKey, labelFn = (v) => v) {
     }).join('')}</tr>`).join('')}</tbody></table><p class="muted small">Je Zelle: Accuracy · Brier Score</p></div>`;
 }
 
-// ---------- Methodik ----------
-const REPO = 'https://github.com/JontheMaster/Courtside-AI';
-const logit = (p) => Math.log(p / (1 - p));
-const logistic = (x) => 1 / (1 + Math.exp(-x));
-function normCdf(z) {
-  const t = 1 / (1 + 0.3275911 * Math.abs(z) / Math.SQRT2);
-  const y = 1 - (((((1.061405429 * t - 1.453152027) * t) + 1.421413741) * t - 0.284496736) * t + 0.254829592) * t * Math.exp(-(z * z) / 2);
-  return z >= 0 ? 0.5 * (1 + y) : 0.5 * (1 - y);
-}
-
-function paramTable(model, rows) {
-  if (!model?.params) return '';
-  const ags = Object.keys(model.params);
-  return `<div class="tablewrap"><table class="small"><thead><tr><th>Parameter</th>${ags.map((a) => `<th class="num">${esc(a)}</th>`).join('')}</tr></thead>
-    <tbody>${rows.map(([k, label]) => `<tr><td>${esc(label)}</td>${ags.map((a) => `<td class="num">${esc(Number(model.params[a][k]).toLocaleString('de-DE'))}</td>`).join('')}</tr>`).join('')}</tbody></table></div>
-    <p class="muted small">Startwerte bzw. Ergebnis des Tunings. Ein getunter Wert wird nur übernommen, wenn er auf der zweiten Saisonhälfte, die beim Tuning nicht verwendet wurde, nicht schlechter abschneidet.</p>`;
-}
-
+// ---------- Methodik (eigene Datei) ----------
 async function aboutPage() {
-  let champ = null;
-  try { champ = await load('championship.json'); } catch {}
-  const m = Object.fromEntries(META.models.map((x) => [x.id, x]));
-  const eloP = m.elo?.params?.Senioren || { k: 64, hfa: 30, eloPerPoint: 12, shrinkN0: 0.5 };
-
-  // Rechenbeispiele werden mit den echten Formeln und Parametern berechnet
-  const ex = { pH: 0.7, pG: 0.4, home: 0.55 };
-  const log5 = (ex.pH * (1 - ex.pG)) / (ex.pH * (1 - ex.pG) + ex.pG * (1 - ex.pH));
-  const baseP = logistic(logit(log5) + logit(ex.home));
-  const eloDiff = 1550 + eloP.hfa - 1500;
-  const eloP1 = 1 / (1 + 10 ** (-eloDiff / 400));
-  const w = 3 / (3 + eloP.shrinkN0);
-  const eloFinal = w * eloP1 + (1 - w) * ex.home;
-  const eloGain = eloP.k * Math.log(10 + 1) * 2.2 / (eloDiff * 0.001 + 2.2) * (1 - eloP1);
-  const rt = { hfa: 2, rh: 6, rg: -4, sigma: 16 };
-  const rtMargin = rt.hfa + rt.rh - rt.rg;
-  const rtP = normCdf(rtMargin / rt.sigma);
-  const bt = champ?.backtestAll || [];
-
-  app.innerHTML = `
-    <h1>Methodik</h1>
-    <p class="muted">So entstehen die Prognosen, vom Rohdatensatz bis zur Rangliste. Alle Zahlen auf dieser Seite stammen aus den aktuellen Daten und Einstellungen. Der vollständige Quellcode und jede gespeicherte Prognose liegen öffentlich im <a href="${REPO}" target="_blank" rel="noopener">GitHub-Repository</a>.</p>
-
-    <nav class="toc card" aria-label="Inhalt">
-      ${[['daten', '1. Datenquelle'], ['aufbereitung', '2. Aufbereitung'], ['ablauf', '3. Ablauf einer Prognose'], ['baseline', '4. Baseline'], ['elo', '5. Elo'], ['rating', '6. Ratingmodell'], ['unsicherheit', '7. Wenig Daten'], ['ki', '8. ML & KI'], ['fixierung', '9. Fixierung'], ['bewertung', '10. Bewertung'], ['backtest', '11. Backtest'], ['grenzen', '12. Grenzen']]
-        .map(([id, t]) => `<button type="button" data-goto="${id}">${t}</button>`).join('')}
-    </nav>
-
-    <section id="daten"><h2>1. Woher die Daten kommen</h2>
-    <div class="card prose">
-      <p>Alle Daten stammen aus der öffentlichen Schnittstelle von <b>basketball-bund.net</b> (TeamSL, Deutscher Basketball Bund). Abgerufen werden nur öffentliche Spielpläne und Ergebnisse, lesend und ohne Login. Ein automatischer Job ruft sie stündlich ab.</p>
-      <ul>
-        <li><b>Post-SV-Ligen:</b> alle Ligen, in denen der ${esc(META.club.name)} mit einer Mannschaft der Altersklassen ${META.ageGroups.join(', ')} spielt (${META.counts.coreLeagues} Ligen). Mini-Ligen (U12 und jünger) sind komplett ausgeschlossen, weil dort anders gespielt wird.</li>
-        <li><b>Trainingsligen:</b> weitere Ligen ab U14 der Vereine, gegen die der Post SV spielt (Bayern). Sie werden nicht angezeigt, verbessern aber die Abstimmung der Modelle je Altersklasse. Insgesamt ${META.counts.leagues} Ligen mit ${META.counts.trainingGames} gewerteten Spielen.</li>
-        <li><b>Nicht verwendet:</b> Spieler-, Kader-, Schiedsrichter- oder Live-Daten. Die API liefert sie entweder nicht oder es sind Personendaten. Die Modelle kennen also nur Endstände, Termine und Heimrecht.</li>
-        <li>Ältere Spielzeiten sind über die Schnittstelle nicht abrufbar. Das Projekt speichert deshalb ab jetzt jede Saison selbst.</li>
-      </ul>
-    </div></section>
-
-    <section id="aufbereitung"><h2>2. Wie die Daten aufbereitet werden</h2>
-    <div class="card prose">
-      <table class="small"><thead><tr><th>Fall</th><th>Behandlung</th></tr></thead><tbody>
-        <tr><td>Ergebnis eingetragen und bestätigt</td><td>normal gewertet</td></tr>
-        <tr><td>Ergebnis eingetragen, nicht bestätigt</td><td>gewertet und markiert. Viele Ergebnisse werden erst spät oder gar nicht bestätigt, ohne sie fehlte etwa die Hälfte der Daten. Ändert sich ein Ergebnis später, wird es neu berechnet.</td></tr>
-        <tr><td>Spiel abgesagt</td><td>zählt nicht, weder als Sieg noch als Niederlage</td></tr>
-        <tr><td>Verzicht / Team zurückgezogen</td><td>zählt nicht als sportliches Ergebnis und wird nicht prognostiziert</td></tr>
-        <tr><td>Spiel vorbei, aber kein Ergebnis</td><td>„Ergebnis fehlt“, zählt nicht</td></tr>
-        <tr><td>Pokal- oder Vorbereitungsspiel</td><td>fließt nicht in die Ligastärken ein. Ein Pokalspiel wird nur prognostiziert, wenn beide Teams in derselben Liga spielen. Dann gilt deren Ligastärke.</td></tr>
-        <tr><td>Uhrzeit nicht angesetzt</td><td>als 0:00 Uhr des Spieltags behandelt</td></tr>
-        <tr><td>Verlegung</td><td>Die API kennt keine Verlegungen. Termin- und Ergebnisänderungen werden bei jedem Abruf erkannt und protokolliert.</td></tr>
-      </tbody></table>
-      <p>Wichtig: <b>Jede Liga wird getrennt bewertet.</b> Ein Team, das in der U16-Bezirksoberliga stark ist, wird nicht mit Teams einer Landesliga verglichen. Stärken sind immer relativ zur eigenen Liga.</p>
-    </div></section>
-
-    <section id="ablauf"><h2>3. Ablauf einer Prognose</h2>
-    <div class="card prose">
-      <ol class="steps">
-        <li><b>Spiel auswählen:</b> Jedes Post-SV-Spiel der nächsten 14 Tage.</li>
-        <li><b>Historie bilden:</b> alle gewerteten Spiele derselben Liga, die <b>vor</b> diesem Spiel angepfiffen wurden. Spätere Ergebnisse oder die aktuelle Tabelle werden nie verwendet.</li>
-        <li><b>Kennzahlen berechnen:</b> für beide Teams Bilanz, Punkte und Gegenpunkte pro Spiel, Korbdifferenz, Form der letzten 3 und 5 Spiele, Serie, Heim- und Auswärtsbilanz, Gegnerstärke (Siegquote der bisherigen Gegner gegen andere Teams), direkte Duelle und Ergebnisse gegen gemeinsame Gegner. Für die Liga: Heimsiegquote und Punkteschnitt.</li>
-        <li><b>Modelle rechnen unabhängig:</b> Jedes Modell bekommt dieselbe Historie und liefert Heimsieg-Wahrscheinlichkeit, erwartete Punktedifferenz und Endstand.</li>
-        <li><b>Speichern:</b> Die Prognose wird mit Zeitstempel, Modellversion und einem Fingerabdruck der Eingabedaten (Input-Hash) gespeichert. Ändert sich der Datenstand, kommt eine neue Prognose dazu, die alte bleibt erhalten.</li>
-        <li><b>Fixieren und bewerten:</b> ${META.lockMinutes / 60} h vor Anpfiff wird eingefroren. Nach dem Spiel wird die eingefrorene Prognose mit dem Ergebnis verglichen.</li>
-      </ol>
-      <p class="muted small">Der Endstand jedes Modells entsteht so: Die erwarteten Punkte beider Teams ergeben sich aus Angriff (eigene Punkte pro Spiel) und Verteidigung des Gegners (dessen Gegenpunkte pro Spiel). Die Summe wird dann so aufgeteilt, dass sie zur vom Modell erwarteten Punktedifferenz passt.</p>
-    </div></section>
-
-    <section id="baseline"><h2>4. Modell: Baseline (Siegquote)</h2>
-    <div class="card prose">
-      <p>Die einfachste sinnvolle Prognose dient als Vergleichsmaßstab: Wer bisher öfter gewonnen hat, gewinnt wahrscheinlich wieder. Ein Modell, das die Baseline nicht schlägt, bringt keinen Mehrwert.</p>
-      <p class="formula">Siegquote (geglättet) = (Siege + 1,5) / (Spiele + 3)</p>
-      <p class="formula">log5 = q<sub>H</sub>·(1 − q<sub>G</sub>) / [q<sub>H</sub>·(1 − q<sub>G</sub>) + q<sub>G</sub>·(1 − q<sub>H</sub>)]</p>
-      <p class="formula">P(Heimsieg) = logistic( logit(log5) + logit(Heimsiegquote der Liga) )</p>
-      <p><b>Beispiel:</b> Heim ${pct(ex.pH)}, Gast ${pct(ex.pG)} geglättete Siegquote, Liga-Heimsiegquote ${pct(ex.home)} → log5 = ${pct(log5, 1)} → mit Heimvorteil <b>${pct(baseP, 1)}</b> Heimsieg.</p>
-    </div></section>
-
-    <section id="elo"><h2>5. Modell: Elo</h2>
-    <div class="card prose">
-      <p>Jedes Team startet in seiner Liga mit 1500 Punkten. Nach jedem Spiel gibt der Verlierer Punkte an den Sieger ab. Ein überraschender Sieg bringt viele Punkte, ein erwarteter wenige. Die Punktedifferenz verstärkt die Änderung, aber logarithmisch gedämpft, damit Kantersiege in der Jugend nicht alles dominieren.</p>
-      <p class="formula">Erwartung E = 1 / (1 + 10<sup>−(Elo<sub>H</sub> + Heimvorteil − Elo<sub>G</sub>) / 400</sup>)</p>
-      <p class="formula">Änderung = K · ln(|Differenz| + 1) · 2,2 / (0,001 · Elo-Vorsprung des Siegers + 2,2) · (Ergebnis − E)</p>
-      <p class="formula">erwartete Punktedifferenz = (Elo<sub>H</sub> + Heimvorteil − Elo<sub>G</sub>) / Elo-Punkte pro Korbpunkt</p>
-      <p><b>Beispiel</b> (Senioren-Parameter, K = ${eloP.k}): Heim 1550, Gast 1500, Heimvorteil ${eloP.hfa} → Abstand ${eloDiff} → E = <b>${pct(eloP1, 1)}</b>. Hat das schwächer belegte Team erst 3 Spiele, zählt Elo nur mit Gewicht ${num(w, 2)}, der Rest kommt von der Liga-Heimquote (${pct(ex.home)}): <b>${pct(eloFinal, 1)}</b>. Gewinnt das Heimteam mit 10 Punkten, steigt es um ${num(eloGain, 1)} Punkte.</p>
-      ${paramTable(m.elo, [['k', 'K-Faktor (Lerngeschwindigkeit)'], ['hfa', 'Heimvorteil (Elo-Punkte)'], ['eloPerPoint', 'Elo-Punkte pro Korbpunkt'], ['shrinkN0', 'Glättung (Pseudo-Spiele)']])}
-    </div></section>
-
-    <section id="rating"><h2>6. Modell: Statistisches Ratingmodell</h2>
-    <div class="card prose">
-      <p>Dieses Modell sucht für jedes Team <b>eine Stärke in Punkten</b> und für die Liga einen Heimvorteil, und zwar so, dass sie alle bisherigen Ergebnisse gemeinsam möglichst gut erklären. Anders als Elo wertet es jedes Ergebnis zusammen mit allen anderen aus. Schlägt A das Team B, und B schlägt C deutlich, fließt das sofort in die Einschätzung von A gegenüber C ein. Gegnerstärke und gemeinsame Gegner sind so automatisch berücksichtigt.</p>
-      <p class="formula">Differenz<sub>Spiel</sub> ≈ Heimvorteil + Stärke<sub>Heim</sub> − Stärke<sub>Gast</sub></p>
-      <p class="formula">minimiere Σ (tatsächliche − erklärte Differenz)² + λ · Σ Stärke²</p>
-      <p class="formula">P(Heimsieg) = Φ( erwartete Differenz / σ )</p>
-      <p>Der Strafterm λ zieht alle Stärken zur 0 (Ligadurchschnitt). Wer nur 2 Spiele hat, bekommt deshalb vorsichtigere Werte als jemand mit 8. Differenzen über ±40 werden gekappt. σ ist die typische Abweichung der Ergebnisse von der Erwartung und wird aus den bisherigen Spielen geschätzt. Φ ist die Normalverteilung.</p>
-      <p><b>Beispiel:</b> Heimvorteil ${rt.hfa}, Stärke Heim ${signed(rt.rh, 0)}, Gast ${signed(rt.rg, 0)} → erwartete Differenz ${signed(rtMargin, 0)} Punkte; mit σ = ${rt.sigma} → <b>${pct(rtP, 1)}</b> Heimsieg.</p>
-      ${paramTable(m.rating, [['lambda', 'λ Regularisierung (Pseudo-Spiele)'], ['hfa0', 'Startwert Heimvorteil (Punkte)'], ['marginCap', 'Kappung der Differenz'], ['sigma0', 'Startwert Streuung σ']])}
-    </div></section>
-
-    <section id="unsicherheit"><h2>7. Umgang mit wenig Daten</h2>
-    <div class="card prose">
-      <p>Jugendteams haben oft nur 4 bis 8 Spiele pro Saison. Damit die Modelle nach zwei Spielen keine 95-%-Prognosen abgeben, gilt:</p>
-      <ul>
-        <li><b>Regression zur Mitte:</b> Alle Kennzahlen werden mit „Pseudo-Spielen“ zum Ligadurchschnitt gezogen. Je mehr echte Spiele, desto weniger wirkt das.</li>
-        <li><b>Datenbasis-Kennzeichnung</b> nach dem schwächer belegten Team: gering (0–2 Spiele), mittel (3–5), solide (6+).</li>
-        <li><b>Sicherheit</b> („unsicher“, „mittel“, „sicher“) hängt von der Datenbasis und davon ab, wie weit die Wahrscheinlichkeit von 50 % entfernt ist. Bei geringer Datenbasis heißt es immer „unsicher“.</li>
-        <li>Vor dem ersten Spiel einer Saison liegen alle Modelle nahe der Heimsiegquote der Liga.</li>
-      </ul>
-    </div></section>
-
-    <section id="ki"><h2>8. Machine Learning und generative KI</h2>
-    <div class="card prose">
-      <table class="small"><tbody>${META.models.map((x) => `<tr><td>${dot(x.id)}${esc(x.name)}</td><td>${x.enabled ? '<span class="badge high">aktiv</span>' : '<span class="badge">inaktiv</span>'}</td><td class="muted">${esc(x.reason || (x.version ? `Version ${x.version}` : ''))}</td></tr>`).join('')}</tbody></table>
-      <p><b>Machine Learning</b> wird erst aktiviert, wenn genug Spiele vorliegen. Mit wenigen hundert Spielen lernt ein ML-Modell die Zufälle der Stichprobe auswendig und sieht im Test besser aus, als es ist.</p>
-      <p><b>Generative KI</b> bekommt, sobald aktiviert, genau die Kennzahlen aus Schritt 3 als strukturierte Daten, ohne Teamnamen. Sie muss im festen JSON-Format antworten (Sieger, Wahrscheinlichkeit, Endstand, Sicherheit, Begründung). Ungültige Antworten werden verworfen. Sie darf nichts erfinden, und gleiche Eingaben werden nicht erneut gesendet.</p>
-    </div></section>
-
-    <section id="fixierung"><h2>9. Warum man den Prognosen trauen kann</h2>
-    <div class="card prose">
-      <ul>
-        <li>Prognosen werden in einer Datei nur <b>angehängt</b>, nie geändert oder gelöscht.</li>
-        <li>Ab <b>${META.lockMinutes / 60} Stunden vor Anpfiff</b> entsteht keine neue Prognose mehr. Gewertet wird die letzte Prognose davor.</li>
-        <li>Bei jedem Lauf prüft ein automatischer Test, dass keine alte Zeile verändert wurde und jede Prognose vor der Sperrzeit lag. Sonst bricht der Lauf ab.</li>
-        <li>Jede Änderung ist mit Zeitstempel in der <a href="${REPO}/commits/main/data/predictions" target="_blank" rel="noopener">Git-Historie</a> nachvollziehbar.</li>
-      </ul>
-    </div></section>
-
-    <section id="bewertung"><h2>10. Wie die Modelle bewertet werden</h2>
-    <div class="card prose">
-      <table class="small"><thead><tr><th>Maß</th><th>Bedeutung</th><th>Beispiel</th></tr></thead><tbody>
-        <tr><td><b>Accuracy</b></td><td>Anteil richtig getippter Sieger</td><td>13 von 20 richtig = 65 %</td></tr>
-        <tr><td><b>Brier Score</b> ↓</td><td>mittlere quadratische Abweichung zwischen Wahrscheinlichkeit und Ergebnis (1 oder 0). Bewertet auch, ob die Sicherheit angemessen war. <b>Hauptwertung der Championship.</b></td><td>70 % und Sieg: (1 − 0,7)² = 0,09; 70 % und Niederlage: 0,49. Immer 50 % tippen ergibt 0,25.</td></tr>
-        <tr><td><b>Log Loss</b> ↓</td><td>bestraft sehr selbstsichere Fehlprognosen besonders hart</td><td>95 % und Niederlage: 3,0; 60 % und Niederlage: 0,92</td></tr>
-        <tr><td><b>MAE</b> ↓</td><td>mittlere Abweichung der erwarteten von der tatsächlichen Punktedifferenz</td><td>+8 erwartet, +20 gespielt → 12</td></tr>
-        <tr><td><b>Kalibrierung</b></td><td>Gewinnen Favoriten mit 70 % Siegchance auch in etwa 70 % der Fälle?</td><td>siehe Performance-Seite</td></tr>
-      </tbody></table>
-      <p>Zu jeder Quote wird ein <b>95-%-Intervall</b> angegeben (Wilson-Intervall). Unterschiede zwischen Modellen werden per Bootstrap geprüft. Unter 30 ausgewerteten Spielen gilt ein Ergebnis als <b>nicht belastbar</b>.</p>
-    </div></section>
-
-    <section id="backtest"><h2>11. Backtest: Test an vergangenen Spielen</h2>
-    <div class="card prose">
-      <p>Damit man nicht eine ganze Saison warten muss, werden die bisherigen Spiele nachgespielt (Walk-Forward). Das System geht chronologisch durch die Saison. Für jedes Spiel prognostiziert es nur mit den Ergebnissen davor, erst danach „erfährt“ es das Ergebnis. Gleichzeitig angepfiffene Spiele sehen einander nicht. Ein automatischer Test verfälscht spätere Ergebnisse und prüft, dass sich frühere Prognosen dadurch nicht ändern.</p>
-      ${bt.length ? `<p>Aktueller Stand über alle erfassten Ligen:</p><div class="tablewrap"><table class="small"><thead><tr><th>Modell</th><th class="num">Spiele</th><th class="num">Accuracy</th><th class="num">95 %-Intervall</th><th class="num">Brier</th></tr></thead><tbody>
-        ${bt.map((r) => `<tr><td>${dot(r.modelId)}${esc(modelName(r.modelId))}</td><td class="num">${r.n}</td><td class="num">${pct(r.accuracy, 1)}</td><td class="num">${r.accuracyCI ? `${pct(r.accuracyCI[0])} – ${pct(r.accuracyCI[1])}` : '–'}</td><td class="num">${num(r.brier, 3)}</td></tr>`).join('')}
-      </tbody></table></div>` : ''}
-      <p class="muted small">Einschränkung: Die Startwerte des Elo-Modells wurden nach einer ersten Analyse dieser Saison gewählt, sind also nicht völlig unabhängig von diesen Spielen. Wirklich unabhängig ist erst die Live-Wertung.</p>
-    </div></section>
-
-    <section id="grenzen"><h2>12. Grenzen</h2>
-    <div class="card prose">
-      <ul>
-        <li>Die Modelle wissen nichts über Kader, Ausfälle, Spielerwechsel oder Motivation. Sie sehen nur Ergebnisse.</li>
-        <li>Zu Saisonbeginn und in kleinen Jugendligen sind die Prognosen naturgemäß unsicher.</li>
-        <li>Ob ein Wettbewerb ein Pokal ist, wird am Namen erkannt. Die Schnittstelle liefert dafür kein eigenes Feld.</li>
-        <li>Prognosen sind Wahrscheinlichkeiten, keine Gewissheiten: Bei 70 % verliert der Favorit in drei von zehn Spielen. Das ist kein Fehler des Modells.</li>
-      </ul>
-    </div></section>`;
-
-  app.querySelectorAll('[data-goto]').forEach((b) => b.addEventListener('click', () => document.getElementById(b.dataset.goto)?.scrollIntoView({ behavior: 'smooth', block: 'start' })));
+  await renderMethodik(app, { META, load, esc, pct, num, signed, dot, modelName });
 }
 
 // ---------- Router ----------
