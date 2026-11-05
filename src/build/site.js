@@ -44,7 +44,7 @@ export function buildSite(store, outDir = path.join(config.siteDir, 'data')) {
       // tatsächlich verwendete Parameter je Altersklasse (für die Methodik-Seite)
       params: Object.fromEntries(config.ageGroups.map((ag) => [ag, paramsFor(m, ag, allParams)])),
     })),
-    { id: ml.id, name: ml.name, version: null, ...ml.status({ trainingGames }) },
+    { id: ml.id, name: ml.name, version: modelVersion(ml, {}), ...ml.status(store), mlStatus: store.readJson('ml/status.json', null) },
     { id: llm.id, name: llm.name, version: modelVersion(llm, {}), ...llm.status() },
   ];
   const modelIds = models.filter((m) => m.enabled).map((m) => m.id);

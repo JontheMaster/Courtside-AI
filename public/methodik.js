@@ -26,13 +26,27 @@ export async function renderMethodik(app, { META, load, esc, pct, num, signed, d
     <label class="ctl"><span>${label}</span><input type="range" id="${id}" min="${min}" max="${max}" step="${step}" value="${value}"><output id="${id}-v"></output></label>`;
   const toggle = (id, label, checked) => `<label class="ctl ctl-check"><input type="checkbox" id="${id}" ${checked ? 'checked' : ''}><span>${label}</span></label>`;
   const details = (title, body) => `<details class="tech"><summary>${title}</summary><div>${body}</div></details>`;
+  const mlStatus = models.ml?.mlStatus;
+  const mlBlock = () => {
+    if (!mlStatus) return '<p class="muted">Das Modell wurde noch nicht im Backtest geprüft.</p>';
+    const same = mlStatus.sameGames || {};
+    const order = Object.entries(same).filter(([, m]) => m.n).sort((a, b) => a[1].brier - b[1].brier);
+    return `
+      <p>Status: ${mlStatus.activeLive ? '<span class="badge high">tippt live mit</span>' : '<span class="badge">tippt noch nicht live</span>'} ${esc(mlStatus.reason)}</p>
+      <p><b>Was hat der Lernende herausgefunden?</b> Die Balken zeigen, welche Hinweise er am meisten nutzt. Tippe auf einen Balken für eine Erklärung.</p>
+      <div class="widget"><div class="bars" id="ml-imp"></div><div class="result small" id="ml-imp-info"></div></div>
+      ${order.length ? `<p><b>Fairer Vergleich</b> auf denselben ${order[0][1].n} Spielen, die das ML-Modell im Backtest getippt hat:</p>
+      <div class="tablewrap"><table class="small"><thead><tr><th>Tipper</th><th class="num">Treffer</th><th class="num">Strafpunkte (Brier)</th><th class="num">Ø Abweichung Punkte</th></tr></thead><tbody>
+        ${order.map(([id, m]) => `<tr><td>${dot(id)}${esc(modelName(id))}</td><td class="num">${pct(m.accuracy, 1)}</td><td class="num">${num(m.brier, 3)}</td><td class="num">${num(m.mae)}</td></tr>`).join('')}
+      </tbody></table></div>` : ''}`;
+  };
 
   app.innerHTML = `
     <h1>Methodik</h1>
     <p class="lead">Wie kommt eine Prognose zustande, und woher weiß man, ob sie etwas taugt? Diese Seite erklärt es Schritt für Schritt. Vorwissen braucht man dafür nicht. An den <b>Reglern</b> kannst du selbst ausprobieren, wie die Modelle rechnen. Wer es genauer wissen will, klappt die Abschnitte <b>„Für Technikinteressierte“</b> auf.</p>
 
     <nav class="toc card" aria-label="Inhalt">
-      ${[['idee', 'Die Idee'], ['daten', 'Daten'], ['ablauf', 'Ablauf'], ['baseline', 'Tipper 1: Siegquote'], ['elo', 'Tipper 2: Elo'], ['rating', 'Tipper 3: Ratingmodell'], ['ki', 'ML & KI'], ['wenig', 'Wenig Daten'], ['vertrauen', 'Fälschungssicher'], ['bewertung', 'Bewertung'], ['backtest', 'Backtest'], ['grenzen', 'Grenzen'], ['glossar', 'Glossar']]
+      ${[['idee', 'Die Idee'], ['daten', 'Daten'], ['ablauf', 'Ablauf'], ['baseline', 'Tipper 1: Siegquote'], ['elo', 'Tipper 2: Elo'], ['rating', 'Tipper 3: Ratingmodell'], ['ki', 'Tipper 4: ML'], ['llm', 'KI'], ['wenig', 'Wenig Daten'], ['vertrauen', 'Fälschungssicher'], ['bewertung', 'Bewertung'], ['backtest', 'Backtest'], ['grenzen', 'Grenzen'], ['glossar', 'Glossar']]
         .map(([id, t]) => `<button type="button" data-goto="${id}">${t}</button>`).join('')}
     </nav>
 
@@ -78,7 +92,7 @@ export async function renderMethodik(app, { META, load, esc, pct, num, signed, d
     </div></section>
 
     <h2>Die Tipper im Wettbewerb</h2>
-    <p class="muted">Drei Tipper sind aktiv, jeder mit einer anderen Denkweise. Die Rechner unten benutzen dieselben Formeln wie die echten Modelle.</p>
+    <p class="muted">Jeder Tipper hat eine andere Denkweise. Die Rechner unten benutzen dieselben Formeln wie die echten Modelle.</p>
 
     <section id="baseline"><h3 class="mh">${dot('baseline')}Tipper 1: „Wer oft gewinnt, gewinnt wieder“ (Baseline)</h3>
     <div class="card prose">
@@ -146,11 +160,25 @@ export async function renderMethodik(app, { META, load, esc, pct, num, signed, d
         ${paramTable(models.rating, [['lambda', 'λ Regularisierung'], ['hfa0', 'Startwert Heimvorteil (Punkte)'], ['marginCap', 'Kappung der Differenz'], ['sigma0', 'Startwert Streuung σ']], esc)}`)}
     </div></section>
 
-    <section id="ki"><h3 class="mh">Bald dabei: Machine Learning und KI</h3>
+    <section id="ki"><h3 class="mh">${dot('ml')}Tipper 4: Der Lernende (Machine Learning)</h3>
     <div class="card prose">
+      <p><b>Kurz erklärt:</b> Die ersten drei Tipper folgen festen Regeln, die sich ein Mensch ausgedacht hat. Der vierte bekommt keine Regeln, sondern <b>Beispiele</b>: über tausend vergangene Spiele, jeweils mit allen Zahlen von vorher und dem tatsächlichen Ausgang. Daraus sucht er selbst, welche Zahlen wirklich etwas über den Ausgang verraten und wie man sie kombiniert. Auch die Tipps der anderen drei Tipper gehören zu seinen Hinweisen, er kann also lernen, wann welcher von ihnen recht hat.</p>
+      <p>Technisch ist es ein <b>Gradient Boosting</b>: viele kleine Ja/Nein-Entscheidungsbäume („Ist die Form der letzten fünf Spiele besser als +5 Punkte?“), die nacheinander jeweils die Fehler der bisherigen korrigieren.</p>
+      ${mlBlock()}
+      ${details('Für Technikinteressierte: Training und Aktivierung', `
+        <ul>
+          <li><b>Zeitliche Trennung:</b> Im Backtest wird jede Woche neu trainiert, und zwar nur mit Spielen vor Wochenbeginn. Live wird mit allen bisher gespielten Spielen trainiert. Eine zufällige Aufteilung in Trainings- und Testdaten würde Zukunftswissen einschleusen.</li>
+          <li><b>Mindestmenge:</b> Getippt wird erst ab 300 Trainingsspielen. Die frühen Saisonspiele tippt das ML-Modell deshalb nicht, und Vergleiche laufen fair nur auf denselben Spielen.</li>
+          <li><b>Merkmale (${'26'}):</b> Elo- und Ratingmodell-Ausgaben, Siegquote, Korbdifferenz, Angriff/Verteidigung, Form, Serie, Gegnerstärke, gemeinsame Gegner, direkte Duelle, Anzahl Spiele, Liga-Kennzahlen, Altersklasse.</li>
+          <li><b>Modell:</b> Newton-Boosting mit Histogramm-Splits, 150 Bäume der Tiefe 2, Lernrate 0,05, min. 30 Spiele je Blatt, L2-Regularisierung 5. Ein zweites Modell schätzt die Punktedifferenz. Deterministisch, ohne Zufall, also reproduzierbar. Eine logistische Regression lief zum Vergleich mit und war knapp schlechter.</li>
+          <li><b>Live-Freigabe:</b> Das Modell tippt nur mit, wenn es im Backtest auf denselben Spielen einen niedrigeren Brier Score als die Baseline hat, bei mindestens 30 Spielen. Das wird bei jedem Lauf neu geprüft.</li>
+        </ul>`)}
+    </div></section>
+
+    <section id="llm"><h3 class="mh">${dot('llm-anthropic')}Bald dabei: Generative KI</h3>
+    <div class="card prose">
+      <p>Ein Sprachmodell (Claude) bekommt später dieselben Zahlen, ohne Teamnamen, und muss einen Tipp mit kurzer Begründung im festen Format abgeben. Erfinden darf es nichts. Ob ein „schreibendes“ Modell beim Rechnen mithalten kann, ist eine der spannendsten Fragen des Projekts.</p>
       <table class="small"><tbody>${META.models.map((x) => `<tr><td>${dot(x.id)}${esc(x.name)}</td><td>${x.enabled ? '<span class="badge high">aktiv</span>' : '<span class="badge">inaktiv</span>'}</td><td class="muted">${esc(x.reason || '')}</td></tr>`).join('')}</tbody></table>
-      <p><b>Machine Learning</b> lernt Muster selbst aus vielen Beispielspielen. Mit zu wenigen Spielen lernt es aber Zufälle auswendig und wirkt im Test besser, als es ist. Deshalb startet es erst, wenn genug Daten da sind.</p>
-      <p><b>Generative KI</b> (ein Sprachmodell wie Claude) bekommt später dieselben Zahlen, ohne Teamnamen, und muss einen Tipp im festen Format abgeben. Erfinden darf sie nichts.</p>
     </div></section>
 
     <section id="wenig"><h2>Was passiert, wenn es kaum Daten gibt?</h2>
@@ -434,6 +462,44 @@ export async function renderMethodik(app, { META, load, esc, pct, num, signed, d
     drawCal();
   } else {
     $('c-chart').innerHTML = '<p class="muted">Noch keine Backtest-Daten.</p>';
+  }
+
+  // ML: Merkmalswichtigkeit
+  const FEATURE_TEXT = {
+    eloLogit: 'Die Siegchance, die das Elo-Punktekonto ausrechnet. Der Lernende nutzt den Tipp eines anderen Tippers als Hinweis.',
+    eloDiff: 'Wie weit die Elo-Punktekonten beider Teams auseinanderliegen.',
+    ratingMargin: 'Der Punkteabstand, den das Ratingmodell erwartet. Ein Zeichen, dass der „große Vergleicher“ viel richtig macht.',
+    ratingLogit: 'Die Siegchance des Ratingmodells.',
+    ratingSigma: 'Wie zufällig die Ergebnisse in dieser Liga schwanken.',
+    baseLogit: 'Die Siegchance der einfachen Baseline (Siegquoten).',
+    winPctDiff: 'Unterschied der bisherigen Siegquoten.',
+    avgMarginDiff: 'Unterschied der durchschnittlichen Korbdifferenz: Wer gewinnt deutlicher?',
+    offDefDiff: 'Eigener Angriff gegen gegnerische Verteidigung, auf beiden Seiten verglichen.',
+    last5MarginDiff: 'Form: Wie hoch haben die Teams ihre letzten fünf Spiele gewonnen oder verloren? Aktuelle Form zählt offenbar viel.',
+    form5Diff: 'Form: Wie viele der letzten fünf Spiele wurden gewonnen?',
+    streakDiff: 'Aktuelle Sieg- oder Niederlagenserie.',
+    sosDiff: 'Wie stark waren die bisherigen Gegner?',
+    commonDiff: 'Wie haben beide Teams gegen dieselben Gegner abgeschnitten?',
+    commonCount: 'Wie viele gemeinsame Gegner es gibt.',
+    h2hNet: 'Ergebnisse direkter Duelle in dieser Saison.',
+    minGames: 'Wie viele Spiele das weniger erfahrene Team hat, also wie verlässlich die Zahlen sind.',
+    maxGames: 'Wie viele Spiele das erfahrenere Team hat.',
+    historySize: 'Wie viele Spiele die Liga insgesamt schon hat.',
+    leagueHomeLogit: 'Wie oft in dieser Liga das Heimteam gewinnt.',
+    leagueAvgPoints: 'Wie viele Punkte in dieser Liga im Schnitt fallen.',
+  };
+  const imp = (mlStatus?.importance || []).slice(0, 10);
+  if (imp.length && $('ml-imp')) {
+    const max = imp[0].share;
+    $('ml-imp').innerHTML = imp.map((f, i) => `
+      <button type="button" class="barrow" data-imp="${i}">
+        <span class="lbl">${esc(f.label)}</span>
+        <span class="track"><span class="fill" style="width:${(f.share / max) * 100}%;background:var(--m-ml)"></span></span>
+        <span class="val">${pct(f.share, 1)}</span>
+      </button>`).join('');
+    const info = (f) => { $('ml-imp-info').innerHTML = `<b>${esc(f.label)}</b> (${pct(f.share, 1)} Anteil): ${esc(FEATURE_TEXT[f.key] || (f.key.startsWith('age_') ? 'Die Altersklasse: Spielt sie für den Ausgang eine Rolle?' : ''))}`; };
+    $('ml-imp').querySelectorAll('[data-imp]').forEach((b) => b.addEventListener('click', () => info(imp[Number(b.dataset.imp)])));
+    info(imp[0]);
   }
 
   // Backtest-Balken

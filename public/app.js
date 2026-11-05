@@ -1,10 +1,11 @@
 import { renderMethodik } from './methodik.js';
 import { renderStory } from './story.js';
+import { renderPerformance } from './performance.js';
 // COURTSIDE AI – Oberfläche (statisch, ohne Framework). Liest die vom Build erzeugten JSON-Dateien.
 const app = document.getElementById('app');
 const cache = new Map();
 const load = (p) => {
-  if (!cache.has(p)) cache.set(p, fetch(`data/${p}`).then((r) => (r.ok ? r.json() : Promise.reject(new Error(`${p}: HTTP ${r.status}`)))));
+  if (!cache.has(p)) cache.set(p, fetch(`data/${p}`, { cache: 'no-cache' }).then((r) => (r.ok ? r.json() : Promise.reject(new Error(`${p}: HTTP ${r.status}`)))));
   return cache.get(p);
 };
 
@@ -256,94 +257,13 @@ async function championshipPage() {
     <p class="muted small">Nachträglich, aber ohne Zukunftswissen gerechnet (Walk-Forward). Stand ${fmtDT(c.backtestCreatedAt)}.</p>
     ${table(c.backtestPostSv, 'Noch kein Backtest.')}
     <h2>Backtest: alle Spiele der erfassten Ligen</h2>
-    <p class="muted small">Größere Stichprobe aus den Post-SV-Ligen und weiteren Ligen ab U14 der Gegnervereine.</p>
+    <p class="muted small">Größere Stichprobe aus den Post-SV-Ligen und weiteren Ligen ab U14 der Gegnervereine.${c.backtestAll.some((r) => r.modelId === 'ml') ? ' Das ML-Modell tippt erst ab 300 Trainingsspielen und hat daher weniger, eher spätere Spiele. Den fairen Vergleich auf denselben Spielen zeigt die <a href="#/performance">Performance-Seite</a>.' : ''}</p>
     ${table(c.backtestAll, 'Noch kein Backtest.')}`;
 }
 
-// ---------- Performance ----------
+// ---------- Performance (eigene Datei) ----------
 async function performancePage() {
-  const perf = await load('performance.json');
-  const scopes = { postsv: 'Backtest · Post SV', core: 'Backtest · Post-SV-Ligen', all: 'Backtest · alle Ligen', live: 'Live' };
-  let scope = store.get('perfScope', 'all');
-  const render = () => {
-    const reports = scope === 'live' ? perf.live : perf.backtest?.scopes?.[scope]?.models || {};
-    const ids = Object.keys(reports);
-    app.innerHTML = `
-      <h1>Performance</h1>
-      <div class="tabs" role="tablist">${Object.entries(scopes).map(([k, v]) => `<button role="tab" data-s="${k}" class="${k === scope ? 'on' : ''}">${v}</button>`).join('')}</div>
-      ${!ids.length ? '<div class="card empty">Für diese Auswahl gibt es noch keine ausgewerteten Prognosen.</div>' : `
-      <div class="legend" style="margin-bottom:1rem">${ids.map((id) => `<span>${dot(id)}${esc(modelName(id))}</span>`).join('')}</div>
-      <div class="grid two">
-        <div class="card"><h3>Trefferquote über die Saison (kumuliert)</h3>${lineChart(ids, reports, 'accuracy', [0.3, 1])}</div>
-        <div class="card"><h3>Brier Score über die Saison (kumuliert, ↓)</h3>${lineChart(ids, reports, 'brier', [0, 0.35])}</div>
-        <div class="card"><h3>Kalibrierung</h3>${calibChart(ids, reports)}<p class="muted small">Ideal liegt auf der Diagonalen: Bei 70 % angegebener Chance gewinnt der Favorit in 70 % der Fälle.</p></div>
-        <div class="card"><h3>Prognostizierte vs. tatsächliche Differenz</h3>${scatter(ids, reports)}</div>
-      </div>
-      <h2>Nach Anzahl bisheriger Saisonspiele</h2>
-      ${breakdown(ids, reports, 'byExperience', 'bucket')}
-      <h2>Nach Altersklasse</h2>
-      ${breakdown(ids, reports, 'byAgeGroup', 'ageGroup')}
-      <h2>Nach Liga</h2>
-      ${breakdown(ids, reports, 'byLeague', 'ligaId', (v) => perf.leagueNames[v] || v)}`}`;
-    app.querySelectorAll('[data-s]').forEach((b) => b.addEventListener('click', () => {
-      scope = b.dataset.s;
-      store.set('perfScope', scope);
-      render();
-    }));
-  };
-  render();
-}
-
-function lineChart(ids, reports, key, [lo, hi]) {
-  const W = 460, H = 220, L = 34, B = 22;
-  const all = ids.flatMap((id) => reports[id].series || []);
-  if (!all.length) return '<p class="muted">Keine Daten</p>';
-  const maxN = Math.max(...all.map((p) => p.n));
-  const sx = (n) => L + ((n - 1) / Math.max(1, maxN - 1)) * (W - L - 10);
-  const sy = (y) => 8 + (1 - (Math.min(hi, Math.max(lo, y)) - lo) / (hi - lo)) * (H - 8 - B);
-  const ticks = [lo, (lo + hi) / 2, hi];
-  return `<svg class="chart" viewBox="0 0 ${W} ${H}" role="img">
-    ${ticks.map((t) => `<line x1="${L}" x2="${W - 10}" y1="${sy(t)}" y2="${sy(t)}" stroke="var(--line)"/><text x="2" y="${sy(t) + 4}">${key === 'accuracy' ? Math.round(t * 100) + '%' : t.toFixed(2)}</text>`).join('')}
-    ${ids.map((id) => {
-      const s = (reports[id].series || []).filter((p) => p.n >= 10); // die ersten Werte schwanken zu stark
-      return `<polyline fill="none" stroke="${color(id)}" stroke-width="2" points="${s.map((p) => `${sx(p.n).toFixed(1)},${sy(p[key]).toFixed(1)}`).join(' ')}"/>`;
-    }).join('')}
-    <text x="${L}" y="${H - 4}">Spiel 10</text><text x="${W - 60}" y="${H - 4}">Spiel ${maxN}</text></svg>`;
-}
-
-function calibChart(ids, reports) {
-  const S = 240, P = 30;
-  const s = (v) => P + ((v - 0.5) / 0.5) * (S - P - 10);
-  const y = (v) => S - P - v * (S - P - 10) + 0;
-  return `<svg class="chart" viewBox="0 0 ${S} ${S}" style="max-width:320px" role="img">
-    <line x1="${s(0.5)}" y1="${y(0.5)}" x2="${s(1)}" y2="${y(1)}" stroke="var(--line)" stroke-dasharray="4 4"/>
-    <line x1="${P}" x2="${S - 10}" y1="${S - P}" y2="${S - P}" stroke="var(--line)"/><line x1="${P}" x2="${P}" y1="10" y2="${S - P}" stroke="var(--line)"/>
-    <text x="${P - 4}" y="${S - 12}">50%</text><text x="${S - 36}" y="${S - 12}">100%</text><text x="2" y="${y(1) + 4}">100%</text><text x="2" y="${y(0.5) + 4}">50%</text>
-    <text x="${S / 2 - 30}" y="${S - 1}">angegeben</text>
-    ${ids.map((id) => (reports[id].calibration || []).filter((b) => b.n > 0).map((b) => `<circle cx="${s(b.predicted)}" cy="${y(b.observed)}" r="${Math.min(10, 3 + Math.sqrt(b.n) / 2)}" fill="${color(id)}" fill-opacity=".55"><title>${esc(modelName(id))} ${b.range}: angegeben ${pct(b.predicted)}, eingetreten ${pct(b.observed)} (n=${b.n})</title></circle>`).join('')).join('')}
-  </svg>`;
-}
-
-function scatter(ids, reports) {
-  const W = 460, H = 240, M = 60;
-  const sx = (v) => W / 2 + (Math.max(-M, Math.min(M, v)) / M) * (W / 2 - 14);
-  const sy = (v) => H / 2 - (Math.max(-M, Math.min(M, v)) / M) * (H / 2 - 14);
-  return `<svg class="chart" viewBox="0 0 ${W} ${H}" role="img">
-    <line x1="0" x2="${W}" y1="${H / 2}" y2="${H / 2}" stroke="var(--line)"/><line x1="${W / 2}" x2="${W / 2}" y1="0" y2="${H}" stroke="var(--line)"/>
-    <line x1="${sx(-M)}" y1="${sy(-M)}" x2="${sx(M)}" y2="${sy(M)}" stroke="var(--line)" stroke-dasharray="4 4"/>
-    <text x="${W - 70}" y="${H / 2 - 4}">Prognose →</text><text x="${W / 2 + 4}" y="12">tatsächlich ↑</text>
-    ${ids.map((id) => (reports[id].scatter || []).map(([p, a]) => `<circle cx="${sx(p).toFixed(1)}" cy="${sy(a).toFixed(1)}" r="2.2" fill="${color(id)}" fill-opacity=".4"/>`).join('')).join('')}
-  </svg><p class="muted small">Heimsicht, auf ±${M} Punkte begrenzt.</p>`;
-}
-
-function breakdown(ids, reports, key, labelKey, labelFn = (v) => v) {
-  const labels = [...new Set(ids.flatMap((id) => (reports[id][key] || []).map((r) => r[labelKey])))];
-  if (!labels.length) return '<div class="card empty">Keine Daten</div>';
-  return `<div class="card tablewrap"><table><thead><tr><th>Gruppe</th>${ids.map((id) => `<th class="num">${dot(id)}${esc(modelName(id))}</th>`).join('')}</tr></thead>
-    <tbody>${labels.map((l) => `<tr><td>${esc(labelFn(l))}</td>${ids.map((id) => {
-      const r = (reports[id][key] || []).find((x) => x[labelKey] === l);
-      return `<td class="num">${r && r.n ? `${pct(r.accuracy)} · ${num(r.brier, 3)}<div class="muted small">n=${r.n}</div>` : '–'}</td>`;
-    }).join('')}</tr>`).join('')}</tbody></table><p class="muted small">Je Zelle: Accuracy · Brier Score</p></div>`;
+  await renderPerformance(app, { load, esc, pct, num, signed, dot, modelName, store });
 }
 
 // ---------- Methodik (eigene Datei) ----------

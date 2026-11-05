@@ -20,6 +20,7 @@ export async function renderStory(app, { META, load, esc, pct, num, dot, modelNa
     ['Der erste Probelauf', best ? `Die ganze bisherige Saison wurde nachgespielt, mit dem Wissen von damals. Ergebnis: Das Ratingmodell traf ${pct(best.accuracy)} der Sieger, die einfache Siegquote ${pct(base?.accuracy)}. Elo, das berühmte System aus dem Schach, lag ${elo && base && elo.accuracy < base.accuracy ? 'sogar knapp hinter' : 'nur auf Höhe'} der einfachen Siegquote. Der Grund: Bei vier bis acht Spielen pro Saison lernt ein Punktekonto zu langsam.` : 'Die ganze bisherige Saison wurde nachgespielt, mit dem Wissen von damals.'],
     ['Eine wichtige Lektion', 'Beim automatischen Feineinstellen der Modelle wählte der Computer für die U16 einen extremen Wert. Damit sahen die Modelle auf alten Spielen gut aus, hatten aber nur Zufälle auswendig gelernt. Seitdem gelten strenge Regeln: Eine Einstellung wird nur übernommen, wenn sie auf ungesehenen Spielen deutlich besser ist. Aktuell erfüllt das keine, deshalb gelten die Startwerte.'],
     ['05.11.2026: Für alle verständlich', 'Tipps werden jetzt aus Sicht des Post SV gezeigt, also als Sieg oder Niederlage. Die Methodik-Seite erklärt mit Reglern zum Ausprobieren, wie die Tipper rechnen.'],
+    ['05.11.2026: Der vierte Tipper', 'Ein Machine-Learning-Modell kommt dazu. Es lernt aus über tausend vergangenen Spielen, wöchentlich neu und immer nur aus der Vergangenheit. Im Probelauf schlägt es die einfache Siegquote klar und liegt knapp hinter dem Ratingmodell. Damit darf es live mittippen.'],
     ['Ab jetzt: die echte Saison', liveN ? `Bisher sind ${liveN} Live-Tipps ausgewertet. Jede Woche kommen neue dazu.` : 'Mit jedem Spieltag kommen echte, vorher festgelegte Tipps dazu. Die Live-Wertung ist der eigentliche Wettbewerb, denn hier kennt niemand das Ergebnis vorher.'],
   ];
 
@@ -42,9 +43,10 @@ export async function renderStory(app, { META, load, esc, pct, num, dot, modelNa
         ['baseline', 'Der Bauchgefühl-Statistiker', 'Wer bisher oft gewonnen hat, gewinnt wieder. Simpel, aber schwer zu schlagen. Er ist der Maßstab für alle anderen.'],
         ['elo', 'Der Schachspieler', 'Führt für jedes Team ein Punktekonto, das nach jedem Spiel wächst oder schrumpft. Bewährt im Schach, im Fußball und in der NBA.'],
         ['rating', 'Der große Vergleicher', 'Vergleicht alle Ergebnisse einer Liga gleichzeitig, auch über gemeinsame Gegner. Liegt bisher vorne.'],
+        ['ml', 'Der Lernende', 'Bekommt keine Regeln, sondern über tausend Beispielspiele, und findet selbst heraus, welche Hinweise zählen. Auch die Tipps der anderen gehören dazu.'],
       ].map(([id, t, d]) => `<div class="card pillar"><h3>${dot(id)}${esc(t)}</h3><p class="muted small">${esc(modelName(id))}</p><p>${d}</p></div>`).join('')}
     </div>
-    <p class="muted small">Dazu kommen später ein Machine-Learning-Modell und eine generative KI. Wie die Tipper genau rechnen, steht auf der Seite <a href="#/about">Methodik</a>.</p>
+    <p class="muted small">Als Nächstes kommt eine generative KI dazu. Wie die Tipper genau rechnen, steht auf der Seite <a href="#/about">Methodik</a>.</p>
 
     <h2>Wie es entstand</h2>
     <ol class="timeline">${steps.map(([t, d]) => `<li><h3>${esc(t)}</h3><p>${d}</p></li>`).join('')}</ol>
@@ -61,7 +63,7 @@ export async function renderStory(app, { META, load, esc, pct, num, dot, modelNa
       <ol class="roadmap">
         <li class="done"><b>Datenbasis, Statistik, Elo, Ratingmodell, Backtest</b>: fertig</li>
         <li class="done"><b>Website mit Tipps, Championship, Performance, Methodik</b>: fertig</li>
-        <li><b>Machine Learning</b>: ein lernendes Modell, das alle Kennzahlen kombiniert. Es tritt an, sobald es im Probelauf fair getestet ist.</li>
+        <li class="done"><b>Machine Learning</b>: ein lernendes Modell (Gradient Boosting), das alle Kennzahlen und die Tipps der anderen kombiniert. Es tippt live mit, solange es im Probelauf die einfache Siegquote schlägt.</li>
         <li><b>Generative KI</b>: Ein Sprachmodell bekommt dieselben Zahlen und gibt einen begründeten Tipp ab.</li>
         <li><b>Saisonfinale</b>: Am Ende der Saison steht fest, welcher Tipper Basketball am besten versteht. Mit der nächsten Saison wächst die Datenbasis weiter.</li>
       </ol>

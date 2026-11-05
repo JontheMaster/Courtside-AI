@@ -9,6 +9,8 @@ import { report, brierDiffCI, metrics } from './evaluation.js';
 import { logger } from '../util/log.js';
 import { nowIso } from '../util/time.js';
 import { round } from '../util/math.js';
+import { ml, mlDefaults, buildDataset, walkForwardMl, fitMl, FEATURE_LABELS } from '../models/ml.js';
+import { FEATURE_NAMES } from './features.js';
 
 const log = logger('backtest');
 
@@ -48,16 +50,26 @@ export function walkForward(leagueData, model, allParams, { filter = () => true 
   return rows;
 }
 
-export function runBacktest(store, { models = statModels } = {}) {
+export function runBacktest(store, { models = statModels, withMl = true } = {}) {
   const leagueData = store.allLeagueData();
   const allParams = loadParams(store);
   const results = {};
+  let mlImportance = [];
   for (const model of models) {
     const t0 = Date.now();
     const rows = walkForward(leagueData, model, allParams);
     results[model.id] = { model, rows };
     log.info(`${model.id}: ${rows.length} Spiele in ${Date.now() - t0} ms`);
   }
+  if (withMl) {
+    const t0 = Date.now();
+    const dataset = buildDataset(leagueData, allParams);
+    const rows = walkForwardMl(dataset);
+    results.ml = { model: ml, rows };
+    if (dataset.length >= mlDefaults.minTrain) mlImportance = importanceList(fitMl(dataset));
+    log.info(`ml: ${rows.length} von ${dataset.length} Spielen getippt (wöchentlich neu trainiert) in ${Date.now() - t0} ms`);
+  }
+  const allModels = Object.values(results).map((r) => r.model);
 
   const scopes = {
     postsv: (r) => r.postSv,
@@ -68,7 +80,7 @@ export function runBacktest(store, { models = statModels } = {}) {
     createdAt: nowIso(),
     method: 'walk-forward; Historie = Spiele mit Anpfiff vor dem Zielspiel; nur reguläre Ligaspiele',
     dataSettings: { useUnconfirmedResults: config.data.useUnconfirmedResults, ageGroups: config.ageGroups },
-    models: models.map((m) => ({ id: m.id, name: m.name, version: modelVersion(m, allParams) })),
+    models: allModels.map((m) => ({ id: m.id, name: m.name, version: modelVersion(m, allParams) })),
     scopes: {},
     postSvGames: [],
   };
@@ -79,8 +91,15 @@ export function runBacktest(store, { models = statModels } = {}) {
     for (const { model, rows } of Object.values(results)) {
       if (model.id !== 'baseline') s.vsBaseline[model.id] = brierDiffCI(rows.filter(fn), base);
     }
+    // Faire Gegenüberstellung: alle Modelle nur auf den Spielen, die auch ML getippt hat
+    // (ML tippt erst, wenn genug Trainingsspiele vorliegen, also eher spätere Spiele).
+    if (results.ml) {
+      const ids = new Set(results.ml.rows.filter(fn).map((r) => r.matchId));
+      s.sameGamesAsMl = Object.fromEntries(Object.values(results).map(({ model, rows }) => [model.id, metrics(rows.filter((r) => fn(r) && ids.has(r.matchId)))]));
+    }
     out.scopes[scope] = s;
   }
+  if (results.ml) writeMlStatus(store, out.scopes.all.sameGamesAsMl, out.scopes.all.vsBaseline.ml, mlImportance);
   // Einzelprognosen der Post-SV-Spiele für die Detailansicht
   const byMatch = new Map();
   for (const { model, rows } of Object.values(results)) {
@@ -97,6 +116,40 @@ export function runBacktest(store, { models = statModels } = {}) {
   return out;
 }
 
+/**
+ * Aktivierungsregel für Live-Tipps des ML-Modells: Es muss im Backtest auf denselben
+ * Spielen einen niedrigeren Brier Score als die Baseline haben, bei mindestens
+ * `minGamesReliable` getippten Spielen.
+ */
+export function mlActivation(same, minN = config.evaluation.minGamesReliable) {
+  const m = same?.ml;
+  const b = same?.baseline;
+  if (!m || !m.n) return { activeLive: false, reason: 'Noch zu wenige Trainingsspiele für einen Backtest.' };
+  if (m.n < minN) return { activeLive: false, reason: `Erst ${m.n} getippte Backtest-Spiele, mindestens ${minN} nötig.` };
+  const fmt = (x) => x.toFixed(3).replace('.', ',');
+  if (m.brier < b.brier) {
+    return { activeLive: true, reason: `Schlägt die Baseline im Backtest auf ${m.n} Spielen (Brier ${fmt(m.brier)} vs. ${fmt(b.brier)}).` };
+  }
+  return { activeLive: false, reason: `Schlägt die Baseline im Backtest noch nicht (Brier ${fmt(m.brier)} vs. ${fmt(b.brier)} auf ${m.n} Spielen). Wird mit wachsender Datenbasis neu geprüft.` };
+}
+
+/** Merkmalswichtigkeit (Anteil am Gesamtgewinn der Baum-Splits) */
+function importanceList(model) {
+  const imp = model.win.importance || [];
+  const total = imp.reduce((a, b) => a + b, 0) || 1;
+  return imp.map((v, j) => ({ key: FEATURE_NAMES[j], label: FEATURE_LABELS[FEATURE_NAMES[j]] || FEATURE_NAMES[j].replace('age_', 'Altersklasse '), share: round(v / total, 4) }))
+    .filter((x) => x.share > 0).sort((a, b) => b.share - a.share);
+}
+
+function writeMlStatus(store, same, vsBaseline, importance = []) {
+  const decision = mlActivation(same);
+  const status = { createdAt: nowIso(), ...decision, sameGames: same, vsBaseline, importance };
+  const prev = store.readJson('ml/status.json', null);
+  if (prev && JSON.stringify({ ...prev, createdAt: null }) === JSON.stringify({ ...status, createdAt: null })) status.createdAt = prev.createdAt;
+  store.writeJson('ml/status.json', status);
+  log.info(`ML live: ${decision.activeLive ? 'aktiv' : 'inaktiv'} – ${decision.reason}`);
+}
+
 /** Kurzfassung für die Konsole */
 export function summarize(bt) {
   const lines = [];
@@ -108,6 +161,10 @@ export function summarize(bt) {
       lines.push(`${id.padEnd(10)} ${String(o.n).padStart(4)}  ${o.accuracy?.toFixed(3)}  [${o.accuracyCI?.join('–')}]  ${o.brier?.toFixed(4)}  ${o.logLoss?.toFixed(4)}  ${o.mae}`);
     }
     for (const [id, d] of Object.entries(s.vsBaseline)) lines.push(`  Brier ${id} − baseline: ${d.diff} [${d.ci.join(', ')}]`);
+    if (s.sameGamesAsMl) {
+      lines.push('  Auf denselben Spielen wie ML:');
+      for (const [id, o] of Object.entries(s.sameGamesAsMl)) lines.push(`    ${id.padEnd(9)} n=${o.n} acc=${o.accuracy?.toFixed(3)} brier=${o.brier?.toFixed(4)} mae=${o.mae}`);
+    }
   }
   return lines.join('\n');
 }

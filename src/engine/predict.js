@@ -9,6 +9,9 @@ import { statModels, paramsFor, modelVersion, loadParams } from '../models/regis
 import { createLlmModel } from '../models/llm/index.js';
 import { involvesClub } from './backtest.js';
 import { dataQuality } from '../stats/teamStats.js';
+import { ml, mlDefaults, buildDataset, fitMl, mlOutput } from '../models/ml.js';
+import { featureVector } from './features.js';
+import { sha256 } from '../util/hash.js';
 
 const log = logger('predict');
 
@@ -68,6 +71,18 @@ export async function runPredictions(store, { now = nowIso(), llm = createLlmMod
     return bySeason.get(season);
   };
 
+  // ML-Modell einmal pro Lauf trainieren (lazy), nur mit Spielen vor `now`
+  let mlModel;
+  const getMlModel = () => {
+    if (mlModel !== undefined) return mlModel;
+    mlModel = null;
+    if (!ml.status(store).enabled) return mlModel;
+    const rows = buildDataset(leagueData, allParams).filter((r) => r.kickoffUtc < now);
+    if (rows.length >= mlDefaults.minTrain) mlModel = fitMl(rows);
+    log.info(`ML-Modell trainiert auf ${rows.length} Spielen`);
+    return mlModel;
+  };
+
   const skipped = [];
   let considered = 0;
   for (const { league, match } of upcomingClubMatches(leagueData, now)) {
@@ -95,6 +110,12 @@ export async function runPredictions(store, { now = nowIso(), llm = createLlmMod
       const out = model.predict(ctx, paramsFor(model, rl.league.ageGroup, allParams));
       outs[model.id] = out;
       push(season, base, model.id, version, out);
+    }
+    // ML: nur wenn im Backtest freigeschaltet. Der Datenstand umfasst zusätzlich die Trainingsdaten.
+    const mlm = getMlModel();
+    if (mlm) {
+      const out = mlOutput(ctx, mlm, featureVector(ctx, outs));
+      push(season, { ...base, inputHash: sha256(`${ctx.inputHash}|${mlm.trainHash}`) }, ml.id, modelVersion(ml, {}), out);
     }
     if (llm.enabled) {
       const version = modelVersion(llm, {});

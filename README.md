@@ -61,7 +61,7 @@ Stand des ersten Syncs: 25 Post-SV-Ligen ab U14, 133 zusätzliche Ligen ab U14 v
 | Baseline | geglättete Siegquoten (log5) + Liga-Heimquote | aktiv |
 | Elo | Rating je Liga, Heimvorteil, Punktedifferenz-Faktor (logarithmisch, gedämpft bei Favoritensiegen), Shrinkage zur Liga-Heimquote bei wenigen Spielen | aktiv |
 | Statistisches Ratingmodell | Ridge-Regression `Differenz = Heimvorteil + Stärke_Heim − Stärke_Gast` über alle bisherigen Ligaspiele. Siegchance über die Normalverteilung mit geschätzter Streuung | aktiv |
-| Machine Learning | Phase 4. Wird erst ab 1.000 Trainingsspielen und mit zeitlicher Train/Test-Trennung aktiviert | vorbereitet |
+| Machine Learning | Gradient Boosting (eigene JS-Implementierung, deterministisch) auf 26 Merkmalen, inklusive der Ausgaben der anderen Modelle. Ein zweites Boosting-Modell schätzt die Punktedifferenz | live, solange es im Backtest die Baseline schlägt |
 | Generative KI (Claude) | Phase 5. Anbieter-neutraler Adapter, Systemprompt, JSON-Validierung, Aufruf-Budget, Cache per Input-Hash. Erhält anonymisierte Kennzahlen ohne Teamnamen | inaktiv ohne `LLM_ENABLED=true` + `ANTHROPIC_API_KEY` |
 
 Alle Modelle sind zustandslos: Jede Prognose wird aus der Historie vor dem Spiel neu berechnet. Damit ist sie reproduzierbar, und Data Leakage ist ausgeschlossen. Die Modellversion setzt sich aus der Code-Version und einem Hash aller Parameter zusammen.
@@ -94,6 +94,24 @@ Erster Lauf am 04.11.2026, alle erfassten Ligen, 1.494 Spiele:
 Das Ratingmodell ist signifikant besser als die Baseline (Brier-Differenz −0,014, Bootstrap-95 %-KI −0,019 bis −0,009). Elo ist bisher nicht besser als die Baseline. Bei 4–8 Saisonspielen pro Team lernt ein inkrementelles Rating zu langsam, die gemeinsame Regression über alle Spiele nutzt die wenigen Daten besser. Für die Post-SV-Spiele allein (n=69) sind die Unterschiede noch nicht belastbar.
 
 **Ehrlicher Hinweis:** Die Elo-Startwerte (K=64, Heimvorteil 30) habe ich nach einem Blick auf die ganze Saison gewählt. Belastbar wird der Vergleich erst durch die Live-Prognosen ab jetzt.
+
+### Machine Learning (Phase 4)
+
+- **Daten:** eine Zeile je gewertetem Ligaspiel, Merkmale nur aus der Historie davor (`src/engine/features.js`): Elo- und Ratingmodell-Ausgaben, Siegquote, Korbdifferenz, Angriff/Verteidigung, Form, Serie, Gegnerstärke, gemeinsame Gegner, direkte Duelle, Spielanzahl, Liga-Kennzahlen, Altersklasse.
+- **Zeitliche Trennung:** Im Backtest wird wöchentlich neu trainiert, nur mit Spielen vor Wochenbeginn. Getippt wird erst ab 300 Trainingsspielen. Live wird mit allen bisher gespielten Spielen trainiert. Der Input-Hash enthält dann auch einen Fingerabdruck der Trainingsdaten.
+- **Modell:** Newton-Boosting mit Histogramm-Splits (`src/ml/gbm.js`): 150 Bäume, Tiefe 2, Lernrate 0,05, min. 30 Spiele je Blatt, L2 = 5. Vergleichsvariante ist eine logistische Regression (`src/ml/logreg.js`).
+- **Freigabe:** Live-Tipps nur, wenn der Brier Score im Backtest auf denselben Spielen unter dem der Baseline liegt, bei mindestens 30 Spielen (`mlActivation`). Das Ergebnis steht in `data/ml/status.json` und wird bei jedem Lauf neu geprüft.
+
+Stand 05.11.2026, auf denselben 1.120 Spielen:
+
+| Modell | Accuracy | Brier ↓ | MAE |
+|---|---|---|---|
+| Statistisches Ratingmodell | 69,9 % | 0,198 | 23,4 |
+| Machine Learning | 68,9 % | 0,201 | 23,3 |
+| Elo | 65,1 % | 0,215 | 23,9 |
+| Baseline | 64,5 % | 0,216 | 24,8 |
+
+Die logistische Regression erreichte 0,2017. Wichtigste Merkmale: Elo-Siegchance, erwartete Differenz des Ratingmodells, Form der letzten fünf Spiele, Unterschied der Korbdifferenz.
 
 ### Parameter-Tuning (`npm run tune`)
 

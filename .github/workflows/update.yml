@@ -61,6 +61,12 @@ jobs:
             git push origin HEAD:main
           fi
 
+      - name: Cache-Busting (Versionsnummer an Skripte und Styles)
+        run: |
+          V="${GITHUB_SHA::8}"
+          sed -i "s#src=\"app.js\"#src=\"app.js?v=$V\"#; s#href=\"styles.css\"#href=\"styles.css?v=$V\"#" public/index.html
+          sed -i -E "s#from '\./([a-z]+)\.js'#from './\1.js?v=$V'#g" public/*.js
+
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

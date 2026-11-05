@@ -145,6 +145,20 @@ section { scroll-margin-top: 70px; }
 }
 
 .lead { font-size: 1.02rem; max-width: 75ch; }
+.toggles { align-items: center; margin: .2rem 0 1rem; }
+.toggles button { font: inherit; font-size: .85rem; padding: .3rem .7rem; border-radius: 99px; border: 1px solid var(--line); background: var(--surface); color: var(--text); cursor: pointer; }
+.toggles button.off { opacity: .45; text-decoration: line-through; }
+.chartbox { position: relative; touch-action: pan-y; }
+.chartbox svg { user-select: none; }
+.tip { position: absolute; display: none; pointer-events: none; z-index: 3; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: .45rem .6rem; font-size: .8rem; box-shadow: 0 4px 16px rgb(0 0 0 / 18%); min-width: 170px; }
+.tip div { white-space: nowrap; }
+.gbars { display: grid; gap: .7rem; }
+.glabel { font-size: .85rem; margin-bottom: .2rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.gbar { display: grid; grid-template-columns: 1fr 56px; gap: .5rem; align-items: center; width: 100%; font: inherit; color: inherit; background: none; border: 0; padding: 1px 0; cursor: pointer; }
+.gbar .track { position: relative; height: 12px; background: var(--surface-2); border-radius: 4px; overflow: hidden; }
+.gbar .fill { position: absolute; inset: 0 auto 0 0; border-radius: 4px; }
+.gbar .val { text-align: right; font-size: .8rem; }
+.gbar:hover .track { outline: 1px solid var(--accent); }
 .hero { padding: 1.2rem 0 .4rem; }
 .hero h1 { font-size: clamp(1.6rem, 4vw, 2.4rem); max-width: 22ch; letter-spacing: -.02em; }
 .kicker { color: var(--accent); font-weight: 650; text-transform: uppercase; letter-spacing: .08em; font-size: .8rem; margin: 0 0 .4rem; }

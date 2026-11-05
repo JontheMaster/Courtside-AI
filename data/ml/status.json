@@ -1,0 +1,171 @@
+{
+ "createdAt": "2026-11-05T18:04:49.949Z",
+ "activeLive": true,
+ "reason": "Schlägt die Baseline im Backtest auf 1120 Spielen (Brier 0,201 vs. 0,215).",
+ "sameGames": {
+  "baseline": {
+   "n": 1120,
+   "reliable": true,
+   "accuracy": 0.6446,
+   "accuracyCI": [
+    0.616,
+    0.672
+   ],
+   "brier": 0.2155,
+   "logLoss": 0.6196,
+   "mae": 24.83,
+   "homeWinAccuracy": 0.738,
+   "awayWinAccuracy": 0.5358,
+   "homeWins": 603,
+   "awayWins": 517
+  },
+  "elo": {
+   "n": 1120,
+   "reliable": true,
+   "accuracy": 0.6509,
+   "accuracyCI": [
+    0.623,
+    0.678
+   ],
+   "brier": 0.2153,
+   "logLoss": 0.6191,
+   "mae": 23.91,
+   "homeWinAccuracy": 0.7927,
+   "awayWinAccuracy": 0.4855,
+   "homeWins": 603,
+   "awayWins": 517
+  },
+  "rating": {
+   "n": 1120,
+   "reliable": true,
+   "accuracy": 0.6991,
+   "accuracyCI": [
+    0.672,
+    0.725
+   ],
+   "brier": 0.198,
+   "logLoss": 0.5793,
+   "mae": 23.37,
+   "homeWinAccuracy": 0.8308,
+   "awayWinAccuracy": 0.5455,
+   "homeWins": 603,
+   "awayWins": 517
+  },
+  "ml": {
+   "n": 1120,
+   "reliable": true,
+   "accuracy": 0.6893,
+   "accuracyCI": [
+    0.662,
+    0.716
+   ],
+   "brier": 0.2006,
+   "logLoss": 0.5839,
+   "mae": 23.29,
+   "homeWinAccuracy": 0.7347,
+   "awayWinAccuracy": 0.6364,
+   "homeWins": 603,
+   "awayWins": 517
+  }
+ },
+ "vsBaseline": {
+  "n": 1120,
+  "diff": -0.015,
+  "ci": [
+   -0.0229,
+   -0.0066
+  ]
+ },
+ "importance": [
+  {
+   "key": "eloLogit",
+   "label": "Elo-Siegchance",
+   "share": 0.2016
+  },
+  {
+   "key": "ratingMargin",
+   "label": "Ratingmodell: erwartete Differenz",
+   "share": 0.1919
+  },
+  {
+   "key": "last5MarginDiff",
+   "label": "Form (Differenz letzte 5)",
+   "share": 0.1689
+  },
+  {
+   "key": "avgMarginDiff",
+   "label": "Unterschied Korbdifferenz",
+   "share": 0.152
+  },
+  {
+   "key": "eloDiff",
+   "label": "Elo-Abstand",
+   "share": 0.1083
+  },
+  {
+   "key": "baseLogit",
+   "label": "Baseline-Siegchance",
+   "share": 0.0267
+  },
+  {
+   "key": "leagueHomeLogit",
+   "label": "Heimsiegquote der Liga",
+   "share": 0.0245
+  },
+  {
+   "key": "sosDiff",
+   "label": "Gegnerstärke",
+   "share": 0.0221
+  },
+  {
+   "key": "commonDiff",
+   "label": "Gemeinsame Gegner",
+   "share": 0.021
+  },
+  {
+   "key": "offDefDiff",
+   "label": "Angriff vs. Verteidigung",
+   "share": 0.0177
+  },
+  {
+   "key": "ratingSigma",
+   "label": "Streuung der Liga",
+   "share": 0.0149
+  },
+  {
+   "key": "minGames",
+   "label": "Spiele (weniger erfahrenes Team)",
+   "share": 0.0123
+  },
+  {
+   "key": "maxGames",
+   "label": "Spiele (erfahreneres Team)",
+   "share": 0.0113
+  },
+  {
+   "key": "leagueAvgPoints",
+   "label": "Punkteschnitt der Liga",
+   "share": 0.0113
+  },
+  {
+   "key": "winPctDiff",
+   "label": "Unterschied Siegquote",
+   "share": 0.0062
+  },
+  {
+   "key": "age_U14",
+   "label": "Altersklasse U14",
+   "share": 0.004
+  },
+  {
+   "key": "historySize",
+   "label": "Spiele in der Liga",
+   "share": 0.0037
+  },
+  {
+   "key": "ratingLogit",
+   "label": "Ratingmodell: Siegchance",
+   "share": 0.0015
+  }
+ ]
+}
