@@ -243,10 +243,10 @@
    "ligaId": 56631,
    "seasonId": 2026,
    "matchDay": 5,
-   "kickoffDate": "2026-11-29",
-   "kickoffTime": "11:00",
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "12:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-29T10:00:00.000Z",
+   "kickoffUtc": "2026-12-13T11:00:00.000Z",
    "home": {
     "id": 201014,
     "name": "SV Zapfendorf a. K.",

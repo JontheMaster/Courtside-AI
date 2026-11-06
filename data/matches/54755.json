@@ -383,10 +383,10 @@
    "ligaId": 54755,
    "seasonId": 2026,
    "matchDay": 5,
-   "kickoffDate": "2026-11-22",
-   "kickoffTime": "18:00",
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "18:01",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-22T17:00:00.000Z",
+   "kickoffUtc": "2026-12-13T17:01:00.000Z",
    "home": {
     "id": 318887,
     "name": "KK Serbischer Club Donau Regensburg",
