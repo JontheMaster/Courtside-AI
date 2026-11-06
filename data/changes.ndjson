@@ -57,3 +57,10 @@
 {"at":"2026-11-06T15:00:02.146Z","changes":{"kickoffDate":["2026-11-22","2026-12-13"],"kickoffTime":["18:00","18:01"]},"ligaId":54755,"matchId":2928370}
 {"at":"2026-11-06T15:00:02.146Z","changes":{"kickoffTime":["14:30","18:00"]},"ligaId":54792,"matchId":2927557}
 {"at":"2026-11-06T15:00:02.146Z","changes":{"kickoffDate":["2026-11-07","2027-01-23"],"kickoffTime":["17:00","18:30"]},"ligaId":54792,"matchId":2927558}
+{"at":"2026-11-06T20:52:40.744Z","changes":{"guestScore":[null,74],"homeScore":[null,72],"status":["scheduled","final"]},"ligaId":54308,"matchId":2911136}
+{"at":"2026-11-06T20:52:40.744Z","changes":{"kickoffDate":["2026-11-14","2026-11-15"],"kickoffTime":["15:00","19:00"]},"ligaId":52530,"matchId":2840406}
+{"at":"2026-11-06T20:52:40.744Z","changes":{"guestScore":[null,51],"homeScore":[null,77],"status":["scheduled","final"]},"ligaId":55327,"matchId":2897395}
+{"at":"2026-11-06T20:52:40.744Z","changes":{"kickoffDate":["2026-11-14","2026-11-15"],"kickoffTime":["13:30","16:00"]},"ligaId":56634,"matchId":2985772}
+{"at":"2026-11-06T20:52:40.744Z","changes":{"guestScore":[null,55],"homeScore":[null,91],"status":["scheduled","final"]},"ligaId":52532,"matchId":2840895}
+{"at":"2026-11-06T20:52:40.744Z","changes":{"kickoffTime":["12:15","14:30"]},"ligaId":53790,"matchId":2900121}
+{"at":"2026-11-06T20:52:40.744Z","changes":{"kickoffTime":["14:30","17:00"]},"ligaId":53792,"matchId":2904931}

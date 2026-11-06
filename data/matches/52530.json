@@ -915,10 +915,10 @@
    "ligaId": 52530,
    "seasonId": 2026,
    "matchDay": 6,
-   "kickoffDate": "2026-11-14",
-   "kickoffTime": "15:00",
+   "kickoffDate": "2026-11-15",
+   "kickoffTime": "19:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-14T14:00:00.000Z",
+   "kickoffUtc": "2026-11-15T18:00:00.000Z",
    "home": {
     "id": 159013,
     "name": "DJK Neustadt a. d. Waldnaab 2",

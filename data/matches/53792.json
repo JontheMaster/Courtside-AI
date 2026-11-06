@@ -1280,9 +1280,9 @@
    "seasonId": 2026,
    "matchDay": 10,
    "kickoffDate": "2027-01-17",
-   "kickoffTime": "14:30",
+   "kickoffTime": "17:00",
    "timeTbd": false,
-   "kickoffUtc": "2027-01-17T13:30:00.000Z",
+   "kickoffUtc": "2027-01-17T16:00:00.000Z",
    "home": {
     "id": 322901,
     "name": "Ost Youngstars",
