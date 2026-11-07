@@ -457,7 +457,7 @@
    },
    "homeScore": 83,
    "guestScore": 85,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -485,7 +485,7 @@
    },
    "homeScore": 53,
    "guestScore": 96,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -513,7 +513,7 @@
    },
    "homeScore": 60,
    "guestScore": 75,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -569,7 +569,7 @@
    },
    "homeScore": 76,
    "guestScore": 84,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -682,7 +682,7 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
+   "status": "cancelled",
    "forfeitBy": null,
    "competitionType": "regular"
   },
@@ -1588,9 +1588,9 @@
    "seasonId": 2026,
    "matchDay": 12,
    "kickoffDate": "2027-01-30",
-   "kickoffTime": "19:30",
+   "kickoffTime": "20:00",
    "timeTbd": false,
-   "kickoffUtc": "2027-01-30T18:30:00.000Z",
+   "kickoffUtc": "2027-01-30T19:00:00.000Z",
    "home": {
     "id": 150993,
     "name": "BG Litzendorf",
@@ -1924,9 +1924,9 @@
    "seasonId": 2026,
    "matchDay": 14,
    "kickoffDate": "2027-02-20",
-   "kickoffTime": "19:30",
+   "kickoffTime": "20:00",
    "timeTbd": false,
-   "kickoffUtc": "2027-02-20T18:30:00.000Z",
+   "kickoffUtc": "2027-02-20T19:00:00.000Z",
    "home": {
     "id": 150993,
     "name": "BG Litzendorf",

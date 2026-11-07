@@ -875,10 +875,10 @@
     "clubId": 946,
     "forfeit": false
    },
-   "homeScore": null,
-   "guestScore": null,
+   "homeScore": 33,
+   "guestScore": 143,
    "confirmed": false,
-   "status": "scheduled",
+   "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
   },

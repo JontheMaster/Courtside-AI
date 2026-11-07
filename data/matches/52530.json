@@ -819,10 +819,10 @@
     "clubId": 642,
     "forfeit": false
    },
-   "homeScore": null,
-   "guestScore": null,
+   "homeScore": 75,
+   "guestScore": 58,
    "confirmed": false,
-   "status": "scheduled",
+   "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
   },

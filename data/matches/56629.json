@@ -47,10 +47,10 @@
    "ligaId": 56629,
    "seasonId": 2026,
    "matchDay": 1,
-   "kickoffDate": "2026-10-17",
-   "kickoffTime": "12:15",
+   "kickoffDate": "2026-12-11",
+   "kickoffTime": "19:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-10-17T10:15:00.000Z",
+   "kickoffUtc": "2026-12-11T18:00:00.000Z",
    "home": {
     "id": 167098,
     "name": "BBC Coburg",
@@ -66,7 +66,7 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "cancelled",
+   "status": "scheduled",
    "forfeitBy": null,
    "competitionType": "regular"
   },
