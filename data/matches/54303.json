@@ -496,9 +496,9 @@
    "seasonId": 2026,
    "matchDay": 5,
    "kickoffDate": "2026-11-22",
-   "kickoffTime": "13:30",
+   "kickoffTime": "11:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-22T12:30:00.000Z",
+   "kickoffUtc": "2026-11-22T10:00:00.000Z",
    "home": {
     "id": 143116,
     "name": "Cybex Talents BBC Bayreuth",
