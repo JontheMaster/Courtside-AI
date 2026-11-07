@@ -205,7 +205,7 @@
    },
    "homeScore": 57,
    "guestScore": 77,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -233,7 +233,7 @@
    },
    "homeScore": 132,
    "guestScore": 36,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -259,10 +259,10 @@
     "clubId": 2901,
     "forfeit": false
    },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
+   "homeScore": 75,
+   "guestScore": 70,
+   "confirmed": true,
+   "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
   },
