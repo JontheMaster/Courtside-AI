@@ -931,10 +931,10 @@
     "clubId": 1921,
     "forfeit": false
    },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
+   "homeScore": 51,
+   "guestScore": 84,
+   "confirmed": true,
+   "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
   },

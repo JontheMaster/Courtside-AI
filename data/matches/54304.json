@@ -65,7 +65,7 @@
    },
    "homeScore": 86,
    "guestScore": 91,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"

@@ -735,10 +735,10 @@
     "clubId": 123,
     "forfeit": false
    },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
+   "homeScore": 54,
+   "guestScore": 65,
+   "confirmed": true,
+   "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
   },

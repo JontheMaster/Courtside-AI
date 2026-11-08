@@ -233,7 +233,7 @@
    },
    "homeScore": 104,
    "guestScore": 96,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "cup"
@@ -289,7 +289,7 @@
    },
    "homeScore": 75,
    "guestScore": 73,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "cup"
@@ -343,10 +343,10 @@
     "clubId": 1166,
     "forfeit": false
    },
-   "homeScore": null,
-   "guestScore": null,
+   "homeScore": 91,
+   "guestScore": 50,
    "confirmed": false,
-   "status": "scheduled",
+   "status": "final",
    "forfeitBy": null,
    "competitionType": "cup"
   },

@@ -203,10 +203,10 @@
     "clubId": 906,
     "forfeit": false
    },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "missing_result",
+   "homeScore": 0,
+   "guestScore": 20,
+   "confirmed": true,
+   "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
   },

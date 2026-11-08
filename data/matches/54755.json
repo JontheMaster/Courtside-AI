@@ -272,9 +272,9 @@
    "seasonId": 2026,
    "matchDay": 4,
    "kickoffDate": "2026-11-14",
-   "kickoffTime": "18:00",
+   "kickoffTime": "19:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-14T17:00:00.000Z",
+   "kickoffUtc": "2026-11-14T18:00:00.000Z",
    "home": {
     "id": 314675,
     "name": "TV Amberg-Sulzbach BSG 1",
