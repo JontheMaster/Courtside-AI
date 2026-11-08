@@ -315,10 +315,10 @@
     "clubId": 1932,
     "forfeit": false
    },
-   "homeScore": null,
-   "guestScore": null,
+   "homeScore": 119,
+   "guestScore": 60,
    "confirmed": false,
-   "status": "scheduled",
+   "status": "final",
    "forfeitBy": null,
    "competitionType": "cup"
   },
@@ -371,10 +371,10 @@
     "clubId": 906,
     "forfeit": false
    },
-   "homeScore": null,
-   "guestScore": null,
+   "homeScore": 75,
+   "guestScore": 56,
    "confirmed": false,
-   "status": "scheduled",
+   "status": "final",
    "forfeitBy": null,
    "competitionType": "cup"
   },
