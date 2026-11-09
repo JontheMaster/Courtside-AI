@@ -1307,10 +1307,10 @@
    "ligaId": 54459,
    "seasonId": 2026,
    "matchDay": 12,
-   "kickoffDate": "2027-02-20",
-   "kickoffTime": "17:00",
+   "kickoffDate": "2027-02-06",
+   "kickoffTime": "12:00",
    "timeTbd": false,
-   "kickoffUtc": "2027-02-20T16:00:00.000Z",
+   "kickoffUtc": "2027-02-06T11:00:00.000Z",
    "home": {
     "id": 163577,
     "name": "TSV Schwaben Augsburg",
