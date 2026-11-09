@@ -709,7 +709,7 @@
    },
    "homeScore": 81,
    "guestScore": 72,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -737,7 +737,7 @@
    },
    "homeScore": 64,
    "guestScore": 90,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -821,7 +821,7 @@
    },
    "homeScore": 67,
    "guestScore": 96,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -849,7 +849,7 @@
    },
    "homeScore": 65,
    "guestScore": 69,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -1084,9 +1084,9 @@
    "seasonId": 2026,
    "matchDay": 7,
    "kickoffDate": "2026-11-20",
-   "kickoffTime": "19:30",
+   "kickoffTime": "18:30",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-20T18:30:00.000Z",
+   "kickoffUtc": "2026-11-20T17:30:00.000Z",
    "home": {
     "id": 152031,
     "name": "FC Bayern München 3",
@@ -2641,7 +2641,7 @@
    },
    "homeScore": 79,
    "guestScore": 76,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
