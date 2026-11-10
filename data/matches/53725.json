@@ -860,9 +860,9 @@
    "seasonId": 2026,
    "matchDay": 6,
    "kickoffDate": "2026-11-15",
-   "kickoffTime": "18:45",
+   "kickoffTime": "16:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-15T17:45:00.000Z",
+   "kickoffUtc": "2026-11-15T15:00:00.000Z",
    "home": {
     "id": 154163,
     "name": "München Basket 2",

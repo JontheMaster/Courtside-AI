@@ -2091,10 +2091,10 @@
    "ligaId": 54353,
    "seasonId": 2026,
    "matchDay": 15,
-   "kickoffDate": "2026-11-15",
-   "kickoffTime": "10:45",
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "12:15",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-15T09:45:00.000Z",
+   "kickoffUtc": "2026-12-06T11:15:00.000Z",
    "home": {
     "id": 165543,
     "name": "Baskets Vilsbiburg",

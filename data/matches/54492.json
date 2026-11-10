@@ -495,10 +495,10 @@
    "ligaId": 54492,
    "seasonId": 2026,
    "matchDay": 6,
-   "kickoffDate": "2026-11-07",
-   "kickoffTime": "14:00",
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "10:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-07T13:00:00.000Z",
+   "kickoffUtc": "2026-11-28T09:00:00.000Z",
    "home": {
     "id": 310631,
     "name": "VFL Buchloe",
@@ -514,7 +514,7 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "cancelled",
+   "status": "scheduled",
    "forfeitBy": null,
    "competitionType": "regular"
   },
