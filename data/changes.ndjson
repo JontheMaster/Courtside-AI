@@ -257,3 +257,10 @@
 {"at":"2026-11-10T02:04:41.770Z","changes":{"kickoffDate":["2026-11-14","2027-02-14"],"kickoffTime":["19:00","16:00"]},"ligaId":54485,"matchId":2924385}
 {"at":"2026-11-10T02:04:41.770Z","changes":{"confirmed":[false,true]},"ligaId":54491,"matchId":2930884}
 {"at":"2026-11-10T02:04:41.770Z","changes":{"kickoffTime":["12:30","10:00"]},"ligaId":53799,"matchId":2902367}
+{"at":"2026-11-10T09:45:11.093Z","changes":{"confirmed":[false,true]},"ligaId":52533,"matchId":2840214}
+{"at":"2026-11-10T09:45:11.093Z","changes":{"confirmed":[false,true]},"ligaId":52533,"matchId":2840235}
+{"at":"2026-11-10T09:45:11.093Z","changes":{"kickoffTime":["11:00","14:00"]},"ligaId":52810,"matchId":2897620}
+{"at":"2026-11-10T09:45:11.093Z","changes":{"kickoffDate":["2026-11-14","2027-07-06"],"kickoffTime":["19:00","16:30"],"status":["cancelled","scheduled"]},"ligaId":52807,"matchId":2897208}
+{"at":"2026-11-10T09:45:11.093Z","changes":{"kickoffDate":["2026-11-15","2026-12-13"],"kickoffTime":["16:45","10:00"]},"ligaId":56629,"matchId":2985501}
+{"at":"2026-11-10T09:45:11.093Z","changes":{"confirmed":[false,true]},"ligaId":54462,"matchId":2925035}
+{"at":"2026-11-10T09:45:11.093Z","changes":{"confirmed":[false,true]},"ligaId":54508,"matchId":2924614}
