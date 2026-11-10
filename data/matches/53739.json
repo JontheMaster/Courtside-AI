@@ -71,62 +71,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2905319,
-   "ligaId": 53739,
-   "seasonId": 2026,
-   "matchDay": 1,
-   "kickoffDate": "2026-10-04",
-   "kickoffTime": "15:00",
-   "timeTbd": false,
-   "kickoffUtc": "2026-10-04T13:00:00.000Z",
-   "home": {
-    "id": 198563,
-    "name": "MTV München 4",
-    "clubId": 606,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 320986,
-    "name": "TSV Trudering 3",
-    "clubId": 4237,
-    "forfeit": true
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "cancelled",
-   "forfeitBy": "guest",
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905323,
-   "ligaId": 53739,
-   "seasonId": 2026,
-   "matchDay": 2,
-   "kickoffDate": "2026-10-11",
-   "kickoffTime": "17:30",
-   "timeTbd": false,
-   "kickoffUtc": "2026-10-11T15:30:00.000Z",
-   "home": {
-    "id": 320986,
-    "name": "TSV Trudering 3",
-    "clubId": 4237,
-    "forfeit": true
-   },
-   "guest": {
-    "id": 154125,
-    "name": "SpVgg Altenerding",
-    "clubId": 417,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "cancelled",
-   "forfeitBy": "home",
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2905325,
    "ligaId": 53739,
    "seasonId": 2026,
@@ -211,34 +155,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2905335,
-   "ligaId": 53739,
-   "seasonId": 2026,
-   "matchDay": 3,
-   "kickoffDate": "2026-10-18",
-   "kickoffTime": "14:30",
-   "timeTbd": false,
-   "kickoffUtc": "2026-10-18T12:30:00.000Z",
-   "home": {
-    "id": 162392,
-    "name": "Haching Baskets 3",
-    "clubId": 1138,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 320986,
-    "name": "TSV Trudering 3",
-    "clubId": 4237,
-    "forfeit": true
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "cancelled",
-   "forfeitBy": "guest",
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2905341,
    "ligaId": 53739,
    "seasonId": 2026,
@@ -264,34 +180,6 @@
    "confirmed": true,
    "status": "final",
    "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905343,
-   "ligaId": 53739,
-   "seasonId": 2026,
-   "matchDay": 4,
-   "kickoffDate": "2026-10-25",
-   "kickoffTime": "12:30",
-   "timeTbd": false,
-   "kickoffUtc": "2026-10-25T11:30:00.000Z",
-   "home": {
-    "id": 320986,
-    "name": "TSV Trudering 3",
-    "clubId": 4237,
-    "forfeit": true
-   },
-   "guest": {
-    "id": 171590,
-    "name": "BC Hellenen München 4",
-    "clubId": 104,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "cancelled",
-   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -435,34 +323,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2905361,
-   "ligaId": 53739,
-   "seasonId": 2026,
-   "matchDay": 6,
-   "kickoffDate": "2026-11-22",
-   "kickoffTime": "17:30",
-   "timeTbd": false,
-   "kickoffUtc": "2026-11-22T16:30:00.000Z",
-   "home": {
-    "id": 320986,
-    "name": "TSV Trudering 3",
-    "clubId": 4237,
-    "forfeit": true
-   },
-   "guest": {
-    "id": 162386,
-    "name": "TuS Holzkirchen 2",
-    "clubId": 1393,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "cancelled",
-   "forfeitBy": "home",
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2905362,
    "ligaId": 53739,
    "seasonId": 2026,
@@ -575,34 +435,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2905367,
-   "ligaId": 53739,
-   "seasonId": 2026,
-   "matchDay": 7,
-   "kickoffDate": "2026-11-29",
-   "kickoffTime": "19:30",
-   "timeTbd": false,
-   "kickoffUtc": "2026-11-29T18:30:00.000Z",
-   "home": {
-    "id": 321317,
-    "name": "AK Tigers München 2",
-    "clubId": 4526,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 320986,
-    "name": "TSV Trudering 3",
-    "clubId": 4237,
-    "forfeit": true
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "cancelled",
-   "forfeitBy": "guest",
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2905370,
    "ligaId": 53739,
    "seasonId": 2026,
@@ -628,34 +460,6 @@
    "confirmed": false,
    "status": "scheduled",
    "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905371,
-   "ligaId": 53739,
-   "seasonId": 2026,
-   "matchDay": 8,
-   "kickoffDate": "2026-12-01",
-   "kickoffTime": "20:30",
-   "timeTbd": false,
-   "kickoffUtc": "2026-12-01T19:30:00.000Z",
-   "home": {
-    "id": 162382,
-    "name": "FC Anadolu",
-    "clubId": 1935,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 320986,
-    "name": "TSV Trudering 3",
-    "clubId": 4237,
-    "forfeit": true
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "cancelled",
-   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -855,62 +659,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2905384,
-   "ligaId": 53739,
-   "seasonId": 2026,
-   "matchDay": 10,
-   "kickoffDate": "2027-01-17",
-   "kickoffTime": "17:30",
-   "timeTbd": false,
-   "kickoffUtc": "2027-01-17T16:30:00.000Z",
-   "home": {
-    "id": 320986,
-    "name": "TSV Trudering 3",
-    "clubId": 4237,
-    "forfeit": true
-   },
-   "guest": {
-    "id": 198563,
-    "name": "MTV München 4",
-    "clubId": 606,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "cancelled",
-   "forfeitBy": "home",
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905386,
-   "ligaId": 53739,
-   "seasonId": 2026,
-   "matchDay": 11,
-   "kickoffDate": "2027-01-24",
-   "kickoffTime": "18:00",
-   "timeTbd": false,
-   "kickoffUtc": "2027-01-24T17:00:00.000Z",
-   "home": {
-    "id": 154125,
-    "name": "SpVgg Altenerding",
-    "clubId": 417,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 320986,
-    "name": "TSV Trudering 3",
-    "clubId": 4237,
-    "forfeit": true
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "cancelled",
-   "forfeitBy": "guest",
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2905387,
    "ligaId": 53739,
    "seasonId": 2026,
@@ -995,34 +743,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2905392,
-   "ligaId": 53739,
-   "seasonId": 2026,
-   "matchDay": 12,
-   "kickoffDate": "2027-01-31",
-   "kickoffTime": "17:30",
-   "timeTbd": false,
-   "kickoffUtc": "2027-01-31T16:30:00.000Z",
-   "home": {
-    "id": 320986,
-    "name": "TSV Trudering 3",
-    "clubId": 4237,
-    "forfeit": true
-   },
-   "guest": {
-    "id": 162392,
-    "name": "Haching Baskets 3",
-    "clubId": 1138,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "cancelled",
-   "forfeitBy": "home",
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2905395,
    "ligaId": 53739,
    "seasonId": 2026,
@@ -1048,34 +768,6 @@
    "confirmed": false,
    "status": "scheduled",
    "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905396,
-   "ligaId": 53739,
-   "seasonId": 2026,
-   "matchDay": 13,
-   "kickoffDate": "2027-02-21",
-   "kickoffTime": "17:00",
-   "timeTbd": false,
-   "kickoffUtc": "2027-02-21T16:00:00.000Z",
-   "home": {
-    "id": 171590,
-    "name": "BC Hellenen München 4",
-    "clubId": 104,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 320986,
-    "name": "TSV Trudering 3",
-    "clubId": 4237,
-    "forfeit": true
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "cancelled",
-   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -1219,34 +911,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2905406,
-   "ligaId": 53739,
-   "seasonId": 2026,
-   "matchDay": 15,
-   "kickoffDate": "2027-03-07",
-   "kickoffTime": "15:00",
-   "timeTbd": false,
-   "kickoffUtc": "2027-03-07T14:00:00.000Z",
-   "home": {
-    "id": 162386,
-    "name": "TuS Holzkirchen 2",
-    "clubId": 1393,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 320986,
-    "name": "TSV Trudering 3",
-    "clubId": 4237,
-    "forfeit": true
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "cancelled",
-   "forfeitBy": "guest",
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2905407,
    "ligaId": 53739,
    "seasonId": 2026,
@@ -1359,34 +1023,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2905412,
-   "ligaId": 53739,
-   "seasonId": 2026,
-   "matchDay": 16,
-   "kickoffDate": "2027-03-14",
-   "kickoffTime": "17:30",
-   "timeTbd": false,
-   "kickoffUtc": "2027-03-14T16:30:00.000Z",
-   "home": {
-    "id": 320986,
-    "name": "TSV Trudering 3",
-    "clubId": 4237,
-    "forfeit": true
-   },
-   "guest": {
-    "id": 321317,
-    "name": "AK Tigers München 2",
-    "clubId": 4526,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "cancelled",
-   "forfeitBy": "home",
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2905415,
    "ligaId": 53739,
    "seasonId": 2026,
@@ -1412,34 +1048,6 @@
    "confirmed": false,
    "status": "scheduled",
    "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905416,
-   "ligaId": 53739,
-   "seasonId": 2026,
-   "matchDay": 17,
-   "kickoffDate": "2027-04-11",
-   "kickoffTime": "17:30",
-   "timeTbd": false,
-   "kickoffUtc": "2027-04-11T15:30:00.000Z",
-   "home": {
-    "id": 320986,
-    "name": "TSV Trudering 3",
-    "clubId": 4237,
-    "forfeit": true
-   },
-   "guest": {
-    "id": 162382,
-    "name": "FC Anadolu",
-    "clubId": 1935,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "cancelled",
-   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {

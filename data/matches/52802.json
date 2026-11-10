@@ -803,10 +803,10 @@
    "ligaId": 52802,
    "seasonId": 2026,
    "matchDay": 6,
-   "kickoffDate": "2026-11-21",
-   "kickoffTime": "17:00",
+   "kickoffDate": "2027-01-10",
+   "kickoffTime": "15:30",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-21T16:00:00.000Z",
+   "kickoffUtc": "2027-01-10T14:30:00.000Z",
    "home": {
     "id": 143021,
     "name": "SV Pettstadt",

@@ -351,29 +351,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2958458,
-   "ligaId": 56460,
-   "seasonId": 2026,
-   "matchDay": 4,
-   "kickoffDate": "2026-11-15",
-   "kickoffTime": "14:30",
-   "timeTbd": false,
-   "kickoffUtc": "2026-11-15T13:30:00.000Z",
-   "home": {
-    "id": 167044,
-    "name": "TSV 1880 Schwandorf",
-    "clubId": 1400,
-    "forfeit": false
-   },
-   "guest": null,
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2958459,
    "ligaId": 56460,
    "seasonId": 2026,
