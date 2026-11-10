@@ -664,9 +664,9 @@
    "seasonId": 2026,
    "matchDay": 5,
    "kickoffDate": "2026-11-14",
-   "kickoffTime": "18:00",
+   "kickoffTime": "12:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-14T17:00:00.000Z",
+   "kickoffUtc": "2026-11-14T11:00:00.000Z",
    "home": {
     "id": 204874,
     "name": "TSV Ottobrunn",
