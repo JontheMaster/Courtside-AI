@@ -159,10 +159,10 @@
    "ligaId": 54467,
    "seasonId": 2026,
    "matchDay": 2,
-   "kickoffDate": "2026-10-18",
+   "kickoffDate": "2027-04-10",
    "kickoffTime": "10:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-10-18T08:00:00.000Z",
+   "kickoffUtc": "2027-04-10T08:00:00.000Z",
    "home": {
     "id": 240727,
     "name": "TSV 1861 Nördlingen 2",
@@ -178,7 +178,7 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "cancelled",
+   "status": "scheduled",
    "forfeitBy": null,
    "competitionType": "regular"
   },

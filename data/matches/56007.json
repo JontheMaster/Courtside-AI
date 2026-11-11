@@ -65,7 +65,7 @@
    },
    "homeScore": 61,
    "guestScore": 73,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -608,9 +608,9 @@
    "seasonId": 2026,
    "matchDay": 6,
    "kickoffDate": "2026-11-22",
-   "kickoffTime": "16:15",
+   "kickoffTime": "11:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-22T15:15:00.000Z",
+   "kickoffUtc": "2026-11-22T10:00:00.000Z",
    "home": {
     "id": 319360,
     "name": "TG Kitzingen 1848",
