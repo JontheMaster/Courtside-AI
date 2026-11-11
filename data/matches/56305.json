@@ -317,7 +317,7 @@
    },
    "homeScore": 119,
    "guestScore": 60,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "cup"
@@ -373,7 +373,7 @@
    },
    "homeScore": 75,
    "guestScore": 56,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "cup"
