@@ -299,10 +299,10 @@
    "ligaId": 56008,
    "seasonId": 2026,
    "matchDay": 4,
-   "kickoffDate": "2026-11-15",
+   "kickoffDate": "2027-02-27",
    "kickoffTime": "16:30",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-15T15:30:00.000Z",
+   "kickoffUtc": "2027-02-27T15:30:00.000Z",
    "home": {
     "id": 273304,
     "name": "DJK Münsterschwarzach 1 AK",

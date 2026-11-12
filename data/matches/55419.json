@@ -663,10 +663,10 @@
    "ligaId": 55419,
    "seasonId": 2026,
    "matchDay": 5,
-   "kickoffDate": "2026-11-13",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-11-12T23:00:00.000Z",
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-04-24T15:30:00.000Z",
    "home": {
     "id": 313005,
     "name": "TSV Gräfelfing e.V.",
@@ -682,7 +682,7 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "cancelled",
+   "status": "scheduled",
    "forfeitBy": null,
    "competitionType": "regular"
   },

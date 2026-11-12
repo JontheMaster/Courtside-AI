@@ -853,9 +853,9 @@
    "seasonId": 2026,
    "matchDay": 8,
    "kickoffDate": "2026-12-19",
-   "kickoffTime": "17:30",
+   "kickoffTime": "10:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-12-19T16:30:00.000Z",
+   "kickoffUtc": "2026-12-19T09:00:00.000Z",
    "home": {
     "id": 313008,
     "name": "TG Landshut 2",

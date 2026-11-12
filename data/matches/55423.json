@@ -626,7 +626,7 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
+   "status": "cancelled",
    "forfeitBy": null,
    "competitionType": "regular"
   },
@@ -887,10 +887,10 @@
    "ligaId": 55423,
    "seasonId": 2026,
    "matchDay": 7,
-   "kickoffDate": "2026-11-28",
-   "kickoffTime": "14:30",
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "12:15",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-28T13:30:00.000Z",
+   "kickoffUtc": "2026-12-19T11:15:00.000Z",
    "home": {
     "id": 165508,
     "name": "TSV 1898 Penzberg",
