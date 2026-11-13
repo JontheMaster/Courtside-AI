@@ -1616,9 +1616,9 @@
    "seasonId": 2026,
    "matchDay": 12,
    "kickoffDate": "2027-01-30",
-   "kickoffTime": "16:00",
+   "kickoffTime": "13:30",
    "timeTbd": false,
-   "kickoffUtc": "2027-01-30T15:00:00.000Z",
+   "kickoffUtc": "2027-01-30T12:30:00.000Z",
    "home": {
     "id": 168439,
     "name": "TSV Grünwald",
