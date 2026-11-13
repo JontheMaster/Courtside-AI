@@ -215,10 +215,10 @@
    "ligaId": 56630,
    "seasonId": 2026,
    "matchDay": 3,
-   "kickoffDate": "2026-11-21",
-   "kickoffTime": "13:30",
+   "kickoffDate": "2026-11-20",
+   "kickoffTime": "17:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-21T12:30:00.000Z",
+   "kickoffUtc": "2026-11-20T16:00:00.000Z",
    "home": {
     "id": 218186,
     "name": "SpVgg Rattelsdorf a. K.",
