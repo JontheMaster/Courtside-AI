@@ -188,9 +188,9 @@
    "seasonId": 2026,
    "matchDay": 3,
    "kickoffDate": "2026-11-15",
-   "kickoffTime": "14:00",
+   "kickoffTime": "16:30",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-15T13:00:00.000Z",
+   "kickoffUtc": "2026-11-15T15:30:00.000Z",
    "home": {
     "id": 273289,
     "name": "DJK Münsterschwarzach AK",
