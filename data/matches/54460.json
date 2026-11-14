@@ -215,10 +215,10 @@
    "ligaId": 54460,
    "seasonId": 2026,
    "matchDay": 4,
-   "kickoffDate": "2026-11-15",
+   "kickoffDate": "2027-03-28",
    "kickoffTime": "12:30",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-15T11:30:00.000Z",
+   "kickoffUtc": "2027-03-28T10:30:00.000Z",
    "home": {
     "id": 180545,
     "name": "TV Augsburg",
