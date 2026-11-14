@@ -1056,9 +1056,9 @@
    "seasonId": 2026,
    "matchDay": 8,
    "kickoffDate": "2026-12-06",
-   "kickoffTime": "16:00",
+   "kickoffTime": "17:30",
    "timeTbd": false,
-   "kickoffUtc": "2026-12-06T15:00:00.000Z",
+   "kickoffUtc": "2026-12-06T16:30:00.000Z",
    "home": {
     "id": 154152,
     "name": "DJK Landsberg 2",

@@ -362,3 +362,4 @@
 {"at":"2026-11-14T03:11:54.736Z","changes":{"status":["scheduled","missing_result"]},"ligaId":53780,"matchId":2910825}
 {"at":"2026-11-14T03:11:54.736Z","changes":{"status":["scheduled","missing_result"]},"ligaId":53804,"matchId":2910263}
 {"at":"2026-11-14T03:11:54.736Z","changes":{"status":["scheduled","missing_result"]},"ligaId":53804,"matchId":2910265}
+{"at":"2026-11-14T10:20:51.001Z","changes":{"kickoffTime":["16:00","17:30"]},"ligaId":53727,"matchId":2900373}
