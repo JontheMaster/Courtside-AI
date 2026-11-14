@@ -231,10 +231,10 @@
     "clubId": 4397,
     "forfeit": false
    },
-   "homeScore": null,
-   "guestScore": null,
+   "homeScore": 77,
+   "guestScore": 41,
    "confirmed": false,
-   "status": "scheduled",
+   "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
   },
@@ -272,9 +272,9 @@
    "seasonId": 2026,
    "matchDay": 4,
    "kickoffDate": "2026-11-22",
-   "kickoffTime": "14:30",
+   "kickoffTime": "12:15",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-22T13:30:00.000Z",
+   "kickoffUtc": "2026-11-22T11:15:00.000Z",
    "home": {
     "id": 265014,
     "name": "CYBEX Talents BBC Bayreuth 2",

@@ -2057,20 +2057,6 @@
   "competitionType": "regular",
   "role": "training"
  },
- "56595": {
-  "ligaId": 56595,
-  "name": "U20 männlich Bezirksoberliga ",
-  "seasonId": 2026,
-  "seasonName": "2026/2027",
-  "ageGroup": "U20",
-  "gender": "männlich",
-  "level": "Bezirksoberliga",
-  "levelScope": "Bezirk",
-  "verbandId": 2,
-  "bezirk": "Oberpfalz",
-  "competitionType": "regular",
-  "role": "training"
- },
  "56596": {
   "ligaId": 56596,
   "name": "U20 weiblich Bezirksoberliga",
