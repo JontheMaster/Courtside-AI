@@ -335,6 +335,20 @@
   "competitionType": "regular",
   "role": "training"
  },
+ "53733": {
+  "ligaId": 53733,
+  "name": "West - Bezirksklasse Herren (WE-BKH) 2026/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "männlich",
+  "level": "Bezirksklasse",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
  "53736": {
   "ligaId": 53736,
   "name": "Kreisliga Herren B (MI-KLHB) 2026/27",
@@ -1296,6 +1310,20 @@
   "gender": "weiblich",
   "level": "Bezirksklasse",
   "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Oberbayern",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "55008": {
+  "ligaId": 55008,
+  "name": "Kreisliga Damen West (kü-kldw) 2026/27",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "Senioren",
+  "gender": "weiblich",
+  "level": "Kreisliga",
+  "levelScope": "Kreis",
   "verbandId": 2,
   "bezirk": "Oberbayern",
   "competitionType": "regular",
