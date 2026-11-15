@@ -705,7 +705,7 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
+   "status": "missing_result",
    "forfeitBy": null,
    "competitionType": "regular"
   },
@@ -842,10 +842,10 @@
     "clubId": 546,
     "forfeit": false
    },
-   "homeScore": null,
-   "guestScore": null,
+   "homeScore": 110,
+   "guestScore": 38,
    "confirmed": false,
-   "status": "scheduled",
+   "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
   },

@@ -804,9 +804,9 @@
    "seasonId": 2026,
    "matchDay": 6,
    "kickoffDate": "2026-11-22",
-   "kickoffTime": "15:00",
+   "kickoffTime": "18:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-22T14:00:00.000Z",
+   "kickoffUtc": "2026-11-22T17:00:00.000Z",
    "home": {
     "id": 162861,
     "name": "MTV 1879 München 2",
