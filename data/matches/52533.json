@@ -625,7 +625,7 @@
    },
    "homeScore": 48,
    "guestScore": 55,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -653,7 +653,7 @@
    },
    "homeScore": 67,
    "guestScore": 61,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -681,7 +681,7 @@
    },
    "homeScore": 66,
    "guestScore": 25,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -709,7 +709,7 @@
    },
    "homeScore": 64,
    "guestScore": 57,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -2092,9 +2092,9 @@
    "seasonId": 2026,
    "matchDay": 15,
    "kickoffDate": "2026-11-22",
-   "kickoffTime": "15:15",
+   "kickoffTime": "15:30",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-22T14:15:00.000Z",
+   "kickoffUtc": "2026-11-22T14:30:00.000Z",
    "home": {
     "id": 151034,
     "name": "TG 48 Würzburg 3",

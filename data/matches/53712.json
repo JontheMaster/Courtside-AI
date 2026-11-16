@@ -651,10 +651,10 @@
     "clubId": 277,
     "forfeit": false
    },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "missing_result",
+   "homeScore": 76,
+   "guestScore": 69,
+   "confirmed": true,
+   "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
   },

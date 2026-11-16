@@ -411,10 +411,10 @@
    "ligaId": 55327,
    "seasonId": 2026,
    "matchDay": 5,
-   "kickoffDate": "2026-12-06",
-   "kickoffTime": "14:00",
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "15:30",
    "timeTbd": false,
-   "kickoffUtc": "2026-12-06T13:00:00.000Z",
+   "kickoffUtc": "2026-12-05T14:30:00.000Z",
    "home": {
     "id": 143096,
     "name": "TSV Hof",

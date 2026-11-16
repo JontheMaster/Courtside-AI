@@ -653,7 +653,7 @@
    },
    "homeScore": 90,
    "guestScore": 45,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -663,10 +663,10 @@
    "ligaId": 52807,
    "seasonId": 2026,
    "matchDay": 5,
-   "kickoffDate": "2027-07-06",
+   "kickoffDate": "2027-02-06",
    "kickoffTime": "16:30",
    "timeTbd": false,
-   "kickoffUtc": "2027-07-06T14:30:00.000Z",
+   "kickoffUtc": "2027-02-06T15:30:00.000Z",
    "home": {
     "id": 143008,
     "name": "TSV Hof",

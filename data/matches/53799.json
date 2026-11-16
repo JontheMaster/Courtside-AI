@@ -411,10 +411,10 @@
    "ligaId": 53799,
    "seasonId": 2026,
    "matchDay": 6,
-   "kickoffDate": "2026-11-22",
-   "kickoffTime": "10:00",
+   "kickoffDate": "2027-04-24",
+   "kickoffTime": "14:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-22T09:00:00.000Z",
+   "kickoffUtc": "2027-04-24T12:00:00.000Z",
    "home": {
     "id": 165448,
     "name": "TSV Vaterstetten 2",
