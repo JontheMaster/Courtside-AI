@@ -405,6 +405,118 @@
    "status": "final",
    "forfeitBy": null,
    "competitionType": "cup"
+  },
+  {
+   "matchId": 2992464,
+   "ligaId": 56305,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-12-18T23:00:00.000Z",
+   "home": {
+    "id": 165775,
+    "name": "TV 1847 Augsburg",
+    "clubId": 363,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165480,
+    "name": "SV Mammendorf",
+    "clubId": 1146,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2992465,
+   "ligaId": 56305,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-12-18T23:00:00.000Z",
+   "home": {
+    "id": 143110,
+    "name": "TTL Basketball Bamberg",
+    "clubId": 665,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 162997,
+    "name": "TSV München Ost",
+    "clubId": 1260,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2992466,
+   "ligaId": 56305,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-12-18T23:00:00.000Z",
+   "home": {
+    "id": 166180,
+    "name": "DJK Sportbund München",
+    "clubId": 977,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 165755,
+    "name": "PSV Baskets Ingolstadt",
+    "clubId": 1108,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "cup"
+  },
+  {
+   "matchId": 2992467,
+   "ligaId": 56305,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": null,
+   "timeTbd": true,
+   "kickoffUtc": "2026-12-18T23:00:00.000Z",
+   "home": {
+    "id": 166583,
+    "name": "Post SV Nürnberg",
+    "clubId": 1476,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 314809,
+    "name": "TSV Gräfelfing",
+    "clubId": 4589,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "cup"
   }
  ]
 }

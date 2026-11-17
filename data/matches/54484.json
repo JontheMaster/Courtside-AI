@@ -187,10 +187,10 @@
    "ligaId": 54484,
    "seasonId": 2026,
    "matchDay": 3,
-   "kickoffDate": "2026-10-25",
-   "kickoffTime": "17:00",
+   "kickoffDate": "2027-01-09",
+   "kickoffTime": "11:30",
    "timeTbd": false,
-   "kickoffUtc": "2026-10-25T16:00:00.000Z",
+   "kickoffUtc": "2027-01-09T10:30:00.000Z",
    "home": {
     "id": 163558,
     "name": "TSV Haunstetten",
@@ -206,7 +206,7 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "cancelled",
+   "status": "scheduled",
    "forfeitBy": null,
    "competitionType": "regular"
   },

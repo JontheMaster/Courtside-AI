@@ -720,9 +720,9 @@
    "seasonId": 2026,
    "matchDay": 6,
    "kickoffDate": "2026-11-21",
-   "kickoffTime": "09:45",
+   "kickoffTime": "12:15",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-21T08:45:00.000Z",
+   "kickoffUtc": "2026-11-21T11:15:00.000Z",
    "home": {
     "id": 316294,
     "name": "TSV München Ost 4",
