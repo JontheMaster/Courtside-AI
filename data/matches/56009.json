@@ -205,7 +205,7 @@
    },
    "homeScore": 66,
    "guestScore": 24,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -233,7 +233,7 @@
    },
    "homeScore": 49,
    "guestScore": 44,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -440,9 +440,9 @@
    "seasonId": 2026,
    "matchDay": 6,
    "kickoffDate": "2027-01-09",
-   "kickoffTime": "11:00",
+   "kickoffTime": "10:45",
    "timeTbd": false,
-   "kickoffUtc": "2027-01-09T10:00:00.000Z",
+   "kickoffUtc": "2027-01-09T09:45:00.000Z",
    "home": {
     "id": 310667,
     "name": "TG 48 Würzburg 2",

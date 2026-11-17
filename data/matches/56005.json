@@ -440,9 +440,9 @@
    "seasonId": 2026,
    "matchDay": 6,
    "kickoffDate": "2027-01-09",
-   "kickoffTime": "15:00",
+   "kickoffTime": "17:30",
    "timeTbd": false,
-   "kickoffUtc": "2027-01-09T14:00:00.000Z",
+   "kickoffUtc": "2027-01-09T16:30:00.000Z",
    "home": {
     "id": 219495,
     "name": "TG 48 Würzburg 2",

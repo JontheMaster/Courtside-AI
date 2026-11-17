@@ -65,7 +65,7 @@
    },
    "homeScore": 96,
    "guestScore": 72,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -625,7 +625,7 @@
    },
    "homeScore": 67,
    "guestScore": 91,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -709,7 +709,7 @@
    },
    "homeScore": 57,
    "guestScore": 79,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -1559,10 +1559,10 @@
    "ligaId": 53748,
    "seasonId": 2026,
    "matchDay": 12,
-   "kickoffDate": "2027-01-29",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-01-28T23:00:00.000Z",
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "16:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T15:30:00.000Z",
    "home": {
     "id": 316254,
     "name": "FC Aschheim",
