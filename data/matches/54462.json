@@ -289,7 +289,7 @@
    },
    "homeScore": 41,
    "guestScore": 118,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -384,9 +384,9 @@
    "seasonId": 2026,
    "matchDay": 5,
    "kickoffDate": "2026-11-22",
-   "kickoffTime": "12:15",
+   "kickoffTime": "10:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-22T11:15:00.000Z",
+   "kickoffUtc": "2026-11-22T09:00:00.000Z",
    "home": {
     "id": 240738,
     "name": "TSV Nördlingen a.K.",

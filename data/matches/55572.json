@@ -1196,9 +1196,9 @@
    "seasonId": 2026,
    "matchDay": 11,
    "kickoffDate": "2027-01-16",
-   "kickoffTime": "16:00",
+   "kickoffTime": "15:45",
    "timeTbd": false,
-   "kickoffUtc": "2027-01-16T15:00:00.000Z",
+   "kickoffUtc": "2027-01-16T14:45:00.000Z",
    "home": {
     "id": 157451,
     "name": "TG 48 Würzburg 4",

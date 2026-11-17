@@ -215,10 +215,10 @@
    "ligaId": 56156,
    "seasonId": 2026,
    "matchDay": 4,
-   "kickoffDate": "2026-11-28",
-   "kickoffTime": "20:00",
+   "kickoffDate": "2026-11-22",
+   "kickoffTime": "15:30",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-28T19:00:00.000Z",
+   "kickoffUtc": "2026-11-22T14:30:00.000Z",
    "home": {
     "id": 166580,
     "name": "Post SV Nürnberg",
