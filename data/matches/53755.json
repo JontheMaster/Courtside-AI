@@ -15,34 +15,6 @@
  },
  "matches": [
   {
-   "matchId": 2906228,
-   "ligaId": 53755,
-   "seasonId": 2026,
-   "matchDay": 1,
-   "kickoffDate": "2026-10-03",
-   "kickoffTime": "12:30",
-   "timeTbd": false,
-   "kickoffUtc": "2026-10-03T10:30:00.000Z",
-   "home": {
-    "id": 312172,
-    "name": "TSV Trudering Basketball",
-    "clubId": 4237,
-    "forfeit": true
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 3",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "home",
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2906230,
    "ligaId": 53755,
    "seasonId": 2026,
@@ -61,34 +33,6 @@
     "id": 240018,
     "name": "TV Traunstein",
     "clubId": 1225,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "home",
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2906232,
-   "ligaId": 53755,
-   "seasonId": 2026,
-   "matchDay": 1,
-   "kickoffDate": "2026-10-03",
-   "kickoffTime": "13:15",
-   "timeTbd": false,
-   "kickoffUtc": "2026-10-03T11:15:00.000Z",
-   "home": {
-    "id": 317840,
-    "name": "SV Seeon",
-    "clubId": 624,
-    "forfeit": true
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
     "forfeit": false
    },
    "homeScore": null,
@@ -173,34 +117,6 @@
     "id": 317840,
     "name": "SV Seeon",
     "clubId": 624,
-    "forfeit": true
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "guest",
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2906240,
-   "ligaId": 53755,
-   "seasonId": 2026,
-   "matchDay": 2,
-   "kickoffDate": "2026-10-09",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-10-08T22:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 312167,
-    "name": "TSV Peiting",
-    "clubId": 1425,
     "forfeit": true
    },
    "homeScore": null,
@@ -323,34 +239,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2906247,
-   "ligaId": 53755,
-   "seasonId": 2026,
-   "matchDay": 3,
-   "kickoffDate": "2026-10-16",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-10-15T22:00:00.000Z",
-   "home": {
-    "id": 312167,
-    "name": "TSV Peiting",
-    "clubId": 1425,
-    "forfeit": true
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "home",
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2906248,
    "ligaId": 53755,
    "seasonId": 2026,
@@ -407,34 +295,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2906250,
-   "ligaId": 53755,
-   "seasonId": 2026,
-   "matchDay": 3,
-   "kickoffDate": "2026-10-16",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-10-15T22:00:00.000Z",
-   "home": {
-    "id": 163039,
-    "name": "TSV 1884 Wolnzach",
-    "clubId": 1578,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "missing_result",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2906251,
    "ligaId": 53755,
    "seasonId": 2026,
@@ -459,34 +319,6 @@
    "guestScore": 39,
    "confirmed": false,
    "status": "final",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2906252,
-   "ligaId": 53755,
-   "seasonId": 2026,
-   "matchDay": 4,
-   "kickoffDate": "2026-10-23",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-10-22T22:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 204874,
-    "name": "TSV Ottobrunn",
-    "clubId": 700,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "missing_result",
    "forfeitBy": null,
    "competitionType": "regular"
   },
@@ -537,34 +369,6 @@
     "id": 317840,
     "name": "SV Seeon",
     "clubId": 624,
-    "forfeit": true
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "guest",
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2906255,
-   "ligaId": 53755,
-   "seasonId": 2026,
-   "matchDay": 4,
-   "kickoffDate": "2026-10-23",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-10-22T22:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 3",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 312167,
-    "name": "TSV Peiting",
-    "clubId": 1425,
     "forfeit": true
    },
    "homeScore": null,
@@ -628,34 +432,6 @@
    "confirmed": false,
    "status": "forfeit",
    "forfeitBy": "home",
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2906258,
-   "ligaId": 53755,
-   "seasonId": 2026,
-   "matchDay": 5,
-   "kickoffDate": "2026-11-14",
-   "kickoffTime": "10:00",
-   "timeTbd": false,
-   "kickoffUtc": "2026-11-14T09:00:00.000Z",
-   "home": {
-    "id": 240018,
-    "name": "TV Traunstein",
-    "clubId": 1225,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "missing_result",
-   "forfeitBy": null,
    "competitionType": "regular"
   },
   {
@@ -740,34 +516,6 @@
    "confirmed": false,
    "status": "scheduled",
    "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2906262,
-   "ligaId": 53755,
-   "seasonId": 2026,
-   "matchDay": 6,
-   "kickoffDate": "2026-11-20",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-11-19T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 312172,
-    "name": "TSV Trudering Basketball",
-    "clubId": 4237,
-    "forfeit": true
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -883,34 +631,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2906267,
-   "ligaId": 53755,
-   "seasonId": 2026,
-   "matchDay": 7,
-   "kickoffDate": "2026-11-27",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-11-26T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 235353,
-    "name": "TSV Weilheim",
-    "clubId": 1166,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2906268,
    "ligaId": 53755,
    "seasonId": 2026,
@@ -992,34 +712,6 @@
    "confirmed": false,
    "status": "forfeit",
    "forfeitBy": "guest",
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2906271,
-   "ligaId": 53755,
-   "seasonId": 2026,
-   "matchDay": 8,
-   "kickoffDate": "2026-12-05",
-   "kickoffTime": "12:30",
-   "timeTbd": false,
-   "kickoffUtc": "2026-12-05T11:30:00.000Z",
-   "home": {
-    "id": 312172,
-    "name": "TSV Trudering Basketball",
-    "clubId": 4237,
-    "forfeit": true
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -1107,34 +799,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2906275,
-   "ligaId": 53755,
-   "seasonId": 2026,
-   "matchDay": 8,
-   "kickoffDate": "2026-12-04",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-12-03T23:00:00.000Z",
-   "home": {
-    "id": 162775,
-    "name": "TSV München Ost 4",
-    "clubId": 1260,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2906276,
    "ligaId": 53755,
    "seasonId": 2026,
@@ -1153,34 +817,6 @@
     "id": 162775,
     "name": "TSV München Ost 4",
     "clubId": 1260,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2906277,
-   "ligaId": 53755,
-   "seasonId": 2026,
-   "matchDay": 9,
-   "kickoffDate": "2026-12-11",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-12-10T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 223246,
-    "name": "DJK SB München",
-    "clubId": 977,
     "forfeit": false
    },
    "homeScore": null,
@@ -1275,34 +911,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2906281,
-   "ligaId": 53755,
-   "seasonId": 2026,
-   "matchDay": 10,
-   "kickoffDate": "2027-01-15",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-01-14T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 3",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 312172,
-    "name": "TSV Trudering Basketball",
-    "clubId": 4237,
-    "forfeit": true
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "guest",
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2906282,
    "ligaId": 53755,
    "seasonId": 2026,
@@ -1321,34 +929,6 @@
     "id": 312167,
     "name": "TSV Peiting",
     "clubId": 1425,
-    "forfeit": true
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "guest",
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2906283,
-   "ligaId": 53755,
-   "seasonId": 2026,
-   "matchDay": 10,
-   "kickoffDate": "2027-01-15",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-01-14T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 317840,
-    "name": "SV Seeon",
-    "clubId": 624,
     "forfeit": true
    },
    "homeScore": null,
@@ -1433,34 +1013,6 @@
     "id": 235353,
     "name": "TSV Weilheim",
     "clubId": 1166,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "home",
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2906287,
-   "ligaId": 53755,
-   "seasonId": 2026,
-   "matchDay": 11,
-   "kickoffDate": "2027-01-22",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-01-21T23:00:00.000Z",
-   "home": {
-    "id": 312167,
-    "name": "TSV Peiting",
-    "clubId": 1425,
-    "forfeit": true
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
     "forfeit": false
    },
    "homeScore": null,
@@ -1583,34 +1135,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2906292,
-   "ligaId": 53755,
-   "seasonId": 2026,
-   "matchDay": 12,
-   "kickoffDate": "2027-01-29",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-01-28T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 312167,
-    "name": "TSV Peiting",
-    "clubId": 1425,
-    "forfeit": true
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "guest",
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2906293,
    "ligaId": 53755,
    "seasonId": 2026,
@@ -1667,34 +1191,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2906295,
-   "ligaId": 53755,
-   "seasonId": 2026,
-   "matchDay": 12,
-   "kickoffDate": "2027-01-29",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-01-28T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 163039,
-    "name": "TSV 1884 Wolnzach",
-    "clubId": 1578,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2906296,
    "ligaId": 53755,
    "seasonId": 2026,
@@ -1713,34 +1209,6 @@
     "id": 235353,
     "name": "TSV Weilheim",
     "clubId": 1166,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2906297,
-   "ligaId": 53755,
-   "seasonId": 2026,
-   "matchDay": 13,
-   "kickoffDate": "2027-02-20",
-   "kickoffTime": "15:45",
-   "timeTbd": false,
-   "kickoffUtc": "2027-02-20T14:45:00.000Z",
-   "home": {
-    "id": 204874,
-    "name": "TSV Ottobrunn",
-    "clubId": 700,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
     "forfeit": false
    },
    "homeScore": null,
@@ -1807,34 +1275,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2906300,
-   "ligaId": 53755,
-   "seasonId": 2026,
-   "matchDay": 13,
-   "kickoffDate": "2027-02-19",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-02-18T23:00:00.000Z",
-   "home": {
-    "id": 312167,
-    "name": "TSV Peiting",
-    "clubId": 1425,
-    "forfeit": true
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 3",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "home",
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2906301,
    "ligaId": 53755,
    "seasonId": 2026,
@@ -1888,34 +1328,6 @@
    "confirmed": false,
    "status": "forfeit",
    "forfeitBy": "guest",
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2906303,
-   "ligaId": 53755,
-   "seasonId": 2026,
-   "matchDay": 14,
-   "kickoffDate": "2027-02-26",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-02-25T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 240018,
-    "name": "TV Traunstein",
-    "clubId": 1225,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
    "competitionType": "regular"
   },
   {
@@ -2000,34 +1412,6 @@
    "confirmed": false,
    "status": "scheduled",
    "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2906307,
-   "ligaId": 53755,
-   "seasonId": 2026,
-   "matchDay": 15,
-   "kickoffDate": "2027-03-06",
-   "kickoffTime": "12:30",
-   "timeTbd": false,
-   "kickoffUtc": "2027-03-06T11:30:00.000Z",
-   "home": {
-    "id": 312172,
-    "name": "TSV Trudering Basketball",
-    "clubId": 4237,
-    "forfeit": true
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -2143,34 +1527,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2906312,
-   "ligaId": 53755,
-   "seasonId": 2026,
-   "matchDay": 16,
-   "kickoffDate": "2027-03-12",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-03-11T23:00:00.000Z",
-   "home": {
-    "id": 235353,
-    "name": "TSV Weilheim",
-    "clubId": 1166,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2906313,
    "ligaId": 53755,
    "seasonId": 2026,
@@ -2252,34 +1608,6 @@
    "confirmed": false,
    "status": "forfeit",
    "forfeitBy": "home",
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2906316,
-   "ligaId": 53755,
-   "seasonId": 2026,
-   "matchDay": 17,
-   "kickoffDate": "2027-04-09",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-04-08T22:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 312172,
-    "name": "TSV Trudering Basketball",
-    "clubId": 4237,
-    "forfeit": true
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -2367,34 +1695,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2906320,
-   "ligaId": 53755,
-   "seasonId": 2026,
-   "matchDay": 17,
-   "kickoffDate": "2027-04-09",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-04-08T22:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 162775,
-    "name": "TSV München Ost 4",
-    "clubId": 1260,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2906321,
    "ligaId": 53755,
    "seasonId": 2026,
@@ -2413,34 +1713,6 @@
     "id": 235353,
     "name": "TSV Weilheim",
     "clubId": 1166,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2906322,
-   "ligaId": 53755,
-   "seasonId": 2026,
-   "matchDay": 18,
-   "kickoffDate": "2027-04-18",
-   "kickoffTime": "17:30",
-   "timeTbd": false,
-   "kickoffUtc": "2027-04-18T15:30:00.000Z",
-   "home": {
-    "id": 223246,
-    "name": "DJK SB München",
-    "clubId": 977,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
     "forfeit": false
    },
    "homeScore": null,

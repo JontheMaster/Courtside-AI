@@ -71,118 +71,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2905698,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 1,
-   "kickoffDate": "2026-10-02",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-10-01T22:00:00.000Z",
-   "home": {
-    "id": 163038,
-    "name": "TSV 1880 Wasserburg",
-    "clubId": 1212,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "missing_result",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905699,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 1,
-   "kickoffDate": "2026-10-02",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-10-01T22:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 3",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "missing_result",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905701,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 2,
-   "kickoffDate": "2026-10-09",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-10-08T22:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 163038,
-    "name": "TSV 1880 Wasserburg",
-    "clubId": 1212,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "missing_result",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905702,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 2,
-   "kickoffDate": "2026-10-09",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-10-08T22:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 322931,
-    "name": "TSV München Ost 3",
-    "clubId": 1260,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "missing_result",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2905703,
    "ligaId": 55441,
    "seasonId": 2026,
@@ -208,90 +96,6 @@
    "confirmed": false,
    "status": "forfeit",
    "forfeitBy": "home",
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905705,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 2,
-   "kickoffDate": "2026-10-10",
-   "kickoffTime": "16:00",
-   "timeTbd": false,
-   "kickoffUtc": "2026-10-10T14:00:00.000Z",
-   "home": {
-    "id": 322930,
-    "name": "FC Bayern München",
-    "clubId": 619,
-    "forfeit": true
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 3",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "home",
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905706,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 3,
-   "kickoffDate": "2026-10-16",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-10-15T22:00:00.000Z",
-   "home": {
-    "id": 312962,
-    "name": "TSV München Ost 2",
-    "clubId": 1260,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 3",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "missing_result",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905707,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 3,
-   "kickoffDate": "2026-10-16",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-10-15T22:00:00.000Z",
-   "home": {
-    "id": 322931,
-    "name": "TSV München Ost 3",
-    "clubId": 1260,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "missing_result",
-   "forfeitBy": null,
    "competitionType": "regular"
   },
   {
@@ -323,62 +127,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2905710,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 3,
-   "kickoffDate": "2026-10-17",
-   "kickoffTime": "16:45",
-   "timeTbd": false,
-   "kickoffUtc": "2026-10-17T14:45:00.000Z",
-   "home": {
-    "id": 235353,
-    "name": "TSV Weilheim",
-    "clubId": 1166,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "missing_result",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905711,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 4,
-   "kickoffDate": "2026-10-23",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-10-22T22:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 235353,
-    "name": "TSV Weilheim",
-    "clubId": 1166,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "missing_result",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2905713,
    "ligaId": 55441,
    "seasonId": 2026,
@@ -404,34 +152,6 @@
    "confirmed": false,
    "status": "forfeit",
    "forfeitBy": "home",
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905714,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 4,
-   "kickoffDate": "2026-10-23",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-10-22T22:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 3",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 163038,
-    "name": "TSV 1880 Wasserburg",
-    "clubId": 1212,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "missing_result",
-   "forfeitBy": null,
    "competitionType": "regular"
   },
   {
@@ -485,65 +205,9 @@
    },
    "homeScore": 45,
    "guestScore": 48,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905717,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 5,
-   "kickoffDate": "2026-11-13",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-11-12T23:00:00.000Z",
-   "home": {
-    "id": 322931,
-    "name": "TSV München Ost 3",
-    "clubId": 1260,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 3",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "missing_result",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905718,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 5,
-   "kickoffDate": "2026-11-13",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-11-12T23:00:00.000Z",
-   "home": {
-    "id": 312961,
-    "name": "SB DJK Rosenheim 2",
-    "clubId": 479,
-    "forfeit": true
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -575,62 +239,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2905721,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 6,
-   "kickoffDate": "2026-11-20",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-11-19T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 312961,
-    "name": "SB DJK Rosenheim 2",
-    "clubId": 479,
-    "forfeit": true
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "guest",
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905722,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 6,
-   "kickoffDate": "2026-11-20",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-11-19T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 312962,
-    "name": "TSV München Ost 2",
-    "clubId": 1260,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2905723,
    "ligaId": 55441,
    "seasonId": 2026,
@@ -659,34 +267,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2905724,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 6,
-   "kickoffDate": "2026-11-20",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-11-19T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 3",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 235353,
-    "name": "TSV Weilheim",
-    "clubId": 1166,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2905726,
    "ligaId": 55441,
    "seasonId": 2026,
@@ -705,34 +285,6 @@
     "id": 322931,
     "name": "TSV München Ost 3",
     "clubId": 1260,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905727,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 7,
-   "kickoffDate": "2026-11-27",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-11-26T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
     "forfeit": false
    },
    "homeScore": null,
@@ -799,34 +351,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2905731,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 8,
-   "kickoffDate": "2026-12-04",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-12-03T23:00:00.000Z",
-   "home": {
-    "id": 312962,
-    "name": "TSV München Ost 2",
-    "clubId": 1260,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2905732,
    "ligaId": 55441,
    "seasonId": 2026,
@@ -845,118 +369,6 @@
     "id": 235353,
     "name": "TSV Weilheim",
     "clubId": 1166,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905734,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 8,
-   "kickoffDate": "2026-12-04",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-12-03T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 3",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 312961,
-    "name": "SB DJK Rosenheim 2",
-    "clubId": 479,
-    "forfeit": true
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "guest",
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905735,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 8,
-   "kickoffDate": "2026-12-06",
-   "kickoffTime": "13:00",
-   "timeTbd": false,
-   "kickoffUtc": "2026-12-06T12:00:00.000Z",
-   "home": {
-    "id": 322930,
-    "name": "FC Bayern München",
-    "clubId": 619,
-    "forfeit": true
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "home",
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905736,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 9,
-   "kickoffDate": "2026-12-11",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-12-10T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 322930,
-    "name": "FC Bayern München",
-    "clubId": 619,
-    "forfeit": true
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "guest",
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905737,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 9,
-   "kickoffDate": "2026-12-11",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-12-10T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 3",
-    "clubId": null,
     "forfeit": false
    },
    "homeScore": null,
@@ -1079,118 +491,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2905743,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 10,
-   "kickoffDate": "2027-01-15",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-01-14T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 163038,
-    "name": "TSV 1880 Wasserburg",
-    "clubId": 1212,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905744,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 10,
-   "kickoffDate": "2027-01-15",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-01-14T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 3",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905746,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 11,
-   "kickoffDate": "2027-01-22",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-01-21T23:00:00.000Z",
-   "home": {
-    "id": 163038,
-    "name": "TSV 1880 Wasserburg",
-    "clubId": 1212,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905747,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 11,
-   "kickoffDate": "2027-01-22",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-01-21T23:00:00.000Z",
-   "home": {
-    "id": 322931,
-    "name": "TSV München Ost 3",
-    "clubId": 1260,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2905748,
    "ligaId": 55441,
    "seasonId": 2026,
@@ -1216,90 +516,6 @@
    "confirmed": false,
    "status": "forfeit",
    "forfeitBy": "guest",
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905750,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 11,
-   "kickoffDate": "2027-01-22",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-01-21T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 3",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 322930,
-    "name": "FC Bayern München",
-    "clubId": 619,
-    "forfeit": true
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "guest",
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905751,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 12,
-   "kickoffDate": "2027-01-29",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-01-28T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 3",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 312962,
-    "name": "TSV München Ost 2",
-    "clubId": 1260,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905752,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 12,
-   "kickoffDate": "2027-01-29",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-01-28T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 322931,
-    "name": "TSV München Ost 3",
-    "clubId": 1260,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
    "competitionType": "regular"
   },
   {
@@ -1331,62 +547,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2905755,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 12,
-   "kickoffDate": "2027-01-29",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-01-28T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 235353,
-    "name": "TSV Weilheim",
-    "clubId": 1166,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905756,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 13,
-   "kickoffDate": "2027-02-20",
-   "kickoffTime": "16:45",
-   "timeTbd": false,
-   "kickoffUtc": "2027-02-20T15:45:00.000Z",
-   "home": {
-    "id": 235353,
-    "name": "TSV Weilheim",
-    "clubId": 1166,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2905758,
    "ligaId": 55441,
    "seasonId": 2026,
@@ -1412,34 +572,6 @@
    "confirmed": false,
    "status": "forfeit",
    "forfeitBy": "guest",
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905759,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 13,
-   "kickoffDate": "2027-02-19",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-02-18T23:00:00.000Z",
-   "home": {
-    "id": 163038,
-    "name": "TSV 1880 Wasserburg",
-    "clubId": 1212,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 3",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
    "competitionType": "regular"
   },
   {
@@ -1499,62 +631,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2905762,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 14,
-   "kickoffDate": "2027-02-26",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-02-25T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 3",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 322931,
-    "name": "TSV München Ost 3",
-    "clubId": 1260,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905763,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 14,
-   "kickoffDate": "2027-02-26",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-02-25T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 312961,
-    "name": "SB DJK Rosenheim 2",
-    "clubId": 479,
-    "forfeit": true
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "guest",
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2905765,
    "ligaId": 55441,
    "seasonId": 2026,
@@ -1580,62 +656,6 @@
    "confirmed": false,
    "status": "forfeit",
    "forfeitBy": "home",
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905766,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 15,
-   "kickoffDate": "2027-03-05",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-03-04T23:00:00.000Z",
-   "home": {
-    "id": 312961,
-    "name": "SB DJK Rosenheim 2",
-    "clubId": 479,
-    "forfeit": true
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "home",
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905767,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 15,
-   "kickoffDate": "2027-03-05",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-03-04T23:00:00.000Z",
-   "home": {
-    "id": 312962,
-    "name": "TSV München Ost 2",
-    "clubId": 1260,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
    "competitionType": "regular"
   },
   {
@@ -1667,34 +687,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2905769,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 15,
-   "kickoffDate": "2027-03-06",
-   "kickoffTime": "19:15",
-   "timeTbd": false,
-   "kickoffUtc": "2027-03-06T18:15:00.000Z",
-   "home": {
-    "id": 235353,
-    "name": "TSV Weilheim",
-    "clubId": 1166,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 3",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2905771,
    "ligaId": 55441,
    "seasonId": 2026,
@@ -1713,34 +705,6 @@
     "id": 312962,
     "name": "TSV München Ost 2",
     "clubId": 1260,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905772,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 16,
-   "kickoffDate": "2027-03-12",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-03-11T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
     "forfeit": false
    },
    "homeScore": null,
@@ -1807,34 +771,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2905776,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 17,
-   "kickoffDate": "2027-04-09",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-04-08T22:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 312962,
-    "name": "TSV München Ost 2",
-    "clubId": 1260,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2905777,
    "ligaId": 55441,
    "seasonId": 2026,
@@ -1853,118 +789,6 @@
     "id": 322931,
     "name": "TSV München Ost 3",
     "clubId": 1260,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905779,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 17,
-   "kickoffDate": "2027-04-09",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-04-08T22:00:00.000Z",
-   "home": {
-    "id": 312961,
-    "name": "SB DJK Rosenheim 2",
-    "clubId": 479,
-    "forfeit": true
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 3",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "home",
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905780,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 17,
-   "kickoffDate": "2027-04-09",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-04-08T22:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 322930,
-    "name": "FC Bayern München",
-    "clubId": 619,
-    "forfeit": true
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "guest",
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905781,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 18,
-   "kickoffDate": "2027-04-18",
-   "kickoffTime": "13:00",
-   "timeTbd": false,
-   "kickoffUtc": "2027-04-18T11:00:00.000Z",
-   "home": {
-    "id": 322930,
-    "name": "FC Bayern München",
-    "clubId": 619,
-    "forfeit": true
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "forfeit",
-   "forfeitBy": "home",
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2905782,
-   "ligaId": 55441,
-   "seasonId": 2026,
-   "matchDay": 18,
-   "kickoffDate": "2027-04-16",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-04-15T22:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 3",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
     "forfeit": false
    },
    "homeScore": null,

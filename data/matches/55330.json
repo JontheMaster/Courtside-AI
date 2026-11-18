@@ -276,15 +276,15 @@
    "timeTbd": false,
    "kickoffUtc": "2026-11-21T12:00:00.000Z",
    "home": {
-    "id": 143086,
-    "name": "BBC Coburg",
-    "clubId": 1273,
-    "forfeit": false
-   },
-   "guest": {
     "id": 146673,
     "name": "BG Litzendorf",
     "clubId": 333,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 143086,
+    "name": "BBC Coburg",
+    "clubId": 1273,
     "forfeit": false
    },
    "homeScore": null,

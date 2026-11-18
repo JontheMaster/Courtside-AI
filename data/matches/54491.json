@@ -819,8 +819,8 @@
     "clubId": 1188,
     "forfeit": false
    },
-   "homeScore": 129,
-   "guestScore": 20,
+   "homeScore": 20,
+   "guestScore": 0,
    "confirmed": false,
    "status": "final",
    "forfeitBy": null,
