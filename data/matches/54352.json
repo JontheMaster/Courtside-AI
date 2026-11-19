@@ -915,10 +915,10 @@
    "ligaId": 54352,
    "seasonId": 2026,
    "matchDay": 7,
-   "kickoffDate": "2026-11-21",
-   "kickoffTime": "13:30",
+   "kickoffDate": "2026-12-11",
+   "kickoffTime": "17:30",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-21T12:30:00.000Z",
+   "kickoffUtc": "2026-12-11T16:30:00.000Z",
    "home": {
     "id": 261108,
     "name": "TG Veitshöchheim",
