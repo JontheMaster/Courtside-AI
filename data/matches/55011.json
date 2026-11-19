@@ -71,62 +71,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2902976,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 1,
-   "kickoffDate": "2026-10-02",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-10-01T22:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 166719,
-    "name": "TSV Vaterstetten 2",
-    "clubId": 1055,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "missing_result",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2902977,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 1,
-   "kickoffDate": "2026-10-02",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-10-01T22:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 162990,
-    "name": "TS Jahn München 2",
-    "clubId": 961,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "missing_result",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2902978,
    "ligaId": 55011,
    "seasonId": 2026,
@@ -151,34 +95,6 @@
    "guestScore": 61,
    "confirmed": true,
    "status": "final",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2902979,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 2,
-   "kickoffDate": "2026-10-09",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-10-08T22:00:00.000Z",
-   "home": {
-    "id": 162990,
-    "name": "TS Jahn München 2",
-    "clubId": 961,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "missing_result",
    "forfeitBy": null,
    "competitionType": "regular"
   },
@@ -267,62 +183,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2902983,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 2,
-   "kickoffDate": "2026-10-10",
-   "kickoffTime": "16:30",
-   "timeTbd": false,
-   "kickoffUtc": "2026-10-10T14:30:00.000Z",
-   "home": {
-    "id": 250609,
-    "name": "TV Feldkirchen",
-    "clubId": 1387,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "missing_result",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2902984,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 3,
-   "kickoffDate": "2026-10-17",
-   "kickoffTime": "15:30",
-   "timeTbd": false,
-   "kickoffUtc": "2026-10-17T13:30:00.000Z",
-   "home": {
-    "id": 162991,
-    "name": "TSV Haar",
-    "clubId": 1527,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "missing_result",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2902985,
    "ligaId": 55011,
    "seasonId": 2026,
@@ -347,34 +207,6 @@
    "guestScore": 73,
    "confirmed": true,
    "status": "final",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2902986,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 3,
-   "kickoffDate": "2026-10-16",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-10-15T22:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 250609,
-    "name": "TV Feldkirchen",
-    "clubId": 1387,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "missing_result",
    "forfeitBy": null,
    "competitionType": "regular"
   },
@@ -519,34 +351,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2902992,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 4,
-   "kickoffDate": "2026-10-23",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-10-22T22:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "missing_result",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2902993,
    "ligaId": 55011,
    "seasonId": 2026,
@@ -571,62 +375,6 @@
    "guestScore": 59,
    "confirmed": true,
    "status": "final",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2902994,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 5,
-   "kickoffDate": "2026-11-15",
-   "kickoffTime": "15:30",
-   "timeTbd": false,
-   "kickoffUtc": "2026-11-15T14:30:00.000Z",
-   "home": {
-    "id": 162991,
-    "name": "TSV Haar",
-    "clubId": 1527,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "missing_result",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2902995,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 5,
-   "kickoffDate": "2026-11-15",
-   "kickoffTime": "10:00",
-   "timeTbd": false,
-   "kickoffUtc": "2026-11-15T09:00:00.000Z",
-   "home": {
-    "id": 317398,
-    "name": "TSV Trudering 2",
-    "clubId": 4237,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "missing_result",
    "forfeitBy": null,
    "competitionType": "regular"
   },
@@ -771,62 +519,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2903001,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 6,
-   "kickoffDate": "2026-11-20",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-11-19T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 317398,
-    "name": "TSV Trudering 2",
-    "clubId": 4237,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2903002,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 6,
-   "kickoffDate": "2026-11-20",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-11-19T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 168433,
-    "name": "SpVgg Höhenkirchen",
-    "clubId": 2500,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2903003,
    "ligaId": 55011,
    "seasonId": 2026,
@@ -939,62 +631,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2903007,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 7,
-   "kickoffDate": "2026-11-28",
-   "kickoffTime": "15:45",
-   "timeTbd": false,
-   "kickoffUtc": "2026-11-28T14:45:00.000Z",
-   "home": {
-    "id": 166712,
-    "name": "TSV Ottobrunn",
-    "clubId": 700,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2903008,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 7,
-   "kickoffDate": "2026-11-29",
-   "kickoffTime": "13:00",
-   "timeTbd": false,
-   "kickoffUtc": "2026-11-29T12:00:00.000Z",
-   "home": {
-    "id": 168433,
-    "name": "SpVgg Höhenkirchen",
-    "clubId": 2500,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2903009,
    "ligaId": 55011,
    "seasonId": 2026,
@@ -1051,62 +687,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2903011,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 8,
-   "kickoffDate": "2026-12-04",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-12-03T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 166712,
-    "name": "TSV Ottobrunn",
-    "clubId": 700,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2903012,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 8,
-   "kickoffDate": "2026-12-04",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-12-03T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 166691,
-    "name": "TuS Holzkirchen",
-    "clubId": 1393,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2903013,
    "ligaId": 55011,
    "seasonId": 2026,
@@ -1153,62 +733,6 @@
     "id": 250609,
     "name": "TV Feldkirchen",
     "clubId": 1387,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2903015,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 9,
-   "kickoffDate": "2026-12-13",
-   "kickoffTime": "12:30",
-   "timeTbd": false,
-   "kickoffUtc": "2026-12-13T11:30:00.000Z",
-   "home": {
-    "id": 166719,
-    "name": "TSV Vaterstetten 2",
-    "clubId": 1055,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2903016,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 9,
-   "kickoffDate": "2026-12-12",
-   "kickoffTime": "12:30",
-   "timeTbd": false,
-   "kickoffUtc": "2026-12-12T11:30:00.000Z",
-   "home": {
-    "id": 166691,
-    "name": "TuS Holzkirchen",
-    "clubId": 1393,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
     "forfeit": false
    },
    "homeScore": null,
@@ -1331,62 +855,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2903021,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 10,
-   "kickoffDate": "2027-01-17",
-   "kickoffTime": "12:30",
-   "timeTbd": false,
-   "kickoffUtc": "2027-01-17T11:30:00.000Z",
-   "home": {
-    "id": 166719,
-    "name": "TSV Vaterstetten 2",
-    "clubId": 1055,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2903022,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 10,
-   "kickoffDate": "2027-01-15",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-01-14T23:00:00.000Z",
-   "home": {
-    "id": 162990,
-    "name": "TS Jahn München 2",
-    "clubId": 961,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2903023,
    "ligaId": 55011,
    "seasonId": 2026,
@@ -1405,34 +873,6 @@
     "id": 168433,
     "name": "SpVgg Höhenkirchen",
     "clubId": 2500,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2903024,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 11,
-   "kickoffDate": "2027-01-22",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-01-21T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 162990,
-    "name": "TS Jahn München 2",
-    "clubId": 961,
     "forfeit": false
    },
    "homeScore": null,
@@ -1527,62 +967,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2903028,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 11,
-   "kickoffDate": "2027-01-22",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-01-21T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 250609,
-    "name": "TV Feldkirchen",
-    "clubId": 1387,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2903029,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 12,
-   "kickoffDate": "2027-01-29",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-01-28T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 162991,
-    "name": "TSV Haar",
-    "clubId": 1527,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2903030,
    "ligaId": 55011,
    "seasonId": 2026,
@@ -1601,34 +985,6 @@
     "id": 317398,
     "name": "TSV Trudering 2",
     "clubId": 4237,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2903031,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 12,
-   "kickoffDate": "2027-01-30",
-   "kickoffTime": "16:30",
-   "timeTbd": false,
-   "kickoffUtc": "2027-01-30T15:30:00.000Z",
-   "home": {
-    "id": 250609,
-    "name": "TV Feldkirchen",
-    "clubId": 1387,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
     "forfeit": false
    },
    "homeScore": null,
@@ -1779,34 +1135,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2903037,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 13,
-   "kickoffDate": "2027-02-19",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-02-18T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2903038,
    "ligaId": 55011,
    "seasonId": 2026,
@@ -1825,62 +1153,6 @@
     "id": 250609,
     "name": "TV Feldkirchen",
     "clubId": 1387,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2903039,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 14,
-   "kickoffDate": "2027-02-26",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-02-25T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 162991,
-    "name": "TSV Haar",
-    "clubId": 1527,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2903040,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 14,
-   "kickoffDate": "2027-02-26",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-02-25T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 317398,
-    "name": "TSV Trudering 2",
-    "clubId": 4237,
     "forfeit": false
    },
    "homeScore": null,
@@ -2031,62 +1303,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2903046,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 15,
-   "kickoffDate": "2027-03-06",
-   "kickoffTime": "15:00",
-   "timeTbd": false,
-   "kickoffUtc": "2027-03-06T14:00:00.000Z",
-   "home": {
-    "id": 317398,
-    "name": "TSV Trudering 2",
-    "clubId": 4237,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2903047,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 15,
-   "kickoffDate": "2027-03-07",
-   "kickoffTime": "13:00",
-   "timeTbd": false,
-   "kickoffUtc": "2027-03-07T12:00:00.000Z",
-   "home": {
-    "id": 168433,
-    "name": "SpVgg Höhenkirchen",
-    "clubId": 2500,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2903048,
    "ligaId": 55011,
    "seasonId": 2026,
@@ -2199,62 +1415,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2903052,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 16,
-   "kickoffDate": "2027-03-12",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-03-11T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 166712,
-    "name": "TSV Ottobrunn",
-    "clubId": 700,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2903053,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 16,
-   "kickoffDate": "2027-03-12",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-03-11T23:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 168433,
-    "name": "SpVgg Höhenkirchen",
-    "clubId": 2500,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2903054,
    "ligaId": 55011,
    "seasonId": 2026,
@@ -2311,62 +1471,6 @@
    "competitionType": "regular"
   },
   {
-   "matchId": 2903056,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 17,
-   "kickoffDate": "2027-04-10",
-   "kickoffTime": "13:30",
-   "timeTbd": false,
-   "kickoffUtc": "2027-04-10T11:30:00.000Z",
-   "home": {
-    "id": 166712,
-    "name": "TSV Ottobrunn",
-    "clubId": 700,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2903057,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 17,
-   "kickoffDate": "2027-04-10",
-   "kickoffTime": "12:30",
-   "timeTbd": false,
-   "kickoffUtc": "2027-04-10T10:30:00.000Z",
-   "home": {
-    "id": 166691,
-    "name": "TuS Holzkirchen",
-    "clubId": 1393,
-    "forfeit": false
-   },
-   "guest": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
    "matchId": 2903058,
    "ligaId": 55011,
    "seasonId": 2026,
@@ -2413,62 +1517,6 @@
     "id": 162990,
     "name": "TS Jahn München 2",
     "clubId": 961,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2903060,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 18,
-   "kickoffDate": "2027-04-16",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-04-15T22:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 2",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 166719,
-    "name": "TSV Vaterstetten 2",
-    "clubId": 1055,
-    "forfeit": false
-   },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
-   "competitionType": "regular"
-  },
-  {
-   "matchId": 2903061,
-   "ligaId": 55011,
-   "seasonId": 2026,
-   "matchDay": 18,
-   "kickoffDate": "2027-04-16",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2027-04-15T22:00:00.000Z",
-   "home": {
-    "id": null,
-    "name": "Platzhalter 1",
-    "clubId": null,
-    "forfeit": false
-   },
-   "guest": {
-    "id": 166691,
-    "name": "TuS Holzkirchen",
-    "clubId": 1393,
     "forfeit": false
    },
    "homeScore": null,
