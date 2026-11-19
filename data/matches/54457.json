@@ -33,13 +33,13 @@
     "id": 229106,
     "name": "SSV Schrobenhausen",
     "clubId": 1061,
-    "forfeit": false
+    "forfeit": true
    },
-   "homeScore": 70,
-   "guestScore": 60,
+   "homeScore": null,
+   "guestScore": null,
    "confirmed": false,
-   "status": "final",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -167,7 +167,7 @@
     "id": 229106,
     "name": "SSV Schrobenhausen",
     "clubId": 1061,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 272102,
@@ -178,8 +178,8 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -201,13 +201,13 @@
     "id": 229106,
     "name": "SSV Schrobenhausen",
     "clubId": 1061,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -251,7 +251,7 @@
     "id": 229106,
     "name": "SSV Schrobenhausen",
     "clubId": 1061,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 323008,
@@ -262,8 +262,8 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -391,7 +391,7 @@
     "id": 229106,
     "name": "SSV Schrobenhausen",
     "clubId": 1061,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 319559,
@@ -402,8 +402,8 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -453,13 +453,13 @@
     "id": 229106,
     "name": "SSV Schrobenhausen",
     "clubId": 1061,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -475,7 +475,7 @@
     "id": 229106,
     "name": "SSV Schrobenhausen",
     "clubId": 1061,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 217089,
@@ -486,8 +486,8 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -559,7 +559,7 @@
     "id": 229106,
     "name": "SSV Schrobenhausen",
     "clubId": 1061,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 210403,
@@ -570,8 +570,8 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -621,13 +621,13 @@
     "id": 229106,
     "name": "SSV Schrobenhausen",
     "clubId": 1061,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
    "status": "cancelled",
-   "forfeitBy": null,
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -733,13 +733,13 @@
     "id": 229106,
     "name": "SSV Schrobenhausen",
     "clubId": 1061,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {

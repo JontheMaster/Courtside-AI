@@ -384,9 +384,9 @@
    "seasonId": 2026,
    "matchDay": 6,
    "kickoffDate": "2026-11-22",
-   "kickoffTime": "16:00",
+   "kickoffTime": "10:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-22T15:00:00.000Z",
+   "kickoffUtc": "2026-11-22T09:00:00.000Z",
    "home": {
     "id": 238591,
     "name": "TSV Wasserburg",
