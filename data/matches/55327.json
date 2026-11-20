@@ -187,26 +187,26 @@
    "ligaId": 55327,
    "seasonId": 2026,
    "matchDay": 3,
-   "kickoffDate": "2026-11-15",
-   "kickoffTime": "16:45",
+   "kickoffDate": "2026-11-28",
+   "kickoffTime": "15:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-15T15:45:00.000Z",
+   "kickoffUtc": "2026-11-28T14:00:00.000Z",
    "home": {
-    "id": 265014,
-    "name": "CYBEX Talents BBC Bayreuth 2",
-    "clubId": 1660,
-    "forfeit": false
-   },
-   "guest": {
     "id": 143087,
     "name": "TS Kronach a. K.",
     "clubId": 1148,
     "forfeit": false
    },
+   "guest": {
+    "id": 265014,
+    "name": "CYBEX Talents BBC Bayreuth 2",
+    "clubId": 1660,
+    "forfeit": false
+   },
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "cancelled",
+   "status": "scheduled",
    "forfeitBy": null,
    "competitionType": "regular"
   },

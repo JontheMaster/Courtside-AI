@@ -719,10 +719,10 @@
    "ligaId": 53743,
    "seasonId": 2026,
    "matchDay": 6,
-   "kickoffDate": "2026-11-21",
-   "kickoffTime": "15:30",
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "13:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-21T14:30:00.000Z",
+   "kickoffUtc": "2026-12-19T12:00:00.000Z",
    "home": {
     "id": 163919,
     "name": "SV Polling",
