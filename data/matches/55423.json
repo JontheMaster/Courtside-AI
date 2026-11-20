@@ -89,7 +89,7 @@
     "id": 165508,
     "name": "TSV 1898 Penzberg",
     "clubId": 1035,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
@@ -195,7 +195,7 @@
     "id": 165508,
     "name": "TSV 1898 Penzberg",
     "clubId": 1035,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 273416,
@@ -206,8 +206,8 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -425,13 +425,13 @@
     "id": 165508,
     "name": "TSV 1898 Penzberg",
     "clubId": 1035,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
    "status": "cancelled",
-   "forfeitBy": null,
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -475,7 +475,7 @@
     "id": 165508,
     "name": "TSV 1898 Penzberg",
     "clubId": 1035,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 322907,
@@ -486,8 +486,8 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -649,13 +649,13 @@
     "id": 165508,
     "name": "TSV 1898 Penzberg",
     "clubId": 1035,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
    "status": "cancelled",
-   "forfeitBy": null,
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -755,7 +755,7 @@
     "id": 165508,
     "name": "TSV 1898 Penzberg",
     "clubId": 1035,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 162975,
@@ -766,8 +766,8 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -803,10 +803,10 @@
    "ligaId": 55423,
    "seasonId": 2026,
    "matchDay": 6,
-   "kickoffDate": "2026-11-22",
-   "kickoffTime": "17:30",
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "13:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-22T16:30:00.000Z",
+   "kickoffUtc": "2026-12-19T12:00:00.000Z",
    "home": {
     "id": 162957,
     "name": "DJK Landsberg",
@@ -895,7 +895,7 @@
     "id": 165508,
     "name": "TSV 1898 Penzberg",
     "clubId": 1035,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 321103,
@@ -906,8 +906,8 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -1125,13 +1125,13 @@
     "id": 165508,
     "name": "TSV 1898 Penzberg",
     "clubId": 1035,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -1175,7 +1175,7 @@
     "id": 165508,
     "name": "TSV 1898 Penzberg",
     "clubId": 1035,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 162957,
@@ -1186,8 +1186,8 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -1343,7 +1343,7 @@
     "id": 165508,
     "name": "TSV 1898 Penzberg",
     "clubId": 1035,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 168876,
@@ -1355,7 +1355,7 @@
    "guestScore": null,
    "confirmed": false,
    "status": "forfeit",
-   "forfeitBy": "guest",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -1461,13 +1461,13 @@
     "id": 165508,
     "name": "TSV 1898 Penzberg",
     "clubId": 1035,
-    "forfeit": false
+    "forfeit": true
    },
-   "homeScore": 98,
-   "guestScore": 43,
+   "homeScore": null,
+   "guestScore": null,
    "confirmed": true,
-   "status": "final",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -1679,7 +1679,7 @@
     "id": 165508,
     "name": "TSV 1898 Penzberg",
     "clubId": 1035,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 312108,
@@ -1690,8 +1690,8 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -1741,13 +1741,13 @@
     "id": 165508,
     "name": "TSV 1898 Penzberg",
     "clubId": 1035,
-    "forfeit": false
+    "forfeit": true
    },
-   "homeScore": 20,
-   "guestScore": 0,
+   "homeScore": null,
+   "guestScore": null,
    "confirmed": true,
-   "status": "final",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -1903,7 +1903,7 @@
     "id": 165508,
     "name": "TSV 1898 Penzberg",
     "clubId": 1035,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 213730,
@@ -1914,8 +1914,8 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -2021,13 +2021,13 @@
     "id": 165508,
     "name": "TSV 1898 Penzberg",
     "clubId": 1035,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -2161,13 +2161,13 @@
     "id": 165508,
     "name": "TSV 1898 Penzberg",
     "clubId": 1035,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -2379,7 +2379,7 @@
     "id": 165508,
     "name": "TSV 1898 Penzberg",
     "clubId": 1035,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 165498,
@@ -2390,8 +2390,8 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -2441,13 +2441,13 @@
     "id": 165508,
     "name": "TSV 1898 Penzberg",
     "clubId": 1035,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {

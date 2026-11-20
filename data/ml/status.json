@@ -1,176 +1,181 @@
 {
- "createdAt": "2026-11-19T21:30:32.666Z",
+ "createdAt": "2026-11-20T20:13:11.160Z",
  "activeLive": true,
- "reason": "Schlägt die Baseline im Backtest auf 1585 Spielen (Brier 0,196 vs. 0,213).",
+ "reason": "Schlägt die Baseline im Backtest auf 1588 Spielen (Brier 0,196 vs. 0,213).",
  "sameGames": {
   "baseline": {
-   "n": 1585,
+   "n": 1588,
    "reliable": true,
-   "accuracy": 0.6555,
+   "accuracy": 0.6568,
    "accuracyCI": [
-    0.632,
-    0.679
+    0.633,
+    0.68
    ],
-   "brier": 0.2129,
-   "logLoss": 0.6127,
-   "mae": 24.47,
-   "homeWinAccuracy": 0.7336,
-   "awayWinAccuracy": 0.5638,
-   "homeWins": 856,
-   "awayWins": 729
+   "brier": 0.2126,
+   "logLoss": 0.6119,
+   "mae": 24.41,
+   "homeWinAccuracy": 0.7354,
+   "awayWinAccuracy": 0.5644,
+   "homeWins": 858,
+   "awayWins": 730
   },
   "elo": {
-   "n": 1585,
+   "n": 1588,
    "reliable": true,
-   "accuracy": 0.6562,
+   "accuracy": 0.6574,
    "accuracyCI": [
-    0.632,
-    0.679
+    0.634,
+    0.68
    ],
-   "brier": 0.2106,
-   "logLoss": 0.6075,
-   "mae": 23.62,
-   "homeWinAccuracy": 0.7664,
-   "awayWinAccuracy": 0.5267,
-   "homeWins": 856,
-   "awayWins": 729
+   "brier": 0.21,
+   "logLoss": 0.6063,
+   "mae": 23.53,
+   "homeWinAccuracy": 0.7681,
+   "awayWinAccuracy": 0.5274,
+   "homeWins": 858,
+   "awayWins": 730
   },
   "rating": {
-   "n": 1585,
+   "n": 1588,
    "reliable": true,
-   "accuracy": 0.7009,
+   "accuracy": 0.7015,
    "accuracyCI": [
-    0.678,
-    0.723
+    0.679,
+    0.724
    ],
-   "brier": 0.1933,
-   "logLoss": 0.5647,
-   "mae": 22.92,
-   "homeWinAccuracy": 0.8026,
-   "awayWinAccuracy": 0.5816,
-   "homeWins": 856,
-   "awayWins": 729
+   "brier": 0.1929,
+   "logLoss": 0.5634,
+   "mae": 22.87,
+   "homeWinAccuracy": 0.803,
+   "awayWinAccuracy": 0.5822,
+   "homeWins": 858,
+   "awayWins": 730
   },
   "ml": {
-   "n": 1585,
+   "n": 1588,
    "reliable": true,
-   "accuracy": 0.6896,
+   "accuracy": 0.6908,
    "accuracyCI": [
-    0.666,
-    0.712
+    0.668,
+    0.713
    ],
-   "brier": 0.1956,
-   "logLoss": 0.5707,
-   "mae": 22.7,
-   "homeWinAccuracy": 0.7173,
-   "awayWinAccuracy": 0.6571,
-   "homeWins": 856,
-   "awayWins": 729
+   "brier": 0.1955,
+   "logLoss": 0.5705,
+   "mae": 22.65,
+   "homeWinAccuracy": 0.7203,
+   "awayWinAccuracy": 0.6562,
+   "homeWins": 858,
+   "awayWins": 730
   }
  },
  "vsBaseline": {
-  "n": 1585,
-  "diff": -0.0174,
+  "n": 1588,
+  "diff": -0.0171,
   "ci": [
    -0.0239,
-   -0.0102
+   -0.0099
   ]
  },
  "importance": [
   {
    "key": "avgMarginDiff",
    "label": "Unterschied Korbdifferenz",
-   "share": 0.4425
-  },
-  {
-   "key": "last5MarginDiff",
-   "label": "Form (Differenz letzte 5)",
-   "share": 0.1358
+   "share": 0.3935
   },
   {
    "key": "ratingLogit",
    "label": "Ratingmodell: Siegchance",
-   "share": 0.126
+   "share": 0.1884
+  },
+  {
+   "key": "last5MarginDiff",
+   "label": "Form (Differenz letzte 5)",
+   "share": 0.1828
   },
   {
    "key": "ratingMargin",
    "label": "Ratingmodell: erwartete Differenz",
-   "share": 0.1137
-  },
-  {
-   "key": "leagueHomeLogit",
-   "label": "Heimsiegquote der Liga",
-   "share": 0.0299
-  },
-  {
-   "key": "baseLogit",
-   "label": "Baseline-Siegchance",
-   "share": 0.0262
+   "share": 0.071
   },
   {
    "key": "eloLogit",
    "label": "Elo-Siegchance",
-   "share": 0.025
+   "share": 0.0388
+  },
+  {
+   "key": "leagueHomeLogit",
+   "label": "Heimsiegquote der Liga",
+   "share": 0.0292
+  },
+  {
+   "key": "baseLogit",
+   "label": "Baseline-Siegchance",
+   "share": 0.0221
   },
   {
    "key": "offDefDiff",
    "label": "Angriff vs. Verteidigung",
-   "share": 0.0164
-  },
-  {
-   "key": "eloDiff",
-   "label": "Elo-Abstand",
    "share": 0.0162
   },
   {
    "key": "sosDiff",
    "label": "Gegnerstärke",
-   "share": 0.0116
-  },
-  {
-   "key": "minGames",
-   "label": "Spiele (weniger erfahrenes Team)",
-   "share": 0.0115
-  },
-  {
-   "key": "ratingSigma",
-   "label": "Streuung der Liga",
-   "share": 0.0092
-  },
-  {
-   "key": "commonDiff",
-   "label": "Gemeinsame Gegner",
-   "share": 0.0086
-  },
-  {
-   "key": "winPctDiff",
-   "label": "Unterschied Siegquote",
-   "share": 0.0084
+   "share": 0.0114
   },
   {
    "key": "maxGames",
    "label": "Spiele (erfahreneres Team)",
-   "share": 0.0077
+   "share": 0.011
+  },
+  {
+   "key": "minGames",
+   "label": "Spiele (weniger erfahrenes Team)",
+   "share": 0.008
+  },
+  {
+   "key": "ratingSigma",
+   "label": "Streuung der Liga",
+   "share": 0.0067
+  },
+  {
+   "key": "commonDiff",
+   "label": "Gemeinsame Gegner",
+   "share": 0.0061
+  },
+  {
+   "key": "winPctDiff",
+   "label": "Unterschied Siegquote",
+   "share": 0.0047
   },
   {
    "key": "leagueAvgPoints",
    "label": "Punkteschnitt der Liga",
-   "share": 0.0063
+   "share": 0.0033
+  },
+  {
+   "key": "eloDiff",
+   "label": "Elo-Abstand",
+   "share": 0.0027
   },
   {
    "key": "age_U14",
    "label": "Altersklasse U14",
-   "share": 0.0024
+   "share": 0.002
+  },
+  {
+   "key": "commonCount",
+   "label": "Anzahl gemeinsamer Gegner",
+   "share": 0.0009
   },
   {
    "key": "streakDiff",
    "label": "Serie",
-   "share": 0.0019
+   "share": 0.0006
   },
   {
    "key": "historySize",
    "label": "Spiele in der Liga",
-   "share": 0.0008
+   "share": 0.0006
   }
  ]
 }
