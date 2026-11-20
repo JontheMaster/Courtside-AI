@@ -373,7 +373,7 @@
    },
    "homeScore": 67,
    "guestScore": 116,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"

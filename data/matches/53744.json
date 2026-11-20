@@ -972,9 +972,9 @@
    "seasonId": 2026,
    "matchDay": 7,
    "kickoffDate": "2026-11-29",
-   "kickoffTime": "17:30",
+   "kickoffTime": "15:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-29T16:30:00.000Z",
+   "kickoffUtc": "2026-11-29T14:00:00.000Z",
    "home": {
     "id": 311458,
     "name": "TSV Gräfelfing e.V.",

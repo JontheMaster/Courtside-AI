@@ -33,13 +33,13 @@
     "id": 202726,
     "name": "TSV Sonthofen",
     "clubId": 664,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -167,7 +167,7 @@
     "id": 202726,
     "name": "TSV Sonthofen",
     "clubId": 664,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 163578,
@@ -178,8 +178,8 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -257,13 +257,13 @@
     "id": 202726,
     "name": "TSV Sonthofen",
     "clubId": 664,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
    "status": "cancelled",
-   "forfeitBy": null,
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -335,7 +335,7 @@
     "id": 202726,
     "name": "TSV Sonthofen",
     "clubId": 664,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 198216,
@@ -347,7 +347,7 @@
    "guestScore": null,
    "confirmed": false,
    "status": "cancelled",
-   "forfeitBy": null,
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -369,13 +369,13 @@
     "id": 202726,
     "name": "TSV Sonthofen",
     "clubId": 664,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -447,7 +447,7 @@
     "id": 202726,
     "name": "TSV Sonthofen",
     "clubId": 664,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 228808,
@@ -458,8 +458,8 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -593,13 +593,13 @@
     "id": 202726,
     "name": "TSV Sonthofen",
     "clubId": 664,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -671,7 +671,7 @@
     "id": 202726,
     "name": "TSV Sonthofen",
     "clubId": 664,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 314290,
@@ -682,8 +682,8 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -761,13 +761,13 @@
     "id": 202726,
     "name": "TSV Sonthofen",
     "clubId": 664,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -783,7 +783,7 @@
     "id": 202726,
     "name": "TSV Sonthofen",
     "clubId": 664,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 163568,
@@ -794,8 +794,8 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {

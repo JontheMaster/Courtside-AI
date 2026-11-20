@@ -25,7 +25,7 @@
    "kickoffUtc": "2026-10-11T14:30:00.000Z",
    "home": {
     "id": 163564,
-    "name": "SSV Schrobenhausen",
+    "name": "SSV Schrobenhausen a.K.",
     "clubId": 1061,
     "forfeit": false
    },
@@ -143,7 +143,7 @@
    },
    "guest": {
     "id": 163564,
-    "name": "SSV Schrobenhausen",
+    "name": "SSV Schrobenhausen a.K.",
     "clubId": 1061,
     "forfeit": false
    },
@@ -193,7 +193,7 @@
    "kickoffUtc": "2026-10-25T15:30:00.000Z",
    "home": {
     "id": 163564,
-    "name": "SSV Schrobenhausen",
+    "name": "SSV Schrobenhausen a.K.",
     "clubId": 1061,
     "forfeit": false
    },
@@ -277,7 +277,7 @@
    "kickoffUtc": "2026-11-14T11:15:00.000Z",
    "home": {
     "id": 163564,
-    "name": "SSV Schrobenhausen",
+    "name": "SSV Schrobenhausen a.K.",
     "clubId": 1061,
     "forfeit": false
    },
@@ -423,7 +423,7 @@
    },
    "guest": {
     "id": 163564,
-    "name": "SSV Schrobenhausen",
+    "name": "SSV Schrobenhausen a.K.",
     "clubId": 1061,
     "forfeit": false
    },
@@ -451,7 +451,7 @@
    },
    "guest": {
     "id": 163564,
-    "name": "SSV Schrobenhausen",
+    "name": "SSV Schrobenhausen a.K.",
     "clubId": 1061,
     "forfeit": false
    },
@@ -557,7 +557,7 @@
    "kickoffUtc": "2027-01-16T13:30:00.000Z",
    "home": {
     "id": 163564,
-    "name": "SSV Schrobenhausen",
+    "name": "SSV Schrobenhausen a.K.",
     "clubId": 1061,
     "forfeit": false
    },
@@ -619,7 +619,7 @@
    },
    "guest": {
     "id": 163564,
-    "name": "SSV Schrobenhausen",
+    "name": "SSV Schrobenhausen a.K.",
     "clubId": 1061,
     "forfeit": false
    },
@@ -703,7 +703,7 @@
    },
    "guest": {
     "id": 163564,
-    "name": "SSV Schrobenhausen",
+    "name": "SSV Schrobenhausen a.K.",
     "clubId": 1061,
     "forfeit": false
    },
@@ -837,7 +837,7 @@
    "kickoffUtc": "2027-03-06T13:45:00.000Z",
    "home": {
     "id": 163564,
-    "name": "SSV Schrobenhausen",
+    "name": "SSV Schrobenhausen a.K.",
     "clubId": 1061,
     "forfeit": false
    },
