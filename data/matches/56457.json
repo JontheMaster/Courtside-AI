@@ -271,10 +271,10 @@
    "ligaId": 56457,
    "seasonId": 2026,
    "matchDay": 3,
-   "kickoffDate": "2026-11-21",
+   "kickoffDate": "2026-12-19",
    "kickoffTime": "13:30",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-21T12:30:00.000Z",
+   "kickoffUtc": "2026-12-19T12:30:00.000Z",
    "home": {
     "id": 167022,
     "name": "FC Tegernheim",

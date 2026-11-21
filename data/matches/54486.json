@@ -83,7 +83,7 @@
     "id": 163566,
     "name": "TSV Etting-Ingolstadt",
     "clubId": 1820,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 213376,
@@ -91,11 +91,11 @@
     "clubId": 818,
     "forfeit": false
    },
-   "homeScore": 30,
-   "guestScore": 120,
+   "homeScore": null,
+   "guestScore": null,
    "confirmed": false,
-   "status": "final",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -117,13 +117,13 @@
     "id": 163566,
     "name": "TSV Etting-Ingolstadt",
     "clubId": 1820,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -251,7 +251,7 @@
     "id": 163566,
     "name": "TSV Etting-Ingolstadt",
     "clubId": 1820,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 163575,
@@ -263,7 +263,7 @@
    "guestScore": null,
    "confirmed": false,
    "status": "forfeit",
-   "forfeitBy": "guest",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -313,13 +313,13 @@
     "id": 163566,
     "name": "TSV Etting-Ingolstadt",
     "clubId": 1820,
-    "forfeit": false
+    "forfeit": true
    },
-   "homeScore": 115,
-   "guestScore": 47,
+   "homeScore": null,
+   "guestScore": null,
    "confirmed": false,
-   "status": "final",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -419,7 +419,7 @@
     "id": 163566,
     "name": "TSV Etting-Ingolstadt",
     "clubId": 1820,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 163564,
@@ -430,8 +430,8 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -509,13 +509,13 @@
     "id": 163566,
     "name": "TSV Etting-Ingolstadt",
     "clubId": 1820,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -531,7 +531,7 @@
     "id": 163566,
     "name": "TSV Etting-Ingolstadt",
     "clubId": 1820,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 256701,
@@ -542,8 +542,8 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -677,7 +677,7 @@
     "id": 163566,
     "name": "TSV Etting-Ingolstadt",
     "clubId": 1820,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
@@ -727,7 +727,7 @@
     "id": 163566,
     "name": "TSV Etting-Ingolstadt",
     "clubId": 1820,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 163567,
@@ -738,8 +738,8 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -845,13 +845,13 @@
     "id": 163566,
     "name": "TSV Etting-Ingolstadt",
     "clubId": 1820,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "guest",
    "competitionType": "regular"
   }
  ]
