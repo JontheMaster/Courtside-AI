@@ -1161,3 +1161,7 @@
 {"at":"2026-11-21T01:29:43.584Z","changes":{"status":["scheduled","missing_result"]},"ligaId":53780,"matchId":2910831}
 {"at":"2026-11-21T01:29:43.584Z","changes":{"guestScore":[null,77],"homeScore":[null,84],"status":["scheduled","final"]},"ligaId":53729,"matchId":2903723}
 {"at":"2026-11-21T01:29:43.584Z","changes":{"status":["scheduled","missing_result"]},"ligaId":53804,"matchId":2910266}
+{"at":"2026-11-21T09:45:13.855Z","changes":{"status":["scheduled","cancelled"]},"ligaId":56158,"matchId":2929166}
+{"at":"2026-11-21T09:45:13.855Z","changes":{"confirmed":[false,true]},"ligaId":52532,"matchId":2840899}
+{"at":"2026-11-21T09:45:13.855Z","changes":{"confirmed":[false,true]},"ligaId":52532,"matchId":2840900}
+{"at":"2026-11-21T09:45:13.855Z","changes":{"confirmed":[false,true]},"ligaId":52532,"matchId":2840901}
