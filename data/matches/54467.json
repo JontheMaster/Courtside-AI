@@ -371,10 +371,10 @@
     "clubId": 1820,
     "forfeit": false
    },
-   "homeScore": null,
-   "guestScore": null,
+   "homeScore": 73,
+   "guestScore": 58,
    "confirmed": false,
-   "status": "scheduled",
+   "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
   },
@@ -427,10 +427,10 @@
     "clubId": 1061,
     "forfeit": false
    },
-   "homeScore": null,
-   "guestScore": null,
+   "homeScore": 83,
+   "guestScore": 43,
    "confirmed": false,
-   "status": "scheduled",
+   "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
   },
@@ -1111,10 +1111,10 @@
    "ligaId": 54467,
    "seasonId": 2026,
    "matchDay": 14,
-   "kickoffDate": "2026-12-06",
+   "kickoffDate": "2027-03-13",
    "kickoffTime": "12:15",
    "timeTbd": false,
-   "kickoffUtc": "2026-12-06T11:15:00.000Z",
+   "kickoffUtc": "2027-03-13T11:15:00.000Z",
    "home": {
     "id": 229047,
     "name": "SSV Schrobenhausen",
