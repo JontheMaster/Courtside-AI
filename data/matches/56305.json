@@ -468,9 +468,9 @@
    "seasonId": 2026,
    "matchDay": 3,
    "kickoffDate": "2026-12-19",
-   "kickoffTime": null,
-   "timeTbd": true,
-   "kickoffUtc": "2026-12-18T23:00:00.000Z",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T12:00:00.000Z",
    "home": {
     "id": 166180,
     "name": "DJK Sportbund München",
