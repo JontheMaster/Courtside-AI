@@ -1,5 +1,5 @@
 {
- "createdAt": "2026-11-21T23:13:08.608Z",
+ "createdAt": "2026-11-22T03:09:33.916Z",
  "method": "walk-forward; Historie = Spiele mit Anpfiff vor dem Zielspiel; nur reguläre Ligaspiele",
  "dataSettings": {
   "useUnconfirmedResults": true,
@@ -22232,29 +22232,29 @@
    "models": {
     "baseline": {
      "overall": {
-      "n": 2143,
+      "n": 2145,
       "reliable": true,
-      "accuracy": 0.6477,
+      "accuracy": 0.6476,
       "accuracyCI": [
        0.627,
-       0.668
+       0.667
       ],
-      "brier": 0.2155,
+      "brier": 0.2154,
       "logLoss": 0.6176,
-      "mae": 24.55,
-      "homeWinAccuracy": 0.7672,
-      "awayWinAccuracy": 0.5056,
-      "homeWins": 1164,
-      "awayWins": 979
+      "mae": 24.53,
+      "homeWinAccuracy": 0.7665,
+      "awayWinAccuracy": 0.5061,
+      "homeWins": 1165,
+      "awayWins": 980
      },
      "calibration": [
       {
        "range": "50–60 %",
-       "n": 1001,
+       "n": 1003,
        "predicted": 0.55,
        "observed": 0.565,
        "ci": [
-        0.535,
+        0.534,
         0.596
        ]
       },
@@ -22676,19 +22676,19 @@
       },
       {
        "ligaId": 53727,
-       "n": 26,
+       "n": 27,
        "reliable": false,
-       "accuracy": 0.6154,
+       "accuracy": 0.5926,
        "accuracyCI": [
-        0.425,
-        0.776
+        0.407,
+        0.755
        ],
-       "brier": 0.2435,
-       "logLoss": 0.6771,
-       "mae": 16.1,
-       "homeWinAccuracy": 0.7333,
+       "brier": 0.2439,
+       "logLoss": 0.6781,
+       "mae": 15.58,
+       "homeWinAccuracy": 0.6875,
        "awayWinAccuracy": 0.4545,
-       "homeWins": 15,
+       "homeWins": 16,
        "awayWins": 11
       },
       {
@@ -22727,20 +22727,20 @@
       },
       {
        "ligaId": 53736,
-       "n": 16,
+       "n": 17,
        "reliable": false,
-       "accuracy": 0.5,
+       "accuracy": 0.5294,
        "accuracyCI": [
-        0.28,
-        0.72
+        0.31,
+        0.738
        ],
-       "brier": 0.2344,
-       "logLoss": 0.6495,
-       "mae": 14.44,
+       "brier": 0.2287,
+       "logLoss": 0.6385,
+       "mae": 13.91,
        "homeWinAccuracy": 0.6,
-       "awayWinAccuracy": 0.3333,
+       "awayWinAccuracy": 0.4286,
        "homeWins": 10,
-       "awayWins": 6
+       "awayWins": 7
       },
       {
        "ligaId": 53738,
@@ -24922,20 +24922,20 @@
      "byAgeGroup": [
       {
        "ageGroup": "Senioren",
-       "n": 906,
+       "n": 908,
        "reliable": true,
-       "accuracy": 0.6578,
+       "accuracy": 0.6575,
        "accuracyCI": [
         0.626,
         0.688
        ],
        "brier": 0.2179,
        "logLoss": 0.6235,
-       "mae": 18.98,
-       "homeWinAccuracy": 0.7689,
-       "awayWinAccuracy": 0.5198,
-       "homeWins": 502,
-       "awayWins": 404
+       "mae": 18.95,
+       "homeWinAccuracy": 0.7674,
+       "awayWinAccuracy": 0.521,
+       "homeWins": 503,
+       "awayWins": 405
       },
       {
        "ageGroup": "U18",
@@ -25026,20 +25026,20 @@
       },
       {
        "bucket": "3–5 Spiele",
-       "n": 460,
+       "n": 462,
        "reliable": true,
-       "accuracy": 0.7087,
+       "accuracy": 0.7078,
        "accuracyCI": [
-        0.666,
-        0.748
+        0.665,
+        0.747
        ],
        "brier": 0.194,
        "logLoss": 0.5693,
-       "mae": 20.92,
-       "homeWinAccuracy": 0.7303,
-       "awayWinAccuracy": 0.6788,
-       "homeWins": 267,
-       "awayWins": 193
+       "mae": 20.85,
+       "homeWinAccuracy": 0.7276,
+       "awayWinAccuracy": 0.6804,
+       "homeWins": 268,
+       "awayWins": 194
       },
       {
        "bucket": "6+ Spiele",
@@ -37568,49 +37568,49 @@
        "date": "2026-11-21",
        "n": 2085,
        "accuracy": 0.6465,
-       "brier": 0.2163
+       "brier": 0.2164
       },
       {
        "date": "2026-11-21",
        "n": 2086,
        "accuracy": 0.6467,
-       "brier": 0.2162
+       "brier": 0.2163
       },
       {
        "date": "2026-11-21",
        "n": 2087,
        "accuracy": 0.6469,
-       "brier": 0.2161
+       "brier": 0.2162
       },
       {
        "date": "2026-11-21",
        "n": 2088,
        "accuracy": 0.647,
-       "brier": 0.216
-      },
-      {
-       "date": "2026-11-21",
-       "n": 2089,
-       "accuracy": 0.6467,
        "brier": 0.2161
       },
       {
        "date": "2026-11-21",
+       "n": 2089,
+       "accuracy": 0.6472,
+       "brier": 0.216
+      },
+      {
+       "date": "2026-11-21",
        "n": 2090,
-       "accuracy": 0.6464,
-       "brier": 0.2163
+       "accuracy": 0.6469,
+       "brier": 0.2161
       },
       {
        "date": "2026-11-21",
        "n": 2091,
-       "accuracy": 0.6461,
-       "brier": 0.2163
+       "accuracy": 0.6466,
+       "brier": 0.2162
       },
       {
        "date": "2026-11-21",
        "n": 2092,
-       "accuracy": 0.6458,
-       "brier": 0.2164
+       "accuracy": 0.6463,
+       "brier": 0.2163
       },
       {
        "date": "2026-11-21",
@@ -37622,30 +37622,30 @@
        "date": "2026-11-21",
        "n": 2094,
        "accuracy": 0.6461,
-       "brier": 0.2163
-      },
-      {
-       "date": "2026-11-21",
-       "n": 2095,
-       "accuracy": 0.6458,
        "brier": 0.2164
       },
       {
        "date": "2026-11-21",
+       "n": 2095,
+       "accuracy": 0.6463,
+       "brier": 0.2163
+      },
+      {
+       "date": "2026-11-21",
        "n": 2096,
-       "accuracy": 0.6455,
-       "brier": 0.2166
+       "accuracy": 0.646,
+       "brier": 0.2164
       },
       {
        "date": "2026-11-21",
        "n": 2097,
        "accuracy": 0.6457,
-       "brier": 0.2165
+       "brier": 0.2166
       },
       {
        "date": "2026-11-21",
        "n": 2098,
-       "accuracy": 0.6454,
+       "accuracy": 0.6459,
        "brier": 0.2165
       },
       {
@@ -37658,13 +37658,13 @@
        "date": "2026-11-21",
        "n": 2100,
        "accuracy": 0.6457,
-       "brier": 0.2164
+       "brier": 0.2165
       },
       {
        "date": "2026-11-21",
        "n": 2101,
        "accuracy": 0.6459,
-       "brier": 0.2163
+       "brier": 0.2164
       },
       {
        "date": "2026-11-21",
@@ -37693,14 +37693,14 @@
       {
        "date": "2026-11-21",
        "n": 2106,
-       "accuracy": 0.6462,
+       "accuracy": 0.6467,
        "brier": 0.2161
       },
       {
        "date": "2026-11-21",
        "n": 2107,
-       "accuracy": 0.6459,
-       "brier": 0.2162
+       "accuracy": 0.6464,
+       "brier": 0.2161
       },
       {
        "date": "2026-11-21",
@@ -37711,8 +37711,8 @@
       {
        "date": "2026-11-21",
        "n": 2109,
-       "accuracy": 0.6458,
-       "brier": 0.2161
+       "accuracy": 0.6463,
+       "brier": 0.216
       },
       {
        "date": "2026-11-21",
@@ -37735,20 +37735,20 @@
       {
        "date": "2026-11-21",
        "n": 2113,
-       "accuracy": 0.646,
-       "brier": 0.2161
+       "accuracy": 0.6465,
+       "brier": 0.216
       },
       {
        "date": "2026-11-21",
        "n": 2114,
-       "accuracy": 0.6457,
-       "brier": 0.2162
+       "accuracy": 0.6462,
+       "brier": 0.2161
       },
       {
        "date": "2026-11-21",
        "n": 2115,
        "accuracy": 0.6459,
-       "brier": 0.2161
+       "brier": 0.2162
       },
       {
        "date": "2026-11-21",
@@ -37766,7 +37766,7 @@
        "date": "2026-11-21",
        "n": 2118,
        "accuracy": 0.6464,
-       "brier": 0.216
+       "brier": 0.2161
       },
       {
        "date": "2026-11-21",
@@ -37777,8 +37777,8 @@
       {
        "date": "2026-11-21",
        "n": 2120,
-       "accuracy": 0.6462,
-       "brier": 0.2161
+       "accuracy": 0.6467,
+       "brier": 0.216
       },
       {
        "date": "2026-11-21",
@@ -37795,14 +37795,14 @@
       {
        "date": "2026-11-21",
        "n": 2123,
-       "accuracy": 0.6463,
+       "accuracy": 0.6467,
        "brier": 0.2161
       },
       {
        "date": "2026-11-21",
        "n": 2124,
-       "accuracy": 0.646,
-       "brier": 0.2163
+       "accuracy": 0.6464,
+       "brier": 0.2161
       },
       {
        "date": "2026-11-21",
@@ -37814,109 +37814,121 @@
        "date": "2026-11-21",
        "n": 2126,
        "accuracy": 0.6463,
-       "brier": 0.2161
-      },
-      {
-       "date": "2026-11-21",
-       "n": 2127,
-       "accuracy": 0.646,
        "brier": 0.2162
       },
       {
        "date": "2026-11-21",
+       "n": 2127,
+       "accuracy": 0.6465,
+       "brier": 0.2161
+      },
+      {
+       "date": "2026-11-21",
        "n": 2128,
-       "accuracy": 0.6457,
+       "accuracy": 0.6461,
        "brier": 0.2162
       },
       {
        "date": "2026-11-21",
        "n": 2129,
        "accuracy": 0.6458,
-       "brier": 0.2161
+       "brier": 0.2162
       },
       {
        "date": "2026-11-21",
        "n": 2130,
-       "accuracy": 0.646,
-       "brier": 0.2161
+       "accuracy": 0.6455,
+       "brier": 0.2162
       },
       {
        "date": "2026-11-21",
        "n": 2131,
-       "accuracy": 0.6462,
-       "brier": 0.216
+       "accuracy": 0.6457,
+       "brier": 0.2161
       },
       {
        "date": "2026-11-21",
        "n": 2132,
-       "accuracy": 0.6463,
-       "brier": 0.2159
+       "accuracy": 0.6459,
+       "brier": 0.216
       },
       {
        "date": "2026-11-21",
        "n": 2133,
-       "accuracy": 0.6465,
-       "brier": 0.2158
+       "accuracy": 0.646,
+       "brier": 0.216
       },
       {
        "date": "2026-11-21",
        "n": 2134,
-       "accuracy": 0.6467,
-       "brier": 0.2158
+       "accuracy": 0.6462,
+       "brier": 0.2159
       },
       {
        "date": "2026-11-21",
        "n": 2135,
-       "accuracy": 0.6468,
+       "accuracy": 0.6464,
        "brier": 0.2158
       },
       {
        "date": "2026-11-21",
        "n": 2136,
-       "accuracy": 0.647,
-       "brier": 0.2157
+       "accuracy": 0.6465,
+       "brier": 0.2158
       },
       {
        "date": "2026-11-21",
        "n": 2137,
-       "accuracy": 0.6472,
-       "brier": 0.2156
+       "accuracy": 0.6467,
+       "brier": 0.2158
       },
       {
        "date": "2026-11-21",
        "n": 2138,
-       "accuracy": 0.6473,
-       "brier": 0.2155
+       "accuracy": 0.6469,
+       "brier": 0.2157
       },
       {
        "date": "2026-11-21",
        "n": 2139,
-       "accuracy": 0.6475,
-       "brier": 0.2154
+       "accuracy": 0.647,
+       "brier": 0.2156
       },
       {
        "date": "2026-11-21",
        "n": 2140,
-       "accuracy": 0.6477,
-       "brier": 0.2154
+       "accuracy": 0.6472,
+       "brier": 0.2155
       },
       {
        "date": "2026-11-21",
        "n": 2141,
-       "accuracy": 0.6478,
+       "accuracy": 0.6474,
        "brier": 0.2154
       },
       {
        "date": "2026-11-21",
        "n": 2142,
        "accuracy": 0.6475,
-       "brier": 0.2155
+       "brier": 0.2154
       },
       {
        "date": "2026-11-21",
        "n": 2143,
        "accuracy": 0.6477,
+       "brier": 0.2154
+      },
+      {
+       "date": "2026-11-21",
+       "n": 2144,
+       "accuracy": 0.6474,
        "brier": 0.2155
+      },
+      {
+       "date": "2026-11-21",
+       "n": 2145,
+       "accuracy": 0.6476,
+       "brier": 0.2154
       }
      ],
      "scatter": [
@@ -39982,6 +39994,10 @@
       ],
       [
        0,
+       2
+      ],
+      [
+       0,
        28
       ],
       [
@@ -40229,7 +40245,11 @@
        41
       ],
       [
-       2.4,
+       0,
+       -6
+      ],
+      [
+       1.9,
        -17
       ],
       [
@@ -46496,20 +46516,20 @@
     },
     "elo": {
      "overall": {
-      "n": 2143,
+      "n": 2145,
       "reliable": true,
-      "accuracy": 0.6458,
+      "accuracy": 0.6457,
       "accuracyCI": [
        0.625,
        0.666
       ],
       "brier": 0.213,
       "logLoss": 0.6122,
-      "mae": 23.72,
-      "homeWinAccuracy": 0.7938,
-      "awayWinAccuracy": 0.4699,
-      "homeWins": 1164,
-      "awayWins": 979
+      "mae": 23.71,
+      "homeWinAccuracy": 0.7931,
+      "awayWinAccuracy": 0.4704,
+      "homeWins": 1165,
+      "awayWins": 980
      },
      "calibration": [
       {
@@ -46524,22 +46544,22 @@
       },
       {
        "range": "60–70 %",
-       "n": 544,
+       "n": 545,
        "predicted": 0.642,
-       "observed": 0.643,
+       "observed": 0.642,
        "ci": [
-        0.602,
-        0.683
+        0.601,
+        0.681
        ]
       },
       {
        "range": "70–80 %",
-       "n": 291,
+       "n": 292,
        "predicted": 0.744,
        "observed": 0.856,
        "ci": [
         0.811,
-        0.891
+        0.892
        ]
       },
       {
@@ -46940,19 +46960,19 @@
       },
       {
        "ligaId": 53727,
-       "n": 26,
+       "n": 27,
        "reliable": false,
-       "accuracy": 0.5385,
+       "accuracy": 0.5185,
        "accuracyCI": [
-        0.355,
-        0.712
+        0.34,
+        0.693
        ],
-       "brier": 0.2387,
-       "logLoss": 0.6668,
-       "mae": 15.61,
-       "homeWinAccuracy": 0.7333,
+       "brier": 0.2439,
+       "logLoss": 0.6775,
+       "mae": 15.37,
+       "homeWinAccuracy": 0.6875,
        "awayWinAccuracy": 0.2727,
-       "homeWins": 15,
+       "homeWins": 16,
        "awayWins": 11
       },
       {
@@ -46991,20 +47011,20 @@
       },
       {
        "ligaId": 53736,
-       "n": 16,
+       "n": 17,
        "reliable": false,
-       "accuracy": 0.5625,
+       "accuracy": 0.5882,
        "accuracyCI": [
-        0.332,
-        0.769
+        0.36,
+        0.784
        ],
-       "brier": 0.2295,
-       "logLoss": 0.6438,
-       "mae": 14.21,
+       "brier": 0.2201,
+       "logLoss": 0.6241,
+       "mae": 13.96,
        "homeWinAccuracy": 0.7,
-       "awayWinAccuracy": 0.3333,
+       "awayWinAccuracy": 0.4286,
        "homeWins": 10,
-       "awayWins": 6
+       "awayWins": 7
       },
       {
        "ligaId": 53738,
@@ -49186,20 +49206,20 @@
      "byAgeGroup": [
       {
        "ageGroup": "Senioren",
-       "n": 906,
+       "n": 908,
        "reliable": true,
-       "accuracy": 0.6457,
+       "accuracy": 0.6454,
        "accuracyCI": [
         0.614,
         0.676
        ],
-       "brier": 0.2138,
+       "brier": 0.2139,
        "logLoss": 0.6144,
-       "mae": 18.21,
-       "homeWinAccuracy": 0.7729,
-       "awayWinAccuracy": 0.4876,
-       "homeWins": 502,
-       "awayWins": 404
+       "mae": 18.19,
+       "homeWinAccuracy": 0.7714,
+       "awayWinAccuracy": 0.4889,
+       "homeWins": 503,
+       "awayWins": 405
       },
       {
        "ageGroup": "U18",
@@ -49290,20 +49310,20 @@
       },
       {
        "bucket": "3–5 Spiele",
-       "n": 460,
+       "n": 462,
        "reliable": true,
-       "accuracy": 0.7109,
+       "accuracy": 0.71,
        "accuracyCI": [
-        0.668,
-        0.75
+        0.667,
+        0.749
        ],
-       "brier": 0.1838,
-       "logLoss": 0.5448,
-       "mae": 19.92,
-       "homeWinAccuracy": 0.6966,
-       "awayWinAccuracy": 0.7306,
-       "homeWins": 267,
-       "awayWins": 193
+       "brier": 0.184,
+       "logLoss": 0.5452,
+       "mae": 19.87,
+       "homeWinAccuracy": 0.694,
+       "awayWinAccuracy": 0.732,
+       "homeWins": 268,
+       "awayWins": 194
       },
       {
        "bucket": "6+ Spiele",
@@ -61855,32 +61875,32 @@
       {
        "date": "2026-11-21",
        "n": 2089,
-       "accuracy": 0.6438,
-       "brier": 0.2142
+       "accuracy": 0.6443,
+       "brier": 0.214
       },
       {
        "date": "2026-11-21",
        "n": 2090,
-       "accuracy": 0.6435,
-       "brier": 0.2143
+       "accuracy": 0.644,
+       "brier": 0.2141
       },
       {
        "date": "2026-11-21",
        "n": 2091,
-       "accuracy": 0.6432,
-       "brier": 0.2145
+       "accuracy": 0.6437,
+       "brier": 0.2143
       },
       {
        "date": "2026-11-21",
        "n": 2092,
        "accuracy": 0.6434,
-       "brier": 0.2145
+       "brier": 0.2144
       },
       {
        "date": "2026-11-21",
        "n": 2093,
-       "accuracy": 0.6431,
-       "brier": 0.2145
+       "accuracy": 0.6436,
+       "brier": 0.2144
       },
       {
        "date": "2026-11-21",
@@ -61891,14 +61911,14 @@
       {
        "date": "2026-11-21",
        "n": 2095,
-       "accuracy": 0.643,
-       "brier": 0.2145
+       "accuracy": 0.6434,
+       "brier": 0.2143
       },
       {
        "date": "2026-11-21",
        "n": 2096,
-       "accuracy": 0.6427,
-       "brier": 0.2147
+       "accuracy": 0.6431,
+       "brier": 0.2145
       },
       {
        "date": "2026-11-21",
@@ -61909,8 +61929,8 @@
       {
        "date": "2026-11-21",
        "n": 2098,
-       "accuracy": 0.6425,
-       "brier": 0.2146
+       "accuracy": 0.643,
+       "brier": 0.2145
       },
       {
        "date": "2026-11-21",
@@ -61945,8 +61965,8 @@
       {
        "date": "2026-11-21",
        "n": 2104,
-       "accuracy": 0.6431,
-       "brier": 0.2143
+       "accuracy": 0.6435,
+       "brier": 0.2141
       },
       {
        "date": "2026-11-21",
@@ -61957,14 +61977,14 @@
       {
        "date": "2026-11-21",
        "n": 2106,
-       "accuracy": 0.6429,
-       "brier": 0.2142
+       "accuracy": 0.6434,
+       "brier": 0.2141
       },
       {
        "date": "2026-11-21",
        "n": 2107,
        "accuracy": 0.6431,
-       "brier": 0.2142
+       "brier": 0.2141
       },
       {
        "date": "2026-11-21",
@@ -61988,7 +62008,7 @@
        "date": "2026-11-21",
        "n": 2111,
        "accuracy": 0.6438,
-       "brier": 0.214
+       "brier": 0.2139
       },
       {
        "date": "2026-11-21",
@@ -61999,14 +62019,14 @@
       {
        "date": "2026-11-21",
        "n": 2113,
-       "accuracy": 0.6436,
-       "brier": 0.214
+       "accuracy": 0.6441,
+       "brier": 0.2138
       },
       {
        "date": "2026-11-21",
        "n": 2114,
-       "accuracy": 0.6433,
-       "brier": 0.214
+       "accuracy": 0.6438,
+       "brier": 0.2139
       },
       {
        "date": "2026-11-21",
@@ -62024,7 +62044,7 @@
        "date": "2026-11-21",
        "n": 2117,
        "accuracy": 0.6438,
-       "brier": 0.2139
+       "brier": 0.2138
       },
       {
        "date": "2026-11-21",
@@ -62041,14 +62061,14 @@
       {
        "date": "2026-11-21",
        "n": 2120,
-       "accuracy": 0.6439,
-       "brier": 0.2138
+       "accuracy": 0.6443,
+       "brier": 0.2137
       },
       {
        "date": "2026-11-21",
        "n": 2121,
        "accuracy": 0.644,
-       "brier": 0.2138
+       "brier": 0.2137
       },
       {
        "date": "2026-11-21",
@@ -62059,14 +62079,14 @@
       {
        "date": "2026-11-21",
        "n": 2123,
-       "accuracy": 0.6439,
-       "brier": 0.2138
+       "accuracy": 0.6444,
+       "brier": 0.2137
       },
       {
        "date": "2026-11-21",
        "n": 2124,
-       "accuracy": 0.6436,
-       "brier": 0.2139
+       "accuracy": 0.6441,
+       "brier": 0.2137
       },
       {
        "date": "2026-11-21",
@@ -62078,13 +62098,13 @@
        "date": "2026-11-21",
        "n": 2126,
        "accuracy": 0.6439,
-       "brier": 0.2137
+       "brier": 0.2138
       },
       {
        "date": "2026-11-21",
        "n": 2127,
        "accuracy": 0.6441,
-       "brier": 0.2138
+       "brier": 0.2137
       },
       {
        "date": "2026-11-21",
@@ -62095,44 +62115,44 @@
       {
        "date": "2026-11-21",
        "n": 2129,
-       "accuracy": 0.6444,
-       "brier": 0.2136
+       "accuracy": 0.644,
+       "brier": 0.2138
       },
       {
        "date": "2026-11-21",
        "n": 2130,
+       "accuracy": 0.6441,
+       "brier": 0.2137
+      },
+      {
+       "date": "2026-11-21",
+       "n": 2131,
+       "accuracy": 0.6443,
+       "brier": 0.2136
+      },
+      {
+       "date": "2026-11-21",
+       "n": 2132,
+       "accuracy": 0.6445,
+       "brier": 0.2136
+      },
+      {
+       "date": "2026-11-21",
+       "n": 2133,
        "accuracy": 0.6446,
        "brier": 0.2135
       },
       {
        "date": "2026-11-21",
-       "n": 2131,
-       "accuracy": 0.6448,
-       "brier": 0.2135
-      },
-      {
-       "date": "2026-11-21",
-       "n": 2132,
-       "accuracy": 0.6449,
-       "brier": 0.2134
-      },
-      {
-       "date": "2026-11-21",
-       "n": 2133,
-       "accuracy": 0.6451,
-       "brier": 0.2133
-      },
-      {
-       "date": "2026-11-21",
        "n": 2134,
        "accuracy": 0.6448,
-       "brier": 0.2133
+       "brier": 0.2134
       },
       {
        "date": "2026-11-21",
        "n": 2135,
-       "accuracy": 0.6445,
-       "brier": 0.2134
+       "accuracy": 0.645,
+       "brier": 0.2133
       },
       {
        "date": "2026-11-21",
@@ -62143,43 +62163,55 @@
       {
        "date": "2026-11-21",
        "n": 2137,
-       "accuracy": 0.6448,
-       "brier": 0.2132
+       "accuracy": 0.6444,
+       "brier": 0.2134
       },
       {
        "date": "2026-11-21",
        "n": 2138,
-       "accuracy": 0.645,
-       "brier": 0.2131
+       "accuracy": 0.6445,
+       "brier": 0.2133
       },
       {
        "date": "2026-11-21",
        "n": 2139,
-       "accuracy": 0.6452,
-       "brier": 0.213
+       "accuracy": 0.6447,
+       "brier": 0.2132
       },
       {
        "date": "2026-11-21",
        "n": 2140,
-       "accuracy": 0.6453,
-       "brier": 0.213
+       "accuracy": 0.6449,
+       "brier": 0.2131
       },
       {
        "date": "2026-11-21",
        "n": 2141,
-       "accuracy": 0.6455,
+       "accuracy": 0.645,
        "brier": 0.213
       },
       {
        "date": "2026-11-21",
        "n": 2142,
-       "accuracy": 0.6457,
+       "accuracy": 0.6452,
        "brier": 0.213
       },
       {
        "date": "2026-11-21",
        "n": 2143,
-       "accuracy": 0.6458,
+       "accuracy": 0.6454,
+       "brier": 0.213
+      },
+      {
+       "date": "2026-11-21",
+       "n": 2144,
+       "accuracy": 0.6455,
+       "brier": 0.213
+      },
+      {
+       "date": "2026-11-21",
+       "n": 2145,
+       "accuracy": 0.6457,
        "brier": 0.213
       }
      ],
@@ -64245,6 +64277,10 @@
        16
       ],
       [
+       -7.2,
+       2
+      ],
+      [
        0,
        28
       ],
@@ -64491,6 +64527,10 @@
       [
        28.9,
        41
+      ],
+      [
+       -15.9,
+       -6
       ],
       [
        -8,
@@ -70760,20 +70800,20 @@
     },
     "rating": {
      "overall": {
-      "n": 2143,
+      "n": 2145,
       "reliable": true,
-      "accuracy": 0.6855,
+      "accuracy": 0.6858,
       "accuracyCI": [
        0.666,
        0.705
       ],
-      "brier": 0.199,
-      "logLoss": 0.5774,
-      "mae": 23.16,
-      "homeWinAccuracy": 0.8247,
-      "awayWinAccuracy": 0.5199,
-      "homeWins": 1164,
-      "awayWins": 979
+      "brier": 0.1989,
+      "logLoss": 0.5772,
+      "mae": 23.14,
+      "homeWinAccuracy": 0.8249,
+      "awayWinAccuracy": 0.5204,
+      "homeWins": 1165,
+      "awayWins": 980
      },
      "calibration": [
       {
@@ -70788,12 +70828,12 @@
       },
       {
        "range": "60–70 %",
-       "n": 510,
+       "n": 512,
        "predicted": 0.645,
-       "observed": 0.624,
+       "observed": 0.625,
        "ci": [
-        0.581,
-        0.665
+        0.582,
+        0.666
        ]
       },
       {
@@ -71204,19 +71244,19 @@
       },
       {
        "ligaId": 53727,
-       "n": 26,
+       "n": 27,
        "reliable": false,
-       "accuracy": 0.6538,
+       "accuracy": 0.6667,
        "accuracyCI": [
-        0.462,
-        0.806
+        0.478,
+        0.814
        ],
-       "brier": 0.2115,
-       "logLoss": 0.6005,
-       "mae": 14.22,
-       "homeWinAccuracy": 0.8,
+       "brier": 0.2085,
+       "logLoss": 0.5948,
+       "mae": 13.77,
+       "homeWinAccuracy": 0.8125,
        "awayWinAccuracy": 0.4545,
-       "homeWins": 15,
+       "homeWins": 16,
        "awayWins": 11
       },
       {
@@ -71255,20 +71295,20 @@
       },
       {
        "ligaId": 53736,
-       "n": 16,
+       "n": 17,
        "reliable": false,
-       "accuracy": 0.5625,
+       "accuracy": 0.5882,
        "accuracyCI": [
-        0.332,
-        0.769
+        0.36,
+        0.784
        ],
-       "brier": 0.213,
-       "logLoss": 0.6055,
-       "mae": 13.56,
+       "brier": 0.2075,
+       "logLoss": 0.5949,
+       "mae": 12.85,
        "homeWinAccuracy": 0.8,
-       "awayWinAccuracy": 0.1667,
+       "awayWinAccuracy": 0.2857,
        "homeWins": 10,
-       "awayWins": 6
+       "awayWins": 7
       },
       {
        "ligaId": 53738,
@@ -73450,20 +73490,20 @@
      "byAgeGroup": [
       {
        "ageGroup": "Senioren",
-       "n": 906,
+       "n": 908,
        "reliable": true,
-       "accuracy": 0.6799,
+       "accuracy": 0.6806,
        "accuracyCI": [
-        0.649,
-        0.709
+        0.65,
+        0.71
        ],
-       "brier": 0.2048,
-       "logLoss": 0.594,
-       "mae": 17.76,
-       "homeWinAccuracy": 0.8267,
-       "awayWinAccuracy": 0.4975,
-       "homeWins": 502,
-       "awayWins": 404
+       "brier": 0.2046,
+       "logLoss": 0.5937,
+       "mae": 17.73,
+       "homeWinAccuracy": 0.827,
+       "awayWinAccuracy": 0.4988,
+       "homeWins": 503,
+       "awayWins": 405
       },
       {
        "ageGroup": "U18",
@@ -73554,20 +73594,20 @@
       },
       {
        "bucket": "3–5 Spiele",
-       "n": 460,
+       "n": 462,
        "reliable": true,
-       "accuracy": 0.7391,
+       "accuracy": 0.7403,
        "accuracyCI": [
-        0.697,
-        0.777
+        0.698,
+        0.778
        ],
-       "brier": 0.1662,
-       "logLoss": 0.4954,
-       "mae": 18.92,
-       "homeWinAccuracy": 0.7491,
-       "awayWinAccuracy": 0.7254,
-       "homeWins": 267,
-       "awayWins": 193
+       "brier": 0.166,
+       "logLoss": 0.4951,
+       "mae": 18.85,
+       "homeWinAccuracy": 0.75,
+       "awayWinAccuracy": 0.7268,
+       "homeWins": 268,
+       "awayWins": 194
       },
       {
        "bucket": "6+ Spiele",
@@ -86096,43 +86136,43 @@
        "date": "2026-11-21",
        "n": 2085,
        "accuracy": 0.683,
-       "brier": 0.2003
+       "brier": 0.2004
       },
       {
        "date": "2026-11-21",
        "n": 2086,
        "accuracy": 0.6831,
-       "brier": 0.2002
+       "brier": 0.2003
       },
       {
        "date": "2026-11-21",
        "n": 2087,
        "accuracy": 0.6833,
-       "brier": 0.2001
+       "brier": 0.2002
       },
       {
        "date": "2026-11-21",
        "n": 2088,
        "accuracy": 0.6834,
-       "brier": 0.2
+       "brier": 0.2001
       },
       {
        "date": "2026-11-21",
        "n": 2089,
-       "accuracy": 0.6831,
-       "brier": 0.2002
+       "accuracy": 0.6836,
+       "brier": 0.2
       },
       {
        "date": "2026-11-21",
        "n": 2090,
-       "accuracy": 0.6828,
-       "brier": 0.2003
+       "accuracy": 0.6833,
+       "brier": 0.2001
       },
       {
        "date": "2026-11-21",
        "n": 2091,
-       "accuracy": 0.6824,
-       "brier": 0.2004
+       "accuracy": 0.6829,
+       "brier": 0.2003
       },
       {
        "date": "2026-11-21",
@@ -86155,20 +86195,20 @@
       {
        "date": "2026-11-21",
        "n": 2095,
-       "accuracy": 0.6826,
-       "brier": 0.2005
+       "accuracy": 0.6831,
+       "brier": 0.2002
       },
       {
        "date": "2026-11-21",
        "n": 2096,
-       "accuracy": 0.6823,
-       "brier": 0.2008
+       "accuracy": 0.6827,
+       "brier": 0.2004
       },
       {
        "date": "2026-11-21",
        "n": 2097,
        "accuracy": 0.6824,
-       "brier": 0.2007
+       "brier": 0.2008
       },
       {
        "date": "2026-11-21",
@@ -86180,13 +86220,13 @@
        "date": "2026-11-21",
        "n": 2099,
        "accuracy": 0.6827,
-       "brier": 0.2006
+       "brier": 0.2007
       },
       {
        "date": "2026-11-21",
        "n": 2100,
        "accuracy": 0.6829,
-       "brier": 0.2005
+       "brier": 0.2006
       },
       {
        "date": "2026-11-21",
@@ -86204,13 +86244,13 @@
        "date": "2026-11-21",
        "n": 2103,
        "accuracy": 0.6833,
-       "brier": 0.2003
+       "brier": 0.2004
       },
       {
        "date": "2026-11-21",
        "n": 2104,
-       "accuracy": 0.683,
-       "brier": 0.2005
+       "accuracy": 0.6835,
+       "brier": 0.2003
       },
       {
        "date": "2026-11-21",
@@ -86222,13 +86262,13 @@
        "date": "2026-11-21",
        "n": 2106,
        "accuracy": 0.6833,
-       "brier": 0.2004
+       "brier": 0.2003
       },
       {
        "date": "2026-11-21",
        "n": 2107,
        "accuracy": 0.6834,
-       "brier": 0.2004
+       "brier": 0.2003
       },
       {
        "date": "2026-11-21",
@@ -86240,7 +86280,7 @@
        "date": "2026-11-21",
        "n": 2109,
        "accuracy": 0.6837,
-       "brier": 0.2002
+       "brier": 0.2003
       },
       {
        "date": "2026-11-21",
@@ -86251,26 +86291,26 @@
       {
        "date": "2026-11-21",
        "n": 2111,
-       "accuracy": 0.6836,
-       "brier": 0.2004
+       "accuracy": 0.684,
+       "brier": 0.2002
       },
       {
        "date": "2026-11-21",
        "n": 2112,
        "accuracy": 0.6837,
-       "brier": 0.2003
+       "brier": 0.2004
       },
       {
        "date": "2026-11-21",
        "n": 2113,
-       "accuracy": 0.6834,
-       "brier": 0.2004
+       "accuracy": 0.6839,
+       "brier": 0.2003
       },
       {
        "date": "2026-11-21",
        "n": 2114,
        "accuracy": 0.6835,
-       "brier": 0.2003
+       "brier": 0.2004
       },
       {
        "date": "2026-11-21",
@@ -86305,14 +86345,14 @@
       {
        "date": "2026-11-21",
        "n": 2120,
-       "accuracy": 0.684,
-       "brier": 0.2002
+       "accuracy": 0.6844,
+       "brier": 0.2
       },
       {
        "date": "2026-11-21",
        "n": 2121,
-       "accuracy": 0.6836,
-       "brier": 0.2002
+       "accuracy": 0.6841,
+       "brier": 0.2001
       },
       {
        "date": "2026-11-21",
@@ -86324,19 +86364,19 @@
        "date": "2026-11-21",
        "n": 2123,
        "accuracy": 0.6839,
-       "brier": 0.2001
+       "brier": 0.2002
       },
       {
        "date": "2026-11-21",
        "n": 2124,
-       "accuracy": 0.6836,
-       "brier": 0.2002
+       "accuracy": 0.6841,
+       "brier": 0.2001
       },
       {
        "date": "2026-11-21",
        "n": 2125,
        "accuracy": 0.6838,
-       "brier": 0.2001
+       "brier": 0.2002
       },
       {
        "date": "2026-11-21",
@@ -86353,98 +86393,110 @@
       {
        "date": "2026-11-21",
        "n": 2128,
-       "accuracy": 0.6837,
-       "brier": 0.2
+       "accuracy": 0.6842,
+       "brier": 0.1999
       },
       {
        "date": "2026-11-21",
        "n": 2129,
-       "accuracy": 0.6839,
+       "accuracy": 0.6844,
        "brier": 0.1999
       },
       {
        "date": "2026-11-21",
        "n": 2130,
        "accuracy": 0.684,
-       "brier": 0.1998
+       "brier": 0.1999
       },
       {
        "date": "2026-11-21",
        "n": 2131,
        "accuracy": 0.6842,
-       "brier": 0.1997
+       "brier": 0.1998
       },
       {
        "date": "2026-11-21",
        "n": 2132,
        "accuracy": 0.6843,
-       "brier": 0.1997
+       "brier": 0.1998
       },
       {
        "date": "2026-11-21",
        "n": 2133,
        "accuracy": 0.6845,
-       "brier": 0.1996
+       "brier": 0.1997
       },
       {
        "date": "2026-11-21",
        "n": 2134,
        "accuracy": 0.6846,
-       "brier": 0.1995
-      },
-      {
-       "date": "2026-11-21",
-       "n": 2135,
-       "accuracy": 0.6843,
        "brier": 0.1996
       },
       {
        "date": "2026-11-21",
+       "n": 2135,
+       "accuracy": 0.6848,
+       "brier": 0.1995
+      },
+      {
+       "date": "2026-11-21",
        "n": 2136,
-       "accuracy": 0.6845,
+       "accuracy": 0.6849,
        "brier": 0.1995
       },
       {
        "date": "2026-11-21",
        "n": 2137,
        "accuracy": 0.6846,
-       "brier": 0.1994
+       "brier": 0.1995
       },
       {
        "date": "2026-11-21",
        "n": 2138,
        "accuracy": 0.6848,
-       "brier": 0.1993
+       "brier": 0.1994
       },
       {
        "date": "2026-11-21",
        "n": 2139,
        "accuracy": 0.6849,
-       "brier": 0.1992
+       "brier": 0.1993
       },
       {
        "date": "2026-11-21",
        "n": 2140,
        "accuracy": 0.685,
-       "brier": 0.1992
+       "brier": 0.1993
       },
       {
        "date": "2026-11-21",
        "n": 2141,
        "accuracy": 0.6852,
-       "brier": 0.1991
+       "brier": 0.1992
       },
       {
        "date": "2026-11-21",
        "n": 2142,
        "accuracy": 0.6853,
-       "brier": 0.199
+       "brier": 0.1991
       },
       {
        "date": "2026-11-21",
        "n": 2143,
        "accuracy": 0.6855,
        "brier": 0.199
+      },
+      {
+       "date": "2026-11-21",
+       "n": 2144,
+       "accuracy": 0.6856,
+       "brier": 0.199
+      },
+      {
+       "date": "2026-11-21",
+       "n": 2145,
+       "accuracy": 0.6858,
+       "brier": 0.1989
       }
      ],
      "scatter": [
@@ -88509,6 +88561,10 @@
        16
       ],
       [
+       4.1,
+       2
+      ],
+      [
        3,
        28
       ],
@@ -88755,6 +88811,10 @@
       [
        18.4,
        41
+      ],
+      [
+       -4.5,
+       -6
       ],
       [
        0.1,
@@ -95024,39 +95084,39 @@
     },
     "ml": {
      "overall": {
-      "n": 1770,
+      "n": 1772,
       "reliable": true,
-      "accuracy": 0.6977,
+      "accuracy": 0.6981,
       "accuracyCI": [
        0.676,
        0.719
       ],
       "brier": 0.1918,
       "logLoss": 0.5612,
-      "mae": 22.26,
-      "homeWinAccuracy": 0.7285,
-      "awayWinAccuracy": 0.6618,
-      "homeWins": 954,
-      "awayWins": 816
+      "mae": 22.24,
+      "homeWinAccuracy": 0.7288,
+      "awayWinAccuracy": 0.6622,
+      "homeWins": 955,
+      "awayWins": 817
      },
      "calibration": [
       {
        "range": "50–60 %",
-       "n": 456,
+       "n": 457,
        "predicted": 0.551,
-       "observed": 0.533,
+       "observed": 0.534,
        "ci": [
-        0.487,
-        0.578
+        0.488,
+        0.579
        ]
       },
       {
        "range": "60–70 %",
-       "n": 453,
+       "n": 454,
        "predicted": 0.651,
-       "observed": 0.649,
+       "observed": 0.65,
        "ci": [
-        0.604,
+        0.605,
         0.692
        ]
       },
@@ -96284,19 +96344,19 @@
       },
       {
        "ligaId": 53727,
-       "n": 22,
+       "n": 23,
        "reliable": false,
-       "accuracy": 0.6364,
+       "accuracy": 0.6522,
        "accuracyCI": [
-        0.43,
-        0.803
+        0.449,
+        0.812
        ],
-       "brier": 0.2378,
-       "logLoss": 0.6626,
-       "mae": 14.04,
-       "homeWinAccuracy": 0.6667,
+       "brier": 0.234,
+       "logLoss": 0.6553,
+       "mae": 13.52,
+       "homeWinAccuracy": 0.6923,
        "awayWinAccuracy": 0.6,
-       "homeWins": 12,
+       "homeWins": 13,
        "awayWins": 10
       },
       {
@@ -96505,20 +96565,20 @@
       },
       {
        "ligaId": 53736,
-       "n": 13,
+       "n": 14,
        "reliable": false,
-       "accuracy": 0.6154,
+       "accuracy": 0.6429,
        "accuracyCI": [
-        0.355,
-        0.823
+        0.388,
+        0.837
        ],
-       "brier": 0.163,
-       "logLoss": 0.4948,
-       "mae": 11.91,
+       "brier": 0.166,
+       "logLoss": 0.5025,
+       "mae": 11.46,
        "homeWinAccuracy": 0.6667,
-       "awayWinAccuracy": 0.5,
+       "awayWinAccuracy": 0.6,
        "homeWins": 9,
-       "awayWins": 4
+       "awayWins": 5
       },
       {
        "ligaId": 53711,
@@ -97714,20 +97774,20 @@
      "byAgeGroup": [
       {
        "ageGroup": "Senioren",
-       "n": 761,
+       "n": 763,
        "reliable": true,
-       "accuracy": 0.6899,
+       "accuracy": 0.6907,
        "accuracyCI": [
-        0.656,
+        0.657,
         0.722
        ],
        "brier": 0.1995,
-       "logLoss": 0.5803,
-       "mae": 17.15,
-       "homeWinAccuracy": 0.7297,
-       "awayWinAccuracy": 0.6414,
-       "homeWins": 418,
-       "awayWins": 343
+       "logLoss": 0.5802,
+       "mae": 17.12,
+       "homeWinAccuracy": 0.7303,
+       "awayWinAccuracy": 0.6424,
+       "homeWins": 419,
+       "awayWins": 344
       },
       {
        "ageGroup": "U14",
@@ -97818,20 +97878,20 @@
       },
       {
        "bucket": "3–5 Spiele",
-       "n": 460,
+       "n": 462,
        "reliable": true,
-       "accuracy": 0.7348,
+       "accuracy": 0.7359,
        "accuracyCI": [
-        0.693,
-        0.773
+        0.694,
+        0.774
        ],
-       "brier": 0.1695,
-       "logLoss": 0.5033,
-       "mae": 18.51,
-       "homeWinAccuracy": 0.7303,
-       "awayWinAccuracy": 0.7409,
-       "homeWins": 267,
-       "awayWins": 193
+       "brier": 0.1696,
+       "logLoss": 0.5035,
+       "mae": 18.45,
+       "homeWinAccuracy": 0.7313,
+       "awayWinAccuracy": 0.7423,
+       "homeWins": 268,
+       "awayWins": 194
       },
       {
        "bucket": "6+ Spiele",
@@ -108122,67 +108182,67 @@
        "date": "2026-11-21",
        "n": 1712,
        "accuracy": 0.6945,
-       "brier": 0.1933
+       "brier": 0.1934
       },
       {
        "date": "2026-11-21",
        "n": 1713,
        "accuracy": 0.6947,
-       "brier": 0.1932
+       "brier": 0.1933
       },
       {
        "date": "2026-11-21",
        "n": 1714,
        "accuracy": 0.6949,
-       "brier": 0.1931
+       "brier": 0.1932
       },
       {
        "date": "2026-11-21",
        "n": 1715,
        "accuracy": 0.695,
-       "brier": 0.193
-      },
-      {
-       "date": "2026-11-21",
-       "n": 1716,
-       "accuracy": 0.6946,
        "brier": 0.1931
       },
       {
        "date": "2026-11-21",
+       "n": 1716,
+       "accuracy": 0.6952,
+       "brier": 0.193
+      },
+      {
+       "date": "2026-11-21",
        "n": 1717,
-       "accuracy": 0.6942,
+       "accuracy": 0.6948,
        "brier": 0.1931
       },
       {
        "date": "2026-11-21",
        "n": 1718,
-       "accuracy": 0.6938,
-       "brier": 0.1932
+       "accuracy": 0.6944,
+       "brier": 0.1931
       },
       {
        "date": "2026-11-21",
        "n": 1719,
        "accuracy": 0.694,
-       "brier": 0.1931
+       "brier": 0.1932
       },
       {
        "date": "2026-11-21",
        "n": 1720,
-       "accuracy": 0.6936,
-       "brier": 0.1932
+       "accuracy": 0.6942,
+       "brier": 0.1931
       },
       {
        "date": "2026-11-21",
        "n": 1721,
        "accuracy": 0.6938,
-       "brier": 0.1931
+       "brier": 0.1932
       },
       {
        "date": "2026-11-21",
        "n": 1722,
-       "accuracy": 0.6934,
-       "brier": 0.1934
+       "accuracy": 0.694,
+       "brier": 0.1931
       },
       {
        "date": "2026-11-21",
@@ -108194,55 +108254,55 @@
        "date": "2026-11-21",
        "n": 1724,
        "accuracy": 0.6937,
-       "brier": 0.1933
+       "brier": 0.1934
       },
       {
        "date": "2026-11-21",
        "n": 1725,
-       "accuracy": 0.6933,
-       "brier": 0.1937
+       "accuracy": 0.6939,
+       "brier": 0.1933
       },
       {
        "date": "2026-11-21",
        "n": 1726,
        "accuracy": 0.6935,
-       "brier": 0.1936
+       "brier": 0.1937
       },
       {
        "date": "2026-11-21",
        "n": 1727,
        "accuracy": 0.6937,
-       "brier": 0.1935
+       "brier": 0.1936
       },
       {
        "date": "2026-11-21",
        "n": 1728,
        "accuracy": 0.6939,
-       "brier": 0.1934
+       "brier": 0.1935
       },
       {
        "date": "2026-11-21",
        "n": 1729,
        "accuracy": 0.694,
-       "brier": 0.1933
+       "brier": 0.1934
       },
       {
        "date": "2026-11-21",
        "n": 1730,
        "accuracy": 0.6942,
-       "brier": 0.1932
+       "brier": 0.1933
       },
       {
        "date": "2026-11-21",
        "n": 1731,
-       "accuracy": 0.6938,
-       "brier": 0.1933
+       "accuracy": 0.6944,
+       "brier": 0.1932
       },
       {
        "date": "2026-11-21",
        "n": 1732,
        "accuracy": 0.694,
-       "brier": 0.1932
+       "brier": 0.1933
       },
       {
        "date": "2026-11-21",
@@ -108253,7 +108313,7 @@
       {
        "date": "2026-11-21",
        "n": 1734,
-       "accuracy": 0.6938,
+       "accuracy": 0.6943,
        "brier": 0.1932
       },
       {
@@ -108266,7 +108326,7 @@
        "date": "2026-11-21",
        "n": 1736,
        "accuracy": 0.6941,
-       "brier": 0.1931
+       "brier": 0.1932
       },
       {
        "date": "2026-11-21",
@@ -108277,26 +108337,26 @@
       {
        "date": "2026-11-21",
        "n": 1738,
-       "accuracy": 0.6939,
-       "brier": 0.1933
+       "accuracy": 0.6945,
+       "brier": 0.1931
       },
       {
        "date": "2026-11-21",
        "n": 1739,
        "accuracy": 0.6941,
-       "brier": 0.1931
+       "brier": 0.1933
       },
       {
        "date": "2026-11-21",
        "n": 1740,
-       "accuracy": 0.6937,
+       "accuracy": 0.6943,
        "brier": 0.1932
       },
       {
        "date": "2026-11-21",
        "n": 1741,
        "accuracy": 0.6939,
-       "brier": 0.1931
+       "brier": 0.1932
       },
       {
        "date": "2026-11-21",
@@ -108308,19 +108368,19 @@
        "date": "2026-11-21",
        "n": 1743,
        "accuracy": 0.6942,
-       "brier": 0.193
+       "brier": 0.1931
       },
       {
        "date": "2026-11-21",
        "n": 1744,
        "accuracy": 0.6944,
-       "brier": 0.1929
+       "brier": 0.193
       },
       {
        "date": "2026-11-21",
        "n": 1745,
        "accuracy": 0.6946,
-       "brier": 0.1928
+       "brier": 0.1929
       },
       {
        "date": "2026-11-21",
@@ -108331,8 +108391,8 @@
       {
        "date": "2026-11-21",
        "n": 1747,
-       "accuracy": 0.6943,
-       "brier": 0.1929
+       "accuracy": 0.6949,
+       "brier": 0.1928
       },
       {
        "date": "2026-11-21",
@@ -108355,14 +108415,14 @@
       {
        "date": "2026-11-21",
        "n": 1751,
-       "accuracy": 0.6945,
-       "brier": 0.193
+       "accuracy": 0.695,
+       "brier": 0.1929
       },
       {
        "date": "2026-11-21",
        "n": 1752,
        "accuracy": 0.6946,
-       "brier": 0.1929
+       "brier": 0.193
       },
       {
        "date": "2026-11-21",
@@ -108374,13 +108434,13 @@
        "date": "2026-11-21",
        "n": 1754,
        "accuracy": 0.695,
-       "brier": 0.1928
+       "brier": 0.1929
       },
       {
        "date": "2026-11-21",
        "n": 1755,
        "accuracy": 0.6952,
-       "brier": 0.1927
+       "brier": 0.1928
       },
       {
        "date": "2026-11-21",
@@ -108392,31 +108452,31 @@
        "date": "2026-11-21",
        "n": 1757,
        "accuracy": 0.6955,
-       "brier": 0.1926
+       "brier": 0.1927
       },
       {
        "date": "2026-11-21",
        "n": 1758,
        "accuracy": 0.6957,
-       "brier": 0.1925
+       "brier": 0.1927
       },
       {
        "date": "2026-11-21",
        "n": 1759,
        "accuracy": 0.6958,
-       "brier": 0.1924
+       "brier": 0.1926
       },
       {
        "date": "2026-11-21",
        "n": 1760,
        "accuracy": 0.696,
-       "brier": 0.1924
+       "brier": 0.1925
       },
       {
        "date": "2026-11-21",
        "n": 1761,
        "accuracy": 0.6962,
-       "brier": 0.1923
+       "brier": 0.1924
       },
       {
        "date": "2026-11-21",
@@ -108434,42 +108494,54 @@
        "date": "2026-11-21",
        "n": 1764,
        "accuracy": 0.6967,
-       "brier": 0.1922
+       "brier": 0.1923
       },
       {
        "date": "2026-11-21",
        "n": 1765,
        "accuracy": 0.6969,
-       "brier": 0.1921
+       "brier": 0.1923
       },
       {
        "date": "2026-11-21",
        "n": 1766,
        "accuracy": 0.6971,
-       "brier": 0.192
+       "brier": 0.1922
       },
       {
        "date": "2026-11-21",
        "n": 1767,
        "accuracy": 0.6972,
-       "brier": 0.1919
+       "brier": 0.1921
       },
       {
        "date": "2026-11-21",
        "n": 1768,
        "accuracy": 0.6974,
-       "brier": 0.1919
+       "brier": 0.192
       },
       {
        "date": "2026-11-21",
        "n": 1769,
        "accuracy": 0.6976,
-       "brier": 0.1918
+       "brier": 0.1919
       },
       {
        "date": "2026-11-21",
        "n": 1770,
        "accuracy": 0.6977,
+       "brier": 0.1919
+      },
+      {
+       "date": "2026-11-21",
+       "n": 1771,
+       "accuracy": 0.6979,
+       "brier": 0.1918
+      },
+      {
+       "date": "2026-11-21",
+       "n": 1772,
+       "accuracy": 0.6981,
        "brier": 0.1918
       }
      ],
@@ -115319,6 +115391,10 @@
        -20
       ],
       [
+       -1.1,
+       -6
+      ],
+      [
        -17.5,
        -48
       ],
@@ -115495,7 +115571,11 @@
        16
       ],
       [
-       -6.5,
+       4.1,
+       2
+      ],
+      [
+       -5.9,
        -17
       ],
       [
@@ -115559,94 +115639,94 @@
    },
    "vsBaseline": {
     "elo": {
-     "n": 2143,
+     "n": 2145,
      "diff": -0.0025,
      "ci": [
       -0.0059,
-      0.0009
+      0.001
      ]
     },
     "rating": {
-     "n": 2143,
-     "diff": -0.0164,
+     "n": 2145,
+     "diff": -0.0165,
      "ci": [
-      -0.0212,
+      -0.0213,
       -0.0117
      ]
     },
     "ml": {
-     "n": 1770,
+     "n": 1772,
      "diff": -0.0173,
      "ci": [
       -0.0235,
-      -0.011
+      -0.0107
      ]
     }
    },
    "sameGamesAsMl": {
     "baseline": {
-     "n": 1770,
+     "n": 1772,
      "reliable": true,
-     "accuracy": 0.6644,
+     "accuracy": 0.6642,
      "accuracyCI": [
       0.642,
       0.686
      ],
      "brier": 0.2091,
      "logLoss": 0.6036,
-     "mae": 24.12,
-     "homeWinAccuracy": 0.74,
-     "awayWinAccuracy": 0.576,
-     "homeWins": 954,
-     "awayWins": 816
+     "mae": 24.1,
+     "homeWinAccuracy": 0.7393,
+     "awayWinAccuracy": 0.5765,
+     "homeWins": 955,
+     "awayWins": 817
     },
     "elo": {
-     "n": 1770,
+     "n": 1772,
      "reliable": true,
-     "accuracy": 0.6678,
+     "accuracy": 0.6676,
      "accuracyCI": [
-      0.646,
+      0.645,
       0.689
      ],
      "brier": 0.2054,
      "logLoss": 0.5957,
-     "mae": 23.09,
-     "homeWinAccuracy": 0.7694,
-     "awayWinAccuracy": 0.549,
-     "homeWins": 954,
-     "awayWins": 816
+     "mae": 23.07,
+     "homeWinAccuracy": 0.7686,
+     "awayWinAccuracy": 0.5496,
+     "homeWins": 955,
+     "awayWins": 817
     },
     "rating": {
-     "n": 1770,
+     "n": 1772,
      "reliable": true,
-     "accuracy": 0.7079,
+     "accuracy": 0.7082,
      "accuracyCI": [
-      0.686,
+      0.687,
       0.729
      ],
-     "brier": 0.1896,
-     "logLoss": 0.5556,
-     "mae": 22.5,
-     "homeWinAccuracy": 0.804,
-     "awayWinAccuracy": 0.5956,
-     "homeWins": 954,
-     "awayWins": 816
+     "brier": 0.1895,
+     "logLoss": 0.5555,
+     "mae": 22.48,
+     "homeWinAccuracy": 0.8042,
+     "awayWinAccuracy": 0.5961,
+     "homeWins": 955,
+     "awayWins": 817
     },
     "ml": {
-     "n": 1770,
+     "n": 1772,
      "reliable": true,
-     "accuracy": 0.6977,
+     "accuracy": 0.6981,
      "accuracyCI": [
       0.676,
       0.719
      ],
      "brier": 0.1918,
      "logLoss": 0.5612,
-     "mae": 22.26,
-     "homeWinAccuracy": 0.7285,
-     "awayWinAccuracy": 0.6618,
-     "homeWins": 954,
-     "awayWins": 816
+     "mae": 22.24,
+     "homeWinAccuracy": 0.7288,
+     "awayWinAccuracy": 0.6622,
+     "homeWins": 955,
+     "awayWins": 817
     }
    }
   }

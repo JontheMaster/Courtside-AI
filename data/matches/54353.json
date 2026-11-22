@@ -93,7 +93,7 @@
    },
    "homeScore": null,
    "guestScore": null,
-   "confirmed": false,
+   "confirmed": true,
    "status": "cancelled",
    "forfeitBy": null,
    "competitionType": "regular"
