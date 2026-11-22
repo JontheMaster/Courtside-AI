@@ -371,10 +371,10 @@
     "clubId": 1056,
     "forfeit": false
    },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
+   "homeScore": 62,
+   "guestScore": 67,
+   "confirmed": true,
+   "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
   },
@@ -399,10 +399,10 @@
     "clubId": 2901,
     "forfeit": false
    },
-   "homeScore": null,
-   "guestScore": null,
-   "confirmed": false,
-   "status": "scheduled",
+   "homeScore": 95,
+   "guestScore": 56,
+   "confirmed": true,
+   "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
   },
@@ -1364,9 +1364,9 @@
    "seasonId": 2026,
    "matchDay": 6,
    "kickoffDate": "2026-11-28",
-   "kickoffTime": "19:00",
+   "kickoffTime": "20:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-28T18:00:00.000Z",
+   "kickoffUtc": "2026-11-28T19:00:00.000Z",
    "home": {
     "id": 151028,
     "name": "TV Memmingen",
