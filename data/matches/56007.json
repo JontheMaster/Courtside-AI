@@ -625,7 +625,7 @@
    },
    "homeScore": 64,
    "guestScore": 50,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -681,7 +681,7 @@
    },
    "homeScore": 70,
    "guestScore": 77,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -888,9 +888,9 @@
    "seasonId": 2026,
    "matchDay": 8,
    "kickoffDate": "2026-12-06",
-   "kickoffTime": "15:00",
+   "kickoffTime": "13:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-12-06T14:00:00.000Z",
+   "kickoffUtc": "2026-12-06T12:00:00.000Z",
    "home": {
     "id": 213186,
     "name": "TSV Karlstadt",

@@ -320,7 +320,7 @@
    },
    "homeScore": 52,
    "guestScore": 140,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -427,7 +427,7 @@
    },
    "homeScore": 48,
    "guestScore": 91,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -455,7 +455,7 @@
    },
    "homeScore": 75,
    "guestScore": 62,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -529,7 +529,7 @@
    },
    "homeScore": 114,
    "guestScore": 70,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -557,7 +557,7 @@
    },
    "homeScore": 29,
    "guestScore": 113,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -631,7 +631,7 @@
    },
    "homeScore": 70,
    "guestScore": 35,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -659,7 +659,7 @@
    },
    "homeScore": 84,
    "guestScore": 29,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -710,7 +710,7 @@
    },
    "homeScore": 98,
    "guestScore": 36,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -738,7 +738,7 @@
    },
    "homeScore": 97,
    "guestScore": 39,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"

@@ -483,9 +483,9 @@
     "clubId": 590,
     "forfeit": false
    },
-   "homeScore": 85,
-   "guestScore": 52,
-   "confirmed": false,
+   "homeScore": 0,
+   "guestScore": 20,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
