@@ -399,10 +399,10 @@
     "clubId": 1256,
     "forfeit": false
    },
-   "homeScore": null,
-   "guestScore": null,
+   "homeScore": 66,
+   "guestScore": 97,
    "confirmed": false,
-   "status": "missing_result",
+   "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
   },

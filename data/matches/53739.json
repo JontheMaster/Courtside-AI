@@ -343,10 +343,10 @@
     "clubId": 1935,
     "forfeit": false
    },
-   "homeScore": null,
-   "guestScore": null,
+   "homeScore": 53,
+   "guestScore": 79,
    "confirmed": false,
-   "status": "scheduled",
+   "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
   },
