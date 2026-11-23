@@ -682,7 +682,7 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "missing_result",
+   "status": "cancelled",
    "forfeitBy": null,
    "competitionType": "regular"
   },
