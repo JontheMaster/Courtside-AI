@@ -1,0 +1,578 @@
+{
+ "league": {
+  "ligaId": 56722,
+  "name": "UFR Kreisliga U14 männlich",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U14",
+  "gender": "männlich",
+  "level": "Kreisliga",
+  "levelScope": "Kreis",
+  "verbandId": 2,
+  "bezirk": "Unterfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2990525,
+   "ligaId": 56722,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2026-10-24",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-24T09:00:00.000Z",
+   "home": {
+    "id": 169101,
+    "name": "SV Waldbrunn 1946 e.V. AK",
+    "clubId": 300,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163707,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "homeScore": 104,
+   "guestScore": 82,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2990526,
+   "ligaId": 56722,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "10:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T08:45:00.000Z",
+   "home": {
+    "id": 163706,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 247801,
+    "name": "SG Oerlenbach/Ebenhausen AK",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "homeScore": 68,
+   "guestScore": 39,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991849,
+   "ligaId": 56722,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T10:00:00.000Z",
+   "home": {
+    "id": 169101,
+    "name": "SV Waldbrunn 1946 e.V. AK",
+    "clubId": 300,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309518,
+    "name": "BG Elsenfeld / Großwallstadt 2",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991850,
+   "ligaId": 56722,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T14:00:00.000Z",
+   "home": {
+    "id": 247801,
+    "name": "SG Oerlenbach/Ebenhausen AK",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163706,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991851,
+   "ligaId": 56722,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T10:00:00.000Z",
+   "home": {
+    "id": 309518,
+    "name": "BG Elsenfeld / Großwallstadt 2",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 247801,
+    "name": "SG Oerlenbach/Ebenhausen AK",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991852,
+   "ligaId": 56722,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "18:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T17:00:00.000Z",
+   "home": {
+    "id": 163706,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163707,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991854,
+   "ligaId": 56722,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T12:00:00.000Z",
+   "home": {
+    "id": 163707,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 169101,
+    "name": "SV Waldbrunn 1946 e.V. AK",
+    "clubId": 300,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991855,
+   "ligaId": 56722,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T15:00:00.000Z",
+   "home": {
+    "id": 163706,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309518,
+    "name": "BG Elsenfeld / Großwallstadt 2",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991857,
+   "ligaId": 56722,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T10:00:00.000Z",
+   "home": {
+    "id": 163707,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309518,
+    "name": "BG Elsenfeld / Großwallstadt 2",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991858,
+   "ligaId": 56722,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T12:30:00.000Z",
+   "home": {
+    "id": 169101,
+    "name": "SV Waldbrunn 1946 e.V. AK",
+    "clubId": 300,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 247801,
+    "name": "SG Oerlenbach/Ebenhausen AK",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991861,
+   "ligaId": 56722,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T16:30:00.000Z",
+   "home": {
+    "id": 163706,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 169101,
+    "name": "SV Waldbrunn 1946 e.V. AK",
+    "clubId": 300,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991862,
+   "ligaId": 56722,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T14:00:00.000Z",
+   "home": {
+    "id": 247801,
+    "name": "SG Oerlenbach/Ebenhausen AK",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163707,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991864,
+   "ligaId": 56722,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T12:30:00.000Z",
+   "home": {
+    "id": 309518,
+    "name": "BG Elsenfeld / Großwallstadt 2",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 169101,
+    "name": "SV Waldbrunn 1946 e.V. AK",
+    "clubId": 300,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991866,
+   "ligaId": 56722,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T14:00:00.000Z",
+   "home": {
+    "id": 247801,
+    "name": "SG Oerlenbach/Ebenhausen AK",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 309518,
+    "name": "BG Elsenfeld / Großwallstadt 2",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991867,
+   "ligaId": 56722,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T12:00:00.000Z",
+   "home": {
+    "id": 163707,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163706,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991870,
+   "ligaId": 56722,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T15:00:00.000Z",
+   "home": {
+    "id": 309518,
+    "name": "BG Elsenfeld / Großwallstadt 2",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163706,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991872,
+   "ligaId": 56722,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T12:30:00.000Z",
+   "home": {
+    "id": 309518,
+    "name": "BG Elsenfeld / Großwallstadt 2",
+    "clubId": 3743,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163707,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991873,
+   "ligaId": 56722,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T14:00:00.000Z",
+   "home": {
+    "id": 247801,
+    "name": "SG Oerlenbach/Ebenhausen AK",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 169101,
+    "name": "SV Waldbrunn 1946 e.V. AK",
+    "clubId": 300,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991876,
+   "ligaId": 56722,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T10:00:00.000Z",
+   "home": {
+    "id": 169101,
+    "name": "SV Waldbrunn 1946 e.V. AK",
+    "clubId": 300,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163706,
+    "name": "TG 48 Würzburg 2",
+    "clubId": 906,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991877,
+   "ligaId": 56722,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "15:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T14:00:00.000Z",
+   "home": {
+    "id": 163707,
+    "name": "TV Ochsenfurt",
+    "clubId": 1280,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 247801,
+    "name": "SG Oerlenbach/Ebenhausen AK",
+    "clubId": 1347,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

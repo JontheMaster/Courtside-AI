@@ -1616,9 +1616,9 @@
    "seasonId": 2026,
    "matchDay": 12,
    "kickoffDate": "2027-01-30",
-   "kickoffTime": "17:00",
+   "kickoffTime": "15:00",
    "timeTbd": false,
-   "kickoffUtc": "2027-01-30T16:00:00.000Z",
+   "kickoffUtc": "2027-01-30T14:00:00.000Z",
    "home": {
     "id": 157673,
     "name": "Nürnberger Basketball Club 3",

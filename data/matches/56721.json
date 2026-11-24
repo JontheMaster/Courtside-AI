@@ -1,0 +1,858 @@
+{
+ "league": {
+  "ligaId": 56721,
+  "name": "UFR Bezirksklasse U14 männlich",
+  "seasonId": 2026,
+  "seasonName": "2026/2027",
+  "ageGroup": "U14",
+  "gender": "männlich",
+  "level": "Bezirksklasse",
+  "levelScope": "Bezirk",
+  "verbandId": 2,
+  "bezirk": "Unterfranken",
+  "competitionType": "regular",
+  "role": "training"
+ },
+ "matches": [
+  {
+   "matchId": 2990522,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-18",
+   "kickoffTime": "14:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-18T12:15:00.000Z",
+   "home": {
+    "id": 163724,
+    "name": "TV Goldbach 1897",
+    "clubId": 504,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163722,
+    "name": "TSV Amorbach 1863",
+    "clubId": 368,
+    "forfeit": false
+   },
+   "homeScore": 88,
+   "guestScore": 26,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2990523,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2026-10-17",
+   "kickoffTime": "15:15",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-17T13:15:00.000Z",
+   "home": {
+    "id": 319361,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323120,
+    "name": "SB Uffenheim AK",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "homeScore": 86,
+   "guestScore": 61,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2990524,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-10-04",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-10-04T11:30:00.000Z",
+   "home": {
+    "id": 163690,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 169100,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": 52,
+   "guestScore": 51,
+   "confirmed": true,
+   "status": "final",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991762,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T14:30:00.000Z",
+   "home": {
+    "id": 323120,
+    "name": "SB Uffenheim AK",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163690,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991763,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-12-05",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-05T12:30:00.000Z",
+   "home": {
+    "id": 163722,
+    "name": "TSV Amorbach 1863",
+    "clubId": 368,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 169100,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991764,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 1,
+   "kickoffDate": "2026-12-06",
+   "kickoffTime": "17:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-06T16:00:00.000Z",
+   "home": {
+    "id": 163724,
+    "name": "TV Goldbach 1897",
+    "clubId": 504,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319361,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991765,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-12-13",
+   "kickoffTime": "15:45",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-13T14:45:00.000Z",
+   "home": {
+    "id": 169100,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163724,
+    "name": "TV Goldbach 1897",
+    "clubId": 504,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991767,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 2,
+   "kickoffDate": "2026-12-12",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-12T15:00:00.000Z",
+   "home": {
+    "id": 163690,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163722,
+    "name": "TSV Amorbach 1863",
+    "clubId": 368,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991768,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-12-20",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-20T14:30:00.000Z",
+   "home": {
+    "id": 323120,
+    "name": "SB Uffenheim AK",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163722,
+    "name": "TSV Amorbach 1863",
+    "clubId": 368,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991769,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T15:00:00.000Z",
+   "home": {
+    "id": 319361,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 169100,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991770,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 3,
+   "kickoffDate": "2026-12-19",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2026-12-19T12:30:00.000Z",
+   "home": {
+    "id": 163724,
+    "name": "TV Goldbach 1897",
+    "clubId": 504,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163690,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991771,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-03-14",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-14T14:30:00.000Z",
+   "home": {
+    "id": 323120,
+    "name": "SB Uffenheim AK",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 169100,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991772,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-01-16",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-16T12:30:00.000Z",
+   "home": {
+    "id": 163722,
+    "name": "TSV Amorbach 1863",
+    "clubId": 368,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163724,
+    "name": "TV Goldbach 1897",
+    "clubId": 504,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991773,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 4,
+   "kickoffDate": "2027-01-17",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-17T10:00:00.000Z",
+   "home": {
+    "id": 163690,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319361,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991774,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "12:15",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T11:15:00.000Z",
+   "home": {
+    "id": 169100,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163690,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991775,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-01-24",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-24T12:30:00.000Z",
+   "home": {
+    "id": 319361,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163722,
+    "name": "TSV Amorbach 1863",
+    "clubId": 368,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991776,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 5,
+   "kickoffDate": "2027-01-23",
+   "kickoffTime": "16:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-23T15:00:00.000Z",
+   "home": {
+    "id": 163724,
+    "name": "TV Goldbach 1897",
+    "clubId": 504,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323120,
+    "name": "SB Uffenheim AK",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991777,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T10:00:00.000Z",
+   "home": {
+    "id": 163690,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323120,
+    "name": "SB Uffenheim AK",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991778,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-01-31",
+   "kickoffTime": "11:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-31T10:30:00.000Z",
+   "home": {
+    "id": 169100,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163722,
+    "name": "TSV Amorbach 1863",
+    "clubId": 368,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991779,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 6,
+   "kickoffDate": "2027-01-30",
+   "kickoffTime": "13:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-01-30T12:00:00.000Z",
+   "home": {
+    "id": 319361,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163724,
+    "name": "TV Goldbach 1897",
+    "clubId": 504,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991780,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T12:30:00.000Z",
+   "home": {
+    "id": 163724,
+    "name": "TV Goldbach 1897",
+    "clubId": 504,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 169100,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991781,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-02-14",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-14T14:30:00.000Z",
+   "home": {
+    "id": 323120,
+    "name": "SB Uffenheim AK",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319361,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991782,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 7,
+   "kickoffDate": "2027-02-13",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-13T12:30:00.000Z",
+   "home": {
+    "id": 163722,
+    "name": "TSV Amorbach 1863",
+    "clubId": 368,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163690,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991783,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-20T12:30:00.000Z",
+   "home": {
+    "id": 163722,
+    "name": "TSV Amorbach 1863",
+    "clubId": 368,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323120,
+    "name": "SB Uffenheim AK",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991784,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "17:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T16:30:00.000Z",
+   "home": {
+    "id": 169100,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319361,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991785,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 8,
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-21T10:00:00.000Z",
+   "home": {
+    "id": 163690,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163724,
+    "name": "TV Goldbach 1897",
+    "clubId": 504,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991786,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-28",
+   "kickoffTime": "13:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-28T12:30:00.000Z",
+   "home": {
+    "id": 169100,
+    "name": "TV Marktheidenfeld",
+    "clubId": 1049,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 323120,
+    "name": "SB Uffenheim AK",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991788,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 9,
+   "kickoffDate": "2027-02-27",
+   "kickoffTime": "12:45",
+   "timeTbd": false,
+   "kickoffUtc": "2027-02-27T11:45:00.000Z",
+   "home": {
+    "id": 319361,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163690,
+    "name": "TB Arnstein",
+    "clubId": 669,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991790,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-06",
+   "kickoffTime": "11:00",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-06T10:00:00.000Z",
+   "home": {
+    "id": 163722,
+    "name": "TSV Amorbach 1863",
+    "clubId": 368,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 319361,
+    "name": "TG Kitzingen 1848",
+    "clubId": 2126,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  },
+  {
+   "matchId": 2991791,
+   "ligaId": 56721,
+   "seasonId": 2026,
+   "matchDay": 10,
+   "kickoffDate": "2027-03-07",
+   "kickoffTime": "15:30",
+   "timeTbd": false,
+   "kickoffUtc": "2027-03-07T14:30:00.000Z",
+   "home": {
+    "id": 323120,
+    "name": "SB Uffenheim AK",
+    "clubId": 3777,
+    "forfeit": false
+   },
+   "guest": {
+    "id": 163724,
+    "name": "TV Goldbach 1897",
+    "clubId": 504,
+    "forfeit": false
+   },
+   "homeScore": null,
+   "guestScore": null,
+   "confirmed": false,
+   "status": "scheduled",
+   "forfeitBy": null,
+   "competitionType": "regular"
+  }
+ ]
+}

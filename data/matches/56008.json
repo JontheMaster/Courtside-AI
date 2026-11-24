@@ -373,7 +373,7 @@
    },
    "homeScore": 34,
    "guestScore": 46,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -401,7 +401,7 @@
    },
    "homeScore": 61,
    "guestScore": 45,
-   "confirmed": false,
+   "confirmed": true,
    "status": "final",
    "forfeitBy": null,
    "competitionType": "regular"
@@ -411,10 +411,10 @@
    "ligaId": 56008,
    "seasonId": 2026,
    "matchDay": 5,
-   "kickoffDate": "2026-11-21",
-   "kickoffTime": "14:00",
+   "kickoffDate": "2027-02-21",
+   "kickoffTime": "16:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-21T13:00:00.000Z",
+   "kickoffUtc": "2027-02-21T15:00:00.000Z",
    "home": {
     "id": 193361,
     "name": "SV Germania Erlenbach Young Bees",
@@ -430,7 +430,7 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "missing_result",
+   "status": "scheduled",
    "forfeitBy": null,
    "competitionType": "regular"
   },
