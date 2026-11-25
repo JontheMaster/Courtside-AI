@@ -943,10 +943,10 @@
    "ligaId": 53776,
    "seasonId": 2026,
    "matchDay": 7,
-   "kickoffDate": "2026-11-28",
+   "kickoffDate": "2026-11-24",
    "kickoffTime": "16:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-28T15:00:00.000Z",
+   "kickoffUtc": "2026-11-24T15:00:00.000Z",
    "home": {
     "id": 321105,
     "name": "Biberkor Basketball & Funsport e.V.",
