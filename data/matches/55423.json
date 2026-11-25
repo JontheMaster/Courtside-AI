@@ -145,13 +145,13 @@
     "id": 322907,
     "name": "Biberkor Basketball & Funsport e.V. 2",
     "clubId": 5247,
-    "forfeit": false
+    "forfeit": true
    },
-   "homeScore": 85,
-   "guestScore": 31,
+   "homeScore": null,
+   "guestScore": null,
    "confirmed": true,
-   "status": "final",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -251,7 +251,7 @@
     "id": 322907,
     "name": "Biberkor Basketball & Funsport e.V. 2",
     "clubId": 5247,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 162975,
@@ -259,11 +259,11 @@
     "clubId": 1166,
     "forfeit": false
    },
-   "homeScore": 45,
-   "guestScore": 69,
+   "homeScore": null,
+   "guestScore": null,
    "confirmed": true,
-   "status": "final",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -391,7 +391,7 @@
     "id": 322907,
     "name": "Biberkor Basketball & Funsport e.V. 2",
     "clubId": 5247,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 213730,
@@ -399,11 +399,11 @@
     "clubId": 833,
     "forfeit": false
    },
-   "homeScore": 51,
-   "guestScore": 76,
+   "homeScore": null,
+   "guestScore": null,
    "confirmed": true,
-   "status": "final",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -481,7 +481,7 @@
     "id": 322907,
     "name": "Biberkor Basketball & Funsport e.V. 2",
     "clubId": 5247,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
@@ -671,7 +671,7 @@
     "id": 322907,
     "name": "Biberkor Basketball & Funsport e.V. 2",
     "clubId": 5247,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 321103,
@@ -679,11 +679,11 @@
     "clubId": 4589,
     "forfeit": false
    },
-   "homeScore": 42,
-   "guestScore": 80,
+   "homeScore": null,
+   "guestScore": null,
    "confirmed": false,
-   "status": "final",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -845,13 +845,13 @@
     "id": 322907,
     "name": "Biberkor Basketball & Funsport e.V. 2",
     "clubId": 5247,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
    "status": "cancelled",
-   "forfeitBy": null,
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -951,7 +951,7 @@
     "id": 322907,
     "name": "Biberkor Basketball & Funsport e.V. 2",
     "clubId": 5247,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 162957,
@@ -962,8 +962,8 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -1069,7 +1069,7 @@
     "id": 322907,
     "name": "Biberkor Basketball & Funsport e.V. 2",
     "clubId": 5247,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
@@ -1231,7 +1231,7 @@
     "id": 322907,
     "name": "Biberkor Basketball & Funsport e.V. 2",
     "clubId": 5247,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 273416,
@@ -1242,8 +1242,8 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -1399,7 +1399,7 @@
     "id": 322907,
     "name": "Biberkor Basketball & Funsport e.V. 2",
     "clubId": 5247,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 312108,
@@ -1410,8 +1410,8 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -1517,13 +1517,13 @@
     "id": 322907,
     "name": "Biberkor Basketball & Funsport e.V. 2",
     "clubId": 5247,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -1657,13 +1657,13 @@
     "id": 322907,
     "name": "Biberkor Basketball & Funsport e.V. 2",
     "clubId": 5247,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -1735,7 +1735,7 @@
     "id": 322907,
     "name": "Biberkor Basketball & Funsport e.V. 2",
     "clubId": 5247,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 165508,
@@ -1747,7 +1747,7 @@
    "guestScore": null,
    "confirmed": true,
    "status": "forfeit",
-   "forfeitBy": "guest",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -1937,13 +1937,13 @@
     "id": 322907,
     "name": "Biberkor Basketball & Funsport e.V. 2",
     "clubId": 5247,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
    "status": "cancelled",
-   "forfeitBy": null,
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -2099,7 +2099,7 @@
     "id": 322907,
     "name": "Biberkor Basketball & Funsport e.V. 2",
     "clubId": 5247,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 165498,
@@ -2110,8 +2110,8 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -2217,13 +2217,13 @@
     "id": 322907,
     "name": "Biberkor Basketball & Funsport e.V. 2",
     "clubId": 5247,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
@@ -2323,7 +2323,7 @@
     "id": 322907,
     "name": "Biberkor Basketball & Funsport e.V. 2",
     "clubId": 5247,
-    "forfeit": false
+    "forfeit": true
    },
    "guest": {
     "id": 168876,
@@ -2335,7 +2335,7 @@
    "guestScore": null,
    "confirmed": false,
    "status": "forfeit",
-   "forfeitBy": "guest",
+   "forfeitBy": "home",
    "competitionType": "regular"
   },
   {
@@ -2497,13 +2497,13 @@
     "id": 322907,
     "name": "Biberkor Basketball & Funsport e.V. 2",
     "clubId": 5247,
-    "forfeit": false
+    "forfeit": true
    },
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "scheduled",
-   "forfeitBy": null,
+   "status": "forfeit",
+   "forfeitBy": "guest",
    "competitionType": "regular"
   },
   {
