@@ -131,10 +131,10 @@
    "ligaId": 53792,
    "seasonId": 2026,
    "matchDay": 1,
-   "kickoffDate": "2026-10-04",
+   "kickoffDate": "2027-02-07",
    "kickoffTime": "13:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-10-04T11:00:00.000Z",
+   "kickoffUtc": "2027-02-07T12:00:00.000Z",
    "home": {
     "id": 166677,
     "name": "TSV 1884 Wolnzach",
@@ -150,7 +150,7 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "cancelled",
+   "status": "scheduled",
    "forfeitBy": null,
    "competitionType": "regular"
   },
@@ -383,10 +383,10 @@
    "ligaId": 53792,
    "seasonId": 2026,
    "matchDay": 3,
-   "kickoffDate": "2026-10-11",
+   "kickoffDate": "2027-01-09",
    "kickoffTime": "10:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-10-11T08:00:00.000Z",
+   "kickoffUtc": "2027-01-09T09:00:00.000Z",
    "home": {
     "id": 165714,
     "name": "MTSV Schwabing 2",
@@ -402,7 +402,7 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "cancelled",
+   "status": "scheduled",
    "forfeitBy": null,
    "competitionType": "regular"
   },
