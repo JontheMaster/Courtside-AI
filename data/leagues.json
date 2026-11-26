@@ -1637,34 +1637,6 @@
   "competitionType": "regular",
   "role": "training"
  },
- "56026": {
-  "ligaId": 56026,
-  "name": "UFR Einteilungsrunde 2 U14 männlich",
-  "seasonId": 2026,
-  "seasonName": "2026/2027",
-  "ageGroup": "U14",
-  "gender": "männlich",
-  "level": "Kreisklasse",
-  "levelScope": "Kreis",
-  "verbandId": 2,
-  "bezirk": "Unterfranken",
-  "competitionType": "regular",
-  "role": "training"
- },
- "56027": {
-  "ligaId": 56027,
-  "name": "UFR Einteilungsrunde 3 U14 männlich",
-  "seasonId": 2026,
-  "seasonName": "2026/2027",
-  "ageGroup": "U14",
-  "gender": "männlich",
-  "level": "Kreisklasse",
-  "levelScope": "Kreis",
-  "verbandId": 2,
-  "bezirk": "Unterfranken",
-  "competitionType": "regular",
-  "role": "training"
- },
  "56067": {
   "ligaId": 56067,
   "name": "MFR Bezirkspokal Herren",
