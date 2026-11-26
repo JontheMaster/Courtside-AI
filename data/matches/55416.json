@@ -215,10 +215,10 @@
    "ligaId": 55416,
    "seasonId": 2026,
    "matchDay": 2,
-   "kickoffDate": "2026-10-24",
-   "kickoffTime": "14:15",
+   "kickoffDate": "2027-04-11",
+   "kickoffTime": "11:30",
    "timeTbd": false,
-   "kickoffUtc": "2026-10-24T12:15:00.000Z",
+   "kickoffUtc": "2027-04-11T09:30:00.000Z",
    "home": {
     "id": 321337,
     "name": "TSV Milbertshofen",
@@ -234,7 +234,7 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "cancelled",
+   "status": "scheduled",
    "forfeitBy": null,
    "competitionType": "regular"
   },

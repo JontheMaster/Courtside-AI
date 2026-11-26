@@ -888,9 +888,9 @@
    "seasonId": 2026,
    "matchDay": 7,
    "kickoffDate": "2026-11-29",
-   "kickoffTime": "17:00",
+   "kickoffTime": "10:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-29T16:00:00.000Z",
+   "kickoffUtc": "2026-11-29T09:00:00.000Z",
    "home": {
     "id": 322735,
     "name": "SV-DJK Taufkirchen",

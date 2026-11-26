@@ -1,5 +1,5 @@
 {
- "createdAt": "2026-11-25T22:30:09.604Z",
+ "createdAt": "2026-11-26T15:11:07.743Z",
  "activeLive": true,
  "reason": "Schlägt die Baseline im Backtest auf 1954 Spielen (Brier 0,189 vs. 0,206).",
  "sameGames": {
@@ -29,7 +29,7 @@
    ],
    "brier": 0.202,
    "logLoss": 0.5881,
-   "mae": 22.75,
+   "mae": 22.74,
    "homeWinAccuracy": 0.7811,
    "awayWinAccuracy": 0.5573,
    "homeWins": 1046,
@@ -80,92 +80,87 @@
   {
    "key": "ratingLogit",
    "label": "Ratingmodell: Siegchance",
-   "share": 0.3157
+   "share": 0.3153
   },
   {
    "key": "avgMarginDiff",
    "label": "Unterschied Korbdifferenz",
-   "share": 0.265
+   "share": 0.2653
   },
   {
    "key": "last5MarginDiff",
    "label": "Form (Differenz letzte 5)",
-   "share": 0.1363
+   "share": 0.1359
   },
   {
    "key": "eloDiff",
    "label": "Elo-Abstand",
-   "share": 0.0922
+   "share": 0.093
   },
   {
    "key": "eloLogit",
    "label": "Elo-Siegchance",
-   "share": 0.0562
+   "share": 0.0548
   },
   {
    "key": "commonDiff",
    "label": "Gemeinsame Gegner",
-   "share": 0.02
+   "share": 0.0205
   },
   {
    "key": "offDefDiff",
    "label": "Angriff vs. Verteidigung",
-   "share": 0.0183
-  },
-  {
-   "key": "baseLogit",
-   "label": "Baseline-Siegchance",
-   "share": 0.0155
+   "share": 0.0195
   },
   {
    "key": "leagueHomeLogit",
    "label": "Heimsiegquote der Liga",
-   "share": 0.0151
+   "share": 0.0155
+  },
+  {
+   "key": "baseLogit",
+   "label": "Baseline-Siegchance",
+   "share": 0.0152
   },
   {
    "key": "sosDiff",
    "label": "Gegnerstärke",
-   "share": 0.0142
+   "share": 0.0144
   },
   {
    "key": "leagueAvgPoints",
    "label": "Punkteschnitt der Liga",
-   "share": 0.0121
+   "share": 0.0105
   },
   {
    "key": "minGames",
    "label": "Spiele (weniger erfahrenes Team)",
-   "share": 0.01
+   "share": 0.0102
   },
   {
    "key": "winPctDiff",
    "label": "Unterschied Siegquote",
-   "share": 0.0088
-  },
-  {
-   "key": "maxGames",
-   "label": "Spiele (erfahreneres Team)",
-   "share": 0.0046
+   "share": 0.0093
   },
   {
    "key": "historySize",
    "label": "Spiele in der Liga",
-   "share": 0.0044
+   "share": 0.0053
   },
   {
-   "key": "commonCount",
-   "label": "Anzahl gemeinsamer Gegner",
-   "share": 0.0032
+   "key": "maxGames",
+   "label": "Spiele (erfahreneres Team)",
+   "share": 0.0047
   },
   {
    "key": "ratingSigma",
    "label": "Streuung der Liga",
-   "share": 0.003
+   "share": 0.0037
   },
   {
    "key": "streakDiff",
    "label": "Serie",
-   "share": 0.0017
+   "share": 0.0026
   },
   {
    "key": "age_U14",
@@ -186,6 +181,11 @@
    "key": "age_Senioren",
    "label": "Altersklasse Senioren",
    "share": 0.0006
+  },
+  {
+   "key": "commonCount",
+   "label": "Anzahl gemeinsamer Gegner",
+   "share": 0.0003
   }
  ]
 }
