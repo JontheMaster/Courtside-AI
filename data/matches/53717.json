@@ -419,10 +419,10 @@
    "ligaId": 53717,
    "seasonId": 2026,
    "matchDay": 4,
-   "kickoffDate": "2026-11-21",
-   "kickoffTime": "12:00",
+   "kickoffDate": "2027-02-20",
+   "kickoffTime": "14:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-21T11:00:00.000Z",
+   "kickoffUtc": "2027-02-20T13:00:00.000Z",
    "home": {
     "id": 157677,
     "name": "VfL Treuchtlingen 3",
@@ -438,7 +438,7 @@
    "homeScore": null,
    "guestScore": null,
    "confirmed": false,
-   "status": "cancelled",
+   "status": "scheduled",
    "forfeitBy": null,
    "competitionType": "regular"
   },

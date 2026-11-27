@@ -1756,9 +1756,9 @@
    "seasonId": 2026,
    "matchDay": 12,
    "kickoffDate": "2026-11-29",
-   "kickoffTime": "10:00",
+   "kickoffTime": "09:30",
    "timeTbd": false,
-   "kickoffUtc": "2026-11-29T09:00:00.000Z",
+   "kickoffUtc": "2026-11-29T08:30:00.000Z",
    "home": {
     "id": 162242,
     "name": "TV 1881 Altdorf",

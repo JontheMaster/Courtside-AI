@@ -972,9 +972,9 @@
    "seasonId": 2026,
    "matchDay": 9,
    "kickoffDate": "2026-12-12",
-   "kickoffTime": "19:00",
+   "kickoffTime": "20:00",
    "timeTbd": false,
-   "kickoffUtc": "2026-12-12T18:00:00.000Z",
+   "kickoffUtc": "2026-12-12T19:00:00.000Z",
    "home": {
     "id": 165439,
     "name": "SV Bad Tölz",
