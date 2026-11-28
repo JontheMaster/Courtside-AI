@@ -1,5 +1,5 @@
 {
- "createdAt": "2026-11-26T23:50:36.957Z",
+ "createdAt": "2026-11-28T01:58:17.755Z",
  "method": "walk-forward; Historie = Spiele mit Anpfiff vor dem Zielspiel; nur reguläre Ligaspiele",
  "dataSettings": {
   "useUnconfirmedResults": true,
@@ -23312,25 +23312,25 @@
    "models": {
     "baseline": {
      "overall": {
-      "n": 2303,
+      "n": 2305,
       "reliable": true,
-      "accuracy": 0.6539,
+      "accuracy": 0.6542,
       "accuracyCI": [
-       0.634,
+       0.635,
        0.673
       ],
-      "brier": 0.213,
-      "logLoss": 0.6121,
-      "mae": 24.08,
-      "homeWinAccuracy": 0.7741,
-      "awayWinAccuracy": 0.5127,
-      "homeWins": 1244,
-      "awayWins": 1059
+      "brier": 0.2129,
+      "logLoss": 0.612,
+      "mae": 24.1,
+      "homeWinAccuracy": 0.7743,
+      "awayWinAccuracy": 0.5132,
+      "homeWins": 1245,
+      "awayWins": 1060
      },
      "calibration": [
       {
        "range": "50–60 %",
-       "n": 1053,
+       "n": 1054,
        "predicted": 0.55,
        "observed": 0.567,
        "ci": [
@@ -23350,12 +23350,12 @@
       },
       {
        "range": "70–80 %",
-       "n": 384,
+       "n": 385,
        "predicted": 0.745,
        "observed": 0.753,
        "ci": [
-        0.707,
-        0.793
+        0.708,
+        0.794
        ]
       },
       {
@@ -23433,19 +23433,19 @@
       },
       {
        "ligaId": 52532,
-       "n": 42,
+       "n": 43,
        "reliable": true,
-       "accuracy": 0.6905,
+       "accuracy": 0.6977,
        "accuracyCI": [
-        0.54,
-        0.809
+        0.549,
+        0.814
        ],
-       "brier": 0.2169,
-       "logLoss": 0.626,
-       "mae": 14.8,
-       "homeWinAccuracy": 0.875,
+       "brier": 0.2129,
+       "logLoss": 0.617,
+       "mae": 16.43,
+       "homeWinAccuracy": 0.88,
        "awayWinAccuracy": 0.4444,
-       "homeWins": 24,
+       "homeWins": 25,
        "awayWins": 18
       },
       {
@@ -25830,20 +25830,20 @@
       },
       {
        "ligaId": 56615,
-       "n": 5,
+       "n": 6,
        "reliable": false,
-       "accuracy": 0.4,
+       "accuracy": 0.5,
        "accuracyCI": [
-        0.118,
-        0.769
+        0.188,
+        0.812
        ],
-       "brier": 0.2523,
-       "logLoss": 0.6981,
-       "mae": 15.64,
+       "brier": 0.2415,
+       "logLoss": 0.6764,
+       "mae": 17.13,
        "homeWinAccuracy": 1,
-       "awayWinAccuracy": 0.25,
+       "awayWinAccuracy": 0.4,
        "homeWins": 1,
-       "awayWins": 4
+       "awayWins": 5
       },
       {
        "ligaId": 56629,
@@ -26019,19 +26019,19 @@
      "byAgeGroup": [
       {
        "ageGroup": "Senioren",
-       "n": 986,
+       "n": 987,
        "reliable": true,
-       "accuracy": 0.6663,
+       "accuracy": 0.6667,
        "accuracyCI": [
-        0.636,
+        0.637,
         0.695
        ],
-       "brier": 0.2137,
-       "logLoss": 0.614,
-       "mae": 18.7,
-       "homeWinAccuracy": 0.7768,
+       "brier": 0.2135,
+       "logLoss": 0.6136,
+       "mae": 18.76,
+       "homeWinAccuracy": 0.7772,
        "awayWinAccuracy": 0.5315,
-       "homeWins": 542,
+       "homeWins": 543,
        "awayWins": 444
       },
       {
@@ -26053,20 +26053,20 @@
       },
       {
        "ageGroup": "U16",
-       "n": 457,
+       "n": 458,
        "reliable": true,
-       "accuracy": 0.6214,
+       "accuracy": 0.6223,
        "accuracyCI": [
-        0.576,
+        0.577,
         0.665
        ],
        "brier": 0.2172,
-       "logLoss": 0.6209,
-       "mae": 28.06,
+       "logLoss": 0.6208,
+       "mae": 28.05,
        "homeWinAccuracy": 0.7331,
-       "awayWinAccuracy": 0.4854,
+       "awayWinAccuracy": 0.4879,
        "homeWins": 251,
-       "awayWins": 206
+       "awayWins": 207
       },
       {
        "ageGroup": "U14",
@@ -26106,9 +26106,9 @@
      "byExperience": [
       {
        "bucket": "0–2 Spiele",
-       "n": 1701,
+       "n": 1702,
        "reliable": true,
-       "accuracy": 0.6343,
+       "accuracy": 0.6345,
        "accuracyCI": [
         0.611,
         0.657
@@ -26117,9 +26117,9 @@
        "logLoss": 0.63,
        "mae": 25.3,
        "homeWinAccuracy": 0.7819,
-       "awayWinAccuracy": 0.4653,
+       "awayWinAccuracy": 0.466,
        "homeWins": 908,
-       "awayWins": 793
+       "awayWins": 794
       },
       {
        "bucket": "3–5 Spiele",
@@ -26140,19 +26140,19 @@
       },
       {
        "bucket": "6+ Spiele",
-       "n": 31,
+       "n": 32,
        "reliable": true,
-       "accuracy": 0.6452,
+       "accuracy": 0.6563,
        "accuracyCI": [
-        0.469,
-        0.789
+        0.483,
+        0.796
        ],
-       "brier": 0.1954,
-       "logLoss": 0.5638,
-       "mae": 17.04,
-       "homeWinAccuracy": 0.7692,
+       "brier": 0.1907,
+       "logLoss": 0.5537,
+       "mae": 19.16,
+       "homeWinAccuracy": 0.7857,
        "awayWinAccuracy": 0.5556,
-       "homeWins": 13,
+       "homeWins": 14,
        "awayWins": 18
       }
      ],
@@ -39974,6 +39974,18 @@
        "n": 2303,
        "accuracy": 0.6539,
        "brier": 0.213
+      },
+      {
+       "date": "2026-11-27",
+       "n": 2304,
+       "accuracy": 0.6541,
+       "brier": 0.2129
+      },
+      {
+       "date": "2026-11-27",
+       "n": 2305,
+       "accuracy": 0.6542,
+       "brier": 0.2129
       }
      ],
      "scatter": [
@@ -40616,6 +40628,10 @@
       [
        7,
        -4
+      ],
+      [
+       9,
+       94
       ],
       [
        0,
@@ -48966,6 +48982,10 @@
        -13
       ],
       [
+       -5.4,
+       -30
+      ],
+      [
        0,
        -55
       ],
@@ -49193,40 +49213,40 @@
     },
     "elo": {
      "overall": {
-      "n": 2303,
+      "n": 2305,
       "reliable": true,
-      "accuracy": 0.6552,
+      "accuracy": 0.6555,
       "accuracyCI": [
        0.636,
-       0.674
+       0.675
       ],
       "brier": 0.2099,
-      "logLoss": 0.6055,
-      "mae": 23.22,
-      "homeWinAccuracy": 0.8014,
-      "awayWinAccuracy": 0.4835,
-      "homeWins": 1244,
-      "awayWins": 1059
+      "logLoss": 0.6054,
+      "mae": 23.25,
+      "homeWinAccuracy": 0.8016,
+      "awayWinAccuracy": 0.484,
+      "homeWins": 1245,
+      "awayWins": 1060
      },
      "calibration": [
       {
        "range": "50–60 %",
-       "n": 1187,
+       "n": 1188,
        "predicted": 0.549,
        "observed": 0.558,
        "ci": [
-        0.529,
+        0.53,
         0.586
        ]
       },
       {
        "range": "60–70 %",
-       "n": 585,
+       "n": 586,
        "predicted": 0.642,
-       "observed": 0.644,
+       "observed": 0.645,
        "ci": [
         0.605,
-        0.682
+        0.683
        ]
       },
       {
@@ -49314,19 +49334,19 @@
       },
       {
        "ligaId": 52532,
-       "n": 42,
+       "n": 43,
        "reliable": true,
-       "accuracy": 0.7143,
+       "accuracy": 0.7209,
        "accuracyCI": [
-        0.564,
-        0.828
+        0.573,
+        0.833
        ],
-       "brier": 0.2106,
-       "logLoss": 0.6094,
-       "mae": 13.69,
-       "homeWinAccuracy": 0.8333,
+       "brier": 0.2085,
+       "logLoss": 0.6051,
+       "mae": 15.35,
+       "homeWinAccuracy": 0.84,
        "awayWinAccuracy": 0.5556,
-       "homeWins": 24,
+       "homeWins": 25,
        "awayWins": 18
       },
       {
@@ -51711,20 +51731,20 @@
       },
       {
        "ligaId": 56615,
-       "n": 5,
+       "n": 6,
        "reliable": false,
-       "accuracy": 0.2,
+       "accuracy": 0.3333,
        "accuracyCI": [
-        0.036,
-        0.624
+        0.097,
+        0.7
        ],
-       "brier": 0.2588,
-       "logLoss": 0.7107,
-       "mae": 16.1,
+       "brier": 0.2523,
+       "logLoss": 0.6978,
+       "mae": 18.25,
        "homeWinAccuracy": 0,
-       "awayWinAccuracy": 0.25,
+       "awayWinAccuracy": 0.4,
        "homeWins": 1,
-       "awayWins": 4
+       "awayWins": 5
       },
       {
        "ligaId": 56629,
@@ -51900,19 +51920,19 @@
      "byAgeGroup": [
       {
        "ageGroup": "Senioren",
-       "n": 986,
+       "n": 987,
        "reliable": true,
-       "accuracy": 0.6542,
+       "accuracy": 0.6545,
        "accuracyCI": [
         0.624,
-        0.683
+        0.684
        ],
-       "brier": 0.2093,
-       "logLoss": 0.6042,
-       "mae": 17.88,
-       "homeWinAccuracy": 0.7804,
+       "brier": 0.2092,
+       "logLoss": 0.604,
+       "mae": 17.95,
+       "homeWinAccuracy": 0.7808,
        "awayWinAccuracy": 0.5,
-       "homeWins": 542,
+       "homeWins": 543,
        "awayWins": 444
       },
       {
@@ -51934,20 +51954,20 @@
       },
       {
        "ageGroup": "U16",
-       "n": 457,
+       "n": 458,
        "reliable": true,
-       "accuracy": 0.6389,
+       "accuracy": 0.6397,
        "accuracyCI": [
-        0.594,
+        0.595,
         0.682
        ],
        "brier": 0.2136,
        "logLoss": 0.6135,
        "mae": 26.98,
        "homeWinAccuracy": 0.7689,
-       "awayWinAccuracy": 0.4806,
+       "awayWinAccuracy": 0.4831,
        "homeWins": 251,
-       "awayWins": 206
+       "awayWins": 207
       },
       {
        "ageGroup": "U14",
@@ -51987,20 +52007,20 @@
      "byExperience": [
       {
        "bucket": "0–2 Spiele",
-       "n": 1701,
+       "n": 1702,
        "reliable": true,
-       "accuracy": 0.6302,
+       "accuracy": 0.6304,
        "accuracyCI": [
         0.607,
         0.653
        ],
-       "brier": 0.2213,
+       "brier": 0.2212,
        "logLoss": 0.6316,
        "mae": 24.61,
        "homeWinAccuracy": 0.826,
-       "awayWinAccuracy": 0.4061,
+       "awayWinAccuracy": 0.4068,
        "homeWins": 908,
-       "awayWins": 793
+       "awayWins": 794
       },
       {
        "bucket": "3–5 Spiele",
@@ -52021,19 +52041,19 @@
       },
       {
        "bucket": "6+ Spiele",
-       "n": 31,
+       "n": 32,
        "reliable": true,
-       "accuracy": 0.7419,
+       "accuracy": 0.75,
        "accuracyCI": [
-        0.568,
-        0.863
+        0.579,
+        0.867
        ],
-       "brier": 0.1598,
-       "logLoss": 0.4815,
-       "mae": 14.65,
-       "homeWinAccuracy": 0.9231,
+       "brier": 0.1585,
+       "logLoss": 0.4796,
+       "mae": 16.85,
+       "homeWinAccuracy": 0.9286,
        "awayWinAccuracy": 0.6111,
-       "homeWins": 13,
+       "homeWins": 14,
        "awayWins": 18
       }
      ],
@@ -65855,6 +65875,18 @@
        "n": 2303,
        "accuracy": 0.6552,
        "brier": 0.2099
+      },
+      {
+       "date": "2026-11-27",
+       "n": 2304,
+       "accuracy": 0.6554,
+       "brier": 0.2099
+      },
+      {
+       "date": "2026-11-27",
+       "n": 2305,
+       "accuracy": 0.6555,
+       "brier": 0.2099
       }
      ],
      "scatter": [
@@ -66497,6 +66529,10 @@
       [
        15.4,
        -4
+      ],
+      [
+       9.1,
+       94
       ],
       [
        0,
@@ -74847,6 +74883,10 @@
        -13
       ],
       [
+       -1,
+       -30
+      ],
+      [
        0,
        -55
       ],
@@ -75074,20 +75114,20 @@
     },
     "rating": {
      "overall": {
-      "n": 2303,
+      "n": 2305,
       "reliable": true,
-      "accuracy": 0.6908,
+      "accuracy": 0.6911,
       "accuracyCI": [
        0.672,
-       0.709
+       0.71
       ],
-      "brier": 0.1973,
-      "logLoss": 0.574,
-      "mae": 22.67,
-      "homeWinAccuracy": 0.8272,
-      "awayWinAccuracy": 0.5307,
-      "homeWins": 1244,
-      "awayWins": 1059
+      "brier": 0.1972,
+      "logLoss": 0.5737,
+      "mae": 22.7,
+      "homeWinAccuracy": 0.8273,
+      "awayWinAccuracy": 0.5311,
+      "homeWins": 1245,
+      "awayWins": 1060
      },
      "calibration": [
       {
@@ -75102,12 +75142,12 @@
       },
       {
        "range": "60–70 %",
-       "n": 549,
+       "n": 550,
        "predicted": 0.646,
        "observed": 0.616,
        "ci": [
-        0.574,
-        0.655
+        0.575,
+        0.656
        ]
       },
       {
@@ -75122,11 +75162,11 @@
       },
       {
        "range": "80–90 %",
-       "n": 333,
-       "predicted": 0.849,
+       "n": 334,
+       "predicted": 0.85,
        "observed": 0.847,
        "ci": [
-        0.804,
+        0.805,
         0.882
        ]
       },
@@ -75195,19 +75235,19 @@
       },
       {
        "ligaId": 52532,
-       "n": 42,
+       "n": 43,
        "reliable": true,
-       "accuracy": 0.7143,
+       "accuracy": 0.7209,
        "accuracyCI": [
-        0.564,
-        0.828
+        0.573,
+        0.833
        ],
-       "brier": 0.1992,
-       "logLoss": 0.5945,
-       "mae": 13.47,
-       "homeWinAccuracy": 0.9167,
+       "brier": 0.195,
+       "logLoss": 0.5841,
+       "mae": 15.05,
+       "homeWinAccuracy": 0.92,
        "awayWinAccuracy": 0.4444,
-       "homeWins": 24,
+       "homeWins": 25,
        "awayWins": 18
       },
       {
@@ -77592,20 +77632,20 @@
       },
       {
        "ligaId": 56615,
-       "n": 5,
+       "n": 6,
        "reliable": false,
-       "accuracy": 0.4,
+       "accuracy": 0.5,
        "accuracyCI": [
-        0.118,
-        0.769
+        0.188,
+        0.812
        ],
-       "brier": 0.2658,
-       "logLoss": 0.7279,
-       "mae": 16.26,
+       "brier": 0.2396,
+       "logLoss": 0.6732,
+       "mae": 17.6,
        "homeWinAccuracy": 1,
-       "awayWinAccuracy": 0.25,
+       "awayWinAccuracy": 0.4,
        "homeWins": 1,
-       "awayWins": 4
+       "awayWins": 5
       },
       {
        "ligaId": 56629,
@@ -77781,19 +77821,19 @@
      "byAgeGroup": [
       {
        "ageGroup": "Senioren",
-       "n": 986,
+       "n": 987,
        "reliable": true,
-       "accuracy": 0.6866,
+       "accuracy": 0.6869,
        "accuracyCI": [
         0.657,
         0.715
        ],
-       "brier": 0.2016,
-       "logLoss": 0.5875,
-       "mae": 17.44,
-       "homeWinAccuracy": 0.8303,
+       "brier": 0.2014,
+       "logLoss": 0.5871,
+       "mae": 17.51,
+       "homeWinAccuracy": 0.8306,
        "awayWinAccuracy": 0.5113,
-       "homeWins": 542,
+       "homeWins": 543,
        "awayWins": 444
       },
       {
@@ -77815,20 +77855,20 @@
       },
       {
        "ageGroup": "U16",
-       "n": 457,
+       "n": 458,
        "reliable": true,
-       "accuracy": 0.6783,
+       "accuracy": 0.679,
        "accuracyCI": [
-        0.634,
+        0.635,
         0.72
        ],
-       "brier": 0.1971,
-       "logLoss": 0.5705,
+       "brier": 0.1969,
+       "logLoss": 0.5701,
        "mae": 26.39,
        "homeWinAccuracy": 0.7809,
-       "awayWinAccuracy": 0.5534,
+       "awayWinAccuracy": 0.5556,
        "homeWins": 251,
-       "awayWins": 206
+       "awayWins": 207
       },
       {
        "ageGroup": "U14",
@@ -77868,20 +77908,20 @@
      "byExperience": [
       {
        "bucket": "0–2 Spiele",
-       "n": 1701,
+       "n": 1702,
        "reliable": true,
-       "accuracy": 0.669,
+       "accuracy": 0.6692,
        "accuracyCI": [
-        0.646,
+        0.647,
         0.691
        ],
-       "brier": 0.2084,
-       "logLoss": 0.6001,
+       "brier": 0.2083,
+       "logLoss": 0.6,
        "mae": 24.14,
        "homeWinAccuracy": 0.8436,
-       "awayWinAccuracy": 0.4691,
+       "awayWinAccuracy": 0.4698,
        "homeWins": 908,
-       "awayWins": 793
+       "awayWins": 794
       },
       {
        "bucket": "3–5 Spiele",
@@ -77902,19 +77942,19 @@
       },
       {
        "bucket": "6+ Spiele",
-       "n": 31,
+       "n": 32,
        "reliable": true,
-       "accuracy": 0.7419,
+       "accuracy": 0.75,
        "accuracyCI": [
-        0.568,
-        0.863
+        0.579,
+        0.867
        ],
-       "brier": 0.1791,
-       "logLoss": 0.5501,
-       "mae": 14.19,
-       "homeWinAccuracy": 0.9231,
+       "brier": 0.1741,
+       "logLoss": 0.5375,
+       "mae": 16.29,
+       "homeWinAccuracy": 0.9286,
        "awayWinAccuracy": 0.6111,
-       "homeWins": 13,
+       "homeWins": 14,
        "awayWins": 18
       }
      ],
@@ -91736,6 +91776,18 @@
        "n": 2303,
        "accuracy": 0.6908,
        "brier": 0.1973
+      },
+      {
+       "date": "2026-11-27",
+       "n": 2304,
+       "accuracy": 0.691,
+       "brier": 0.1973
+      },
+      {
+       "date": "2026-11-27",
+       "n": 2305,
+       "accuracy": 0.6911,
+       "brier": 0.1972
       }
      ],
      "scatter": [
@@ -92378,6 +92430,10 @@
       [
        12.9,
        -4
+      ],
+      [
+       12.6,
+       94
       ],
       [
        3,
@@ -100728,6 +100784,10 @@
        -13
       ],
       [
+       -5.7,
+       -30
+      ],
+      [
        3,
        -55
       ],
@@ -100955,40 +101015,40 @@
     },
     "ml": {
      "overall": {
-      "n": 1938,
+      "n": 1940,
       "reliable": true,
-      "accuracy": 0.7018,
+      "accuracy": 0.7015,
       "accuracyCI": [
        0.681,
-       0.722
+       0.721
       ],
       "brier": 0.1909,
       "logLoss": 0.5603,
-      "mae": 22.06,
-      "homeWinAccuracy": 0.7464,
-      "awayWinAccuracy": 0.6504,
-      "homeWins": 1037,
-      "awayWins": 901
+      "mae": 22.09,
+      "homeWinAccuracy": 0.7466,
+      "awayWinAccuracy": 0.6497,
+      "homeWins": 1038,
+      "awayWins": 902
      },
      "calibration": [
       {
        "range": "50–60 %",
-       "n": 511,
+       "n": 512,
        "predicted": 0.551,
-       "observed": 0.538,
+       "observed": 0.537,
        "ci": [
-        0.495,
-        0.581
+        0.494,
+        0.58
        ]
       },
       {
        "range": "60–70 %",
-       "n": 491,
+       "n": 492,
        "predicted": 0.648,
-       "observed": 0.656,
+       "observed": 0.657,
        "ci": [
         0.613,
-        0.696
+        0.697
        ]
       },
       {
@@ -102096,19 +102156,19 @@
       },
       {
        "ligaId": 52532,
-       "n": 36,
+       "n": 37,
        "reliable": true,
-       "accuracy": 0.6667,
+       "accuracy": 0.6757,
        "accuracyCI": [
-        0.503,
-        0.798
+        0.515,
+        0.804
        ],
-       "brier": 0.2081,
-       "logLoss": 0.6195,
-       "mae": 14.19,
-       "homeWinAccuracy": 0.65,
+       "brier": 0.2056,
+       "logLoss": 0.614,
+       "mae": 15.92,
+       "homeWinAccuracy": 0.6667,
        "awayWinAccuracy": 0.6875,
-       "homeWins": 20,
+       "homeWins": 21,
        "awayWins": 16
       },
       {
@@ -103405,20 +103465,20 @@
       },
       {
        "ligaId": 56615,
-       "n": 5,
+       "n": 6,
        "reliable": false,
-       "accuracy": 0.4,
+       "accuracy": 0.3333,
        "accuracyCI": [
-        0.118,
-        0.769
+        0.097,
+        0.7
        ],
-       "brier": 0.2645,
-       "logLoss": 0.7223,
-       "mae": 15.34,
+       "brier": 0.2626,
+       "logLoss": 0.7183,
+       "mae": 17.78,
        "homeWinAccuracy": 1,
-       "awayWinAccuracy": 0.25,
+       "awayWinAccuracy": 0.2,
        "homeWins": 1,
-       "awayWins": 4
+       "awayWins": 5
       },
       {
        "ligaId": 56463,
@@ -103662,19 +103722,19 @@
      "byAgeGroup": [
       {
        "ageGroup": "Senioren",
-       "n": 841,
+       "n": 842,
        "reliable": true,
-       "accuracy": 0.7051,
+       "accuracy": 0.7055,
        "accuracyCI": [
-        0.673,
+        0.674,
         0.735
        ],
-       "brier": 0.1969,
-       "logLoss": 0.5759,
-       "mae": 17,
-       "homeWinAccuracy": 0.7576,
+       "brier": 0.1968,
+       "logLoss": 0.5757,
+       "mae": 17.07,
+       "homeWinAccuracy": 0.7582,
        "awayWinAccuracy": 0.6423,
-       "homeWins": 458,
+       "homeWins": 459,
        "awayWins": 383
       },
       {
@@ -103713,20 +103773,20 @@
       },
       {
        "ageGroup": "U16",
-       "n": 389,
+       "n": 390,
        "reliable": true,
-       "accuracy": 0.6812,
+       "accuracy": 0.6795,
        "accuracyCI": [
-        0.633,
-        0.726
+        0.632,
+        0.724
        ],
-       "brier": 0.1903,
-       "logLoss": 0.5525,
-       "mae": 25.91,
+       "brier": 0.1905,
+       "logLoss": 0.5528,
+       "mae": 25.92,
        "homeWinAccuracy": 0.6822,
-       "awayWinAccuracy": 0.68,
+       "awayWinAccuracy": 0.6761,
        "homeWins": 214,
-       "awayWins": 175
+       "awayWins": 176
       },
       {
        "ageGroup": "U20",
@@ -103749,9 +103809,9 @@
      "byExperience": [
       {
        "bucket": "0–2 Spiele",
-       "n": 1336,
+       "n": 1337,
        "reliable": true,
-       "accuracy": 0.6826,
+       "accuracy": 0.6821,
        "accuracyCI": [
         0.657,
         0.707
@@ -103760,9 +103820,9 @@
        "logLoss": 0.585,
        "mae": 23.71,
        "homeWinAccuracy": 0.7347,
-       "awayWinAccuracy": 0.6252,
+       "awayWinAccuracy": 0.6242,
        "homeWins": 701,
-       "awayWins": 635
+       "awayWins": 636
       },
       {
        "bucket": "3–5 Spiele",
@@ -103783,19 +103843,19 @@
       },
       {
        "bucket": "6+ Spiele",
-       "n": 31,
+       "n": 32,
        "reliable": true,
-       "accuracy": 0.7742,
+       "accuracy": 0.7813,
        "accuracyCI": [
-        0.602,
-        0.886
+        0.612,
+        0.89
        ],
-       "brier": 0.165,
-       "logLoss": 0.5115,
-       "mae": 13.88,
-       "homeWinAccuracy": 0.9231,
+       "brier": 0.1634,
+       "logLoss": 0.5085,
+       "mae": 15.89,
+       "homeWinAccuracy": 0.9286,
        "awayWinAccuracy": 0.6667,
-       "homeWins": 13,
+       "homeWins": 14,
        "awayWins": 18
       }
      ],
@@ -115427,6 +115487,18 @@
        "n": 1938,
        "accuracy": 0.7018,
        "brier": 0.1909
+      },
+      {
+       "date": "2026-11-27",
+       "n": 1939,
+       "accuracy": 0.7014,
+       "brier": 0.191
+      },
+      {
+       "date": "2026-11-27",
+       "n": 1940,
+       "accuracy": 0.7015,
+       "brier": 0.1909
       }
      ],
      "scatter": [
@@ -123181,100 +123253,108 @@
       [
        -21.9,
        -39
+      ],
+      [
+       0,
+       -30
+      ],
+      [
+       15.9,
+       94
       ]
      ]
     }
    },
    "vsBaseline": {
     "elo": {
-     "n": 2303,
+     "n": 2305,
      "diff": -0.003,
      "ci": [
-      -0.0063,
+      -0.0062,
       0.0005
      ]
     },
     "rating": {
-     "n": 2303,
+     "n": 2305,
      "diff": -0.0157,
      "ci": [
-      -0.0204,
-      -0.0108
+      -0.0207,
+      -0.0107
      ]
     },
     "ml": {
-     "n": 1938,
+     "n": 1940,
      "diff": -0.0157,
      "ci": [
       -0.0217,
-      -0.0098
+      -0.0095
      ]
     }
    },
    "sameGamesAsMl": {
     "baseline": {
-     "n": 1938,
+     "n": 1940,
      "reliable": true,
-     "accuracy": 0.6698,
+     "accuracy": 0.6701,
      "accuracyCI": [
       0.649,
-      0.69
+      0.691
      ],
-     "brier": 0.2067,
-     "logLoss": 0.5982,
-     "mae": 23.72,
-     "homeWinAccuracy": 0.7502,
-     "awayWinAccuracy": 0.5771,
-     "homeWins": 1037,
-     "awayWins": 901
+     "brier": 0.2066,
+     "logLoss": 0.598,
+     "mae": 23.75,
+     "homeWinAccuracy": 0.7505,
+     "awayWinAccuracy": 0.5776,
+     "homeWins": 1038,
+     "awayWins": 902
     },
     "elo": {
-     "n": 1938,
+     "n": 1940,
      "reliable": true,
-     "accuracy": 0.6765,
+     "accuracy": 0.6768,
      "accuracyCI": [
-      0.655,
+      0.656,
       0.697
      ],
      "brier": 0.2024,
-     "logLoss": 0.589,
-     "mae": 22.68,
-     "homeWinAccuracy": 0.7811,
-     "awayWinAccuracy": 0.556,
-     "homeWins": 1037,
-     "awayWins": 901
+     "logLoss": 0.5889,
+     "mae": 22.71,
+     "homeWinAccuracy": 0.7813,
+     "awayWinAccuracy": 0.5565,
+     "homeWins": 1038,
+     "awayWins": 902
     },
     "rating": {
-     "n": 1938,
+     "n": 1940,
      "reliable": true,
-     "accuracy": 0.711,
+     "accuracy": 0.7113,
      "accuracyCI": [
-      0.69,
+      0.691,
       0.731
      ],
-     "brier": 0.1885,
-     "logLoss": 0.5535,
-     "mae": 22.11,
-     "homeWinAccuracy": 0.8081,
-     "awayWinAccuracy": 0.5993,
-     "homeWins": 1037,
-     "awayWins": 901
+     "brier": 0.1883,
+     "logLoss": 0.5533,
+     "mae": 22.14,
+     "homeWinAccuracy": 0.8083,
+     "awayWinAccuracy": 0.5998,
+     "homeWins": 1038,
+     "awayWins": 902
     },
     "ml": {
-     "n": 1938,
+     "n": 1940,
      "reliable": true,
-     "accuracy": 0.7018,
+     "accuracy": 0.7015,
      "accuracyCI": [
       0.681,
-      0.722
+      0.721
      ],
      "brier": 0.1909,
      "logLoss": 0.5603,
-     "mae": 22.06,
-     "homeWinAccuracy": 0.7464,
-     "awayWinAccuracy": 0.6504,
-     "homeWins": 1037,
-     "awayWins": 901
+     "mae": 22.09,
+     "homeWinAccuracy": 0.7466,
+     "awayWinAccuracy": 0.6497,
+     "homeWins": 1038,
+     "awayWins": 902
     }
    }
   }
